@@ -62,13 +62,13 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 3.77em; }
+  font-size: 3em; }
 
 .reveal h2 {
-  font-size: 2.11em; }
+  font-size: 2em; }
 
 .reveal h3 {
-  font-size: 1.55em; }
+  font-size: 1.50em; }
 
 .reveal h4 {
   font-size: 1em; }
@@ -297,3 +297,14 @@ body {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
+
+.source {
+    color: ghostwhite;
+    background-color: #E30800;
+    float:right;
+    text-align: right;
+  }
+
+p.source {
+   font-size: 1rem;
+  }
