@@ -17,9 +17,11 @@ Ce semestre, nous allons tenter de défricher les défis auxquels fait face l’
 L'objectif de ce cours est d'interroger les origines, l'ampleur et les conséquences de cette crise sur la production artistique et culturelle contemporaine, afin d'une part de comprendre comment les milieux professionnels culturels peuvent y répondre, mais aussi, d'autre part, de reconnaître le potentiel inhérent à toutes ces mutations.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/ceciTueraCela.png" data-background-size="contain" -->
+
 
 ## Panorama du champ de bataille
+
+![](img/ceciTueraCela.png)
 
 ===
 
@@ -300,6 +302,10 @@ Expresso book machine
 
 POD (print on demand)
 
+De manière générale, l'auteur reprend en charge la fonction éditoriale : c'est le cas avec le principe d'autoproduction / autopublication des textes.
+
+Cela fait écho à une certaine lassitude de nombreux auteurs, qu'ils soient débutants ou même confirmés (et c'est là que c'est très intéressant, car on a une communauté qui renonce au service proposé par l'éditeur), lassitude vis-à-vis des éditeurs, ou plus généralement d'un système éditorial qui a creusé des inégalités, et dans lesquels de nombreux auteurs ne se reconnaissent plus.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
@@ -543,6 +549,50 @@ La fonction de diffusion comporte l'adresse, la distribution et tous les disposi
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
+## Et maintenant ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/livreAccesLibre.png" data-background-size="contain" -->
+
+
+===
+
+Il y aurait beaucoup à dire sur les nouvelles problématiques de la fonction de diffusion. En communication, on étudiera les nouvelles manière de publiciser les oeuvres par le biais des réseaux sociaux -- où on verra que la fonction éditoriale est d'ailleurs de plus en plus assumée par l'auteur lui-même.
+
+Je me concentrerai aujourd'hui sur les enjeux soulevés par les possibilités de diffusion du format numérique, vs format imprimé.
+
+Diffusion numérique : changement de paradigme liée à la nature même de l'objet numérique, qui par définition est un fichier que l'on peut copier sans coût. Un livre imprimé ne peut être dupliqué : vous pouvez le photocopier, mais c'est fastidieux. Ce ne sera pas le même objet, par ailleurs. Il y a encore une idée de la copie unique, même si l'imprimerie fabrique des objets en série. Avec le format numérique il faut bien comprendre que nous avons au contraire le même fichier qui se duplique et se transmet à l'infini ou presque, très facilement.
+
+Cette situation engendre une remise en question profonde de ce qu'est le livre en tant que produit culturel.  Avec des problématiques des variées.
+
+
+Bcp d'oeuvres dans le domaine public font par exemple l'objet d'une diffusion en libre accès -- sans coût d'achat (mais avec évidemment des coûts de production). Les modèles économique du libre accès sont encore à trouver.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DRM.png" data-background-size="contain" -->
+
+
+===
+
+Sur la plateforme ebookgratuits.com, on retrouve par exemple un appel aux dons, et ce logo qui aura peut-être retenu votre attention "lecteurs contre les DRM".
+
+DRM = digital rights management.
+
+Les DRM renvoient aux dispositifs pouvant s'appliquer à tous types de supports numériques physiques (disques, DVD, PDF, logiciels…) ou de transmission (télédiffusion, services Internet…) grâce à un système d'accès conditionnel.
+
+* Ces dispositifs techniques ou logiciels peuvent viser à :
+
+- restreindre la lecture du support à une zone géographique prévue (par exemple les zones des DVD, mais aussi certaines émissions de TV en streaming lorsque vous êtes à l'étranger) ;
+- restreindre la lecture du support à du matériel spécifique (par exemple les versions smartphone ou tablette : Apple est passé maître là-dedans, avec des ebook que l'on ne peut lire que sur Ipad) ;
+- restreindre la lecture du support à un constructeur ou vendeur (afin de bloquer la concurrence : c'est le cas du Kindle d'Amazon) ;
+- restreindre ou empêcher la copie privée du support (transfert vers un appareil externe - idem pour Kindle) ;
+- restreindre ou verrouiller certaines fonctions de lecture du support (désactivation de l'avance rapide sur certains passages d'un DVD). Très utile pour obliger l'exposition aux annonces publicitaires ;
+- identifier et tatouer numériquement toute œuvre et tout équipement de lecture ou enregistrement (pour faciliter le pistage des copies non autorisées, mais surtout empêcher la personnalisation et donc le contrôle d'une technologie, par exemple empêcher l'installation d'un autre système d'exploitation sur un ordinateur).
+
+Chez certains vendeurs, comme Amazon et son système Kindle, nous ne sommes donc pas propriétaire d'un objet, de l'objet-livre. Nous avons payé un accès. Impossible de prêter le livre, par exemple. Et difficile de le lire hors de l'application dédiée.
+
+Je m'arrête là temporairement, mais je résume : dans le cas des publications en libre accès, la fonction éditoriale se trouve donc grandement transformée, et surtout de plus en plus floue. Les nouvelles possibilités, offertes par le web, rendent les frontières de la fonction éditoriale floues: la désintermédiation ainsi que le déplacement et l'éclatement de ces fonctions font qu’aujourd’hui, une reconstruction de ces procédés est à faire. Le glissement de ces fonctions s’est fait des éditeurs vers les auteurs et les lecteurs.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## La fonction de validation / légitimation
@@ -575,24 +625,55 @@ sera de forme différente : la signature de la maison d'édition nous donnera de
 indices sur le type de littérature dont il s'agit et sur la qualité littéraire que l’on peut
 attendre.
 
-
-
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Sur quels critères la fonction de légitimation est-elle fondée ?
+* Des critères quantifiables (travail éditorial, prix littéraires, ancienneté...)
+* Des critères intangibles (imaginaire collectif et individuel, publicité, etc.)
 
 ===
 
-Qu’on en commun ces quatre auteurs ?
-1869: Les Chants de Maldoror Lautréamont. Isidore Ducasse = « Comte de Lautréamont », a été imprimée à compte d'auteur en Belgique en août 1869, par l'éditeur Albert Lacroix. Celui-ci, qui n'y a pas apposé sa marque, refuse de mettre l'ouvrage en vente, par crainte de poursuites judiciaires, et aussi parce que son auteur n'a pas entièrement payé le tirage (soit 1 200 francs). Les Chants de Maldoror ne seront jamais diffusés du vivant de l'auteur. En 1874, le stock des exemplaires de l'édition originale des Chants est racheté par le libraire-éditeur tarbais J.-B. Rozez, installé en Belgique et mis en vente sous une nouvelle couverture.
-1873: Une saison en enfer de Rimbaud. Publié à compte d’auteur. L’œuvre littéraire d’Arthur Rimbaud nous est parvenue dans sa majeure partie à l’état manuscrit. Une saison en enfer, seul livre imprimé, mais par la volonté même du poète en 1873. C’est donc un ouvrage très important pour les littéraires, car c’est le seul à « former un tout ». Les autres recueils - Illuminations, Le Bateau ivre, sont en fait publiés seulement partiellement du vivant de l’auteur, puis republié dans des versions + ou - intégrales de façon posthume. En gros, c’est le seul ouvrage dont on sait plus ou moins que Rimbaud le voulait tel quel - et encore.
-1912 :  Marcel Proust dépose le manuscrit de Du côté de chez Swann à la NRF, maison fondée un an plus tôt par Gaston Gallimard. André Gide le consulte, le trouve nul, le renvoie à l’auteur. Proust se publie à compte d’auteur chez Grasset - c’est-à-dire qu’il a un éditeur sans en avoir, puisqu’il paie lui-même tout le travail d’édition. Gaston Gallimard se rendra vite compte de sa « bourde » et republiera par la suite Du côté de chez Swann après s’être confondu en excuses… il publiera l’ensemble de La Recherche du temps perdu.
-2009: Fifty Shades of GreyE.L. James a d’abord publié son roman sur un site de fanfiction = ces sites où des lecteurs s’amusent à écrire ou réécrire des suites, des ellipses de leurs romans préférés. Fifty Shades of Grey est ainsi une réécriture de Twilight, de Stephanie Meyers. Lorsque son histoire a commencé à connaître un grand succès en ligne, l’auteure l’a déposé chez un éditeur et a fait en sorte d’effacer les traces de son travail sur le web. On connaît la suite…
+
+La fonction de légitimation est passionnante, car elle si elle a beau s'appuyer sur des critères qui se veulent objectifs (par exemple, une lecture en double aveugle, un travail de révision du texte, des prix littéraires, etc.), elle fait finalement appel, fondamentalement, à un imaginaire à la fois collectif et individuel, à des critères finalement très subjectifs et qui, s'ils ont été vrais à un moment donné, peinent parfois à se confirmer dans le temps.
+
+Qu'est-ce qui fait qu'une maison comme Les Éditions de Minuit est plus prestigieuse que les éditions de ta mère ? Il y aura bien sûr une histoire attachée à une maison, son ancienneté, ses auteurs, le nombre de prix reçus. Mais la valeur d'une maison, et de ses publication, n'est pas si aisément quantifiable.
+
+Sans compter que, désormais, certaines publications sont prises dans un écosystème médiatique : effets de buzz ou bad-buzz, célébrités, sont à l'origine de succès d'édition qui ne s'expliquent pas autrement que par la célébrité médiatique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/encreDA.jpg" data-background-size="contain" -->
 
 
 ===
+
+Dans l'histoire : le privilège du  Roy
+Fonction d'Autorisation au sens premier du terme : donner le droit de publication.
+
+Après l’invention de Gutemberg, l’imprimerie est métier neuf, qui ne s’intégra pas d’emblée dans un cadre préétabli, mais qui entre en liaison avec les anciens métiers du livre :
+    • copistes (on disait alors écrivains),
+    • enlumineurs,
+    • libraires
+qui passèrent tous progressivement de la fabrication et du trafic des manuscrits au commerce du livre imprimé.
+L'imprimerie à sa naissance se caractérise par l'alliance des humanistes et des hommes d'affaires. Les imprimeurs du xve siècle ne sont plus simplement des « publieurs », mais des proto-éditeurs, qui prennent la responsabilité de la production et la diffusion des textes en marge d’une activité artisanale ou marchande bien plus rémunératrice : l’imprimerie ou la librairie. C’est-à-dire que, finalement, l’édition est une activité connexe, un peu obligée en marge de l’activité rémunératrice qui consiste à imprimer des livres et les vendre.
+On ne peut pas vivre de l’édition : on vit de l’imprimerie ou, à la rigueur, de la vente (pour les libraires - quoique, dans la plupart des villes de province, le libraire est aussi le papetier voire le mercier, qui consacre une partie de sa boutique aux livres).
+C’était par ailleurs une logique économique de la demande : on lançait des souscriptions avant de lancer le processus de production d’un livre (le livre était déjà vendu avant son impression).
+Au début, la distinction n’était pas nette entre imprimeurs et libraires. Si certains libraires faisaient travailler pour eux des imprimeurs, les imprimeurs vendaient eux-mêmes les livres qu’ils fabriquaient et, en échange de ceux qu’ils livraient à leurs collègues, ils recevaient souvent, non pas de l’argent, mais d’autres livres qu’ils écoulaient dans leur boutique.
+Bref, pas de distinction très nette entre tous ces corps de métier, ce qui a vite conduit, à la fin du premier siècle de l’imprimerie, à une situation anarchique :
+Contrefaçon Quand un éditeur publiait un ouvrage, rien n’empêchait ses collègues de faire réimprimer le même texte s’ils l’estimaient d’un débit assuré. C’est ce que l’on appelle la contrefaçon. Ce procédé paralysait les initiatives ; les éditions que les imprimeurs réalisaient s’écoulaient mal, car elles étaient contrefaites par des confrères qui pouvaient vendre meilleur marché, n’ayant pas eu à supporter les frais de la préparation des éditions et de la correction des textes. Aussi les éditeurs qui entreprenaient une publication furent-ils amenés à solliciter les Pouvoirs publics pour arbitrer les querelles entre les imprimeurs-libraires. Principale revendication : interdire à qui que ce soit de publier le même ouvrage pendant un laps de temps déterminé.
+Donc, En tant que denrée commerciale, le livre imprimé fut vite soumis à la concurrence, et le manque d’institutionnalisation du métier poussa les pouvoirs publics (comprendre : la monarchie) à enfermer le livre dans un système des privilèges pour se prémunir de la contrefaçon.
+Système des privilèges S'érigeant en arbitre au milieu des querelles entre corporations d’imprimeurs, corporations de libraires, qui s’affrontent autour des confrontations, l’État impose, en France, pour toute publication nouvelle, le système du privilège : = la permission d'imprimer est accordée à la suite de l'examen d'un texte par le censeur est assortie d'un monopole concédé pour une durée dépendant du bon vouloir du chancelier.
+Censure Cette situation a une conséquence très forte en termes de censure : les libraires et imprimeurs n'avaient plus, en pareil climat, qu'à montrer patte blanche, d'autant plus que l'État était encore à la fois un fournisseur de textes et un client non négligeable depuis qu'il avait pris l'habitude de faire imprimer et diffuser les décisions officielles (système des imprimeurs du Roi). Tous les textes étaient systématiquement relus par l’état qui épurait les passages jugés « problématiques »…
+Ainsi, de la protection commerciale au contrôle des idées, toute une législation complexe entrava l’édition pour trois siècles.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/lindonMinuit.png" data-background-size="contain" -->
+
+
+===
+
+Une chose est sûre, s'il y a bien une fonction éditoriale qui reste encore prégnante aujourd'hui, alors même que le rôle des éditeurs est souvent remis en question, c'est la fonction de légitimation.
+
+C'est elle notamment qui va façonner l'auteur, le faire passer d'un statut d'écrivain à auteur. Le professionnaliser, en quelque sorte. La fonction de légitimation renvoie à une reconnaissance symbolique des auteurs, qui demeure aujourd'hui très importante, alors même que la reconnaissance économique fait largement défaut, et créée des dissensions entre éditeurs et écrivains (pour rappel, un auteur touche environ 10% du prix du livre).
 
 >Cette fonction a une importance sociale et politique fondamentale : c'est le dispositif
 grâce auquel nous distinguons des formes d'autorité qui nous permettent de nous
@@ -600,6 +681,77 @@ repérer dans les contenus, de choisir quel type de matériel nous voulons lire,
 savoir à quel point nous pouvons lui accorder notre confiance. La fonction de
 légitimation sert donc à établir une différence entre les contenus et à disposer
 d’indices clairs sur leur valeur et finalement sur leur sens.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Proust_ELjames.png" data-background-size="contain" -->
+
+===
+
+Qu’on en commun Marcel Proust et E.L. James ?
+
+Aucun éditeur n'a voulu d'eux !
+
+Des histoires tout de même assez différentes : l'un s'est publié à compte d'auteur (donc avec le label édito), l'autre s'est auto-publié, avant d'être éditée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/proust.png" data-background-size="contain" -->
+
+===
+
+
+
+1912 :  Marcel Proust dépose le manuscrit de Du côté de chez Swann à la NRF, maison fondée un an plus tôt par Gaston Gallimard. André Gide le consulte, le trouve nul, le renvoie à l’auteur. Proust se publie à compte d’auteur chez Grasset - c’est-à-dire qu’il a un éditeur sans en avoir, puisqu’il paie lui-même tout le travail d’édition. Gaston Gallimard se rendra vite compte de sa « bourde » et republiera par la suite Du côté de chez Swann après s’être confondu en excuses… il publiera l’ensemble de La Recherche du temps perdu.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/keepCalmAndWriteFanfiction.png" data-background-size="contain" -->
+
+===
+
+
+2009: Fifty Shades of Grey E.L. James a d’abord publié son roman sur un site de fanfiction = ces sites où des lecteurs s’amusent à écrire ou réécrire des suites, des ellipses de leurs romans préférés. Fifty Shades of Grey est ainsi une réécriture de Twilight, de Stephanie Meyers. Lorsque son histoire a commencé à connaître un grand succès en ligne, l’auteure l’a déposé chez un éditeur et a fait en sorte d’effacer les traces de son travail sur le web. On connaît la suite…
+
+Avec après de nombreux pb vis-à-vis de la communauté...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Publication, édition, autoédition, à compte d'auteur...
+Des modalités de publication qui suggèrent différents niveaux de valeur.
+
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## En résumé...
+
+La fonction de légitimation renvoie aux dispositifs d'autorité qui permettent au public de se repérer dans les contenus, de choisir les textes et d'évaluer leur fiabilité. Si elle est supposée laisser des indices clairs sur leur valeur et finalement sur leur sens, on voit que la fonction de légitimation s'appuie sur un imaginaire collectif et individuel très fort.
+
+## Et maintenant ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/babelio.png" data-background-size="contain" -->
+
+
+===
+
+Bcp de choses à dire, mais on se concentrera sur les conséquences d'un phénomène d'horizontalisation de l'autorité, qui confère de plus en plus de pouvoir à la communauté des lecteurs.
+
+Exemple : la critique littéraire, qui se voit concurrencée par des phénomènes plus populaire, avec l'émergence de plateformes d'évaluation directement adressée au public, comme babélio.
+
+Lecteur érudit vs lecteur réel.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/booktubing.png" data-background-size="contain" -->
+
+===
+Émergence de figures intermédiaires : des amateurs-professionnels, les influenceurs que l'on peut trouver sur Youtube, par exemple, ou TikTok.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/twitterLecteur.png" data-background-size="contain" -->
+
+===
+
+Système de recommandation qui a évolué : les lecteurs se parlent entre eux, grâce à l'émergence de forum, puis surtout des réseaux sociaux.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
