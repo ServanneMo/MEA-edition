@@ -50,35 +50,57 @@ C'était Irène Lindon, la fille de Jérôme Lindon (lui-même resté à la têt
 
 L'indépendance, c'est un peu ce que tout le monde espère, et cela fatigue les auteurs.
 
+>Coup sur coup, plusieurs personnalités ou auteurs de best-sellers succombent aux sirènes de l’autoédition ou de l’autopublication. Ils se passent des services d’une maison d’édition pour fonder la leur, ou parient – volontairement, ou bien contraints et forcés – sur une indépendance éditoriale. Coïncidence fortuite ? En tout cas, l’arrivée de telles signatures, synonymes de centaines de milliers de ventes, bouleverse la donne et devrait inciter les maisons d’édition à se repenser.
+
+L'an passé, Kylian Mbappé, Riad Sattouf (Le Jeune Acteur 1), Joël Dicker ou Eric Zemmour se sont auto-édités, en créant généralement leur propre label pour publier leur texte.
+
+Une volonté  d'indépendance qui s'explique par de nombreux facteurs, mais qui traduisent un sentiment de plus en plus partagé par la communauté des écrivains.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/SophieDeClosets.png" data-background-size="contain" -->
 
 
 ===
 
+Les éditeurs ne sont pas pour autant les grands méchants loups de l'histoire...
+
+Le 24 mai, Sophie de Closets, présidente-directrice générale des éditions Fayard, quitte son poste après avoir subit notamment des pressions de la part d'H politiques dont Sarkozy, après la publication de Gérard Davet et Fabrice Lhomme, surl l'affaire Fillon.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/AuteursDepart.png" data-background-size="contain" -->
 
 ===
 
+Signe que cette volonté d'indépendance est forte, le départ de Sophie DC a entraîné celui de tout un ensemble d'écrivains.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ligue.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/ligueDesAuteursPro.png" data-background-size="contain" -->
 
 ===
 
+>La Ligue des auteurs professionnels est une association loi de 1901 créée en 2018 avec un double objectif, de réflexion sur le métier d'une part et de propositions de solutions concrètes pour la protection et l'avenir de celui-ci d'autre part, afin de créer le statut de l'auteur professionnel. Parmi ses membres fondateurs, on compte la Charte des auteurs et des illustrateurs jeunesse, les États Généraux de la Bande Dessinée et le SNAC BD. De 2018 à 2021, la présidente était Samantha Bailly.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/expansionNumerique.png" data-background-size="contain" -->
 
 ===
 
+Pdt ce temps, le livre numérique gagne du terrain...
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/amazon.png" data-background-size="contain" -->
+
+===
+
+Avec des inquiétudes légitimes.
+Concurrence pour les éditeurs, fausse indépendance pour les écrivains, qui croient trouver une alternative finalement loin d'être parfaite.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Noury-numerique-stupide.png" data-background-size="contain" -->
 
+===
+
+En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de décridibilisation du numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/hachette.png" data-background-size="contain" -->
