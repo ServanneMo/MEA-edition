@@ -21,7 +21,7 @@ L'objectif de ce cours est d'interroger les origines, l'ampleur et les conséque
 
 ## Panorama du champ de bataille
 
-![](img/ceciTueraCela.png)
+![](img/ceciTueraCela.png)<!-- .element: style="width:400px" -->
 
 ===
 
