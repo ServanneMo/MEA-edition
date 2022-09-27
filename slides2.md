@@ -564,6 +564,8 @@ Pour bien comprendre le problème, posons-nous la question : qu'Est-ce que l'éc
 - interface CMS (back office)
 - interface usager / lecteur
 
+<!-- .element: style="font-size:1.6rem" -->
+
 ===
 
 Qui assume l'énonciation éditoriale ?
@@ -579,6 +581,8 @@ Tout cela témoigne d'une redistribution de l'énonciation éditoriale
 * Écriture descriptive : ceci est un titre, une citation, une référence...
 * Un repérage indispensable en contexte numérique (vers des analyses quantitatives)
 * Une valeur ajoutée au texte : des bibliothèques qui deviennent des bases de données
+
+<!-- .element: style="font-size:1.6rem" -->
 
 ===
 
@@ -680,6 +684,11 @@ Maîtriser cette culture numérique, avec son système de valeurs qui repose sur
 
 L’enjeu n’est d’ailleurs pas seulement symbolique, il est aussi politique, à l’heure où les GAFAM semblent imposer un nouveau monopole éditorial, fondé sur des outils et des plateformes qui « mâchent » grandement le travail de conception informatique.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/spip2.png"  data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/spip1.png"  data-background-size="contain"-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/wattpad.png"  data-background-size="contain"-->
