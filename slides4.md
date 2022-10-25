@@ -42,7 +42,9 @@ Le désordre sans cesse se reconstruit, se réagence et s'augmente.
 
 Cette dimension processuelle, instable, des objets numériques (si vous y pensez, n'importe quel site porte cette instabilité, à commencer par votre journal quotidien, ou encore votre réseau social préféré), porte un nom : on l'appelle l'éditorialisation.
 
-Ce cours est dédié à ce concept clé de la culture et de la création numérique, puisque cela ne vous aura pas échappé : dans éditorialisation, nous retrouvons un peu le terme édition, pourtant quelque peu modifié.
+Ce cours est dédié à ce concept clé de la culture et de la création numérique, puisque cela ne vous aura pas échappé : dans éditorialisation, nous retrouvons un peu le terme édition, pourtant quelque peu modifié. On va voir en particulier ce que le concept d'éditorialisation fait à un autre concept essentiel en littérature : celui d'oeuvre.
+
+Oeuvre = terme un peu sacralisant, qui porte en lui-même la fonction de légitimation propre à la fonction éditoriale. Idée de stabilité : l'oeuvre, c'est ce qui est intouchable. Ce qui a perduré dans le temps. Dématérialisation / abstraction totale.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -517,7 +519,7 @@ Texte important : Après le livre de F. Bon. Paru en 2011
 
 >Nous sommes déjà après le livre.
 
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
@@ -550,6 +552,8 @@ Réflexion préliminaire : la question de la stabilité et de la clôture...
 - Édition de _Les Épaves_ par Poulet-Malassis (1866)
 - 4e Édition avec 151 poèmes (1868)
 - 1949 : première "édition complète" autorisée
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 ===
 
