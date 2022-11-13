@@ -1,4 +1,4 @@
-# séance 5 ou 6 : écriture hors-livre ou auto-édition ?
+# Nouveaux régimes de publication et écritures hors-livre
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -364,3 +364,96 @@ Les pratiques « non littéraires » seraient-elles l’avenir de la littérat
 On retournera aussitôt la question : que nous dit la littérature des écritures numériques ? Ou plus spécifiquement : que nous dit la gittérature de cette forme d’écriture numérique qu’est l’éditorialisation ? Le texte gittéraire, c’est-à-dire fondamentalement un texte travaillé collectivement dans un format plein texte, est régi par le registre et la forge (soit les principes d’enregistrement et de fusion).
 
 L'éditorialisation, ici, se matérialise dans les couches applicatives de la plateforme Gitlab et dans la façon dont les fragments de textes et les traces d’activités sont agencés pour susciter le partage, la collaboration et l’élan collectif vers une création. C’est là que se joue la gittérature, et par conséquent l’éditorialisation : autour du texte davantage que sur le texte lui-même. Cette distinction n’est pas un hasard, tant la pile1 technique, applicative et éditoriale produisent ensemble un milieu d’écriture, dont les caractéristiques sont justement d’être performatifs, processuels, conversationnels. Le texte finalement n’est peut-être qu’un terrain de jeu, un prétexte pour faire advenir le collectif2 et la circulation des idées, pour raviner des interstices de sens où peuvent se nicher la création et l’interprétation.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/publi.png" data-background-size="contain" -->
+
+## Vers des modèles alternatifs : le cas publie.net
+
+
+===
+Depuis sa création en 2008 par François Bon, publie.net occupe une place à part dans le paysage éditorial francophone. À l’origine une plateforme d’édition numérique en ligne lancée et portée par l’écrivain François Bon, c’est une coopérative d’auteurs dédiée à la littérature numérique, où chacun peut participer au processus d’édition.
+http://www.dailymotion.com/video/xewz6t_francois-bon-a-propos-de-publie-net_creation
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/publie2.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Une librairie
+Depuis 2008, publie.net, est :
+  * un ouvrage numérique pour le prix d’un poche
+  * l’un des premiers abonnements à une importante offre numérique, dont une majorité d’inédits
+  * la garantie d’un ouvrage numérique sans DRM (verrouillage)
+  * et depuis 2012, une offre papier incluant la version numérique, sans surcoût 
+
+
+===
+Un portail de mise en vente, un large catalogue mêlant littérature contemporaine, compte-rendu d’expériences d’écriture web, ateliers de création et laboratoires exploratoires de nouveaux modes d’écritures, la possibilité de s’abonner, une politique tarifaire volontaire et une juste rétribution des auteurs, autant de chantiers qui ont façonné le paysage éditorial numérique tel que nous le connaissons aujourd’hui.
+
+Le modèle économique est déficitaire, autant le dire.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/publie2.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Vers un modèle 50-50 : une revalorisation du travail de l'auteur
+* Modèle imprimé [une norme à 10%] = coûts fixes (correction, relecture et mise en page des ouvrages) + coûts variables de l’impression, de la distribution et de la diffusion (évoluent selon le nombre d’exemplaires) + marge libraires
+* Modèle numérique = coût fixes (révision, mise en page numérique) + marge diffuseur / libraire (L'Immatériel, Amazon...)
+
+===
+
+François Bon a donc fait le choix pour publie.net de reverser 50 % des recettes d’une œuvre à son auteur, comme le pratiquent les galeries d’art.
+
+Tandis que la norme dans l’édition papier se situe entre 9 % et 12 % du prix de vente (pour les auteurs les plus vendus), une norme que certains éditeurs appliquent à l’identique au numérique.
+
+La faible marge dont bénéficie l’auteur d’un livre papier s’explique par plusieurs facteurs : d’une part, la (plus ou moins grande) prise de risque de l’éditeur, qui fait confiance à l’auteur et paye les frais de fabrication des livres sans être assuré que ceux-ci se vendront ; d’autre part, ces frais eux-mêmes, comprenant les coûts fixes (correction, relecture et mise en page des ouvrages) et les coûts variables de l’impression, de la distribution et de la diffusion, qui évoluent selon le nombre d’exemplaires choisi. Les libraires touchent également une marge lors de la vente.
+
+Dans le cadre de la publication d’un livre numérique, ce sont les coûts fixes, donc l’investissement de départ, qui seront les plus importants, qui consistent à payer les metteurs en page numériques, qui assureront le codage du fichier et son affichage lisible sur toutes les liseuses.
+
+Il reste ensuite la marge accordée au diffuseur (L’Immatériel pour publie.net) ou au libraire (Amazon, Apple, Epagine...), et le reste revient à publie.net tandis que l’auteur touche la moitié de la somme déboursée par le lecteur.
+
+Le prix réel d’un livre numérique n’est jamais stable, il peut évoluer au fur et à mesure des mises à jour du code d’un livre. Le choix de rémunérer à moitié l’auteur est alors, en dehors d’une baisse des coûts globaux de fabrication d’un livre, l’expression d’une reconsidération de l’auteur.
+
+L’auteur se trouve dans une situation plus valorisante et cohérente, où le lecteur le paye conséquemment pour l’œuvre qu’il va lire, et son rapport avec l’éditeur ne se construit plus dans une logique de domination, mais dans un rapport d’égalité, il reçoit une part plus juste.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/ejfyn1sxkaa9ia2.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Une communauté littéraire
+* Édition de "petits textes" : brouillons, projets, textes ne répondant pas aux normes éditoriales classiques
+* Un lieu de rassemblement pour une communauté d'écrivains en ligne
+
+===
+
+À la base, publie.net n’était pas là pour concurrencer les maisons D’édition papier « classiques », mais pour mettre en valeur ce qui ne pouvait pas être publié, pour diverses raisons : petits textes, brouillons, projets. Textes ne répondant pas aux normes édito classiques.
+
+Communauté d’écrivains : ces communautés sont nées sur le web - avec les blogues, forums, et surtout les réseaux sociaux. Le réseau existant avant la maison d’édition, qui est venu offrir une structure commune, une forme institutionnelle pour tout un groupe qui était disséminé (chacun son blogue, etc.). C’est un peu un lieu de rassemblement.
+les membres de publie.net fonctionnent par et en un réseau dans le réseau. L’ensemble de ses partenaires, qu’ils soient complices ou inévitables, et de ses rivaux, idéologiques ou commerciaux, dessine un paysage éditorial du livre numérique où publie.net se positionne et se détache clairement.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/blogpublie.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Un espace de littérature
+* Un espace de contenus, d'archivage
+* Des textes littéraires
+* Des entretiens
+* Des critiques...
+
+===
+
+Tout à la fois vitrine et lieu de ventes, le site de publie.net est un espace particulièrement important qui porte l’image de la coopérative et dont l’apparence devrait entrer en écho avec ce qu’elle souhaite incarner.
+Le site web de la maison d’édition est un espace de contenus, d’archivage ainsi qu’une surface qui est le présentoir de ces documents, documents qui peuvent être multiples ; images, textes courts, liens hypertextes, logos, zones dédiées à l’écriture de l’internaute comme peuvent l’être les commentaires ou simplement l’endroit où l’on tape sa recherche.
+Vous avez donc des textes littéraires sur ce site.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/fbpublie.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+
+### Vers de nouveaux salons ?
+* Des expériences d'écriture collective : vases communicants, co-écriture, résidences numériques (production)
+* Des réseaux d'écrivains (circulation)
+* Des dynamiques de recommandation interne (légitimation)
