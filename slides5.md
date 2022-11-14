@@ -27,8 +27,7 @@ Mais peut-être faut-il commencer par expliciter ce concept. Car, justement, je 
 - la "dés-autorisation" : rappel de ce qu'est le droit d'auteur aujourd'hui  = un statut juridique et administratif, arrimé à une série de conditions institutionnelles
 - Autopublication, autoédition : de quoi parle-t-on ?
 - l'utopie de la désintermédiation : disparition d'intermédiaires, nouveaux intermédiaires
-- Houellebecq vs Wikipédia : deux modèles d'autorité en question
-- Incursion sur Tik-Tok : le cas FB
+- le problème de fond : la relation de plus en plus tendue entre auteurs et éditeurs
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -243,20 +242,29 @@ Des plateformes dédiées, de type wattpad... Et là, on voit déjà une progres
 
 ===
 
-Des services de production de livre électroniques.
+Des services de production de livre électroniques, comme le Kindle direct publishing (j'en dirai un mot tout à l'heure).
 
-La plus célèbre d’entre elles est, évidemment, Amazon Kindle Direct Publishing (KDP). A l’origine, il s’agit d’un service proposé aux auteurs pour augmenter rapidement le nombre de livres numériques disponible au format Kindle. En quelques années, KDP s’est imposé par sa simplicité d’utilisation (vous téléchargez vos fichiers de couverture et de contenu) et sa puissance de vente : 60 % des ebooks seraient en effet vendus par Amazon.
+Sylvie Bosser :
+>S’il n’est évidemment pas question ici de recenser la totalité des acteurs qui ont investi cette
+modalité de publication, il semble toutefois pertinent de dégager deux tendances majeures.
+D’une part, des acteurs importants du Web qui se positionnent sur les rangs de bataille en
+termes de captation des ressources, à savoir principalement Kobo Writing Life (Fnac),
+iBooks Authors (Apple). De moindre envergure en termes de rôle joué sur le net, Je publie
+mon livre8 initié par Chapitre.com ou encore par exemple lulu.com9 se situent sur le même
+registre que les précédents qui, à l’instar de KDP, ne demandent aucune contribution
+financière à l’auteur. Nous avons, d’autre part, des services d’autoédition numérique tels que
+librinova10 qui proposent, quant à eux, contre rémunération, un accompagnement de l’auteur
+sous la forme de prestations professionnelles tout en permettant également une
+commercialisation de l’ouvrage sur plus de 90 librairies en ligne.
 
-Il en existe d’autres telles que iBooks Author (Apple), Tolino Publishing, Kobo Writing Life (Kobo/Sony) ou Google Play Books.
+Des succès : Agnès Martin-Lugand *Les gens heureux lisent et boivent du café* (adpatation ciné)
 
-La publication est gratuite et l’auteur perçoit une redevance (royalties) dont le pourcentage varie mais qui peut aller jusqu’à 70% du prix de vente.
-
-Ces plateformes ne proposent pas de services éditoriaux. C’est pourquoi on y trouve le pire comme le meilleur, des ouvrages d’une grande utilité comme des essais de quelques pages bourrés de fautes d’orthographe.
+L'auto-publication = une solution pour les primo-auteurs. D'où la valorisation et la médiatisation de success-story
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Auto-édition
-L’autoédition renvoie à un modèle d'auto-publication qui se veut qualitatif, et qui s'inscrit encore dans un modèle éditorial traditionnel, où l'objet livre demeure un produit essentiel. L'auto-édition aura par ailleurs souvent une vocation marchande.
+L’autoédition (souvent employé comme un synonyme d'autopublication) renvoie à un modèle d'auto-publication qui se veut qualitatif, et qui s'inscrit encore dans un modèle éditorial traditionnel, où l'objet livre demeure un produit essentiel. L'auto-édition aura par ailleurs souvent une vocation marchande.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/FBediteur2.png" data-background-size="contain" -->
@@ -287,7 +295,7 @@ Et le cas d'un livre-objet comme Pierre Ménard et son *Esprit d'escalier*
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
->"Alors que l'on définit la publication comme un processus de mise en forme d’un contenu préalablement sélectionné (collecté, agrégé, synthétisé…), en vue de sa diffusion collective, pour l’autopublication, il faut ajouter : “sans intermédiaire”. C'est effectivement cette notion de désintermédiation qui est en jeu. Le producteur de documents est aussi le diffuseur. Une autre notion essentielle concerne la sélection/validation. Elle permet de réaliser la distinction entre publication et édition. L'autopublication dans ce cadre associe la production à la diffusion directe reléguant la sélection à l'édition, à un tiers. La désintermédiation s'accompagne parfois d'une réintermédiation souvent fondée sur un service non-marchand."
+>"Alors que l'on définit la publication comme un processus de mise en forme d’un contenu préalablement sélectionné (collecté, agrégé, synthétisé…), en vue de sa diffusion collective, pour l’autopublication, il faut ajouter : “sans intermédiaire”. C'est effectivement cette notion de désintermédiation qui est en jeu. Le producteur de documents est aussi le diffuseur. Une autre notion essentielle concerne la sélection/validation. Elle permet de réaliser la distinction entre publication et édition. L'autopublication dans ce cadre associe la production à la diffusion directe reléguant la sélection à l'édition, à un tiers. <font color = red>La désintermédiation s'accompagne parfois d'une réintermédiation souvent fondée sur un service non-marchand.</font>"
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -295,20 +303,30 @@ Et le cas d'un livre-objet comme Pierre Ménard et son *Esprit d'escalier*
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+===
+
+Le concept sur lequel je voudrais à présent proposer quelques définitions = désintermédiation, dont on a eu l'occasion de parler à plusieurs reprises, sans pour autant creuser la définition et les implications.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## L'utopie de la désintermédiation
+* La disparition d'intermédiaires historiques...
+* ... sitôt remplacés par de nouveaux acteurs (géants du web, GAFAM... avec des modèles économiques et culturels différents)
 
 ===
 
-Ce que cette question travaille, c'est d'abord une tension entre l'utopie, propre à l'économie numérique, d'une désintermédiation, et la réalité d'une ré-intermédiation qui ne dit pas toujours son nom.
+Ce que les débats sur l'autorité contemporaine travaillent, c'est d'abord une tension entre l'utopie, propre à l'économie numérique, d'une désintermédiation, et la réalité d'une ré-intermédiation qui ne dit pas toujours son nom.
 
+La désintermédiation, c'est quoi ?
 La désintermédiation est d'abord un concept économique, qui a connu une fortune dès les années 60 avec le développement de techniques numériques qui rendaient obsolètes certaines activités ou tâches traditionnellement accomplies par des individus au sein de services qualifiés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Qu'entend-t-on par désintermédiation ?
+### Qu'entend-t-on par désintermédiation ?  
+
 Processus établissant une relation directe entre une entité (industrielle, culturelle, institutionnelle) et ses usagers, entraînant la disparition de certains services traditionnellement chargés d'assurer des services de transmission, diffusion, médiation, etc. (les "intermédiaires").
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
@@ -320,7 +338,7 @@ La désintermédiation peut être perçue et interprétée de manière très pos
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* La désintermédiation : un facteur de la redistribution de l'autorité, en direction du public
+* La désintermédiation : un facteur de la redistribution de l'autorité, en direction des premiers producteurs et du public
 
 ===
 
@@ -331,27 +349,32 @@ La désintermédiation renvoie en effet à la disparition de certains intermédi
 On a pu le voir à travers plusieurs exemples, dans ce cours comme dans le cours de communication.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain" -->
 
 ===
 
 C'est F. BOn qui est passé de l'Éditeur (Minuit) à des Plateformes autoédition (ou sites persos)
 
+F. Bon "débarassé" de l'éditeur : relation conflictuelle à ses éditeurs. Possibilité de by-passer les refus
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/MasquePlumeBabelio.png" data-background-size="contain" -->
 
 ===
 
-C'est la critique, qui est passée de secteurs spécialisés, experts, à des réseaux amateurs
+Côté pouvoir au public = C'est la critique, qui est passée de secteurs spécialisés, experts, à des réseaux amateurs
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/babelioaccueil.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mediaCitoyen.png" data-background-size="contain" -->
 
 ===
 Pour sortir du seul domaine de l'édition, c'est par exemple la prise en main de la circulation voire de la production de l'information par les journalistes-citoyens.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/tuches5.png" data-background-size="contain" -->
 
 
 ===
@@ -377,7 +400,7 @@ La désintermédiation a souvent été mal vécue par des individus dont le mét
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/resnais.png" data-background-size="contain" -->
 
 ===
 
@@ -386,13 +409,17 @@ Dans le secteur de l'industrie documentaire, par exemple (je pense ici aux bibli
 Je voudrais donc d'abord vous montrer quelques minutes d'un film documentaire d'Alain Resnais, "Toute la mémoire du monde", qui présente le système de catalogage à la BNF avant l'arrivée de l'informatique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/Resnais_extrait.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-video="img/Resnais_extrait.mp4" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 >« Le documentaliste est un « intermédiaire dont la fonction essentielle est de mettre en contact ceux qui ont besoin de savoir et ceux qui savent »
 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
 >Eric de Grolier, E. De Grolier, « La passion de l'organisation des connaissances », Documentaliste, sciences de l'information, 1996.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
@@ -401,20 +428,21 @@ Dans le secteur documentaire, désintermédiation = informatisation des catalogu
 FIgure d'autorité :  Pour Eric de Grolier (éditeur, chercheur, parfois considéré comme le fondateur des sciences de l'information en France), le documentaliste est un « intermédiaire dont la fonction essentielle est de mettre en contact ceux qui ont besoin de savoir et ceux qui savent » (on voit combien la hiérarchie est forte), ailleurs on parle d’un « médiateur entre le document et l’utilisateur ».
 
 L'informatisation des catalogues va entraîner un déplacement de cette fonction, désormais assumée par la machine, avec laquelle le lecteur est directement en interaction.
-Gain d'autonomie énorme pour le lecteur, qui devient maître de ses recherches.
- Mais est-ce que cela signifie pour autant la disparition des documentalistes ? Non ! Mais une redéfinition profonde de leur métier.
+
+Gain d'autonomie énorme pour le lecteur, qui devient maître de ses recherches. Le catalogue informatisé que vous utilisez par exemple à la BU, tout cela, c'était une personne qui vous guidait ! Les documentalistes sont conscients qu’il leur faut former les usagers aux nouveaux outils de recherche mais craignent en même temps de les voir devenir totalement autonomes.
+
+Mais est-ce que cela signifie pour autant la disparition des documentalistes ? Non ! Mais une redéfinition profonde de leur métier.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/ccfr_presentation.mp4" data-background-size="contain" -->
+<!-- .slide: data-background-video="img/ccfr_presentation.mp4" data-background-size="contain" -->
 
 ===
-
-Le catalogue informatisé que vous utilisez par exemple à la BU, tout cela, c'était une personne qui vous guidait ! Les documentalistes sont conscients qu’il leur faut former les usagers aux nouveaux outils de recherche mais craignent en même temps de les voir devenir totalement autonomes.
 
 
 https://www.bnf.fr/fr/mediatheque/le-catalogue-collectif-de-france-quest-ce-que-cest
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme_vollard2.png" data-background-size="contain" -->
 
 ===
 
@@ -427,54 +455,282 @@ La dématérialisation est un faux problème : on parlera plutôt de rematérial
 
 * La désintermédiation a-t-elle vraiment eu lieu ?
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
 
+>Depuis longtemps, les débats à propos du Web  2.0 se sont concentrés sur la question de la désintermédiation. Avec l'accès immédiat et spontané des auteurs aux outils de publication sur des plateformes de partage de contenus en ligne, ceux qui font profession d'assurer la publication d'une œuvre, c'est-à-dire de la porter pour l'auteur vers son public, ont pu se croire neutralisés par une mise en relation directe de l'auteur au lecteur. À l'heure du « tous auteurs », « tous journalistes », la capacité des entreprises d'édition à faire accéder l'écrivant au statut d'auteur et le monopole qu'elles détiennent jusqu'alors sur cette capacité semblent s'effondrer.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+>Marin Dacos, Pierre Mounier, L'édition en réseau
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
-la plateformisation :
-- uniformisation des production pour correspondre à un type d'écriture
+
+Reprenons : utopie de la désintermédiation = rêve d'une relation directe entre tous les écrivains et leur public, sans la médiation (et parfois la censure, la révision, le jugement)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Contre toute attente, le scénario catastrophe de la désintermédiation n'a pourtant pas eu lieu. On sait en 2010 que la spontanéité apparente du texte  2.0 n'est qu'un leurre et que ce texte est en réalité le résultat d'une très puissante médiation, mais qui s'exprime selon des modes peu habituels et parfaitement inconnus des acteurs traditionnels. Il s'agit :
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>– du design des plateformes informatiques ;   
+– de la définition des règles d'écriture et de lecture ;   
+– de la gestion des communautés qui les utilisent ;   
+– des algorithmes de classement de l'information produite.   
+
+>Marin Dacos, Pierre Mounier, L'édition en réseau
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+>Dès lors, la fonction du médiateur qu'est l'éditeur n'a pas disparu ; elle a simplement profondément changé et contraint tous les acteurs traditionnels à redéfinir d'urgence les bases de leur métier sous peine de disparaître au profit d'acteurs nouveaux venant d'autres horizons.,
+
+>Marin Dacos, Pierre Mounier, L'édition en réseau
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Il fait bon dire que tout va changer demain et que les producteurs (de culture, d’information, de connaissances... comme hier de « plus-value ») vont enfin prendre les rênes d’un système accaparé par des industries « moralement répugnantes » comme le dit Eben Möglen. On doit cependant se demander si l’analyse du bousculement des rapports de production qui s’opère sous nos yeux n’est pas erronée. Certes, les arguments des tenants de l’ancien système, les détenteurs de « portefeuilles de droits », les monopolistes de la connaissance et de la culture, les majors qui cherchent leur tambour..., de par leur indigence, pourraient nous inciter à un radicalisme de façade.
+
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>ce sont les « intermédiaires » qui fondent les sociétés. En leur absence, le « marché » (fût-il celui des idées) s’impose toujours comme référent. La question qui mérite d’être posée est celle de la subversion-transformation des intermédiaires pour rétablir l’équilibre entre les créateurs et la société (les lecteurs pris individuellement, mais aussi les acteurs de la lecture sociale : bibliothèques, écoles...). Une question démocratique essentielle, pour laquelle l’Internet et le basculement vers les documents numériques offrent une opportunité radicale.
+
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le risque de la plateformisation
+Uniformisation des productions s'intégrant dans un format de publication préconstruit et partagé par une communauté d'utilisateurs, avec les dérives potentielles en termes de censure, de formatage, d'appauvrissement des contenus etc.
+
+===
+
+L'écriture, la publication, l'évaluation, l'information... tous ces contenus passent aujourd'hui essentiellement par des plateforme, qui sont des logiciels construits par des sociétés (rarement par des communautés indépendantes), à des fins commerciales (même si ce n'est pas en publication ou en lecture que l'on paye, mais pas nos connexion, la récolte des données, la publicité, etc.)
+
+Mounier et Dacos parlent plus haut de facteurs de réintermédiation via :
+– le design des plateformes informatiques ;   
+– la définition des règles d'écriture et de lecture ;   
+– la gestion des communautés qui les utilisent ;   
+– les algorithmes de classement de l'information produite.   
+
+Tous ces éléments participent de ce que l'on appelle la plateformisation, à savoir
+- uniformisation des productions pour entrer dans un modèle de publication préconstruit et partagé par une communauté d'utilisateurs
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+
+### La publication via des chaînes numériques dédiées : le risque de la best-sellerisation
+* le cas Koskas & Kindle Direct Publishing (KDP)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/kindleDirectPublishing.png" data-background-size="contain" -->
+
+===
+
+
+>La plus célèbre d’entre elles est, évidemment, Amazon Kindle Direct Publishing (KDP). A l’origine, il s’agit d’un service proposé aux auteurs pour augmenter rapidement le nombre de livres numériques disponible au format Kindle. En quelques années, KDP s’est imposé par sa simplicité d’utilisation (vous téléchargez vos fichiers de couverture et de contenu) et sa puissance de vente : 60 % des ebooks seraient en effet vendus par Amazon.
+
+KDP existe depuis 2011 en France, 2009 aux US.
+
+>Il en existe d’autres telles que iBooks Author (Apple), Tolino Publishing, Kobo Writing Life (Kobo/Sony) ou Google Play Books.
+
+>La publication est gratuite et l’auteur perçoit une redevance (royalties) dont le pourcentage varie mais qui peut aller jusqu’à 70% du prix de vente.
+
+>Ces plateformes ne proposent pas de services éditoriaux. C’est pourquoi on y trouve le pire comme le meilleur, des ouvrages d’une grande utilité comme des essais de quelques pages bourrés de fautes d’orthographe.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/koskas1.png" data-background-size="contain" -->
+
+===
+
+le cas Koskas : sur la liste du Renaudot en 2018.
+
+Kokas = "Indie Author", expression anglo-saxone où l'auto-édition a fait émerger cette figure de l'auteur indépendant, sur le même modèle sémantique (valorisant), de la musique indé, ou chez nous des libraires indé.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/koskas2.png" data-background-size="contain" -->
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>via le dispositif KDP, Amazon saisit l’opportunité de cet espace de sédition que représente l’autoédition, l’injonction à la créativité prenant ici la forme réduite d’une injonction à la production de contenus, supprimant tout intermédiaire
+susceptible de qualifier ces derniers. Externalisant ainsi les aléas de la valeur - aucun risque et un investissement financier tout relatif au regard de la puissance de feu d’Amazon -, l’autoédition est l’un des vecteurs déployés par cet acteur, lui permettant de nourrir le catalogue de la liseuse Kindle et au-delà, d’occuper de manière exponentielle le marché du livre numérique.
+
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Sylvie Bosser a pris en charge l'étude de la platforme KDP, et voici ses conclusions.
+
+MÉthosologie = analysé le discours présent sur le site de KDP, ainsi que celui tenu par
+Marie-Pierre Sangouard, responsable des contenus Kindle d’Amazon France + Étude du classement des meilleures ventes (soit les contenus mis en avant sur le site)
+
+Cette méthodo "permet de déterminer les secteurs littéraires majoritairement présents et d’autre part, de voir de quelle manière s’opère, derrière ce classement, une logique de commercialisation qui s’appuie sur le savoir-faire d’Amazon en matière d’algorithme."
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/KDP-pub.png" data-background-size="contain" -->
+
+
+===
+
+Sylvie Bosser :
+
+>Sur la page d’accueil de KDP19, l’accent est mis, dans le discours tenu, sur la simplicité du
+processus, la rapidité de la mise en œuvre de celui-ci (« Publiez en quelques minutes et votre
+livre apparaît sur le site d’Amazon en moins de 24 heures »), ainsi que sur la notion
+d’indépendance à travers le choix possible des territoires de vente et enfin, sur le montant de
+la redevance qui peut aller jusqu’à 70 %.
+
+>l’accent est particulièrement mis sur la maîtrise du processus par la
+personne : « C’est vous le chef, vous déterminez tout, du contenu au prix ».
+
+>la personne qui a recours au service de KDP est d’emblée désignée comme
+écrivain, pouvant de cette manière se passer de l’intermédiaire classique qu’est l’éditeur :
+« Ce n’est pas votre truc les lettres, les recherches d’argent, etc. Vous êtes un auteur, pas un
+éditeur ».
+
+>D’emblée, le texte est envisagé comme acceptable: « Vous n’avez pas à nous convaincre que
+votre livre mérite d’être publié. Désormais chacun peut publier de façon indépendante ses
+ouvrages fraîchement écrits ou ceux qui patientent depuis des années ».
+
+>discours promotionnel marqué par le registre lexical du pouvoir.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### KDP, un service sous conditions
+
+===
+
+>Le programme KDP select est un service gratuit qui vous est proposé lorsque vous publiez
+votre livre sur Amazon. En souscrivant à ce programme, vous bénéficiez de plusieurs
+avantages par rapport aux auteurs qui ne le font pas, mais l’accès à ces avantages n’est pas
+sans contrepartie.
+
+Par exemple, pour toucher les fameux 70% de recettes de votre livre, il faut accepter de le vendre à un tarif plafonné à 2, 99 euros !
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/KDP-lectureGratuite.png" data-background-size="contain" -->
+
+
+===
+
+>Prime Reading
+Prime Reading est un programme de promotion facultatif qui permet aux auteurs de proposer leurs livres aux lecteurs Amazon les plus actifs. Les membres Prime Reading peuvent accéder à un nombre illimité d’ouvrages sans frais supplémentaires.
+
+Durant votre promotion Prime Reading, votre livre reste disponible à la vente selon nos conditions standard et continue de générer des redevances.
+
+Remarque : Votre livre doit être inscrit à KDP Select pour être éligible au programme Prime Reading.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Notons que depuis le mois de juillet 2015, les auteurs dont les livres sont empruntés dans ce cadre ne sont plus
+rémunérés selon le barème d’une base minimale de lecture de 10 % du livre, mais en fonction du nombre de pages lues. Cette comptabilisation ne s’effectue pas selon le nombre de pages téléchargées, mais en fonction du nombre de pages affichées suffisamment longtemps à l’écran pour pouvoir supposer avoir été lues. Sous ce rapport, Amazon ne fait finalement que poursuivre son utilisation des algorithmes, valeur cardinale de son système de recommandation. Mais ces fourches caudines de l’algorithme désormais appliquées à la rémunération des auteurs, pour l’instant seulement dans le cadre du prêt, ne vont-elles pas générer de la part de ces derniers un formatage de leur écrit, au sens où il s’agira d’inciter, coûte que coûte, le lecteur à poursuivre le plus loin possible sa progression dans l’ouvrage ?
+
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Par exemple, écriture de cliffangher, etc sur le modèle des séries TV mais également des feuilletons du 19e.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>En d’autres termes, sous couvert de promesse d’émancipation et d’obtention de gains substantiels, ce recours au crowdsourcing (Howe, 2006), à l’empowerment des aspirants écrivains s’inscrit dans le modèle économique de l’hyperoffre au sens de Benghozi (2012), ainsi que d’une rationalisation et industrialisation de la production des biens culturels
+(Bouquillion, Miège, Moeglin, 2013).
+
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La publication via les réseaux sociaux : le risque de la censure
+* Le cas François Bon & TikTok
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/AdieuTikTok.mp4" data-background-size="contain" -->
+
+===
 - censure
 cas de FB sur Tik Tok
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
 
-### Le cas Kindle Direct Publishing (KDP)
+>Il est urgent de saisir cette opportunité, créée par la remise en cause des modes de production que l’on appelle du terme générique, qui resterait à définir et critiquer, la « société de l’information ». En particulier parce que les forces dominantes cherchent à utiliser ce basculement pour revenir sur des acquis démocratiques et réorganiser les pouvoirs pour limiter plus encore les marges de liberté des créateurs sur la diffusion de l’information, de la culture et de la connaissance. Les questions de la copie privée, du brevetage des logiciels, l’extension de la propriété intellectuelle définissent ainsi des zones de front dans le nouveau cadre de la société de l’information.
+
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+
+### Le rapport Racine
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/racineRapport.png" data-background-size="contain" -->
+
 
 ===
 
-vidéo KDP
+
+>Franck Riester, ministre de la Culture, avait confié en avril 2019 à Bruno Racine, conseiller maître à la Cour des comptes, une mission prospective sur l’état des mutations que les activités de création ont pu connaître ces trente dernières années. Cette réflexion globale devra permettre d’adapter les politiques publiques existantes en faveur des artistes, auteurs et créateurs. Son rapport sur le statut des artistes-auteurs, « L’auteur et l’acte de création », a été remis au ministre mercredi 22 janvier.
+
+Le rapport va "dresser un état des lieux de la situation des auteurs, se projeter dans la durée pour identifier les évolutions de leur activité à l’heure des GAFA, du numérique ou de l’intelligence artificielle, et surtout, proposer des changements concrets pour améliorer leurs conditions de vie."
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/PayeTonAteur.png" data-background-size="contain" -->
+
 
 ===
 
-le cas Koskas
+La lecture du rapport appuie le mal-être des écrivains et auteurs depuis maintenant une bonne vingtaine d'années : l’analyse menée par Bruno Racine et plusieurs experts indépendants sur plus de cent quarante pages constitue une reconnaissance de la situation difficile des artistes-auteurs.
+
+Cette revendication était d’ailleurs à l’origine de la création de nombreux mouvements de défense et d’associations ces dernières années, à l’image du collectif #Payetonauteur ou de la Ligue des auteurs professionnels. Le rapport Racine pointe donc l’érosion de leurs revenus, soulignant que « les jeunes et les femmes sont particulièrement exposés aux difficultés socio-économiques ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+
+### Les propositions du rapport racine
+* établissement d’un statut professionnel des artistes-auteurs, clairement défini par des textes
+* renforcer collectivement les artistes-auteurs, via la création de syndicats d'artistes-auteurs (du droit d'auteur au droit *des* auteurs...)
+* repenser les institutions et activités des auteurs (rémunération des salons, refonte des services du ministères : remplacer le service du livre par une délégation aux artistes-auteurs)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+>Les mesures concrètes – vingt-trois au total, dont beaucoup sont très techniques – s’articulent autour de trois grands axes, le premier étant l’établissement d’un statut professionnel des artistes-auteurs, clairement défini par des textes. Car il n’existe toujours pas, à ce jour, de définition de l’auteur, ce dernier étant reconnu comme tel uniquement si un contrat est établi avec un diffuseur. Ce statut, basé sur la pratique créative, construirait donc un corps professionnel, ouvrant potentiellement des droits aux créateurs auto-diffusés. En somme, on reconnaîtrait la « carrière artistique comme métier et pas seulement comme vocation » et, si cela semble symbolique, c’est en fait une avancée capitale qui leur permettrait notamment de peser plus face aux « acteurs de l’aval » (éditeurs, producteurs, diffuseurs...), plus puissants et mieux organisés.
+
+>Une deuxième série de mesures vise à renforcer collectivement les artistes-auteurs, en commençant par leur permettre de décider de leur sort, à travers l’organisation rapide d’élections professionnelles et démocratiques dans chaque secteur. La question de la représentation professionnelle est posée : qui défend, non pas « le droit d’auteur » mais les droits des auteurs, c’est-à-dire leurs conditions de création ? Le rapport souligne que soixante millions d’euros de droits collectés par les puissants organismes de gestion collective ou OGC (autrement dit, les gestionnaires de droits d’auteurs, comme la SACEM, la SOFIA, l’ADAGP etc) pourraient être réorientés vers le financement des syndicats d’artistes-auteurs.
+
+>Autre mesure longtemps réclamée, mais étonnamment restreinte aux auteurs de BD et jeunesse : la rémunération des auteurs lorsqu’ils participent à des salons et des festivals, auxquels l’octroi d’aides publiques serait conditionné « au respect des règles et bonnes pratiques relatives aux artistes-auteurs ». Le rapport propose enfin de mieux former les étudiants aux aspects administratifs de leurs futurs métiers, de les accompagner dans la durée, ou encore de mettre en valeur leur travail et la vitalité de la création contemporaine à travers des manifestations nationales.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LeMondeRapportRacineEnterre.png" data-background-size="contain" -->
 
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
-
-===
-François Bon sur Kindle
-
-Samantha Bailly
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/demissionBailly.png" data-background-size="contain" -->
 
 ===
 La ligue des auteurs pro
@@ -494,67 +750,5 @@ Ces machines POD réintégrées dans les chaînes des grands éditeurs tradition
 notes FB : liberté et indépendance.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
 
-===
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/houellebeq.png" data-background-size="contain" -->
-
-===
-auteur et autorité : *La Carte et le territoire*
-
-Dans le champ littéraire, la question du plagiat est aussi complexe et au coeur de polémiques très régulières.
-
-*La Carte et le territoire* est un roman de l’écrivain français Michel Houellebecq, dont l’histoire est assez comique :
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/levy.png" data-background-size="contain" -->
-
-
-===
-* 1ere accusation de plagiat pour son titre : Michel Lévy avait publié un récit intitulé lui aussi La Carte et le territoire, même si ce dernier diffère sur son contenu. Les éditions Flammarion ont répondu que « l'association de deux mots du langage courant n'est pas original au sens du droit d'auteur et ne peut donc recevoir de protection juridique ». Surtout que, en vérité, les 2 auteurs se sont inspirés d’une même source - c’est-à-dire qu’il ont un intertexte commun : Alfred Korzybski (1879-1950) : « une carte n'est pas le territoire ».
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/glad.png" data-background-size="contain" -->
-
-
-===
-* Accusation de contenus pris sur Wikipédia : En septembre 2010, le journaliste Vincent Glad découvre que le roman incorpore des extraits de la version francophone de l'encyclopédie Wikipédia sans en mentionner la source.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/gallaire.png" data-background-size="contain" -->
-
-
-===
-Sur son blog, le juriste Florent Gallaire soutient que le roman serait donc une œuvre composite et que les droits des auteurs des textes réutilisés ne seraient pas respectés.
-
-Arguant que cela donne à toute personne le droit de diffuser le roman sous licence Creative Commons BY-SA10 - celle des articles de Wikipedia -, il décide de procéder ainsi et de diffuser gratuitement l'intégralité du roman sous forme d'images des pages imprimées. Flammarion, maison d'édition du roman, a menacé de porter plainte contre le blogueur.
-
-Le 1er décembre 2010, dès la mise en demeure envoyée par l'éditeur qui envisage de mener une action en justice, le site retire le contenu intégral du roman mis en ligne. Le document avait été récupéré et diffusé par de nombreux sites de téléchargement et plusieurs livres numériques pirates en sont dérivés. En mai 2011, Houellebecq reconnaît son erreur et remercie les contributeurs de Wikipédia. Il ajoute ces remerciements à la fin de l'édition de poche du roman.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/tarteEtsuppo.png" data-background-size="contain" -->
-
-
-===
-
-* Le livre lui-même a fait l’objet d’un pastiche : *La Tarte et le Suppositoire* publié aux éditions de Fallois en 2011 et prétendu « prix Concours 2010 » par « Michel Ouellebeurre », avec la collaboration de Fabrice Del Dingo.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/houellebecqCarteTerritoire.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-## *La carte et le territoire* : merci Wikipédia !
-* Un concept d'auteur "à l'ancienne"
-* Une redistribution de l'autorité sur des modèles de publication en ligne
-* La rencontre entre le monde de l'édition traditionnelle et celui de l'éditorialisation
-* Comment reconnaître l'autorité de ces nouvelles contributions en ligne ?
-
-===
-Houellebecq reçoit le Goncourt et remercie Wikipédia.
-Phénomène un peu absurde... La rencontre entre le monde de l'édition traditionnelle et celui de l'éditorialisation, qui fait émerger une incongruité des statuts.
-
-Comment reconnaître l'autorité de ces nouvelles contributions en ligne ?
+## Conclusion
