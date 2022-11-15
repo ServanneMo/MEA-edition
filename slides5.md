@@ -83,7 +83,7 @@ source : Tiers livre, François Bon
 
 ===
 
-
+Mouvement d'auteurs créé par Samantha Bailly.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -307,6 +307,7 @@ Et le cas d'un livre-objet comme Pierre Ménard et son *Esprit d'escalier*
 
 Le concept sur lequel je voudrais à présent proposer quelques définitions = désintermédiation, dont on a eu l'occasion de parler à plusieurs reprises, sans pour autant creuser la définition et les implications.
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## L'utopie de la désintermédiation
@@ -448,24 +449,26 @@ https://www.bnf.fr/fr/mediatheque/le-catalogue-collectif-de-france-quest-ce-que-
 
 Liée à cette crainte de la désintermédiation causée par les machines, on voit apparaître la crainte de la dématérialisation : est-ce qu'on ne perd pas une partie de l'expérience de prendre dans ses mains un livre ancien lorsqu'on en consulte une image en ligne ?
 
-La dématérialisation est un faux problème : on parlera plutôt de rematérialisation. On l'a bien vu avec la question des supports de l'archivage numérique, qui sont en fait fragiles, bien plus qu'on ne le pensait.
+La dématérialisation est un faux problème : on parlera plutôt de délocalisation. On l'a bien vu avec la question des supports de l'archivage numérique, qui sont en fait fragiles, bien plus qu'on ne le pensait.
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* La désintermédiation a-t-elle vraiment eu lieu ?
+Ce paradigme du déplacement, de l'évolution des objets et des métiers est essentiel.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 >Depuis longtemps, les débats à propos du Web  2.0 se sont concentrés sur la question de la désintermédiation. Avec l'accès immédiat et spontané des auteurs aux outils de publication sur des plateformes de partage de contenus en ligne, ceux qui font profession d'assurer la publication d'une œuvre, c'est-à-dire de la porter pour l'auteur vers son public, ont pu se croire neutralisés par une mise en relation directe de l'auteur au lecteur. À l'heure du « tous auteurs », « tous journalistes », la capacité des entreprises d'édition à faire accéder l'écrivant au statut d'auteur et le monopole qu'elles détiennent jusqu'alors sur cette capacité semblent s'effondrer.
 
->Marin Dacos, Pierre Mounier, L'édition en réseau
+>Marin Dacos, Pierre Mounier, L'édition en réseau.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
 Reprenons : utopie de la désintermédiation = rêve d'une relation directe entre tous les écrivains et leur public, sans la médiation (et parfois la censure, la révision, le jugement)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* La désintermédiation a-t-elle vraiment eu lieu ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -487,7 +490,7 @@ Reprenons : utopie de la désintermédiation = rêve d'une relation directe entr
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
->Dès lors, la fonction du médiateur qu'est l'éditeur n'a pas disparu ; elle a simplement profondément changé et contraint tous les acteurs traditionnels à redéfinir d'urgence les bases de leur métier sous peine de disparaître au profit d'acteurs nouveaux venant d'autres horizons.,
+>Dès lors, la fonction du médiateur qu'est l'éditeur n'a pas disparu ; elle a simplement profondément changé et contraint tous les acteurs traditionnels à redéfinir d'urgence les bases de leur métier sous peine de disparaître au profit d'acteurs nouveaux venant d'autres horizons.
 
 >Marin Dacos, Pierre Mounier, L'édition en réseau
 
@@ -501,13 +504,22 @@ Reprenons : utopie de la désintermédiation = rêve d'une relation directe entr
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->ce sont les « intermédiaires » qui fondent les sociétés. En leur absence, le « marché » (fût-il celui des idées) s’impose toujours comme référent. La question qui mérite d’être posée est celle de la subversion-transformation des intermédiaires pour rétablir l’équilibre entre les créateurs et la société (les lecteurs pris individuellement, mais aussi les acteurs de la lecture sociale : bibliothèques, écoles...). Une question démocratique essentielle, pour laquelle l’Internet et le basculement vers les documents numériques offrent une opportunité radicale.
+### Le POD : la fin des imprimeurs ?
+* *Print on demand* ou impression à la demande
+* Des techniques de plus en plus pointues (de l'espresso book-machine)
+* Un moyen d'éviter la réimpression
 
->Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+===
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+chronologiquement : expresso-book machine
+Puis des machines de + en + perfectionnées (possibilité d'imprimer des titres très rapidement)
+Ces machines POD réintégrées dans les chaînes des grands éditeurs traditionnels, qui s'en servent pour gérer les pb de stock. Un éditeur n'a pas intérêt à tirer bcp d'exemplaires (politique de retour des livres, mis au pilon). Pour des ouvrages qui ne sont plus dispo, on les met en POD, et on peut faire soit des tirages à la demande (Stock), soit refaire des stocks qui ne relèvent pas d'une "réimpression" (seuil pour la réimpression = 500 exemplaires)
+
+
+notes FB : liberté et indépendance.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -553,18 +565,22 @@ KDP existe depuis 2011 en France, 2009 aux US.
 >Ces plateformes ne proposent pas de services éditoriaux. C’est pourquoi on y trouve le pire comme le meilleur, des ouvrages d’une grande utilité comme des essais de quelques pages bourrés de fautes d’orthographe.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/koskas2.png" data-background-size="contain" -->
+
+===
+Kokas = "Indie Author", expression anglo-saxone où l'auto-édition a fait émerger cette figure de l'auteur indépendant, sur le même modèle sémantique (valorisant), de la musique indé, ou chez nous des libraires indé.
+
+le cas Koskas : sur la liste du Renaudot en 2018.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/koskas1.png" data-background-size="contain" -->
 
 ===
 
-le cas Koskas : sur la liste du Renaudot en 2018.
 
-Kokas = "Indie Author", expression anglo-saxone où l'auto-édition a fait émerger cette figure de l'auteur indépendant, sur le même modèle sémantique (valorisant), de la musique indé, ou chez nous des libraires indé.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/koskas2.png" data-background-size="contain" -->
 
-===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -683,6 +699,25 @@ cas de FB sur Tik Tok
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+## Auteurs et éditeurs : du malentendu au malaise
+
+![](img/claroAuteurdoubleEmploi.png)<!-- .element: style="width:600px" -->
+
+
+===
+
+Le problème de fond: un malaise de plus en plus grand entre auteurs et éditeurs, avec un statut qui est devenu précaire
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMmlfdXa7OY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3kcp4XP47xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Le rapport Racine
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -718,6 +753,8 @@ Cette revendication était d’ailleurs à l’origine de la création de nombre
 
 ===
 
+Analyse de Télérama :
+
 >Les mesures concrètes – vingt-trois au total, dont beaucoup sont très techniques – s’articulent autour de trois grands axes, le premier étant l’établissement d’un statut professionnel des artistes-auteurs, clairement défini par des textes. Car il n’existe toujours pas, à ce jour, de définition de l’auteur, ce dernier étant reconnu comme tel uniquement si un contrat est établi avec un diffuseur. Ce statut, basé sur la pratique créative, construirait donc un corps professionnel, ouvrant potentiellement des droits aux créateurs auto-diffusés. En somme, on reconnaîtrait la « carrière artistique comme métier et pas seulement comme vocation » et, si cela semble symbolique, c’est en fait une avancée capitale qui leur permettrait notamment de peser plus face aux « acteurs de l’aval » (éditeurs, producteurs, diffuseurs...), plus puissants et mieux organisés.
 
 >Une deuxième série de mesures vise à renforcer collectivement les artistes-auteurs, en commençant par leur permettre de décider de leur sort, à travers l’organisation rapide d’élections professionnelles et démocratiques dans chaque secteur. La question de la représentation professionnelle est posée : qui défend, non pas « le droit d’auteur » mais les droits des auteurs, c’est-à-dire leurs conditions de création ? Le rapport souligne que soixante millions d’euros de droits collectés par les puissants organismes de gestion collective ou OGC (autrement dit, les gestionnaires de droits d’auteurs, comme la SACEM, la SOFIA, l’ADAGP etc) pourraient être réorientés vers le financement des syndicats d’artistes-auteurs.
@@ -735,20 +772,16 @@ Cette revendication était d’ailleurs à l’origine de la création de nombre
 ===
 La ligue des auteurs pro
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
-
-## Le POD
-
-===
-
-chronologiquement : expresso-book machine
-Puis des machines de + en + perfectionnées (possibilité d'imprimer des titres très rapidement)
-Ces machines POD réintégrées dans les chaînes des grands éditeurs traditionnels, qui s'en servent pour gérer les pb de stock. Un éditeur n'a pas intérêt à tirer bcp d'exemplaires (politique de retour des livres, mis au pilon). Pour des ouvrages qui ne sont plus dispo, on les met en POD, et on peut faire soit des tirages à la demande (Stock), soit refaire des stocks qui ne relèvent pas d'une "réimpression" (seuil pour la réimpression = 500 exemplaires)
-
-
-notes FB : liberté et indépendance.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Conclusion
+## Conclusion...
+La désintermédiation -- concept phare de la culture numérique il y a encore quelques années -- incarnait la promesse d'une émancipation des écrivains, enfin capable de garder l'entière maîtrise de leur travail. La fin des éditeurs a cependant été trop vite annoncée, tant la réintermédiation semble avoir mis en place un nouveau monopole qui n'est pas toujours plus favorable au statut des auteurs. Désintermédiation ou non, cette volonté des auteurs, toujours plus nombreux, à vouloir s'émanciper des éditeurs traditionnels, incarne un profond malaise qui touche la communauté des écrivains depuis maintenant plusieurs années. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### ... et ouverture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QmeIEb3x2XE?start=403" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
