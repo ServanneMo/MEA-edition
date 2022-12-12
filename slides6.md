@@ -19,10 +19,10 @@ Plan :
 
 Je reviendrais d'abord sur le principe "d'extension" du domaine de la littérature, observé à l'époque contemporaine. Je vous présenterai notamment le cas du Général Instin pour bien prendre la mesure de ce phénomène.
 Je reviendrai ensuite sur le paradigme de la publication, à travers l'étude d'un texte théorique de Lionel Ruffel, qui a fait date dans le champ des études littéraires contemporaines.
-Enfin, je m'interrogerai sur la relation entre ce paradigme de la publication et celui de l'édition, à travers l'étude de 3 chaînes éditoriales :
-- cas 1 : Les versions du texte / le POD = Abrüpt et les antilivres
-- cas 2 : Le single source publishing / La déplateformisation & la technique WYSIWYG vers WYSISYM = la création de Stylo chez Sens public
-- cas 3 : repenser la forme littéraire = L'air NU et la radio littéraire
+Enfin, je m'interrogerai sur la relation entre ce paradigme de la publication et celui de l'édition, à travers l'étude de 2 éditeurs :
+- cas 1 : PUblie.net
+- cas 2 : Abrüpt
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -95,7 +95,7 @@ La citation qui suit est empruntée à David RUffel (do not confondre avec le fr
 
 ## Cas d'étude : _Général Instin_
 
-### collectif artistique, corpus fantôme et littérature Brouhaha
+collectif artistique, corpus fantôme et littérature Brouhaha
 
 ![](img/mashupInstin.png)<!-- .element: style="width:400px" -->
 
@@ -327,6 +327,7 @@ C'est l'occasion alors de proposer une cartographie du corpus, à laquelle s'ajo
 * Un profil sur le web (Twitter, FB)
 * Une figure auctoriale (qui signe des livres)
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 
@@ -338,6 +339,8 @@ C'est l'occasion alors de proposer une cartographie du corpus, à laquelle s'ajo
 * Dissémination sur plusieurs supports/plateformes
 * Investissement de l'espace public
 * Mais pas *contre* le livre !
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre", en rupture avec notre modèle éditorial moderne.
@@ -423,7 +426,7 @@ Et c'est cette position de monopole qui a tendance à tendre les relations entre
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Contre le "maillon fort" de la chaîne éditoriale ?
+### Contre le "maillon fort" de la chaîne éditoriale ?
 
 >On peut se demander, s’il y a fragilité de la chaîne du livre, si elle n’est pas en partie liée à un maillon fort qui a su profiter des très nombreux atouts qu’offre l’absence de régulation du travail comme la loi Lang. On peut se demander si cette facilité à publier, qui fait que de nouvelles maisons d’édition apparaissent tous les jours, n’a pas fait perdre de vue à trop de maisons d’édition les principes même de l’entreprenariat : investir, prendre des risques, prévoir et créer les tendances de demain. Être éditeur, ce ne peut pas être que publier tous azimuts, à moindre coût pour assurer ses flux financiers, en se disant qu’il en sortira bien quelques succès pour faire son bénéfice. Cela ne peut qu’être destructeur de valeur à terme pour le reste de la chaîne du livre.
 
@@ -441,9 +444,9 @@ Ligue des auteurs pro, pour la refonte de leur statut.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Deux modèles de publication qui s'ignorent ?
+### Deux modèles de publication qui s'ignorent ?
 * Une production culturelle institutionnalisée, dans les "canaux" traditionnels
-* Une production "à la marge" - mais une marge de plus en plus visible, populaire ou avant-gardiste
+* Une production "à la marge" ; mais une marge de plus en plus visible, populaire ou avant-gardiste
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -451,6 +454,8 @@ Ligue des auteurs pro, pour la refonte de leur statut.
   * Une enquête sur le substantif "contemporain"
   * Une étude des formes de la littérature "exposée"
   * Une réflexion sur les enjeux de la "publication"
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 
@@ -514,7 +519,7 @@ Convergence = idée à contre courant de l'accusation de passivité face aux nou
 * D’un imaginaire de la littérature à un imaginaire de la publication
 * D’un imaginaire moderne à un imaginaire contemporain
 
-
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 
 Nouvelle exposition du fait littéraire
@@ -528,7 +533,7 @@ Imaginaire de la littérature à de la publication. Imaginaire moderne à contem
 * Des modèles "hors-le-livre" : web, résidences, lectures publiques... l'investissement d'un espace "public"
 * « La rencontre de la littérature dans les livres devient presque minoritaire » (Ruffel et Rosenthal, 2010)
 
-
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 
 Ruffel et rosenthal. Le littéraire se rencontre hors du livre dans l'espace public.
@@ -634,6 +639,7 @@ Mais espace critiqué par Ruffel car il se restreint au mâle blanc dominant. Li
 * La publication du savoir pour façonner une *opinion publique* et garantir la démocratie
 * Tout espace public suppose un modèle conceptuel et épistémologique
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 Habermas appelle « espace public » la sphère intermédiaire entre la vie privée de chacun et l'État monarchique qui affectionne le secret, l'arbitraire et la délation (les célèbres et redoutées « lettres de cachet », en France, qui conduisent généralement à la Bastille), qui se constitue en Angleterre et en France de la fin du XVIIIe siècle au début du XIXe siècle. Cet « espace public » permet aux opinions privées d'être rendues publiques, il comprend les salons, les loges maçonniques, les académies, les sociétés savantes, les regroupements philanthropiques, les clubs, les cafés, les journaux,  etc.
 
@@ -701,15 +707,16 @@ Mais espace critiqué par Ruffel car il se restreint au mâle blanc dominant. Li
 * Une hétérogénéité des supports médiatiques littéraires [imprimé, page web, radio/podcast, vidéo...]
 * Une hétérogénéité des formes médiatiques littéraires [textuel, oral, visuel]
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Trois initiatives éditoriales pour repenser le "Maillon fort" de la chaîne éditoriale
+### Deux initiatives éditoriales pour repenser le "Maillon fort" de la chaîne éditoriale
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Cas numéro 1
 
-### Publie.net, la coopérative d'écrivain
+### Publie.net, la coopérative d'écrivains
 
 
 ===
@@ -731,7 +738,7 @@ Depuis 2008, publie.net, est :
   * l’un des premiers abonnements à une importante offre numérique, dont une majorité d’inédits
   * la garantie d’un ouvrage numérique sans DRM (verrouillage)
   * et depuis 2012, une offre papier incluant la version numérique, sans surcoût 
-
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
 
@@ -751,6 +758,7 @@ Le modèle économique est déficitaire, autant le dire.
 * Modèle imprimé [une norme à 10%] = coûts fixes (correction, relecture et mise en page des ouvrages) + coûts variables de l’impression, de la distribution et de la diffusion (évoluent selon le nombre d’exemplaires) + marge libraires
 * Modèle numérique = coût fixes (révision, mise en page numérique) + marge diffuseur / libraire (L'Immatériel, Amazon...)
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 
 François Bon a donc fait le choix pour publie.net de reverser 50 % des recettes d’une œuvre à son auteur, comme le pratiquent les galeries d’art.
@@ -780,6 +788,7 @@ L’auteur se trouve dans une situation plus valorisante et cohérente, où le
 * Édition de "petits textes" : brouillons, projets, textes ne répondant pas aux normes éditoriales classiques
 * Un lieu de rassemblement pour une communauté d'écrivains en ligne
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 
 À la base, publie.net n’était pas là pour concurrencer les maisons D’édition papier « classiques », mais pour mettre en valeur ce qui ne pouvait pas être publié, pour diverses raisons : petits textes, brouillons, projets. Textes ne répondant pas aux normes édito classiques.
@@ -800,6 +809,7 @@ les membres de publie.net fonctionnent par et en un réseau dans le réseau. L
 * Des entretiens
 * Des critiques...
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 
 Tout à la fois vitrine et lieu de ventes, le site de publie.net est un espace particulièrement important qui porte l’image de la coopérative et dont l’apparence devrait entrer en écho avec ce qu’elle souhaite incarner.
@@ -819,6 +829,7 @@ Vous avez donc des textes littéraires sur ce site.
 - Un modèle inialement marginal, récupéré par les grands éditeurs
 - Une technique en progrès constant
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Cas numéro 2
@@ -926,16 +937,45 @@ source image : Abrüpt, Christine Jeanney, *Girafe*
 * Repenser la séquentialité de la chaîne éditoriale
 * Ouvrir le livre *et* donc le texte (modularité, multiformats)
 
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 ===
 Dans le manifeste antilittéraire d’Abrüpt, le poétique et le politique sont indissociables. La référence au mouvement des communs s’accompagne d’un appel à bousculer le verbe, la langue, et plus largement l’institution culturelle dans son ensemble.
 L'antilivre repose de plus sur une conception très technique, entièrement arrimée au protocole GIT.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Un modèle de *single-source publishing*
+Le *single-source publishing* désigne une méthode de production d'un objet médiatique (livre imprimé, numérique, numérique augmenté, PDF) à partir d'une source commune, dont le format permet des exports et des transformations en une multiplicité d'autres formats.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/singleSourcePublishinPb.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/SingleSourcePublishinModel.png" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Single sourcing isn’t a specific solution, it is a general idea that must be intentionally designed into a publisher’s workflow. Single sourcing changes how people work and often requires a different tooling. The secret really, if we zoom out to a high-level abstraction of the problem, is to work out how the content creation and production folks can work in a shared ‘environment’ where they all work on the same files, the same source files – hence the term ‘single source’.
+
+>CoKo Foundation
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Le single source n'est pas une solution spécifique, c'est une idée générale qui doit être intentionnellement conçue dans le flux de travail d'un éditeur. Le sourcing unique modifie la façon dont les gens travaillent et nécessite souvent un outillage différent. Le secret, si l'on s'en tient à une abstraction de haut niveau du problème, est de trouver comment les personnes chargées de la création et de la production du contenu peuvent travailler dans un "environnement" partagé où elles travaillent toutes sur les mêmes fichiers, les mêmes fichiers sources - d'où le terme "source unique".
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/gabaritAbrupt.png" data-background-size="contain" -->
 
 ===
 
-le protocole éditorial d’Abrüpt se trouve étroitement lié au protocole GIT qui le sous-tend. C’est ce dernier, comme nous allons nous en expliquer, qui esquisse une redéfinition de l’idée de littérature, tant sur le plan poétique que politique.
 
 Le projet antilivresque d’Abrüpt repose sur la plateforme Gitlab1, qui tire son nom de l’outil GIT, un protocole de développement collaboratif. Grâce à son système de gestion de versions, GIT permet à des développeurs de produire, d’échanger, de modifier du code selon une logique contributive. Le logiciel libre GitLab intègre ce protocole, auquel il ajoute, sur une interface dédiée, des fonctionnalités de wiki, un système de suivi des bugs et de communication, et finalement un véritable réseau social centré sur le partage de code et d’écrits numériques. En d’autres termes, Gitlab est ce que l’on a baptisé en informatique une « forge » : un système de gestion de maintenance collaboratif de texte2.
 
@@ -958,78 +998,162 @@ Il ne s’agit plus seulement de développer une littératie numérique, mais bi
 Conséquence : une révision de l'autorité, arrimée au nouvel esprit du colpyleft.
 Les éditeurs justifient longuement sur leur site ce qu’il revendiquent comme une « utilisation au scalpel du droit d’auteur », au nom de la liberté de l’information. Un choix pragmatique, conçu comme une étape vers le domaine public volontaire. Un choix qui étonne, et peut-être même dérange, dans le cas de l’édition littéraire où la propriété intellectuelle est non seulement un enjeu économique (comment rémunérer les auteurs et les acteurs de la chaîne du livre ?), mais aussi esthétique (abandonner son œuvre au domaine public, n’est-ce pas courir le risque de la voir déformée ou trahie ?).
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### La "ZAP" (ou Zone Autonome à Poétiser) : une expérience Abrüpt
-* Un hack de Rimbaud (Open Publishing Fest) : écrire par-dessus le texte de Rimbaud comme s'il s'agissait d'un code informatique à reconfigurer
-* Construire une oeuvre « cyberpoétique » collective
-* Laisser l'oeuvre obtenue dans le domaine public volontaire
-* Proposer une poétique numérique : adapter des modes d'écriture "informatique" à la poésie
-
-
-===
-
-La ZAP, pour « Zone Autonome à Poétiser », est née en mai 2020, au moment où une large partie du monde était encore confinée, ou s’apprêtait à l’être. Projet éditorial s’inscrivant dans la tradition du book sprint, la ZAP se conçoit aussi comme un événement collectif et festif réalisé dans le cadre de l’Open Publishing Fest. À cette occasion, Abrüpt lance un appel afin « s’installer un squat dans le monument Rimbaud et d’y lancer une réécriture frénétique et collective de sa Saison en enfer ».1 Le principe est simple, il s’agit d’écrire progressivement par-dessus le poème original de Rimbaud un texte collectif, de manière à faire émerger un nouvel objet littéraire, « cyberpoétique ». Entreprise collective avant tout, la ZAP impose à ses contributeurs une courte série de règles parmi lesquelles un renoncement à l’auctorialité (le résultat sera déposé dans le domaine public volontaire) et l’utilisation d’outils informatiques libres.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ZAP.png" data-background-size="contain" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->Ma langue vide les lacs de Cervoise la langue inculte ma langue venue du fond des âges ma langue Wisigothe ma langue Attila ma langue ma langue luisante c’est une guillotine ma langue ma langue velue ma langue barbare maltraite ma langue cou-cou-coupe l’amour par le milieu.
-
-===
-
-* Proposer une poétique numérique : adapter des modes d'écriture "informatique" à la poésie
-
-La démarche gittéraire, dans le cas de la ZAP Rimbaud, parvient ainsi à déployer un cercle vertueux entre écriture littéraire et écriture computationnelle : c’est tout le sens d’une cyberpoétique. Conformément au principe fondamental du hack, il s’agit d’écrire par-dessus Une saison en enfer, mais toujours à partir du poème. Nos figures littéraires, issues de la stylistique et de la rhétorique, viennent ainsi se superposer à des procédures de hacking (ou tout simplement d’amélioration) du code. Par exemple, là où l’informatique opère une factorisation (des éléments de code recréés plusieurs fois), la poétique déploie des répétitions, anaphores ou épiphores :
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-
->La parascience, notre nouvelle noblesse ! La croissance de la décroissance. Le progrès déprogresse. Les âmes de bien déprogressent. Salvatio for the Pachamama. Nous, êtres du mal, nous l’accélération. Contre le monde en marche. Le globe sur la tête. Marquage au fer. Pourquoi ne révolutionnerait-il pas, à l’envers ? Décentré, décuplé en caniveaux de billets inventés, de cours adescendants. La science, la nouvelle noblesse ! Le progrès. Le monde marche ! Pourquoi ne tournerait-il pas ? La science, la nouvelle noblesse ! Le progrès. Le monde marche ! Pourquoi ne tournerait-il pas ? La science, la nouvelle noblesse ! Le progrès. Le monde marche ! Pourquoi ne tournerait-il pas ? La science, la nouvelle noblesse ! Le progrès. Le monde marche ! Pourquoi ne tournerait-il pas ? La science, la nouvelle noblesse ! Le progrès. Le monde marche !
-
-<!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-===
-
-Là où l’écriture du code construit des variables, la poétique propose des polyptotes ou des dérivations, quitte à figurer le bug :
-
-Dans le texte original : « La science, la nouvelle noblesse ! Le progrès. Le monde marche ! Pourquoi ne tournerait-il pas ? »
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->Ah ! Le réseau à l’estomac ! #NOFILTER ! Ne jeter pas vos yeux derrière nos difformités. Et ce poison, ce baiser mille fois maudit ! #JETEBAISE. Ce baiser mille fois baisé ! Ma faiblesse, la cruauté du monde ! #JETEBAISE. Mon Dieu, pitié, cachez-moi, hackez-moi, je me tiens trop mal ! #JELESBAISETOUS. — Je suis caché et je ne vis plus. Selfie ! #NOFILTER + #JETEBAISE = <3 ! Je suis haché et je ne sais plus
-
-===
-Avec, tantôt, des opérations de renommage (les « sorcières » du poèmes original se transformant alors en « hackeuses »), tantôt des ajouts inédits dialoguant avec l’œuvre du poète Rimbaud, judicieusement rebaptisé « rim-bot » :
-
-Dans le texte original : « Ah ! remonter à la vie ! jeter les yeux sur nos difformités. Et ce poison, ce baiser mille fois maudit ! Ma faiblesse, la cruauté du monde ! Mon Dieu, pitié, cachez-moi, je me tiens trop mal ! — Je suis caché et je ne le suis pas. »
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Toute création est une recréation, toute invention est un vol.
->Ensemble, créons, recréons, inventons et volons.
->Ensemble, nous sommes Arthur Rimbaud.
->Ensemble, nous sommes absolument modernes.
-
-===
-
-Les pratiques « non littéraires » seraient-elles l’avenir de la littérature ? Dans certaines de ses manifestations numériques, la littérature ne cesse de « déborder » : elle déborde le livre, les institutions, les genres, etc. Comme la gittérature s’en fait l’écho, ce débordement s’appuie sur des technologies empruntées à d’autres corps médiatiques, bousculant au passage le sens même de l’écriture. L’appropriation de ces outils implique en effet d’adhérer, au moins en partie, aux philosophies et aux modèles épistémiques qui les sous-tendent. La gittérature participe ainsi d’un large mouvement de désessentialisation du fait littéraire que l’on peut, à la suite de Pascal Mougin, associer au paradigme contemporain : avec ses versions et ses antilivres, elle épouse le tournant médiatique de la littérature ; avec son ouverture dans le temps et dans l’espace (numérique ou non), elle passe d’un régime éditorial à un processus performatif d’éditorialisation ; par sa dimension collective, elle implique la redéfinition du statut de l’auteur.
-
-On retournera aussitôt la question : que nous dit la littérature des écritures numériques ? Ou plus spécifiquement : que nous dit la gittérature de cette forme d’écriture numérique qu’est l’éditorialisation ? Le texte gittéraire, c’est-à-dire fondamentalement un texte travaillé collectivement dans un format plein texte, est régi par le registre et la forge (soit les principes d’enregistrement et de fusion).
-
 L'éditorialisation, ici, se matérialise dans les couches applicatives de la plateforme Gitlab et dans la façon dont les fragments de textes et les traces d’activités sont agencés pour susciter le partage, la collaboration et l’élan collectif vers une création. C’est là que se joue la gittérature, et par conséquent l’éditorialisation : autour du texte davantage que sur le texte lui-même. Cette distinction n’est pas un hasard, tant la pile1 technique, applicative et éditoriale produisent ensemble un milieu d’écriture, dont les caractéristiques sont justement d’être performatifs, processuels, conversationnels. Le texte finalement n’est peut-être qu’un terrain de jeu, un prétexte pour faire advenir le collectif2 et la circulation des idées, pour raviner des interstices de sens où peuvent se nicher la création et l’interprétation.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le livre imprimé : la solution du POD
+
+===
+
+- POD = impression à la demande. vs offset qui nécessite un tirage minimum.
+
+L’impression à la demande est une technique d’impression numérique qui permet d’imprimer un livre en petite quantité. Aussi appelée POD, pour print on demand, l’impression à la demande permet de réduire les coûts pour les faibles tirages. Autres avantages par rapport à l’impression offset classique : il n’y a pas besoin d’un nombre d’exemplaires minimum. L’impression à la demande peut être réalisée pour un seul exemplaire.
+
+D'abord largement développé pour les éditeurs indé ou l'auto-édition, le POD a séduit les grands éditeurs qui peuvent ainsi produire de nouveaux exemplaires en fonction des commandes de lecteurs ou de librairie, sans repasser par un tirage coûteux (notamment en termes de production, mais surtout de stockage et de distribution).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Bod.png" data-background-size="contain" -->
+
+===
+
+Plusieurs boîtes : Lulu mais aussi BOD, utilisé par Abrüpt.
+
+Besoin de « tirer » quelques dizaines d’exemplaires pour les commercialiser en librairie ou sur Internet ? L’impression à la demande permet cette souplesse, là où une impression traditionnelle nécessite des commandes de plusieurs centaines d’exemplaires pour être rentable.
+
+UNE MAÎTRISE DES COÛTS
+Le print on demand permet aux auteurs de maîtriser les risques financiers. Les livres ne sont imprimés que lorsqu’ils sont vendus, ainsi il n’y a pas besoin d’avancer des sommes importantes. En outre, en n’imprimant que ce dont il a besoin, l’auteur ne s’expose pas non plus à la problématique de la gestion de stocks. Avec l’impression à la demande, plus besoin de stocker des centaines d’ouvrages en attendant qu’ils soient vendus. Cet argument pousse même certaines petites maisons d’édition à se tourner vers l’impression à la demande.
+
+UNE MAÎTRISE DE LA CHAÎNE DE PRODUCTION DE A À Z
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Bod1.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Cas numéro 3
+### Diffusion & distribution : le défi des éditeurs indépendants et du POD
 
-### Sens public et la création de l'outil Stylo
+===
+
+Quelle est la différence entre distribution de livre et diffusion de livre ?
+Cette question peut vous paraître simple mais, pour beaucoup d’autres auteurs, la réponse reste floue. Vous êtes nombreux à penser qu’il s’agit de la même chose. À tort, évidemment. La distribution et la diffusion de livres sont deux métiers à part entière, complètement différents. Leur point commun : ils s’inscrivent chacun dans la chaîne de commercialisation des ouvrages. Alors comment les différencier ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les diffuseurs
+* Fonctions : référencer, stocker, expédier, retourner, facturer
+* Sociétés : Volumen (Seuil), Sodis (Gallimard), Union (Flammation), Hachette (Hachette), Interforum (Editis)
+
+>« la distribution assume les tâches liées à la circulation physique du livre (stockage, transport) et à la gestion des flux financiers qui en sont la contrepartie (…) Entre 8 et 15 % du prix de vente du livre revient au distributeur. » (définition SNE)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Les métiers de la distributions sont principalement tournés vers la logistique et peut se résumer en quatre verbes : référencer, stocker, expédier, retourner, facturer.
+
+Pour bien comprendre, il faut revenir en amont de la chaîne de production d’un livre. Lorsque vous terminez la direction d’ouvrage avec votre éditeur, votre livre est prêt à être commercialisé. Vous signez alors un B.A.T. (bon à tirer), qui marque le top départ de votre publication et donc la fin du travail consacré à la création. Votre éditeur peut imprimer un certain nombre d’exemplaires au lancement, ou assurer uniquement l’impression à la demande. Dans tous les cas, votre livre est prêt à être distribuer et c’est là qu’intervient le distributeur.
+
+En France, ils se nomment Volumen, Sodis, Union, Hachette, Interforum. Ils sont les principaux distributeurs français. La plupart de ces grands noms de la distribution ne vous disent rien, et pourtant ils sont tous des filiales de grandes maisons d’édition – respectivement Seuil, Gallimard, Flammarion, Hachette et Editis.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Référencement
+* catalogues de libraires (Dilicom, Electre...)
+* mise au point de fiches descriptives à destination des libraires
+* moteur de recherche pour les commandes
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Les livres sont référencés dans le catalogue des libraires via des entités comme Dilicom ou Electre. Ainsi, les libraires ont accès à une fiche de votre livre sur leur logiciel, ce qui leur permet de commander des exemplaires de votre livre à la demande des clients ou pour le placer en rayon.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Stockage
+* gestion des stocks de livres imprimés (entreposage, inventaire)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Dans un premier temps, le distributeur gère le stock de livres imprimés. C’est toujours utile si le premier tirage de votre ouvrage s’élève à plusieurs milliers d’exemplaires, l’éditeur ne pouvant stocker des dizaines de cartons pesant une tonne dans son bureau...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Gestion des expéditions et des retours
+* Envoi des commandes
+* Gestion des retours
+* Mise au pilon...
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Lorsqu’un exemplaire de votre livre trouve preneur, le distributeur assure l’expédition, c’est-à-dire qu’il conditionne le colis et l’envoie par voie postale aux librairies, aux clients finaux ou à toute autre adresse renseignée par l’acquéreur. Concrètement, lorsqu’un lecteur commande votre livre sur Amazon ou dans une librairie de quartier, ils se passe trois choses : Amazon et la librairie encaissent l’argent puis transmettent la commande au distributeur qui expédie le livre sous 48h, la plupart du temps.
+
+Selon les éditeurs, une politique de retour des livres invendus est mise en place, ainsi que la mise au pilon (destruction). Cette étape, qui permet aux éditeurs et aux auteurs de minimiser les risques financiers est, paradoxalement, facturée très cher par les distributeurs, ce qui explique que certains éditeurs ne gèrent pas cet aspect.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Facturation
+
+===
+
+c’est le distributeur qui se charge de la facturation pour la simple et bonne raison qu’il est en contact direct avec les centrales d’achat et les librairies (physiques et en ligne) qui commandent les livres. Il comptabilise donc les exemplaires vendus (expédiés puis facturés par tous les intermédiaires) et transmet ponctuellement un rapport de vente aux éditeurs, ces derniers vous le transmettant à leur tour.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les diffuseurs
+* Fonctions : commercial et marketing
+* Sociétés : Hachette, Sodis, Dilisco, Interforum
+
+>« la diffusion désigne l’ensemble des opérations commerciales et marketing mises en œuvre par les éditeurs dans les différents réseaux de vente (…) entre 4 et 7 % du prix de vente du livre revient au diffuseur ». (définition SNE)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+Le métier du diffuseur est principalement commercial et marketing. Il favorise la présence des livres dans les librairies physiques et sur les salons littéraires.
+
+Si le distributeur permet à votre livre de pouvoir être acheté partout, le diffuseur fait en sorte qu’il soit vu partout, quel que soit le point de vente : librairies indépendantes, chaines, grandes surfaces, marchands de journaux, centrales d’achat, etc.
+
+Aujourd'hui, les grands diffuseurs sont les sociétés qui gèrent également la distribution.
+
+
+Pour réussir, le diffuseur s’appuie sur une équipe de commerciaux, nommés « représentants », qui se consacre entièrement à la vente des livres, selon les étapes suivantes :
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Quelques exemples de tâches pour le diffuseur
+* Définition avec l'éditeur des objectifs de vente (combien d'exemplaires insérer sur le marché ?)
+* Démarchage des points de vente pour faire connaître le catalogue de l'éditeur
+* Produire et distribuer des supports de promotion
+* Assurer le réassort des livres pour éviter les ruptures de stock
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Définir avec votre éditeur un objectif de nombre d’exemplaires de livres à insérer sur le marché.
+Démarcher les points de vente pour leur faire connaitre le catalogue de votre éditeur et les convaincre de commander des exemplaires.
+Fournir aux points de vente des supports de promotion pour mieux vendre : kakémonos, présentoirs, affiches, etc.
+Prendre les commandes réceptionnées par les points de vente et les fournir à votre éditeur (qui les fournit ensuite au distributeur).
+Assurer le réassort des livres dans les points de vente pour éviter les ruptures de stock.
+Sensibiliser les points de vente sur les nouveautés littéraires de votre éditeur, puis reprendre au point 3., et ainsi de suite.
+
+Bref, les diffuseurs font du porte-à-porte dans l’espoir de placer en rayon les livres de votre éditeur. Ça peut paraître normal, mais ça reste une exception dans le monde de l’édition. Peu d’éditeurs peuvent recourir aux services d’un diffuseur car ça coûte très cher et c’est un milieu élitiste. Les diffuseurs ne travaillent qu’avec des grands noms de l’édition, les éditeurs indépendants ne les intéressant guère.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le graal de la diffusion et de la distribution
+* Un service coûteux réservé aux grands éditeurs
+* Un travail pris en charge par de nombreux éditeurs indépendants
+
+===
+
+Comme nous l’avons vu, la diffusion et la distribution peuvent parfois être assurées par la même société. Mais la sélection à l’entrée est souvent un frein pour de nombreux éditeurs qui ne peuvent compter sur aucun distributeur, ni aucun diffuseur. Ils entretiennent alors du mieux possible leur réseau de libraires pour vendre vos livres. C’est un travail de titan qu’ils assure souvent uniquement dans leur secteur. Le stockage, l’expédition et la facturation des commandes leur incombent aussi. Ces éditeurs-là sont des héros, mais leur efficacité est bien moindre que celle d’éditeurs entourés d’un distributeur et d’un diffuseur.
+
+Si avoir un diffuseur semble être l’apanage des gros éditeurs, un certain nombre de petits éditeurs peuvent se targuer de travailler avec un distributeur. Ces éditeurs-là méritent toute votre attention car bénéficier d’une bonne distribution est un minimum si vous souhaitez exister. Si une bonne diffusion profite aux auteurs reconnus pour vendre des centaines de milliers d’exemplaires de leur livre, une bonne distribution vous permettra au moins de trouver vos lecteurs et d’être vendu partout dans le monde. Finalement, si la diffusion est LE graal quasi inaccessible pour espérer faire de votre ouvrage un bestseller, la distribution est un minimum pour que vos livres soient visibles et disponibles.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
