@@ -36,11 +36,53 @@ Les mutations techniques liées à la fabrique du livre, mais également à sa d
 
 ===
 
-Cette année, l'une des plus grandes et des plus prestigieuses maison d'édition indépendantes est passée sous le giron de Gallimard. Ou, plus précisément, du groupe Madrigall, qui a été créée par Antoine Gallimard, petit-fils du fondateur Gaston Gallimard (maison fondée en 1911). Le groupe Madrigall, à la tête duquel préside encore Antoine Gallimard, est composé d'une quinzaine de maisons d'édition, de 9 librairies et de filiales de diffusion et de distribution. Il forme le troisième groupe éditorial français, depuis le rachat de l'ensemble Flammarion en 2012.
+L'an dernier, l'une des plus grandes et des plus prestigieuses maison d'édition indépendantes est passée sous le giron de Gallimard. Ou, plus précisément, du groupe Madrigall, qui a été créée par Antoine Gallimard, petit-fils du fondateur Gaston Gallimard (maison fondée en 1911). Le groupe Madrigall, à la tête duquel préside encore Antoine Gallimard, est composé d'une quinzaine de maisons d'édition, de 9 librairies et de filiales de diffusion et de distribution. Il forme le troisième groupe éditorial français, depuis le rachat de l'ensemble Flammarion en 2012.
 
-Minuit, on aura l'occasion d'y revenir, était particulièrement importante dans le paysage français : maison créée pendant la guerre, maison résistante, spécialisée dans une littérature exigeante mais également en SHS.
+Minuit était particulièrement importante dans le paysage français : maison créée pendant la guerre, maison résistante, spécialisée dans une littérature exigeante mais également en SHS.
 
 C'était Irène Lindon, la fille de Jérôme Lindon (lui-même resté à la tête de la maison pendant près d'un-demi siècle), qui était alors encore en charge de la maison. Si officiellement les responsables se sont réjouis de la nouvelle, quelques dents ont grincé...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nyssenActesSud.png" data-background-size="contain" -->
+
+
+===
+
+>Actes Sud traverse une passe difficile. La direction de la maison d’édition arlésienne indépendante a dû se résoudre, en mars, à recourir à un plan de sauvegarde de l’emploi. Sur un effectif de deux cent neuf salariés en CDI, trente postes sont supprimés
+
+>« Nous sommes confrontées à une crise de croissance, pas à une crise économique »,
+
+>Le chiffre d’affaires s’est étiolé à 57 millions d’euros (contre 61,8 millions en 2021) et l’entreprise est devenue déficitaire, malgré la vente des locaux parisiens du 6e arrondissement. Le contexte plus difficile, lié à la hausse du prix du papier – de 50 % à 100 %, selon sa qualité – et des coûts de l’énergie, s’est lourdement fait sentir.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Parmi les investissements à venir figurent les référencements des ouvrages sur Google ou TikTok, mais aussi le développement du livre audio. « Notre goût pour toujours dénicher de nouveaux auteurs reste intact », promet Anne-Sylvie Bameule. La littérature constitue toujours « 68 % de nos ventes, grâce à la collection de livres de poche Babel », ajoute-t-elle.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Un marché en pleine transformation
+- ralentissement post-covid (- 5,4% de chiffre d'affaire pour les éditeurs)
+- croissance par rapport à la période pré-covid (+3%)
+- belle dynamique des ventes de littérature générale
+- difficultés de la littérature étrangère
+- place prépondérante prise par la BD, la romance, le manga
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/manga.jpeg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+
+===
+>« Le marché s’est transformé de façon importante, notamment en raison de la place prépondérante prise par le manga, la bande dessinée et la romance, alors que le pouvoir d’achat des lecteurs reste le même », explique Anne-Sylvie Bameule. 
+
+>Le secteur de l’édition, après avoir affiché des résultats historiques pendant la crise due au Covid-19, a connu un ralentissement. Selon le Syndicat national de l’édition, le chiffre d’affaires des éditeurs a chuté de 5,4 % en 2022, à 2,9 milliards d’euros, mais comparé à 2019, année de référence prépandémique, le marché du livre affiche toujours une croissance de 3,7 %. L’institut GFK note une assez belle dynamique des ventes de littérature générale au premier trimestre 2023 (+ 3 % par rapport à la même période de 2022). Toutefois, chez Actes Sud, comme chez ses concurrents, les ventes en littérature étrangère ont plus de mal à décoller.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/autoedition.png" data-background-size="contain" -->
@@ -81,6 +123,17 @@ Signe que cette volonté d'indépendance est forte, le départ de Sophie DC a en
 >La Ligue des auteurs professionnels est une association loi de 1901 créée en 2018 avec un double objectif, de réflexion sur le métier d'une part et de propositions de solutions concrètes pour la protection et l'avenir de celui-ci d'autre part, afin de créer le statut de l'auteur professionnel. Parmi ses membres fondateurs, on compte la Charte des auteurs et des illustrateurs jeunesse, les États Généraux de la Bande Dessinée et le SNAC BD. De 2018 à 2021, la présidente était Samantha Bailly.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/lambert.png" data-background-size="contain" -->
+
+===
+
+Ces relecteurs chargés de traquer dans les manuscrits des passages ou des situations susceptibles de heurter des minorités, notamment ethniques ou sexuelles, sont-ils utiles ou détestables ? Des appuis, ou des censeurs ? En Amérique du Nord, le recours à ces démineurs éditoriaux s’est considérablement développé ces dernières années. En France, la pratique reste rare. Un décalage qui explique la polémique née autour de Kevin Lambert et de son troisième roman, Que notre joie demeure, portrait d’une architecte star publié en France par Le Nouvel Attila, une maison qui dépend du Seuil (Média Participations).
+
+L’écrivain, cité dans le billet, se réjouit pour sa part que Chloé Savoie-Bernard, une poète et professeure de littérature d’origine québécoise et haïtienne, ait « contribué à l’édition du livre ».
+
+Pour Philippe Claudel, les « sensitivity readers » n’ont pas grand-chose de neuf, sinon leur appellation. « Les éditeurs ont toujours relu les textes avec attention, notamment à ce qui pouvait susciter la polémique, relève l’auteur de Crépuscule (Stock, 2022). Bien des manuscrits sont revus par des avocats, retravaillés par les éditeurs, sans que cela choque personne. Ce qui est intéressant, c’est le texte final. » Pierre Assouline, lui, se montre résolument opposé à cette pratique. « On n’a pas besoin en France de cette police de la pensée importée des Etats-Unis, plaide l’auteur du Nageur (Gallimard, 2023). Si on me le demandait pour un de mes livres, je refuserais. »
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/expansionNumerique.png" data-background-size="contain" -->
 
 ===
@@ -119,7 +172,7 @@ En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de d�
 * Comment penser de nouveaux modèles économiques fondés sur les potentialités du numérique ?  
 * Comment rétribuer justement les acteurs de l'édition ?
 * Quels métiers sont menacés / créés ?
-* Refonte du droit d'auteur ?
+* Doit-on réécrire le droit d'auteur ?
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -132,6 +185,7 @@ En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de d�
 * Les artistes et écrivains doivent-ils développer de nouvelles compétences pour s'insérer dans l'écosystème numérique ?
 * À quoi sert l'éditeur si Amazon peut faire tout le travail (et d'ailleurs, le fait-il vraiment) ?
 * Comment penser la nouvelle relation qui se tisse entre les écrivains et le lecteur, à travers de nouvelles expériences médiatrices (réseaux sociaux, etc.) ?
+* Comment institutionnaliser et rémunérer de nouvelles façon d'écrire (*sensitivity readers*, etc.)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -139,7 +193,8 @@ En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de d�
 
 
 ## Des questions esthétiques et artistiques :
-* Le numérique fait-il émerger de nouvelles esthétiques ?
+* Peut-on tout publier ?
+* Comment valoriser des formes réputées jusque là paralittéraires (BD, Manga, *young adult*) ?
 * Un succès d'autoédition numérique mérite-t-il forcément de passer chez un éditeur traditionnel ?
 * Comment juger de la valeur esthétique de productions médiatiques totalement inédites (la littérature "numérique", par exemple) ?
 
