@@ -175,6 +175,8 @@ L'énonciation, c'est en littérature et en linguistique un concept qui relève 
 
 L'énonciation éditoriale renverse donc le sens de ce qu'est en linguistique et en littérature l'énonciation.
 
+>>Proposer l’expression « énonciation éditoriale » est nécessairement faire œuvre d’hérésie au regard de la linguistique ou des études littéraires. D’un point de vue linguistique, le terme d’énonciation implique qu’il y ait un énoncé et un énonciateur. Or une mise en page n’est pas « une suite finie de mots » ou « de phrases », même si on peut par ailleurs défendre l’idée selon laquelle elle est au texte imprimé ce que la dispositio est à la rhétorique classique. En outre, l’énonciation est originellement définie comme un « acte individuel d’utilisation de la langue », l’énoncé étant « le résultat de cet acte », or l’« énonciation éditoriale » postule précisément une pluralité d’énonciateurs. Le point de vue littéraire qui calque son regard sur la linguistique assènera la même critique.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
@@ -190,10 +192,14 @@ L'énonciation éditoriale renverse donc le sens de ce qu'est en linguistique et
 
 Le concept d'énonciation éditoriale est très fort, car il présuppose une désindividualisation de l'énonciation, qui n'est plus l'acte d'un seul locuteur, mais le résultat d'un ensemble d'interventions sur toute une chaîne de production.
 
-Pour traduire : on considère qu'un livre (et le texte qu'il renferme), n'est plus seulement le fruit de l'intention d'un écrivain, mais le résultat d'un processus engageant une série d'acteurs de la chaîne éditoriale, chacun ayant l'occasion de laisser sa marque sur le livre.
+Pour traduire : on considère qu'un livre (et le texte qu'il renferme), n'est plus seulement le fruit de l'intention d'un écrivain, mais le résultat d'un processus engageant une série d'acteurs de la chaîne éditoriale, chacun ayant l'occasion de laisser sa marque sur le livre :
+
+>Qu’on y songe seulement : auteur, editor, éditeur, directeur de collection, secrétaire d’édition, correcteur, illustrateur, maquettiste, graphiste, typographe, claviste, imprimeur, partenaires officiels ou mécènes… auxquels il conviendrait d’ajouter le fabricant de papier, le façonneur, le relieur, sans parler du libraire ou du diffuseur qui interviennent parfois en amont de la chaîne de production.
+
 
 Problème : les lecteurs n'ont que très peu conscience de cette polyphonie. Ils resteront souvent dans l'illusion d'un dialogue direct avec l'auteur. C'est tout l'enjeu (et l'injustice) de l'édition : les acteurs de la chaîne doivent se faire oublier...
 
+L'énonciation éditoriale est donc à la fois une évidence : c'est elle qui permet au livre d'exister, et elle est en même temps invisible, c'est-à-dire transparente aux yeux des usagers qui ne s'interrogent finalement que très peu sur les conditions de production des livres, et plus largement sur leur matérialité. Le livre est l'un des médias les moins pensés par le grand public qui le consomme pourtant avec avidité. Impensé au sens premier : on n'en fait trop peu un sujet de connaissance, hormis dans le giron de l'Université. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -209,7 +215,7 @@ Parce qu'il insiste sur l'image graphique du texte, le concept d'énonciation é
 
 Penser cette matérialité du texte va plus ou moins à l'encontre de l'héritage des études littéraires, et notamment celui des structuralistes et post-structuralistes, qui ont prôné l'autonomie du texte, pas tant contre sa matérialité, mais contre une certaine conception de l'auteur (c'est le cas de Barthes, dans un texte très connu sur la mort de l'auteur, mais c'est aussi les travaux de Foucault).
 
-Penser la matérialité du texte, et notamment sa graphie, n'est pas qu'une lubie d'éditeur. Il peut avoir du sens dès l'étape de production d'un texte par un auteur.
+Penser la matérialité du texte, et notamment sa graphie, n'est pas qu'une lubie d'éditeur. Il peut avoir du sens dès l'étape de production d'un texte par un auteur. En effet,
 
 >L’énonciation éditoriale peut donc parfois être rendue visible par l’auteur, notamment lorsqu’il décide d’en faire l’une des données constitutives de son œuvre
 
@@ -236,7 +242,9 @@ Exemple Federman
 
 ===
 
-Désessentialiser le texte, pour le repenser dans son écosystème éditorial, et comme le résultat de cette production éditoriale impliquant des conditions matérielles + des compétences et corps de métiers variés.
+Ainsi, j'insiste avec Emmanuel Souchier sur la nécessité de désessentialiser le texte, pour le repenser dans son écosystème éditorial, et comme le résultat de cette production éditoriale impliquant des conditions matérielles + des compétences et corps de métiers variés.
+
+>« Le concept d’énonciation éditoriale renvoie à l’élaboration plurielle de l’objet textuel. Il annonce une théorie de l’énonciation polyphonique du texte produite ou proférée par toute instance susceptible d’intervenir dans la conception, la réalisation ou la production du livre, et plus généralement de l’écrit. Au-delà, il intéresse tout support associant texte, image et son, notamment les écrans informatiques – étant entendu que tout texte est vu aussi bien que lu. »
 
 De cette ultime définition, on retiendra la suivante : le texte est aussi bien "vu" que "lu". C'est tout le sens des couvertures d'ouvrage, par exemple.
 
@@ -251,8 +259,9 @@ De cette ultime définition, on retiendra la suivante : le texte est aussi bien 
 
 ===
 
-Le concept d'énonciation éditoriale propose un autre déplacement très intéressant, du contenu vers le support, l'environnement support du contenu (= le contenant).
-L'énoncé, ce n'est donc plus le texte d'un auteur, mais c'est son inscription matérielle.
+En proposant donc un déplacement de notre attention du contenu vers le support, ou plus exactement de l'environnement support du contenu (= le contenant),le concept d'énonciation éditoriale nous encourage à considérer la forme et la matérialité du livre comme des énoncés, et donc à en lire le sens.
+
+L'énoncé, je le répète mais c'est important, ce n'est donc plus seulement ici le texte d'un auteur, mais c'est également son inscription matérielle.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
@@ -262,9 +271,12 @@ L'énoncé, ce n'est donc plus le texte d'un auteur, mais c'est son inscription 
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
+### Être éditeur, être un membre de la chaîne éditoriale du livre, c'est travailler à l'élaboration de ce texte second.
+
+
 ===
 
-Cette inscription matérielle joue le rôle de "texte second", par rapport au texte premier (qui est le texte écrit par l'écrivain).
+Or cette inscription matérielle joue le rôle de "texte second", par rapport au texte premier (qui est le texte écrit par l'écrivain).
 
 Être éditeur, être un membre de la chaîne éditoriale du livre, c'est travailler à l'élaboration de ce texte second.
 
@@ -287,10 +299,27 @@ Que s'est-il passé avec Dostoïevsky ? D'une édition à l'autre, le texte prem
 
 ===
 
+Évidemment, ce concept d'énonciation éditoriale appelle au développement de notre culture visuelle, médiatique, grpahique ou typographique, et même marketing.
+
 >Mais prendre en compte la dimension graphique, visuelle de l’écriture, et plus généralement de l’information écrite, implique un autre regard, une attention autre que celle dévolue d’ordinaire au texte. Ce regard fait du lecteur habituel un sémiologue attentif, car le texte ainsi considéré présente une résistance physique, matérielle, une présence sociale et idéologique qui s’expriment à travers l’histoire et la culture. C’est toute cette épaisseur de l’écrit que convoque la notion d’énonciation éditoriale.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/dickerCourvertures.png" data-background-size="contain" -->
+
+
+===
+
+ Après le décès de son éditeur Bernard de Fallois en 2018 et la fermeture de la maison d’édition du même nom un peu plus tard, en 2021, l’écrivain Joël Dicker a en effet pris la décision de s’auto-éditer, faute d’avoir été sollicité selon lui par une nouvelle maison d’édition. 
+
+Sa maison s'appelle désormais Rosie&Wolfe.
+
+
+ Observez les couvertures des ouvrages de Joël Dicker, chez Le Fallois puis chez Rosie & Wolfe. En quoi l’énonciation éditoriale assure-t-elle ici une relation de continuité entre les deux maisons ?
+
+Couverture blanche et reproduction d’un tableau d’Edward Hopper, science de l’intrigue, la formule a fait ses preuves depuis 2012. Cette année-là, La Vérité sur l’affaire Harry Quebert (5 millions d’exemplaires vendus dans le monde) a remis d’aplomb une petite maison vieillissante, les Editions de Fallois.
+Trois ans plus tard, Le Livre des Baltimore a confirmé l’addiction du public aux aventures de Marcus Goldman, héros récurrent qui ressemble beaucoup à son créateur, Joël Dicker. Dans L’Affaire Alaska Sanders, troisième tome de la trilogie, qui sortira le 10 mars, ce double de papier continue de surfer sur le succès. Tableau de Hopper (Gas) sur fond blanc, patronyme de l’auteur qui claque en rouge, rien n’a bougé sur le nouveau Dicker. Sauf le nom de l’éditeur, orné d’un petit loup bondissant, son animal fétiche.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### L'image du texte, ou l'importance de la typographie
 ### Le cas Mallarmé : « Jamais un coup de dé n’abolira le hasard »
@@ -334,7 +363,7 @@ En fait, il s'agit d'un projet commencé avant la publication dans *Cosmopolis* 
 
 De cette édition, qui était presque parfaite aux yeux du poète, nous n'avons que ces épreuves : en fait le projet n'a jamais abouti à une publication.
 
-Il tombe ensuite dans l'oubli pendant plus de 50 ans.
+Ce projet tombe ensuite dans l'oubli pendant plus de 50 ans. Le projet Firmin-Didot, pas le poème évidemment, qui poursuit son destin d'oeuvre majeure, intégrant rapidement le canon littéraire.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -344,6 +373,8 @@ Il tombe ensuite dans l'oubli pendant plus de 50 ans.
 ===
 
 Pendant des dizaines d'années, les rééditions (notamment celle de la NRF qui fait autorité) vont se caler sur la version cosmopolis.
+
+NOTE : La création de La NRF, «revue mensuelle de littérature et de critique», est due à un groupe de six écrivains dont André Gide est, depuis le tournant du siècle, le chef de file. Elle connaîtra une audience exceptionnelle, renouvelant dans des sommaires équilibrés, tour à tour composés par Gide et le cercle des fondateurs, puis par Jacques Rivière et Jean Paulhan, les perspectives du roman, du théâtre, de la critique et de la poésie contemporains. Toutes les grandes tendances et voix de l’entre-deux-guerres y seront représentées, «sans prévention d’école ni de parti». De la revue naîtront en 1911 les Éditions de la NRF, placées sous la responsabilité de Gaston Gallimard, et dont Paul Claudel, André Gide et Saint-John Perse seront les premiers auteurs. 
 
 Personne (sauf quelques proches de Mallarmé ou rares collectionneurs et libraires) n'ont eu connaissance des épreuves du projet Vollard, et tous les commentateurs cherchent à déchiffrer le poème sur l'édition héritée de Cosmopolis.
 
@@ -355,7 +386,9 @@ Personne (sauf quelques proches de Mallarmé ou rares collectionneurs et librair
 ===
 La deuxième partie du XXe et le début du XXIe siècle ont vu la multiplication des éditions du Coup de Dés, dans une grande diversité de formats (de luxe ou de poche) et de typographies, certaines s’éloignant de la composition originelle au point de la rendre méconnaissable.
 
-La même période sera aussi celle d’un lent retour aux sources et de la révélation progressive du chef-d’œuvre inconnu oublié dans les tiroirs des collectionneurs.
+Il faut dire que l'on est encore peu sensibles aux conditions matérielles de production et de diffusion des textes.
+
+Parallèlement, La même période sera aussi celle d’un lent retour aux sources et de la révélation progressive du chef-d’œuvre inconnu oublié dans les tiroirs des collectionneurs.
 
 Il faudra attendre 1993 pour qu’un jeu complet d’épreuves soit présenté au public, sous vitrine, et reproduit intégralement dans le catalogue de l’exposition « Poésure et Peintrie » à l’ancien hospice de la Vieille Charité, à Marseille.
 
