@@ -12,7 +12,6 @@
 
 
 ===
-
 Introduction :
 exemple de Phalaina, de Marietta Ren (ancienne étudiante des Gobelins) :
 - à l'image, j'ai un graphisme qui ressemble beaucoup à de la BD
@@ -30,6 +29,9 @@ DÉpendance à la machine de plus en plus forte.
 * Un changement de format (qu'est-ce qui "fait livre" : la tablette, le fichier, l'appli ?)
 * Un nouveau dispositif de lecture (tablettes, liseuse, écran)
 * Des enjeux de stockage et de pérennité (quelle bibliothèque ?)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 
@@ -56,6 +58,9 @@ ENfin : comment penser le stockage de ces ouvrages dans de nouvelles bibliothèq
 * La remédiation a-t-elle une utilité pratique ou n'est-elle qu'un artifice ?
 * Existe-t-il une esthétique ou même une poétique de la remédiation ?
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Le concept de Bolter et Grusin
@@ -64,13 +69,15 @@ ENfin : comment penser le stockage de ces ouvrages dans de nouvelles bibliothèq
 * Effet de mimétisme, de "vampirisation", d'emprunt voire de plagiat
 * Un media "familier" a plus de chance d'être adopté
 
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/remediation.jpeg)<!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
+
+
 ===
 Ouvrage de référence : Jay David Bolter, Richard Grusin,*Remediation : Understanding New Media*. Bolter et Grusin ont vu dans la relation intermédiale une logique évolutive des médias. C’est-à-dire que c’est dans la nature de tout nouveau média que de plagier son aîné.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/remediation.jpeg" data-background-size="contain"-->
-
-===
 
 Le concept de remédiation souligne d’abord une répétition, la trace d’un ancien médium dans un nouveau = il s’agit de vampiriser les formes connues, familières, quotidiennes, pour mieux s’intégrer auprès du public contemporain.
 
@@ -100,6 +107,9 @@ Ce qui signifie : pas de définition stable du media, qui est toujours en proces
 * L'utopie de l'effacement du médium
 * Un effacement qui procède aussi d'une sécularisation des media
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 L'origine de la remédiation est en fait la problématique première de la médiation : comment médier le monde ?
@@ -110,6 +120,8 @@ Comment donner accès au réel ?
 ## La remédiation : deux stratégies possibles
 * Immédiateté (*immediacy*)
 * Hypermédiateté (*hypermediacy*)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -156,7 +168,7 @@ Ici, il s'agit cette fois de surjouer la présence du media, généralement d'un
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
-Maldonaclo - 1961, Venise et adoptée par l'Sortie du siteICSID (Conseil International des Sociétés de Design Industriel)
+Maldonaclo - 1961, Venise. Définition adoptée par l'SICSID (Conseil International des Sociétés de Design Industriel)
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -180,6 +192,9 @@ Idée que l'objet doit être pensé pour faciliter son utilisation : critère de
 * La remédiation de B&G a été d'abord conceptualisée pour penser les nouvelles technologies
 * Application à tous les medias et les arts, depuis l'antiquité
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 Mais on peut en fait appliquer ce concept de remédiation à l'histoire des media en général
 
@@ -197,12 +212,6 @@ source image : "Le voyage dans la lune", Georges Mélies
 
 <!-- .element: class="source" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## La remédiation en 3 points
-* Une logique intermédiale (hybridations médiatiques)
-* Un idéal mimétique (les techniques face au réel)
-* Un concept de design : entre le graphisme (esthétique) et la praxis (les usages)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -242,19 +251,15 @@ C'est l'esthétique par excellence des interfaces
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/mcdonalds-bigmac-indemodable.jpg" data-background-size="contain"-->
-
-===
-
-Mais c'est aussi, au plan communicationnel, un élément très prisé dans la pub... au point que le faux-vintage est devenu une véritable stratégie de com
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/phpThumb_generated_thumbnailjpg.jpeg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Lo-Fi vs Hi-Fi : deux conceptions de l'"authenticité"
 * High-fidelity : medium d’enregistrement = transmetteur d’une performance (sonore, visuelle..) authentique, qui doit rester "muet"
 * Low-fidelity : medium = objet esthétique singulier, déterminé par cette singularité (rayure entre les sillons d’un vinyle, couleurs passées d’une photographie...). La trace du du medium, son "bruit", fait œuvre.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 En vérité, ce sont ici deux conceptions de l'authenticité qui s'affrontent... en lien avec des conceptions assez diverse de la mimesis (concept qui renvoie à la représentation la plus "correcte" du réel).
@@ -324,6 +329,9 @@ Mais n'allons pas trop vite en besogne et observons de plus près ce fameux "liv
 * Une "adaptation" de l'imprimé à un mode de consultation/diffusion numérique (= livres homothétiques)
 * Des propositions techniques et conceptuelles natives numériques (oeuvres hypermédiatiques, livres-appli, etc.)
 * Une production hybride : complémentarité imprimé & numérique ; PAO (publication assistée par ordinateur)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 
@@ -460,8 +468,10 @@ Exemple du manifeste de la revue BleuOrange, paru en 2015.
 >NOUS DISTINGUERONS LE LIVRE NUMÉRIQUE DU LIVRE HOMOTHÉTIQUE DE FORMAT PDF OU DE CERTAINS EPUB, DONT LA FORME SE CONTENTE D’IMITER LE LIVRE PAPIER. IL NE S’AGIT PAS NON PLUS D’UN SITE WEB AU SENS CLASSIQUE DU TERME: UN SUPPORT AU CONTENU EXTENSIBLE ET DONT LA FORME OUVERTE (ECO) EST DIFFICILEMENT CIRCONSCRIPTIBLE PAR LE LECTEUR. CE QUI FAIT LIVRE DANS LE NUMÉRIQUE EST UNE FORME AUTOPORTÉE, CIRCONSCRITE, QUOIQUE DYNAMIQUE ET PARFOIS NON LINÉAIRE, ET DONT L’ESSENCE N’EST PAS NÉCESSAIREMENT LITTÉRAIRE NI TEXTUELLE. L’ÉVENTUEL PARADOXE DU «LIVRE» NUMÉRIQUE SE RÉSOUT DANS UNE ADÉQUATION TOTALE ENTRE LES PARTICULARITÉS DU SUPPORT AU SERVICE D’UN CONTENU PENSÉ NATIVEMENT POUR CELUI-CI.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/theboat_mGD18RhL.mp4" data-background-size="contain"-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CHrxD-wxW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ===
 
@@ -504,6 +514,9 @@ Conduit d'aération : d'abor "roman pour IPad", puis développement en epub3.
 * Ouverture (fermeture) du format
 * Pérennité
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 La fabrique du livre numérique est en vérité encore balbutiante. Pour le dire de manière très honnête, cette fabrique est encore en phase exploratoire : on teste, on avance pas à pas. On fait des erreurs...
@@ -545,6 +558,9 @@ On parle souvent de droits d’auteurs, aujourd’hui ce problème est aussi cel
 * Les GAFAM (logique commerciale, construction de formats fermés)
 * Les consortiums de type W3C (logique éditoriale, de gratuité et d'accessibilité)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 À l’heure actuelle, il existe un peu une « bataille » pour la propriété du web.
@@ -570,6 +586,9 @@ Pb d’un nouveau modèle économique à trouver.
 * Format ouvert, compatible
 * Édition homothétique (avec intégration de media dans les dernières versions)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 L’ePub a pour ancêtre le format Open eBook, créé par SoftBook Press, société fondée en 1996.
@@ -585,10 +604,9 @@ Donc encore toute une réflexion à mener sur ce que peut-être et peut donner u
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Le livre, objet de design (autour de quelques usages inattendus)
-* Un livre est objet de déco
-* Un livre est une très bonne cale quand on ne sait pas bien monter les meubles IKEA...
-* Un livre est une arme du crime presque idéale
+## Le livre, objet de design 
+
+Quelques réflexions sur nos gestes de lecture, et leur possible réinvention en contexte numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/lndlr.jpg" data-background-size="contain"-->
@@ -625,6 +643,8 @@ Dans son roman *Le Nom de la rose*, Umberto Eco met en scène l'une des armes du
 * Le livre engage une sensorialité forte (matérialité)
 * L'acte de lecture est indissociable de ses gestes (aspect kinésique)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 le texte importe parfois moins que « l’acte » de lecture d’abord conçu comme un geste – un geste mortel dans *Le Nom de la rose*
@@ -635,6 +655,9 @@ le texte importe parfois moins que « l’acte » de lecture d’abord conçu
 
 ## Livre et tablette tactile
 * Comment les éditeurs, écrivains, designers, exploitent-ils le potentiel de la tablette tactile, en réinvestissant la dimension kinésique du livre - dimension à la fois pratique et imaginaire ?
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -672,6 +695,9 @@ Cet aspect du design  (qui concerne donc l’expérience lecteur) montre qu’il
 
 >« un élément de design ou une structure qui ne sert aucun but dans l'objet formé à partir du nouveau matériau, mais qui était essentiel dans l'objet fait à partir du matériau original » (Georges Basalla)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 C’est ainsi que l’on peut envisager et revaloriser les premières tentatives de remédiation du livre à l’ère numérique, qui se sont d’abord appuyées sur le principe de design skeuomorphique, lui-même peu à peu associé aux fonctions tactiles des écrans numériques.
@@ -706,6 +732,9 @@ Longtemps critiquée et moquée, la représentation skeuomorphique de la page pa
 * Enjeu : reproduire les gestes de lecture qui donnent eux aussi leur sens au texte
 * Lire, c'est agir, pas seulement regarder... (matérialité performative)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 Aujourd’hui, ce dispositif est devenu assez obsolète, il prête même à sourire, pourtant il serait injuste de la réduire à une métaphore visuelle singeant le papier : il faisait en effet l’effort de comprendre la lecture comme un geste de feuilletage – une pratique performative qui a toute son importance, car elle participe aussi à construire le sens au texte et notre statut de lecteur.
 
@@ -719,6 +748,10 @@ En dépit de son étymologie, qui le fait passer pour un simple « ornement »
 ## Les affordances du livre
 
 >"The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill." (GIBSON, 1986)
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 
@@ -739,6 +772,9 @@ Pour Gibson, l'affordance est l'ensemble de toutes les possibilités d'action d'
 * Mais ne confond-t-on pas la matérialité performative avec un savoir-agir culturel (cf. Eco) ?
 * Penser la "matérialité performative" du livre (Drucker)
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 Pour résumer, les affordances désignent le potentiel d'action d'un environnement - soit dans le cas qui nous occupe, le potentiel d'action du media livresque, *tel qu'il est perçu par l'usager*.
@@ -758,18 +794,15 @@ Cette distinction entre affordances "réelles" et "apprises"[^debatAffordance] a
 
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->"Performative materiality draws on studies in cognition, perception, reader-response, textual hermeneutics, interface design, and curiously, it is supported by empirical and theoretical approaches. It shifts the emphasis from acknowledgement of and attention to material conditions and structures towards analysis of the production of a text, program, or other interpretative event. After all, no matter how detailed a description of material substrates or systems we have, their use is performative whether this is a reading by an individual, the processing of code, the transmission of signals through a system, the viewing of a film, performance of a play, or a musical work and so on. Material conditions provide an inscriptional base, a score, a point of departure, a provocation, from which a work is produced as an event." (Johanna Drucker, 2013)
-
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## La remédiation comme réitération d'un geste
 * Réinvestir l'expérience kinésique du livre
 * Remédier = agir plutôt que pastiche
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 Dès lors, on comprend pourquoi c'est la stratégie de l'hypermédiateté qui s'est révélée gagnante dans la construction des interfaces de lecture contemporaines : il s'agissait de jouer sur les affordances culturelle (notre connaissance du livre en tant que média, sa performativité matérielle), pour prendre en main de nouvelles machines de lecture.
@@ -782,6 +815,9 @@ La remédiation apparaît ainsi non pas comme une simple "Imitation" des livres 
 * Apple vs IOS
 * Des gestes pré-construits
 * Des technologies propriétaires (donc, des gestes "sous embargo")
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 Pb : faire ces gestes suppose un travail technique que l'on néglige souvent alors qu'il est décisif.
