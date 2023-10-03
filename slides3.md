@@ -507,6 +507,30 @@ sous-titres.
 Conduit d'aération : d'abor "roman pour IPad", puis développement en epub3.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LieuxPerec1.png" data-background-size="contain"-->
+
+
+===
+
+Lieux de Perec : une véritable édition numérique. 2022
+
+Pas toujours besoin de choses très spectaculaires. 
+Les opérations les plus réussies sont celles qui vont vers du low-tech.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LieuxPerec2.png" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LieuxPerec3.png" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LieuxPerec4.png" data-background-size="contain"-->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Enjeux techniques et éditoriaux du livre numérique
 * Interopérabilité
