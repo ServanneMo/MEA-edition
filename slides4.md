@@ -1,784 +1,1025 @@
 
 
-##  Éditorialisation : du chantier littéraire à l’oeuvre ouverte
+## Autorisation(s)
 
-![](img/desordre1.png)<!-- .element: style="width:400px" -->
+### Écrivain.e.s et éditeur.rices face à l’utopie de la désintermédiation et à la tentation de l'auto-édition
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/desordre.mp4" data-background-size="contain"--->
-
-===
-
-Désordre = site de Philippe de Jonckheere, un écrivain et artiste belge.
-
-Présentation du site :
-
->un site où s'accumulent depuis 2001, en un immense bric-à-brac, les différents projets de l'artiste. On y déniche un carnet de notes et des fictions hypermédiatiques, mais aussi des photographies, des dessins, des casse-têtes, de nombreux hommages à des écrivains marquants, ainsi que des commentaires sur l'actualité. On y explore à loisir une mémoire qui se montre volontairement déstructurée, les efforts déployés par son auteur étant tout entiers dirigés vers une expérience de navigation sans cesse plus déroutante. L'internaute est invité à se perdre parmi les milliers de fichiers qui se trouvent sur le site — en 2004, le site en contenait déjà plus de 24 000! Faire l'expérience du Désordre, c'est aborder le Web comme un flâneur davantage intéressé par le processus qui mène à la découverte qu'au résultat lui-même.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/desordre1.png" data-background-size="contain"--->
+![](img/book.gif)<!-- .element: style="width:400px" -->
 
 ===
 
-Arriver sur la page d'accueil de Desordre, c'est arriver sur un immense index (pensez à une table des matières) ici représentée sur l'interface comme une immense table de travail où des images s'empilent une à une. Chacune de ces images est une porte d'entrée vers une oeuvre. Vous cliquez, la page s'ouvre généralement dans une nouvelle fenêtre.
+Dans cette séance ainsi que dans la suivante, nous allons évoquer le grand malaise du monde de l'édition contemporaine, un malaise qu'il n'est sans doute pas évident à entendre et à saisir, dans la mesure où nous sommes, nous, du côté des éditeurs, mais un malaise pourtant essentiel à comprendre, puisqu'il concerne en premier lieu les interlocuteurs et les artistes que nous prétendons valoriser : les écrivains. 
 
-C'est un algorithme qui puise au hasard les oeuvres pour organiser cet index interactif. Autrement dit : on est face à une sorte de jeu de roulette russe.
+Sans éditeur, pas d'auteur, on l'a dit.
 
-Si vous quittez le site pour y revenir plus tard, la page d'accueil ne sera plus la même. Votre expérience de navigation est donc à chaque fois unique.
+Mais sans écrivain, pas d'éditeur non plus. Et cela, certains semblent l'avoir peut-être oublié.
+
+Le concept majeur de cette séance, c'est donc celui d'auteur : ce statut qui résulte de l'alchimie opérée entre l'écrivain et l'éditeur (je n'emploie pas alchimie uniquement dans un sens figuré, mais vraiment pour évoquer cette transformation, ce changement d'état qui s'opère grâce à la médiation éditoriale). Or ce concept d'auteur ayant émergé en même temps que le modèle éditorial moderne, c'est-à-dire un modèle à présent fortement bousculé par le fait numérique, il est normal qu'il se trouve désormais au coeur de nombreux débats.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Tour d'horizon du problème...
-* Des pratiques d'écriture "automatiques"
-* Un corpus fragile, disséminé et éphémère
-* Des objets hyper/multimédiatiques
-* Des "entrées", navigations, lectures, toujours différentes et singulières
+<!-- .slide: data-background-image="img/mortelleAdele.png" data-background-size="contain" -->
 
 ===
 
-Comme on ne se baigne pas deux fois dans le même fleuve, on ne lit pas deux fois le même Desordre.
+L'une des manifestations les plus criantes et médiatisée de ce malaise s'incarne notamment dans la tendance de l'auto-édition, dont il sera largement question aujourd'hui et la semaine prochaine. Une tendance illustrée par des cas particulièrement médiatisés -- Joel Dicker, Riad Sattouf et, dernier exemple en date, Antoine Dole et Diane Le Feyer, dont les noms vous sont sans doute moins familiers que celui de leur héroïne : Mortelle Adèle. 
 
-Le désordre sans cesse se reconstruit, se réagence et s'augmente.
+La semaine dernière, tous deux ont annoncé créer leur propre structure après avoir quitté leur éditeur historique Bayard Jeunesse.
 
-Cette dimension processuelle, instable, des objets numériques (si vous y pensez, n'importe quel site porte cette instabilité, à commencer par votre journal quotidien, ou encore votre réseau social préféré), porte un nom : on l'appelle l'éditorialisation.
-
-Ce cours est dédié à ce concept clé de la culture et de la création numérique, puisque cela ne vous aura pas échappé : dans éditorialisation, nous retrouvons un peu le terme édition, pourtant quelque peu modifié. On va voir en particulier ce que le concept d'éditorialisation fait à un autre concept essentiel en littérature : celui d'oeuvre.
-
-Oeuvre = terme un peu sacralisant, qui porte en lui-même la fonction de légitimation propre à la fonction éditoriale. Idée de stabilité : l'oeuvre, c'est ce qui est intouchable. Ce qui a perduré dans le temps. Dématérialisation / abstraction totale.
+Écoutons ensemble le reportage diffusé la semaine passée sur France Culture.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mortelleAdele.png" data-background-size="contain" -->
 
-### Problématiques
-
-Ces pratiques d’écriture en ligne, qui déplacent à la fois les lieux et les instances de production, diffusion et validation des textes, relèvent-elles encore de l’édition ? Que désigne exactement le concept *éditorialisation* et quelles mutations du fait littéraire prend-il en charge ? Le statut ontologique de la littérature est-il en train de changer sous l'effet de l'éditorialisation ?
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Sommaire
-
-(1.) L'éditorialisation : présentation et discussion d'un concept
-
-(2.) Le livre à l'heure de l'éditorialisation : le modèle du read/write book
-
-(3.) Étude de cas : l'écrivain François Bon dans son chantier littéraire
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## (1) L'éditorialisation
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ngramEditorialisation.png" data-background-size="contain"-->
+<audio data-autoplay src="img/mortelle-ade-le-reportage.mp3"></audio>
 
 
 ===
 
-Le terme éditorialisation est un néologisme récent, forgé à partir de 2004, pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Le concept reste encore instable et débattu : clairement il fait l’objet d’un intérêt très fort, mais sa définition est encore en construction.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ngramEditorialisation.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Cartographie du concept
-* Un néologisme récent (< 2004)
-* Un concept interdisciplinaire
-* Articulation théorie/pratique
-
-===
-
-
-Malgré ses frontières encore mouvantes (ce qui en fait d'ailleurs l'intérêt), le concept d'éditorialisation fédère un nombre croissant de chercheurs et d’institutions, dans une perspective interdisciplinaire. À vrai dire, les littéraires sont encore un peu à la traîne sur le terrain de l'éditorialisation, qui fait surtout l'objet d'études approfondies en info com (avec Louise Merzeau), philo (Gérard Wormser), design, bibliothéconomie...
-
-Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer les théoriciens et les praticiens : ceux qui construisent des outils, des plateformes d’édition et de gestion des contenus, ceux qui réfléchissent aux conséquences culturelles, ontologiques de ces nouveaux outils. La notion implique en effet un dialogue constant entre théorie et pratique.
-
-Entre théorie et pratique, les praticiens sont ainsi amenés à développer une approche critique de leurs outils et environnement, et de leur côté, les théoriciens doivent nécessairement ancrer leurs concepts sur des cas concrets et une connaissance technique de l’environnement numérique.
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### 2004-2007: apparition du terme
 
-  * Une "sorte" d'édition dans l'environnement numérique
-  * Bruno Bachimont : le document numérique comme remédiation d'une ressource numérisée
+### Comment "s'autorise"-t-on aujourd'hui, avec ou sans éditeur ?
 
 
 ===
 
+Mais peut-être faut-il commencer par expliciter ce concept. Car, justement, je tiens à prendre de biais ce concept d'auteur qui, pris en tant que substantif, me semble assez trompeur. Pour être auteur, il faut d'abord se légitimer ou être légitimé par quelqu'un. On ne naît pas auteur, on le devient, on s'autorise, et on s'autorise de manières parfois très différentes, en fonction du contexte social, professionnel, historique dans lequel on se trouve. S'autoriser, donc, pour s'extraire de la figure littéraire un peu encombrante de l'auteur (une figure très sacralisée chez nous), et en revenir à une conception médiatique, philosophique, finalement très basique : comment s'autorise-t-on ? Comment assumons-nous de prendre la parole et, à l'inverse, comment cette parole est-elle légitimée dans ce nouvel espace public contemporain, largement déterminé par les technologies numériques ?
 
-Un auteur important : Bruno Bachimont qui met en avant le concept d'éditorialisation en 2007, dans un chapitre de *L’indexation multimédia* intitulé « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation ».
-
-Bruno Bachimont utilise le terme pour parler du passage d'un document non-numérique à un document numérique (on n’est pas seulement dans le texte littéraire, mais dans la question du document - archivistique et information)
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+La question que je peux poser sera donc la suivante : comment "s'autorise-t-on" aujourd'hui ?
 
 
-> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications.
->
-> Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in _L’indexation multimédia_, Paris, Hermès, 2007
+Je reviendrai d'abord sur quelques polémiques qui ont agité ces dernières années le monde de l'édition, et sur les initiatives prises par les écrivains pour contester le pouvoir de l'éditeur. 
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+À une époque occupée par des mutations techniques, sociales et culturelles importantes, on reviendra par ailleurs sur les initiatives éditoriales prises par les écrivains pour tenter de s'émanciper des éditeurs avec lesquels certains sont désormais en conflit ouvert. Le choix de l'auto-édition, qui n'est pas nouveau mais qui a fait l'objet d'une attention accrue ces derniers temps avec des projets particulièrement médiatisés et surprenant (Docker, Sattouf, etc.) sera également à l'ordre du jour : on explorera quelques stratégies d'autoédition, pour en pointer les avantages mais, surtout peut-être, les pièges. La désintermédiation tant attendue se solde en effet bien souvent par des désillusions. 
 
-===
-Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiatisée et remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
+On évoquera par ailleurs le rapport Racine, aujourd'hui laissé en déshérence, mais qui proposait il y a 3 ans des pistes pour repenser le droit d'auteur : un vaste chantier complexe, encore balbutiant, qui s'annonce comme l'un des défis majeurs de ces prochaines années.
 
-Pour le dire autrement : en changeant de milieu, le document est amené à devenir autre.
-Le processus d'indexation multimédia n'est donc plus seulement une forme d'édition mais d'éditorialisation (l'éditorialisation venant ici désigner ce changement de nature qui s'opère)
+Dans cette réflexion, nous "mélangerons" les auteurs : il sera question à la fois d'auteurs très institutionnalisés, collaborant depuis toujours avec des éditeurs traditionnels, mais également d'auteurs plus "avant-gardistes", qui se sont toujours construits un peu à la marge des réseaux traditionnels.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-2008: institutionnalisation du concept
-  * Séminaire «Écritures numériques et éditorialisation» (Sens Public, IRI, Dicen-IDF, UdeM)
-  * De nouveaux documents et objets "natifs numériques"
+### Auteurs et éditeurs, la longue histoire d'une relation amour-haine
+
+>J’irai prochainement vous voir. Mais comme il y a deux Michel, celui de son bureau, qui croit devoir être hérissé comme un sauvage, et celui du domicile personnel, qui est parfait homme du monde, vous me permettrez de choisir le second. Tout à vous. 
+
+>Baudelaire à son éditeur Michel Lévy
 
 
-===
-À partir de 2008, le terme commence ainsi à s'institutionnaliser.
-
-Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-L'éditorialisation permet alors de penser un processus un peu plus complexe car ouvert à tous : auteurs, collectivités, plateformes (donc outils de type algorithme), dynamiques pratiques.
-
-L'un des grand théoriciens du concept est Marcello Vitali-Rosati, dont nous allons présenter et discuter la pensée du concept.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner (...) à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
-
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+![](img/baudelaire.jpeg)<!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
 
 ===
 
-Le concept d'éditorialisation souligne en premier lieu les différences entre les modèles éditoriaux classiques et les modèles éditoriaux numériques. Il se réfère à des pratiques éditoriales que l'on ne peut réduire à ce que l'on entend généralement par « édition ».
+Remise en perspective : les tensions entre auteur et éditeur sont consubstantielles à l'histoire de l'édition. 
+Les conflits que nous traversons présentement sont importants, mais nous n'en sommes pas à la première crise entre éditeurs et écrivains, deux métiers qui ont profondément besoin l'un de l'autre, mais sont dans un espèce de rapport de concurrence. On adore se détester.
 
-Là où l'éditorialisation restait chez Bachimont un processus assez limité, pas si éloigné de la curation de contenu, MVR développe - avec d'autres : Louise Merzeau, G. Wormser - une théorie assez ambitieuse qui tend à saisir les implications culturelles, épistémologiques et ontologiques de ce processes d'éditorialisation.
-
-Dans l'article que vous aviez à lire pour aujourd'hui, 3 définitions sont données.
+Exemple ici de Baudelaire, avec son éditeur Michel Lévy.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### 1. Définition restreinte
 
-> Selon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le web. En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques.
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
+#### Crispations lors de la réforme de l'AGESSA
+
+
+>L’auteur, en France, est la cinquième roue du carrosse bien huilé de l’édition. Une variable qu’on ajuste selon le bon ou le mauvais temps du marché.
+
+>Guilhem Méric
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/TribuneMheric.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+En 2018, la réforme de l'AGESSA (caisse de retraite des écrivains) a mis le feu aux poudres.
+
+Ajouter visuel
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>On nous a fait l’aumône d’un statut bâtard, quelque part entre travailleur indépendant et profession libérale. Nos revenus tirés des droits d’auteur (entre 5 % et 12 % du prix hors taxe du livre, selon la spécialité et la notoriété de l’auteur) ne donnent droit à aucun congé et quasiment aucun droit au chômage ou à la retraite. Aujourd’hui, on nous invente, sans concertation aucune avec les organismes intéressés, une caisse de retraite censée remplacer l’Agessa, qu’il va falloir remplir en versant l’équivalent d’un salaire qu’aucun auteur ne touche, vu que nous ne sommes pas des salariés. A la différence de tous ceux que notre travail fait vivre dans la grande chaîne du livre, soit environ 80 000 personnes.
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 
-===
+>Guilhem Méric, *Le Monde*
 
-la définition restreinte s’intéresse aux mutations des outils de l’édition numérique, qui se caractérise par l’apparition de nouveaux dispositifs et corps de métier, et la disparition d’autres dispositifs et corps de métier.
-
-Si l’éditorialisation = ce que « devient l’édition sous l’influence des technologies », pourquoi ne parle-t-on pas simplement d’édition numérique ? Tout simplement parce que la mutation engagée par le déplacement de l’édition avec les outils numériques et sur le web est telle, qu’elle vient modifier en profondeur ce que l’on entend par édition : c'est ce que décrivait déjà Bachimont, finalement.
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-
-> L'éditorialisation façonne et structure les contenus sans se limiter à un contexte fermé et bien défini (comme une revue) ou à un groupe prédéfini d'individus (comme les éditeurs). Elle implique une ouverture de l'espace (plusieurs plateformes) et du temps (plusieurs contributions différentes, à des moments distincts). Cette ouverture est l'une des différences principales entre curation et éditorialisation et elle est aussi ce qui différencie l'éditorialisation de l'édition traditionnelle. L'ouverture de l'éditorialisation par rapport à l'édition papier détermine une certaine perte de contrôle de l'écrivain comme de l'éditeur sur le contenu. En effet, tous deux ne sont plus que des acteurs parmi d'autres du processus éditorial, qui s'élargit considérablement.
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-
-===
-
-L’ouverture dans le temps et dans l’espace est devenue le principe fondateur de l’éditorialisation = nature PROCESSUELLE de l’éditorialisation. Or c’est justement cette ouverture que notre modèle éditorial avait cherché à verrouiller. Le principe de l’édition était de publier des textes qui devaient faire référence - on n’était pas supposés pouvoir les modifier sans cesse, et on devait les circonscrire dans un objet.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Le salon du livre 2018
 
 
 
-### 2. Définition large
+![](img/PayeTonAuteur.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
 
-> Dans un monde numérique connecté, exister signifie être éditorialisé. En effet, dans l'espace numérique, un objet doit être connecté et mis en relation avec les autres objets pour exister. (...) Pour qu'une personne existe dans l'espace numérique, elle doit avoir un profil sur Facebook, sur Twitter, sur LinkedIn ou sur une autre plateforme qui puisse l'identifier et la rendre visible. L'éditorialisation devient donc une condition d'existence. Or, sur la base de cette idée, éditorialiser ne signifie pas seulement produire des contenus, mais aussi produire la réalité elle-même. Selon cette définition très large, l'éditorialisation désigne l'ensemble des formes collectives de négociation du réel.
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-
-===
-Mais si l’on s’est embêté à créer un néologisme, c’est aussi parce que ces mutations ont des conséquences culturelles, épistémologiques, et même ontologiques. C’est que l’éditorialisation doit aussi se comprendre à une échelle plus large, qui n’est pas seulement liée à la question des techniques/outils de production/diffusion/validation des textes : un changement plus profond serait en train de s’opérer - sur la définition même du savoir (connaissance renfermée dans les livres), de la littérature (ce qui fait littérature), de la culture.
-
-C’est pour mesurer ce changement paradigmatique que l’on a pu forger une seconde définition de l’éditorialisation : **DEF**
-
-Le problème de cette définition, c’est quelle est tellement large et essentialiste (on touche à la philo, et notamment à des questions ontologiques, liées au rapport entre réel et non-réel), qu’elle nous fait nous éloigner un peu de nos préoccupations du moment. Il ne s’agit pas de dire qu’elle est fausse, mais qu’elle touche plus à la science fondamentale qu’à la science appliquée. Or il est très urgent aujourd’hui de développer une théorie appliquée de l’édition.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-### 3. Définition philosophico-pratique
-
-
-> L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+![](img/XauteursEnColere.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 ===
 
-[CITER]
+Paye ton auteur et conflit au salon du livre 2018
 
-Ainsi posée, cette définition reste un peu floue, en fait on peut la préciser en prenant en compte trois aspects implicites de l'éditorialisation : un aspect technologique, un aspect culturel et un aspect pratique. Mais le mieux est de prendre un exemple : le cas de Twitter.
+En 2018, l’ouverture du Salon du livre de Paris avait vu le départ d’une mobilisation des « auteurs en colère », 
+
+>Un mouvement sans précédent est né à l’annonce du refus des organisateurs de Livre Paris, Reed Expo et le Syndicat national de l’édition (SNE), de rémunérer les interventions d’auteurs. 
+
+Le SNE et le salon ont finalement plié, et le salon s'est déroulé en présence des auteurs, rémunérés pour leur participation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-
-### 3 aspects implicites de l'éditorialisation :
-* Technologique : un environnement prescriptif (Twitter et ses 140/280 caractères)
-* Culturel : Twitter n'a pas inventé la forme courte (maxime, Haiku, poésie...)
-* Pratique : le pouvoir des usagers (invention du #)
-* Bref, une dynamique stygmergique (A/R)
+### La menace de la "dés-autorisation"...
 
 ===
-
-* Technologie :
-Le terme éditorialisation a été créé en partie pour prendre en compte l'impact des technologies sur la production des contenus.
-
-TWITTER : on peut faire de la littérature sur Twitter en 140#280 caractères !
-
-> L'environnement numérique est prescriptif, car il détermine la forme des contenus qu'il héberge. La dimension technologique est donc fondamentale pour l'édition, mais en même temps, on ne peut pas réduire l'éditorialisation à ce seul aspect.
-
-* Culture
-Mais tout comme il faut prendre en compte l'impact des technologies sur la production des contenus - il faut en retour reconnaître l’impact de nos habitudes culturelles et de nos pratiques sur les technologies.
-La forme elliptique n’a pas été inventée par Twitter !!!
-// question de la contrainte = poésie.
-
-* Pratiques
-Le troisième et dernier aspect de l'éditorialisation – son aspect pratique – nous amène du côté des pratiques, sans lesquelles les structures culturelle et technologique ne pourraient exister.
-> L'action de mettre un # avant un mot dans l'environnement Twitter fait de celui-ci un mot-clé. À l'origine, cette action n'avait pas été prévue par la plateforme, car Twitter n'avait pas été conçu pour gérer des mots-clés. Puis, un premier usager a commencé à utiliser le #, bientôt suivi d'un groupe de personnes, et cette action est devenue une pratique – pratique qui a obligé Twitter à adapter sa plateforme, pour prendre en compte les mots-clés – que nous appelons aujourd'hui des hashtags.
-
-On a souvent tendance à craindre le technodéterminisme. Il faut comprendre le processus dans un cercle vertueux, bcp plus complexe qu’on ne le laisse penser.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Caractéristiques de l'éditorialisation
-
-- ouverte
-  - plusieurs plateformes
-  - plusieurs acteurs
-  - toujours inachevée
-- processuelle
-- collective
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Portée de l'éditorialisation
-
->«La différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.»
->
-> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-
-===
-
-Important : dimension performative de l'éditorialisation.
-
-Éditorialiser, c'est faire, c'est créer.
-- L'éditorialisation vient faire appel à une activité et une responsabilité accrue des acteurs-lecteurs
-- L'éditorialisation implique aussi une série d'outils et de protocoles qui ne sont pas toujours maîtrisables
-
-Là où l'édition trad était finalement très normée, avec des structures d'autorités très fortes, l'édito implique une perte de contrôle qui peut s'avérer problématique pour nos institutions, mais aussi pour nous, lecteurs-internautes. Comment sont triés les résultats d'un page Google ? Je peux influer sur les résultats via mes recommandations. En même temps je n'ai pas la main sur l'algorithme...
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-### Enjeux de l'éditorialisation
-
-* Comment garantir la production, la circulation et la légitimation des contenus à l'ère numérique ?
+On peut avoir été auteur et ne plus l'être. Du moins, administrativement. C'est la mésaventure qui est arrivée à François Bon en 2018.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/agessa.jpg" data-background-size="contain" -->
 
-## Nouvelles manières de lire, nouvelles façons de penser/voir le monde
-
->Plus on travaille avec les technologies numériques, plus on en vient à apprécier la capacité des machines programmables et en réseau à effectuer des tâches cognitives sophistiquées, et plus le clavier en vient à paraître une extension de ses propres idées plutôt qu’un instrument externe sur lequel on se contente de taper. L’incarnation prend alors la forme d’une cognition étendue, dans laquelle la capacité d’action et la pensée des humains sont impliquées dans des réseaux plus larges qui, au-delà de l’ordinateur de bureau, s’étendent à l’environnement. (Katherine Hayles, *Comment nous pensons*)
-
-<!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## 2. Le livre à l'heure de l'éditorialisation : le modèle du read/write book
-
-![](img/readwrite.png)<!-- .element: style="width:400px" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/readwrite.png" data-background-size="contain"-->
-
-Source : Pierre Mounier et Marin Dacis *Read/Write Book*, [Livre 1](https://books.openedition.org/oep/128?lang=fr) et [Livre 2](https://books.openedition.org/oep/226?lang=fr).
-
+source : Tiers livre, François Bon
 <!-- .element: class="source" -->
 
-
-===
-
-Théorie du Read/Write book : terme emprunté à l'écriture informatique : en informatique, le RW web = principe inscrit dans le protocole http, qui consiste à dire que tout document n'est pas seulement "à lire", mais aussi à "écrire". Dans un protocole de communication, il y a des règles et actions de base protocolaires (on sert la main d'un pote, mais pas de son prof). En informatique, qd un navigateur demande à un serveur un document, il le fait selon les 2 actions de base suivante : get + post url. On a tendance à penser qu'en tant que consommateur, les documents que l'on consomme sont en lecture pure. Mais en fait, le principe du http est de créer des doc en écriture.
-COncrètement, on n'a pas toujours le droit/ la permission d'écrire -- le protocole prévoit l'ouverture d'un droit d'écriture. Mais la possibilité de l'écriture est naturellement inscrite dans le protocole http.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-## Read/Write ?
-* L'avenir du livre est d'être scriptible (par le lecteur)
-* Livre "en ligne" : fonction de réappropriation
-
->Le livre n’est pas que lecture, c’est aussi une interface adaptée pour écrire, chercher, annoter… C’est le livre qui s’écrit et se lit. C’est le Read/Write Book. ([Qu'est-ce qu'un livre à l'heure du numérique ? Hubert Guillaud](https://books.openedition.org/oep/147))
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-===
-
-
-Le read/write book est une proposition pour penser la remédiation du livre, hors de la tentation homothétique. Pas nécessairement une technologie "spectaculaire" (comme on a vu avec les livres-arts), mais, une philosophie du livre "ouvert".
-
-Pour les éditeurs traditionnels, le livre est forcément uniquement lisible. Or ce que l'idée du RW book défend soudain, c'est la possibilité de lire + écrire le livre. Vers une édition différente : édition continue, par exemple.
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Des lectures qui "font" le livre, des exemplaires uniques
+>Zut alors : privé d’« assiette sociale ». J’avais une assiette sociale sans le savoir et je n’en ai plus.
+Dingue : pour la 1ère fois depuis... 1986, JE NE SUIS PLUS auteur ni quedalle... bon, j’ai du vieux cuir tanné – et quelques états de service derrière moi, mais ça montre bien :
+- 1, comment la précarisation des auteur.e.s touche globalement et massivement désormais TOUTE la profession ;
+- 2, que le régime démerde ça va être massivement la règle pour tou.te.s les d’jeuns qui débarquent dans le métier ;
 
->Vous ne lisez pas de la même façon selon le support ou l’outil que vous utilisez. Pas plus que vous ne commentez un livre de la même façon dans un forum généraliste ou dans une discussion entre spécialistes. Le but de l’électronique est de faciliter nos objectifs finaux, qui sont, comme le disait Alberto Manguel dans _Une histoire de la lecture_, différents pour chacun. L’électronique personnalise nos lectures : nous n’aurons plus un même exemplaire, mais chacun aura le sien, avec des couches d’information qui nous seront en partie personnelles, et d’autres que l’on partagera avec des amis ou d’autres lecteurs. ([Qu'est-ce qu'un livre à l'heure du numérique ? Hubert Guillaud](https://books.openedition.org/oep/147))
+>Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Des livres modulaires
+>Psychologiquement, pour moi, c’est la première fois depuis 30 ans, et depuis 20 ans de web, ce sont mes activités numériques indépendantes (y compris la vente de mes livres Tiers Livre Editeur, qui payent frais de site et matos, mais sur lesquels je ne me rémunère pas en D.A.) qui deviennent mon activité principale.
 
->Avec l’économie de l’attention, c’est la posture de lecture qui est renouvelée. Accéder à un livre dépendait de modalités simples : l’achat ou l’emprunt. Avec le numérique, la gamme des modes d’accès s’élargit. On peut louer un livre de nombreuses manières : n’avoir accès qu’à des extraits, ou encore n’avoir accès que sur un type de support (comme cherche à le faire en partie le Kindle d’Amazon). ([Qu'est-ce qu'un livre à l'heure du numérique ? Hubert Guillaud](https://books.openedition.org/oep/147))
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
-===
-Pour un titre = plusieurs formats, correspondant à différents mode de consommation, cad différents modes de lecture.
+>Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
 
-Ainsi, la plupart des éditeurs proposent, parfois pour le même prix, un "Pack livre" avec plusieurs formats distincts :
-- imprimé
-- numérique PD
-- numérique pour application liseuse
-- numérique sur un site web...
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/abrupt.png" data-background-size="contain"-->
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/jeanneyformats.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/cnl_08.jpg" data-background-size="contain" -->
 
+source : Tiers livre, François Bon
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Vers de nouveaux contrats de lecture
-* Appropriation
-* Annotation
-* Partage
+### Des collectifs de plus en plus vindicatifs
+
+![](img/ligue-2020.jpg)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
+
+![](img/XauteursEnColere.png)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
+
 
 ===
 
-cela peut semble redondant, mais non. Derrière ces multiplicités de format, il y a l'idée que de nouveaux contrats de lecture se dessinent.
+Dans le même temps, on assiste à la création de plusieurs collectifs : payeTonAuteur, auteursEnColère par exemple ou encore la Ligue Des Auteurs professionnels qui fait bcp parler d'elle avec sa communication efficace. Ces nouveaux collectifs cherchent à repenser leur statut, de manière parfois bien plus vindicative que les collectifs plus anciens, tels que le Conseil permanent des écrivains et la SGDL (Société des gens de lettres). Notons qu'il n'existe pas de syndicat d'écrivain (précaunication du rapport Racine).
 
-Tout est fait pour favoriser les actions du lecteur : pour que le livre soit un objet "pratique", manipulable. Garantir une appropriation.
+Globalement, ces nouveaux groupes dénoncent la dégradation de leurs conditions de rémunération et d’alerter sur son aggravation inévitable avec les réformes de l’Agessa, de l’impôt sur le revenu et de la CSG.
 
+Au-delà de ces revendications conjoncturelles, ils militent pour une meilleure reconnaissance de leur travail, une réflexion sur leur statut et un rééquilibrage en leur faveur du partage de la valeur créée par le commerce du livre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Vers une nouvelle "économie" de l'attention (Yves Citton)
-* Apprendre à tisser le fil de l'attention / de la distraction
-* Vers des environnements interactifs
-* Vers plus de modularité
-* Vers des modèles d'appropriation
+
+### La problématique contemporaine de l'auctorialité 
+Le concept moderne d’auteur est le fruit du processus ayant permis la professionnalisation des auteurs dans le modèle économique de l’édition imprimée. En d’autres termes, la fonction fondamentale de l’auctorialité est la propriété. Mais comment prendre en compte la diversification récente des activités de l'écrivain, pris dans une économie de l'attention dans laquelle il doit entretenir son « capital de visibilité » ? Que fait-on des écrivains qui ont choisi de publier *autrement* ? 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 ===
 
-Cela nous rappelle évidemment ce que l'on a discuté lors du cours de com.
+L’un des problèmes soulevés par le numérique est le statut de l’auteur, largement incarné par la notion légale **et** symbolique de "droit d’auteur", impliquant non seulement un statut fiscal et des règles de rémunération, mais également un certain respect de l’oeuvre. Ce respect de l'oeuvre ne porte pas uniquement sur son intégrité (assurance que l'oeuvre ne soit pas trahie, plagiée), mais aussi l’assurance de la promotion et de la diffusion du travail d’un écrivain. Or cela, les grands éditeurs, regroupés en concentrés en groupe média, sont les premiers à mal le respecter, dans un monde régi par une économie de l'attention difficile à maîtriser, on l'a vu.
+
+
+La grogne de nombreux auteurs vient sans doute d'une décorrélation grandissante entre la réalité à laquelle sont confrontés aujourd'hui les écrivains, et les règles qui régissent leur statut (règles fiscale, notamment). Il faut dire que le concept moderne d’auteur, et sa définition juridique en particulier, sont le fruit du processus qui a permis la professionnalisation des auteurs au sein d'une modèle économique propre à l’édition imprimée. 
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+>Les droits d’auteur ne sont donc pas assimilables à un salaire, et le contrat d’édition n’est pas un contrat de travail – impliquant une durée du travail et un lien de subordination entre employé et employeur –, ni un contrat entre un donneur d’ordre et un fournisseur. Il a parfois été comparé à un contrat de mariage entre deux partenaires s’alliant pour permettre la diffusion commerciale d’une œuvre.
 
->Dans l’ancien modèle, celui du livre papier, seules les publications les plus rentables existent (font l’objet d’une décision de publication favorable). La rareté est donc du côté des publications. Dans le nouveau contexte, toutes les publications possibles existent : ce sont alors les lecteurs qui deviennent rares. C’est le fondement de ce qu’on appelle l’économie de l’attention, avec une conséquence importante : si ce sont les lecteurs qui sont rares et non plus les publications (relativement les unes aux autres), alors les barrières d’accès aux documents deviennent contre-productives. Le principal souci des publications est désormais d’être lues, connues et reconnues. ([Pierre Mounier « L’édition en ligne : un nouvel eldorado pour les sciences humaines »](https://books.openedition.org/oep/169))
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+>Marie-Pierre Vaslet, "Entre auteurs et éditeurs, une relation de plus en plus mouvementée, *The conversation*, 2019.
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+>Rappelons que le droit d’auteur a été introduit en France à la fin du 18e siècle, pour protéger les auteurs de la rapacité des éditeurs. Un éditeur pouvait auparavant négocier l’achat d’un texte à un auteur et ne pas lui verser un sou de plus si son ouvrage se vendait bien. Aujourd’hui, la rémunération des auteurs en droits proportionnels aux ventes est obligatoire (hors quelques cas particuliers pour lesquels le versement d’un droit forfaitaire est admis) : l’auteur touche un pourcentage des ventes calculé sur le prix public HT. **Les droits d’auteur ne sont donc pas assimilables à un salaire, et le contrat d’édition n’est pas un contrat de travail – impliquant une durée du travail et un lien de subordination entre employé et employeur –, ni un contrat entre un donneur d’ordre et un fournisseur. Il a parfois été comparé à un contrat de mariage entre deux partenaires s’alliant pour permettre la diffusion commerciale d’une œuvre.**
+
+Dans le droit d'auteur actuel, la fonction fondamentale de l’auctorialité est la propriété. Problème : Comment prendre en compte la diversification des activités de l'écrivain, pris dans une économie de l'attention dans laquelle il doit entretenir son « capital de visibilité » ? De plus, que fait-on des écrivains qui ont choisi de publier *autrement*, justement pour mieux entretenir leur capital de visibilité ? 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnqueteSituationEco.png" data-background-size="contain" -->
+
+
+===
+
+Dans une grande enquête lancée en 2017 par le ministères de la culture, en partenariat avec l'AGESSA et la SGDL -- cela peut sembler dater un peu, mais les principales tendances demeurent d'actualité et, surtout, pas de chiffres plus à jour -- on note que pour une écrasante majorité des 100 000 « auteurs en activité » l’écriture est une activité connexe, du moins du point de vue du revenu.
+
+Note : "auteurs en activité" = leur nombre est évalué par le comptage des « assujettis » à l’Agessa, le régime de Sécurité sociale des artistes-auteurs, qui est financé par les cotisations obligatoires sur les droits d’auteur. Dit autrement : un auteur est un individu qui touche des droits d’auteur. La plupart du temps, l’auteur en ce sens comptable est également celui qui tient la plume (ou le pinceau), mais pas toujours… Il arrive qu’un « auteur » signe un ouvrage en fait rédigé par un autre. Plus fréquemment, un éditeur salarié peut intervenir dans la conception et/ou l’écriture d’un livre. À l’inverse, les correcteurs ont parfois été rémunérés en droit d’auteur (plusieurs affaires de requalification en salaires, ainsi que l’utilisation contestée du statut d’autoentrepreneur, ont aujourd’hui réduit cette pratique).
+
+L’enquête estime par ailleurs qu'une grande majorité des auteurs (autour de 70%) vivent principalement d’une autre activité ou d’une pension de retraite. Parfois c’est même le métier principal qui rend possible le travail d’auteur : un auteur de manuel scolaire doit être nécessairement professeur ou inspecteur de l’Éducation nationale, un auteur de livre d’architecture nécessairement architecte, etc.
+
+La sociologue Nathalie Heinich a montré le rôle essentiel de la pluriactivité ainsi que les difficultés rencontrées par les écrivains pour concilier les deux mondes de l’art et de l’argent, du commerce et des idées.
+
+Pour autant, la rémunération est cruciale pour les « auteurs professionnels », ceux qui vivent aussi de leur plume. Ces derniers seraient au nombre d’environ 5 300 (p. 9), si l’on compte le nombre d’affiliés à l’Agessa, avec une grande variabilité en fonction du secteur éditorial : de 45 % pour les auteurs de BD à 1 % pour les auteurs en droit (p. 47). On ne peut cependant établir un compte exact des auteurs dont l’écriture est l’activité principale, et qui touchent malgré cela un montant trop faible de droit pour être affiliés à l’Agessa. Ce chiffre est donc sans doute un minimum. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Un exemple d'édition "continue"
+### Salaire ou revenu ?
+>8 % seulement de l’ensemble des 100 000 auteurs ont perçu des revenus d’auteur supérieurs au niveau du smic en 2013. Mais l’on précise rarement qu’il est impossible de déterminer combien parmi eux entendraient vivre de leur plume – et encore moins à quel temps d’activité correspond ce revenu. Un livre peut ainsi produire des droits pendant plusieurs années. Un auteur de best-seller « en activité » pourrait vivre sans rédiger une ligne sur les ventes d’un livre écrit une décennie plus tôt. Et lorsqu’un auteur touche un revenu faible, qui sait si, derrière, il y a quelques heures ou plusieurs mois de travail ? Cette précision ne doit pas masquer le fait qu’au final, 41 % des auteurs professionnels perçoivent moins de l’équivalent d’un smic et 10 % seulement plus de trois smic.
+
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Marie-Pierre Vaslet, "Entre auteurs et éditeurs, une relation de plus en plus mouvementée, *The conversation*, 2019.
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+Une question à se poser, d'autant plus aujourd'hui, alors que l'Activité de l'écrivain tend à se diversifier, c'est : pour quoi un auteur doit-il être payé ? Le principe du droit d'auteur, c'est qu'il propose une rémunération sur un produit, le livre et donc plus précisémment sur la vente de ce livre, une rémunération qui est donc totalement détachée du temps de travail (combien de temps on passe à écrire un livre) ou encore d'une quelquonque idée de pénibilité (quelle implication psychologique ? Quelles recherches ? etc.).
+
+Au sens strict, donc, le droit d’auteur ne rémunère pas la rédaction d’un texte (ou un dessin), encore moins le temps passé à y travailler, mais les ventes issues de son exploitation commerciale. Voilà pourquoi un éditeur peut affirmer que les intérêts de l’auteur sont les mêmes que les siens : les livres qui font vivre une maison d’édition sont de fait également ceux qui font vivre leurs auteurs ; et lorsqu’un auteur reçoit des droits particulièrement faibles, dans bien des cas cela signifie que son éditeur a perdu de l’argent sur son livre.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/communs1.png" data-background-size="contain" -->
 
-Source : *Sens public*
+>Le principe du droit d’auteur est de lier partage du revenu et partage du risque éditorial – l’éditeur risquant son argent, l’auteur son temps. Ce système est au fondement du modèle économique du livre depuis deux siècles et les éditeurs l’ont chevillé au corps. Certains auteurs y trouvent largement leur compte, lorsque leurs livres se vendent bien, les autres s’en accommodent tant qu’ils n’ont pas besoin de leurs droits pour vivre et qu’ils trouvent dans la publication une rémunération immatérielle satisfaisante.
+
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Marie-Pierre Vaslet, "Entre auteurs et éditeurs, une relation de plus en plus mouvementée, *The conversation*, 2019.
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+===
+On pourra également préciser que 
+
+>Le principe du droit d’auteur est de lier partage du revenu et partage du risque éditorial – l’éditeur risquant son argent, l’auteur son temps. Ce système est au fondement du modèle économique du livre depuis deux siècles et les éditeurs l’ont chevillé au corps. Certains auteurs y trouvent largement leur compte, lorsque leurs livres se vendent bien, les autres s’en accommodent tant qu’ils n’ont pas besoin de leurs droits pour vivre et qu’ils trouvent dans la publication une rémunération immatérielle satisfaisante.
+
+Mais cette logique atteint ses limites et devient plus difficile à défendre lorsque le métier se professionnalise de fait, et notamment à la demande des éditeurs : le cas des traducteurs, des illustrateurs (en particulier pour la jeunesse) est souvent avancé. Mais dans cette professionnalisation, on peut également ajouter les activités de promotion dans les salons, sur les plateaux TV et radio, la construction de la visibilité sur les réseaux devenue essentielle dans une économie de l'attention.
+
+
+D’ailleurs, si le droit d’auteur est dans son esprit détaché d’un temps de travail comme on l’a vu, les usages montrent que ce dernier est parfois pris en compte. Les éditeurs peuvent ainsi verser des avances sur droits ou à-valoir, dont les montants varient certes en fonction des espoirs de ventes et capacités de négociation de l’auteur, mais sont parfois établis par l’usage en référence à un « temps de travail » : les à-valoir des traducteurs sont calculés au prorata du nombre de feuillets fournis ; un scénariste BD reçoit un à-valoir très inférieur à celui de son co-auteur illustrateur qui passe beaucoup plus de temps sur ses planches, etc.
+
+Marie-Pierre Vaslet évoque ainsi un "glissement du régime « vocationnel » de certaines catégories d’auteurs vers un régime professionnel".
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Un Droit d’auteur mal adapté ?
+
+>Le droit d’auteur n’a jamais été très bien fait, mais là il est encore plus à côté de la plaque qu’avant. Alors contre les droits d’auteur ? Bien sûr que non. Seul constat que la proposition s’est complexifiée, et que dans cette complexification ce qui est rétribué tient de l’intervention, du service, et passe de fait par un mode de rétribution qui déjà s’est éloigné de l’univers des droits d’auteur. De même que le livre n’est plus le domaine exclusif de notre activité et notre présence (je n’en fais pas un dogme, juste je prends acte), de même un dossier ou une table-ronde centrée sur la problématique des droits d’auteur ne mérite pas qu’on aille y perdre notre temps, on à trop de boulot là où se constituent ces usages neufs. (François Bon)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+===
+
+Dans ce contexte, on peut comprendre que les sirènes de l'auto-édition, et en particulier de l'auto-édition numérique, soient suivies par de plus en plus d'auteurs.
+
+>Le droit d’auteur n’a jamais été très bien fait, mais là il est encore plus à côté de la plaque qu’avant. Alors contre les droits d’auteur ? Bien sûr que non. Seul constat que la proposition s’est complexifiée, et que dans cette complexification ce qui est rétribué tient de l’intervention, du service, et passe de fait par un mode de rétribution qui déjà s’est éloigné de l’univers des droits d’auteur. De même que le livre n’est plus le domaine exclusif de notre activité et notre présence (je n’en fais pas un dogme, juste je prends acte), de même un dossier ou une table-ronde centrée sur la problématique des droits d’auteur ne mérite pas qu’on aille y perdre notre temps, on à trop de boulot là où se constituent ces usages neufs. (François Bon)
+
+Les éditeurs, confrontés à une mutation technologique sur laquelle ils ont peu de prise, se replient sur des pratiques juridiques et commerciales issues du XIXe siècle, et les auteurs, plus indépendants que jamais, envisageraient soit de mandater des agents littéraires pour que leurs droits soient respectés, soit de devenir « éditeurs et diffuseurs d’eux-mêmes », grâce aux nouvelles licences « libres » qui leur permettent de moduler le périmètre de leurs droits.
+
+Attention, quoiqu'il en soit, à une forme d'hystérie qui instrumentalise le terme « Droit d’auteur », sans générer davantage d’interrogations sur la nature du Droit d'Auteur, et sur le statut particulier des oeuvres littéraires et artistiques qu'il vise à protéger. Dès lors, considérant les oeuvres comme des biens marchands traditionnels, "repenser le droit d'auteur" se limite à trouver les solutions techniques pour garantir le paiement à l'acte de lecture.
+
+Pour de nombreux écrivains - parmi lesquels Bon - le fait que certains grands groupes tels qu’Amazon souhaite rendre obligatoire les dispositifs anti-copie dans les outils numériques (DRM) ne fait que renforcer l'idée que sous la confusion des projets se cache une orientation claire, visant à accroître la marchandisation de la culture.
+
+Une orientation opposée aux intérêts globaux de la société.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les sirènes de l'auto-édition
+- des stratégies éditoriales variées
+- un long chemin de croix
+- une formule pas encore complètement gagnante
+- un désir d'émancipation
+
+===
+
+Bcp à dire sur l'auto-édition : des modèles variés, des réalités très différentes.
+
+- des stratégies éditoriales variées
+- un long chemin de croix
+- une formule pas encore complètement gagnante
+- un désir d'émancipation
+
+On va proposer non pas un panorama exhaustif, mais quelques exemples permettant de baliser une séries d'enjeux et de problématiques.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Auto-édition : de quoi parle-t-on ?
+* Autoédition
+* Autopublication
+* Publication à compte d'auteur
+
+===
+
+Histoire ancienne, pratique variée qui remonte bien avant les pratiques numériques, et qui renvoie à des réalités distinctes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Publication à compte d'auteur
+L’édition à compte d’auteur consiste pour un auteur à faire éditer ses propres ouvrages par un éditeur qui assure seulement la partie technique de l’édition et de la diffusion, en dehors du choix éditorial proprement dit. Dans un contrait de publication à compte d'auteur, c’est donc l’auteur qui paie les frais d’impression et de publicité de son livre, tout en restant propriétaire de ses droits d’auteur.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+L’édition à compte d’auteur consiste pour un auteur à faire éditer ses propres ouvrages par un éditeur qui assure seulement la partie technique de l’édition et de la diffusion, en dehors du choix éditorial proprement dit. C’est donc l’auteur qui paie les frais d’impression et de publicité de son livre. Il reste cependant propriétaire des droits d’auteur et contrôle le nombre de livres édités.
+
+Un éditeur qui publie à compte d’auteur n’est pas un éditeur stricto sensu, mais un prestataire de services. L’auteur devient un client.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Proust_1913.jpg" data-background-size="contain" -->
+
+
+===
+
+Publication à compte d'auteur : système inventé par Bernard Grasset.
+
+Grasset avait fondé une maison d'édition avec laquelle il a expérimenté de nombreuses stratégies éditoriales très mal vues à l'époque (notamment par la NRF de Gallimard), car on considérait qu'elles portaient atteinte à l'intégrité des oeuvres et de la littérature.
+
+C'est à lui que l'on doit notamment la naissance du marketing éditorial, avec la création de publicités destinées à vanter certains livres.
+
+Comme la maison était plutôt jeune, et pas forcément bien dotée (quoique 2 de ses auteurs remportent le Goncourt dans les années 1910), elle a ouvert la possibilité à des écrivains de publier sous leur bannière ou label éditorial, à leur frais.
+
+Exemple de Proust. En 1913.
+>L’accord est signé avec Grasset : 1250 exemplaires du premier tome sont imprimés, dont 1000 pour la vente et 250 pour le service de presse et l’auteur.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/editionsBaudelaire.png" data-background-size="contain" -->
+
+===
+
+Concrètement, le texte ne passe pas devant un comité de lecture (pas d'opération de "sélection" qui fait le propre de la fonction éditoriale traditionnelle), mais intégrait tout de suite le circuit de fabrication.
+
+L’éditeur à compte d’auteur n’assume pas ce qu'on appelle le risque éditorial. En contrepartie, l’auteur ne lui cède pas ses droits. Il reste le propriétaire du tirage et reçoit la majeure partie du produit des ventes.
+
+Dans une publication à compte d'auteur, typiquement, l'écrivain ne bénéficie pas tout à fait de la fonction de légitimation accordée traditionnellement par l'éditeur :
+- du moins, il ne bénéficie pas de l'approbation d'un comité éditorial (cf. fonction de production qui engage une opération de sélection du contenu)
+- mais il bénéficie tout de même des compétences techniques de fabrication du livre, et de ce que l'on a appelé l'énonciation éditoriale. De fait, la plupart du temps, vous ne vous rendrez même pas compte qu'un ouvrage a été publié à compte d'auteur.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/lharmattan.png" data-background-size="contain" -->
+
+
+===
+L’Harmattan
+La maison d’édition l’Harmattan a été fondée en 1975. Elle s’est fait connaitre en publiant des ouvrages d’auteurs Africains, ou tiers-mondistes. Aujourd’hui, le nombre de livres publiés par l’Harmattan est très impressionnant. La maison accueille de nombreux auteurs.
+
+La maison permet d’éditer son livre gratuitement, mais ne verse des droits d’auteurs qu’à partir du 500ème livre vendu. C’est une pratique ambiguë, mais qui a l’avantage de permettre aux auteurs de publier facilement leur livre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Auto-publication
+Stricto-sensu, l’autopublication (dérivé de l’anglais *self-publishing*) consiste à *rendre public* un texte, sans nécessairement chercher à le commercialiser.
+
+===
+
+La deuxième distinction à opérer est sans doute plus ténue, et touche deux termes souvent employés de manière synonymique : auto-édition et auto-publication. Je commencerai par ce dernier terme, qui renvoie à une pratique très large dans laquelle peut entrer l'auto-édition.
+
+Stricto-sensu, l’autopublication (dérivé de l’anglais *self-publishing*) consiste à *rendre public* un texte, sans nécessairement chercher à le commercialiser.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/desordre2.png" data-background-size="contain" -->
+
+source : *Désordre*, Philippe de Jonckeere
 
 <!-- .element: class="source" -->
 
+===
+Tout ce qui relève de la publication numérique sur le web, à titre personnel.
+
+Les sites perso, blogues, micro-bloging
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/commun2.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/spip2.png" data-background-size="contain" -->
 
-Source : *Sens public*
+source : Fuir est une pulsion, Guillaume Vissac
 
 <!-- .element: class="source" -->
 
+===
+SPIP = plateforme de publication ++
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/communs3.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/MarilynIntagran1-instagram2.png" data-background-size="contain" -->
 
-Source : *Sens public*
+source : Anne Savelli, comptes instagram
 
 <!-- .element: class="source" -->
 
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/wp.png" data-background-size="contain" -->
+
+
+
+===
+
+Des plateformes dédiées, de type wattpad... Et là, on voit déjà une progression : des outils de plus en plus formattés, qui laissent une liberté d'expression et une autonomie assez variable.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/kindleDirectPublishing.png" data-background-size="contain" -->
+
+===
+
+Des services de production de livre électroniques, comme le Kindle direct publishing (j'en dirai un mot tout à l'heure).
+
+Sylvie Bosser :
+>S’il n’est évidemment pas question ici de recenser la totalité des acteurs qui ont investi cette modalité de publication, il semble toutefois pertinent de dégager deux tendances majeures. D’une part, des acteurs importants du Web qui se positionnent sur les rangs de bataille en termes de captation des ressources, à savoir principalement Kobo Writing Life (Fnac), iBooks Authors (Apple). De moindre envergure en termes de rôle joué sur le net, Je publie mon livre initié par Chapitre.com ou encore par exemple lulu.com se situent sur le même
+registre que les précédents qui, à l’instar de KDP, ne demandent aucune contribution
+financière à l’auteur. Nous avons, d’autre part, des services d’autoédition numérique tels que
+librinova qui proposent, quant à eux, contre rémunération, un accompagnement de l’auteur
+sous la forme de prestations professionnelles tout en permettant également une
+commercialisation de l’ouvrage sur plus de 90 librairies en ligne.
+
+Des succès : Agnès Martin-Lugand *Les gens heureux lisent et boivent du café* (adpatation ciné)
+
+L'auto-publication = une solution pour les primo-auteurs. D'où la valorisation et la médiatisation de success-story
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Quel modèle économique : fin du modèle unitaire ?
-* Repenser le produit : qu'est-ce que l'on vend ?
-    * Un accès (Amazon) ?
-    * Des espaces publicitaires (blogues) ?
-    * Un objet (l'imprimé dans les chaînes hybrides)?
-    * Des services (comptes "Premium") ?
+### Auto-édition
+L’autoédition (souvent employé comme un synonyme d'autopublication) renvoie à un modèle d'auto-publication qui se veut qualitatif, et qui s'inscrit encore dans un modèle éditorial traditionnel, où l'objet livre demeure un produit essentiel. L'auto-édition aura par ailleurs souvent une vocation marchande.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/FBediteur2.png" data-background-size="contain" -->
+
+===
+
+François Bon & Tiers-livre éditeur...
+Différence entre le site Tiers-Livre qui relèverait de l'auto-publication : pas de vocation commerciale
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/FBediteur.png" data-background-size="contain" -->
+
+====
+
+Et Tiers-livre éditeur qui propose la vente de livres produits par l'auteur.
+
+Chez François Bon
+
+Dans la distinction entre auto-édition et auto-publication, il y a encore l'idée de vouloir soutenir le principe d'édition comme garant d'une forme de qualité.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/heuresIndues.png" data-background-size="contain" -->
+
+====
+
+Et le cas d'un livre-objet comme Pierre Ménard et son *Esprit d'escalier*
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+>"Alors que l'on définit la publication comme un processus de mise en forme d’un contenu préalablement sélectionné (collecté, agrégé, synthétisé…), en vue de sa diffusion collective, pour l’autopublication, il faut ajouter : “sans intermédiaire”. C'est effectivement cette notion de désintermédiation qui est en jeu. Le producteur de documents est aussi le diffuseur. Une autre notion essentielle concerne la sélection/validation. Elle permet de réaliser la distinction entre publication et édition. L'autopublication dans ce cadre associe la production à la diffusion directe reléguant la sélection à l'édition, à un tiers. <font color = red>La désintermédiation s'accompagne parfois d'une réintermédiation souvent fondée sur un service non-marchand.</font>"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>Gallezot Gabriel et Ertzscheid Olivier, « Swaper la publication »
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Le concept sur lequel je voudrais à présent proposer quelques définitions = désintermédiation, dont on a eu l'occasion de parler à plusieurs reprises, sans pour autant creuser la définition et les implications.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Dans une économie de l’attention, le plus important n’est pas le contenu (on le trouve ailleurs, autrement, sous une autre forme), mais le service ajouté, individualisé et proposé au lecteur. Quel avantage pouvez-vous lui apporter ? Ceux qui ont la lourde tâche d’imaginer les services numériques de demain doivent se donner pour tâche de donner du pouvoir à l’utilisateur ! Plus il lui sera offert d’interactions, de libertés, de possibilités, plus il se tournera vers ces services-là. Les offres trop fermées (exploitant un seul catalogue), trop limitatives (DRM qui interdisent l’impression, la copie sur plusieurs supports, absence de solutions sociales…), seront autant d’éléments qui ne joueront pas en votre faveur dans une économie de l’attention. ([Qu'est-ce qu'un livre à l'heure du numérique ? Hubert Guillaud](https://books.openedition.org/oep/147))
+## L'utopie de la désintermédiation
+* La disparition d'intermédiaires historiques...
+* ... sitôt remplacés par de nouveaux acteurs (géants du web, GAFAM... avec des modèles économiques et culturels différents)
+
+===
+
+Ce que les débats sur l'autorité contemporaine travaillent, c'est d'abord une tension entre l'utopie, propre à l'économie numérique, d'une désintermédiation, et la réalité d'une ré-intermédiation qui ne dit pas toujours son nom.
+
+La désintermédiation, c'est quoi ?
+La désintermédiation est d'abord un concept économique, qui a connu une fortune dès les années 60 avec le développement de techniques numériques qui rendaient obsolètes certaines activités ou tâches traditionnellement accomplies par des individus au sein de services qualifiés.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Qu'entend-t-on par désintermédiation ?  
+
+Processus établissant une relation directe entre une entité (industrielle, culturelle, institutionnelle) et ses usagers, entraînant la disparition de certains services traditionnellement chargés d'assurer des services de transmission, diffusion, médiation, etc. (les "intermédiaires").
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+On peut définir la désintermédiation comme l'établissement d'une relation directe entre une entité (industrielle, culturelle, institutionnelle) et ses usagers, entraînant la disparition de certains services -- et par conséquent la disparition d'emplois, voire de corps de métier -- rendus obsolètes par l'automatisation.
+
+Cette définition est pour le moment assez vague, et pour la détailler, voyons peut-être immédiatement son impact sur les industries et les instituions culturelles, comme l'édition (mais pas seulement).
+
+La désintermédiation peut être perçue et interprétée de manière très positive ou au contraire très négative, notamment en raison d'une double implication
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* La désintermédiation : un facteur de la redistribution de l'autorité, en direction des premiers producteurs et du public
+
+===
+
+Le phénomène de désintermédiation renvoie tout d'abord ce phénomène de redistribution de l'autorité que l'on a pu étudier dans nos cours consacrés à la nouvelle économie de l'attention. Ce passage du "Top down" vers le "bottom up"
+
+La désintermédiation renvoie en effet à la disparition de certains intermédiaires qui incarnaient une forme d'autorité, ou qui traditionnellement conféraient cette autorité : typiquement les éditeurs, les grands distributeurs, les libraires, etc. qui aujourd'hui doivent faire face à une concurrence jouant fortement sur le principe d'une redistribution du pouvoir de production et de prescription à la communauté des consommateurs, voire de certains prestataires.
+
+On a pu le voir à travers plusieurs exemples, dans ce cours comme dans le cours de communication.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain" -->
+
+===
+
+C'est F. BOn qui est passé de l'Éditeur (Minuit) à des Plateformes autoédition (ou sites persos)
+
+F. Bon "débarassé" de l'éditeur : relation conflictuelle à ses éditeurs. Possibilité de by-passer les refus
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/MasquePlumeBabelio.png" data-background-size="contain" -->
+
+===
+
+Côté pouvoir au public = C'est la critique, qui est passée de secteurs spécialisés, experts, à des réseaux amateurs
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/babelioaccueil.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mediaCitoyen.png" data-background-size="contain" -->
+
+===
+Pour sortir du seul domaine de l'édition, c'est par exemple la prise en main de la circulation voire de la production de l'information par les journalistes-citoyens.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches5.png" data-background-size="contain" -->
+
+
+===
+
+Ce que l'on observe à chaque fois, c'est donc une remise en question de l'autorité de structures institutionnelles qui disposaient d'un très fort pouvoir de légitimation.
+
+La désintermédiation pose ainsi de nombreuses questions en termes de système hiérarchique de valeur attribués aux contenus. Pour prendre un cas particulièrement radical, une fanfiction comme After aura d'abord été validée par la masse des lecteurs amateurs d'une plateforme, mais non par un éditeur ou un commité de lecture.
+
+Nous naviguons de faire à l'heure actuelle dans un double système de validation et de légitimation des contenus, avec d'un côté la sélection des instances expertes traditionnelles, et de l'autre celle du "grand public".
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* La désintermédiation : de l'automatisation des tâches à l'obsolescence de certains métiers
+
+
+===
+
+Évidemment, cette crise de l'autorité des instances de légitimation traditionnelle beaucoup inquiété les acteurs historiques de ces institutions, d'autant plus qu'elle s'est accompagnée d'une remise en question parfois violente de la pertinence de certains métiers.
+
+À l'origine de la désintermédiation, un concept dont on discute depuis les années 196, on retrouve en effet le développement de dispositifs techniques (en particulier l'informatique), ayant conduit à l'automatisation de certaines tâches jusque-là assurées par des être humains. Cette automatisation a donc rendue obsolète certains emplois, voire certains corps de métier dans leur ensemble.
+
+La désintermédiation a souvent été mal vécue par des individus dont le métier a dû être entièrement réinventé, en même temps que le développement technique entraînait l'obsolescence de leur tâche. Les institution et industries ont ainsi été nombreuses à de voir se repositionner par rapport à leur public, en proposant de nouveaux services -- et donc une nouvelle manière de concevoir leur métier / le service ou l'objet qu'ils vendaient.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/resnais.png" data-background-size="contain" -->
+
+===
+
+Dans le secteur de l'industrie documentaire, par exemple (je pense ici aux bibliothèques), la désintermédiation a été très forte dès les années 70 aux années 80-90. Je me permets d'opérer ce crochet par l'industrie documentaire des bibliothèques car elle n'est pas si éloignée que cela de notre univers d'éditeurs, et parce qu'elle a fait les frais d'une désintermédiation avant l'heure, qu'elle a particulièrement bien négociée.
+
+Je voudrais donc d'abord vous montrer quelques minutes d'un film documentaire d'Alain Resnais, "Toute la mémoire du monde", qui présente le système de catalogage à la BNF avant l'arrivée de l'informatique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Resnais_extrait.mp4" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>« Le documentaliste est un « intermédiaire dont la fonction essentielle est de mettre en contact ceux qui ont besoin de savoir et ceux qui savent »
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>Eric de Grolier, E. De Grolier, « La passion de l'organisation des connaissances », Documentaliste, sciences de l'information, 1996.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Dans le secteur documentaire, désintermédiation = informatisation des catalogues. Auparavant, tout était sous forme de fiches dans de "vrais" catalogues imprimés, dans lesquels les documentalistes guidaient les lecteurs.
+
+FIgure d'autorité :  Pour Eric de Grolier (éditeur, chercheur, parfois considéré comme le fondateur des sciences de l'information en France), le documentaliste est un « intermédiaire dont la fonction essentielle est de mettre en contact ceux qui ont besoin de savoir et ceux qui savent » (on voit combien la hiérarchie est forte), ailleurs on parle d’un « médiateur entre le document et l’utilisateur ».
+
+L'informatisation des catalogues va entraîner un déplacement de cette fonction, désormais assumée par la machine, avec laquelle le lecteur est directement en interaction.
+
+Gain d'autonomie énorme pour le lecteur, qui devient maître de ses recherches. Le catalogue informatisé que vous utilisez par exemple à la BU, tout cela, c'était une personne qui vous guidait ! Les documentalistes sont conscients qu’il leur faut former les usagers aux nouveaux outils de recherche mais craignent en même temps de les voir devenir totalement autonomes.
+
+Mais est-ce que cela signifie pour autant la disparition des documentalistes ? Non ! Mais une redéfinition profonde de leur métier.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/ccfr_presentation.mp4" data-background-size="contain" -->
+
+===
+
+
+https://www.bnf.fr/fr/mediatheque/le-catalogue-collectif-de-france-quest-ce-que-cest
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme_vollard2.png" data-background-size="contain" -->
+
+===
+
+Liée à cette crainte de la désintermédiation causée par les machines, on voit apparaître la crainte de la dématérialisation : est-ce qu'on ne perd pas une partie de l'expérience de prendre dans ses mains un livre ancien lorsqu'on en consulte une image en ligne ?
+
+La dématérialisation est un faux problème : on parlera plutôt de délocalisation. On l'a bien vu avec la question des supports de l'archivage numérique, qui sont en fait fragiles, bien plus qu'on ne le pensait.
+
+Ce paradigme du déplacement, de l'évolution des objets et des métiers est essentiel.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Depuis longtemps, les débats à propos du Web  2.0 se sont concentrés sur la question de la désintermédiation. Avec l'accès immédiat et spontané des auteurs aux outils de publication sur des plateformes de partage de contenus en ligne, ceux qui font profession d'assurer la publication d'une œuvre, c'est-à-dire de la porter pour l'auteur vers son public, ont pu se croire neutralisés par une mise en relation directe de l'auteur au lecteur. À l'heure du « tous auteurs », « tous journalistes », la capacité des entreprises d'édition à faire accéder l'écrivant au statut d'auteur et le monopole qu'elles détiennent jusqu'alors sur cette capacité semblent s'effondrer.
+
+>Marin Dacos, Pierre Mounier, L'édition en réseau.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Reprenons : utopie de la désintermédiation = rêve d'une relation directe entre tous les écrivains et leur public, sans la médiation (et parfois la censure, la révision, le jugement)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* La désintermédiation a-t-elle vraiment eu lieu ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Contre toute attente, le scénario catastrophe de la désintermédiation n'a pourtant pas eu lieu. On sait en 2010 que la spontanéité apparente du texte  2.0 n'est qu'un leurre et que ce texte est en réalité le résultat d'une très puissante médiation, mais qui s'exprime selon des modes peu habituels et parfaitement inconnus des acteurs traditionnels. Il s'agit :
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>– du design des plateformes informatiques ;   
+– de la définition des règles d'écriture et de lecture ;   
+– de la gestion des communautés qui les utilisent ;   
+– des algorithmes de classement de l'information produite.   
+
+>Marin Dacos, Pierre Mounier, L'édition en réseau
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+>Dès lors, la fonction du médiateur qu'est l'éditeur n'a pas disparu ; elle a simplement profondément changé et contraint tous les acteurs traditionnels à redéfinir d'urgence les bases de leur métier sous peine de disparaître au profit d'acteurs nouveaux venant d'autres horizons.
+
+>Marin Dacos, Pierre Mounier, L'édition en réseau
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Il fait bon dire que tout va changer demain et que les producteurs (de culture, d’information, de connaissances... comme hier de « plus-value ») vont enfin prendre les rênes d’un système accaparé par des industries « moralement répugnantes » comme le dit Eben Möglen. On doit cependant se demander si l’analyse du bousculement des rapports de production qui s’opère sous nos yeux n’est pas erronée. Certes, les arguments des tenants de l’ancien système, les détenteurs de « portefeuilles de droits », les monopolistes de la connaissance et de la culture, les majors qui cherchent leur tambour..., de par leur indigence, pourraient nous inciter à un radicalisme de façade.
+
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## L'utopie du [Read/Write] en résumé
-* Dans le paradigme numérique, écrire, c'est lire ; lire, c'est écrire
-* D'un point de vue techno-optimiste : une production de la culture collaborative, ouverte, dynamique
-* D'un point de vue techno-défaitiste : des données mal maîtrisées, la menace d'un illettrisme numérique
-* Concepts à retenir : économie de l'attention, niveaux d'écriture, données, métadonnées
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Objection : un parti pris utopique et biaisé ?
-
-* Tous les contenus (texuels, visuels, sonores... savants, littéraires, etc.) peuvent-ils être conçus et traités de la même manière ?
-
-===
-L'objection principale au Read/Write book, c'est qu'il s'intéresse essentiellement au domaine de l'édition savante, voire de l'essai. Un domaine où l'écrivain, autrement dit, occupe une activité professionnelle qui lui permet d'écrire, mais sans être dépendant des profits liés à la vente d'ouvrages.
-
-Que se passe-t-il en revanche pour un écrivain littéraire ?
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Editorialisation et littérature : de nouvelles frontières ?
-
-* Où commence/s'arrête l'oeuvre littéraire sur le web ?
-* Qui/ Qu'est-ce qui fait autorité sur le web ?
-* Quel est le rôle du lecteur ?
-
+### Le POD : la fin des imprimeurs ?
+* *Print on demand* ou impression à la demande
+* Des techniques de plus en plus pointues (de l'espresso book-machine)
+* Un moyen d'éviter la réimpression
 
 ===
 
-Repensons au Cas de P. De Jonckheere
+chronologiquement : expresso-book machine
+Puis des machines de + en + perfectionnées (possibilité d'imprimer des titres très rapidement)
+Ces machines POD réintégrées dans les chaînes des grands éditeurs traditionnels, qui s'en servent pour gérer les pb de stock. Un éditeur n'a pas intérêt à tirer bcp d'exemplaires (politique de retour des livres, mis au pilon). Pour des ouvrages qui ne sont plus dispo, on les met en POD, et on peut faire soit des tirages à la demande (Stock), soit refaire des stocks qui ne relèvent pas d'une "réimpression" (seuil pour la réimpression = 500 exemplaires)
+
+
+notes FB : liberté et indépendance.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## 3. Éditorialisation et littérature : François Bon dans son chantier numérique
+### Le risque de la plateformisation
+Uniformisation des productions s'intégrant dans un format de publication préconstruit et partagé par une communauté d'utilisateurs, avec les dérives potentielles en termes de censure, de formatage, d'appauvrissement des contenus etc.
+
+===
+
+L'écriture, la publication, l'évaluation, l'information... tous ces contenus passent aujourd'hui essentiellement par des plateforme, qui sont des logiciels construits par des sociétés (rarement par des communautés indépendantes), à des fins commerciales (même si ce n'est pas en publication ou en lecture que l'on paye, mais pas nos connexion, la récolte des données, la publicité, etc.)
+
+Mounier et Dacos parlent plus haut de facteurs de réintermédiation via :
+– le design des plateformes informatiques ;   
+– la définition des règles d'écriture et de lecture ;   
+– la gestion des communautés qui les utilisent ;   
+– les algorithmes de classement de l'information produite.   
+
+Tous ces éléments participent de ce que l'on appelle la plateformisation, à savoir
+- uniformisation des productions pour entrer dans un modèle de publication préconstruit et partagé par une communauté d'utilisateurs
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-movie="img/" data-background-size="contain" -->
+
+### La publication via des chaînes numériques dédiées : le risque de la best-sellerisation
+* le cas Koskas & Kindle Direct Publishing (KDP)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/kindleDirectPublishing.png" data-background-size="contain" -->
 
 ===
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/6165686178_548dbd0bf9_b.jpg" -->
+>La plus célèbre d’entre elles est, évidemment, Amazon Kindle Direct Publishing (KDP). A l’origine, il s’agit d’un service proposé aux auteurs pour augmenter rapidement le nombre de livres numériques disponible au format Kindle. En quelques années, KDP s’est imposé par sa simplicité d’utilisation (vous téléchargez vos fichiers de couverture et de contenu) et sa puissance de vente : 60 % des ebooks seraient en effet vendus par Amazon.
 
+KDP existe depuis 2011 en France, 2009 aux US.
+
+>Il en existe d’autres telles que iBooks Author (Apple), Tolino Publishing, Kobo Writing Life (Kobo/Sony) ou Google Play Books.
+
+>La publication est gratuite et l’auteur perçoit une redevance (royalties) dont le pourcentage varie mais qui peut aller jusqu’à 70% du prix de vente.
+
+>Ces plateformes ne proposent pas de services éditoriaux. C’est pourquoi on y trouve le pire comme le meilleur, des ouvrages d’une grande utilité comme des essais de quelques pages bourrés de fautes d’orthographe.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/koskas2.png" data-background-size="contain" -->
+
+===
+Kokas = "Indie Author", expression anglo-saxone où l'auto-édition a fait émerger cette figure de l'auteur indépendant, sur le même modèle sémantique (valorisant), de la musique indé, ou chez nous des libraires indé.
+
+le cas Koskas : sur la liste du Renaudot en 2018.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/koskas1.png" data-background-size="contain" -->
 
 ===
 
-Texte important : Après le livre de F. Bon. Paru en 2011
+
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Nous vivons une des très rares mutations de l’écrit. Rares (la tablette, le rouleau, le codex, l’imprimerie), mais chaque fois irréversibles et globales.
+>via le dispositif KDP, Amazon saisit l’opportunité de cet espace de sédition que représente l’autoédition, l’injonction à la créativité prenant ici la forme réduite d’une injonction à la production de contenus, supprimant tout intermédiaire
+susceptible de qualifier ces derniers. Externalisant ainsi les aléas de la valeur - aucun risque et un investissement financier tout relatif au regard de la puissance de feu d’Amazon -, l’autoédition est l’un des vecteurs déployés par cet acteur, lui permettant de nourrir le catalogue de la liseuse Kindle et au-delà, d’occuper de manière exponentielle le marché du livre numérique.
 
->Ce que change Internet, ce n’est pas le rapport au livre, c’est le rapport au monde. Le numérique affecte la façon dont on écrit aussi bien que celle dont on lit, nos bibliothèques comme la trace que nous laissons parmi les autres.
-
->Il ne s’agit pas ici de prédire. Prendre le temps, au contraire, de considérer l’histoire récente de notre propre rapport à ces machines, comment nous nous en servons, ce qu’elles ouvrent de possibles. Prendre le temps de revenir à quelques oeuvres décisives, celles de Balzac ou de Rabelais en font partie, qui sont elles-mêmes l’empreinte d’une de ces transitions. Alors peut-être accepterons-nous de voir que s’offrent pour nos fables, nos récits, nos lettres, nos carnets privés, nos images aussi, d’autres vecteurs, une autre mémoire et de nouveaux modes de transmission.
-
->Nous sommes déjà après le livre.
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
-Première  question : les nouvelles formes de publication sur le web seraient-elles vraiment en train de détruire la stabilité du texte autrefois permise par l’imprimé ?
+Sylvie Bosser a pris en charge l'étude de la platforme KDP, et voici ses conclusions.
 
-Réflexion préliminaire : la question de la stabilité et de la clôture...
+MÉthodologie = analysé le discours présent sur le site de KDP, ainsi que celui tenu par
+Marie-Pierre Sangouard, responsable des contenus Kindle d’Amazon France + Étude du classement des meilleures ventes (soit les contenus mis en avant sur le site)
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-### "Baudelaire n'a jamais écrit <br>les _Fleurs du mal_"
-* Qu'est-ce qu'une "oeuvre" littéraire ?
-* Discussion des enjeux de clôture et de stabilisation
-* Le livre-nombreux : vers une nouvelle conception du texte et de la littérature
-
-===
-
-“Baudelaire n’a jamais écrit Les fleurs du mal”. Cette proposition polémique est le titre, un brin provocateur, du 11e chapitre d’Après le livre. Nous aurait-on alors menti ? Baudelaire ne serait pas le véritable auteur des Fleurs du mal, cette oeuvre qui compte parmi les plus connues de la littérature française ? Là n’est pas la question. François Bon n’a nullement la volonté d’ôter à Baudelaire la paternité de son oeuvre. Il s’agit plutôt de remettre en question le concept même d’oeuvre, comprise comme le résultat d’une intention explicite et forte de l’écrivain - dont le livre imprimé serait la matérialisation finale, stable et la pérenne. Dire que « Baudelaire n’a pas écrit Les Fleurs du mal », dans ce contexte, c’est donc affirmer que Les Fleurs du mal n’existent pas “en soi” comme une entité unique, autonome, et close sur elle-même, que l’auteur aurait imaginée et conçue d’un seul jet.
+Cette méthodo "permet de déterminer les secteurs littéraires majoritairement présents et d’autre part, de voir de quelle manière s’opère, derrière ce classement, une logique de commercialisation qui s’appuie sur le savoir-faire d’Amazon en matière d’algorithme."
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Une généalogie complexe, une clôture factice
-
-- Manuscrit perdu confié à Charles Asselineau (vers 1850)
-- 1ère édition par Auguste Poulet-Malassis, attaquée et censurée (1857)
-- 2nde édition chez Poulet-Malassis, sans les poèmes censurés + "Tableaux Parisiens" (1861)
-- Édition de _Les Épaves_ par Poulet-Malassis (1866)
-- 4e Édition avec 151 poèmes (1868)
-- 1949 : première "édition complète" autorisée
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-===
-
-De ce point de vue, il faut bien dire que François Bon a plutôt raison, comme le montre la généalogie complexe des Fleurs du mal. On sait en effet qu’il a d’abord existé un premier manuscrit relié du recueil, aujourd’hui perdu, que le poète avait confié à son ami écrivain Charles Asselineau, vers 1850 - le contenu exact de cette version est indéterminé. En 1857, une première édition des Fleurs du mal est publiée et tirée à 1300 exemplaires par le jeune éditeur Auguste Poulet-Malassis.
-Attaquée pour outrage aux bonnes moeurs, puisque des poèmes comprennent des connotations érotiques à peine dissimulées, cette édition sera censurée.
-
-Loin de se décourager, Auguste Poulet-Malassis, auquel Baudelaire a cédé les droits de reproduction exclusifs, propose une nouvelle édition du recueil en 1861. Le poète y supprime les 6 poèmes ayant fait l’objet d’une censure, mais en ajoute 32, pour un total de 126 poèmes - dont une nouvelle section, et non la moindre, celle des « Tableaux parisiens ». Cinq ans plus tard (1866), alors qu’il est exilé en Belgique pour échapper à la justice Française, Poulet-Malassis fait paraître Les Épaves, un recueil qui compte 23 poèmes de Baudelaire, dont les 6 qui avaient été censurés dans la première édition… L’ouvrage, évidemment, est condamné, mais il est considéré par les spécialistes comme la 3è édition des Fleurs du mal. Et ce n’est pas fini ! Après le décès de Baudelaire, une quatrième édition est publiée en 1868 qui comprend un total de 151 poèmes, sans ceux qui ont été condamnés par la censure - lesquels sont parallèlement re-publiés à Bruxelles en 1869, dans un Complément aux Fleurs du Mal de Charles Baudelaire, avec le recueil Les Épaves...
-
-Tout cela pour dire, en fin de compte, que le public n’a pu lire une version “complète” des Fleurs du Mal qu’en 1949 (!), suite à un jugement de la Chambre criminelle de la Cour de cassation, qui a révisé l’ensemble des condamnations pour outrage aux bonnes mœurs commis par la voie du livre…
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le livre-nombreux
-
-> Peut-être “Les Fleurs du mal” est-il le livre le plus nombreux dans ma bibliothèque. Paradoxe de l’expression, mais comment dire autrement qu’il est présent dans la pièce où je travaille en tant d’éditions successives ou critiques, ou poche – ou ultra-poche… ?
->
-> François Bon _Après le livre_, chapitre "Baudelaire n'a jamais écrit les Fleurs du mal" (2011)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+<!-- .slide: data-background-image="img/KDP-pub.png" data-background-size="contain" -->
 
 
 ===
 
-La proposition de François Bon est donc particulièrement originale : l’expression de « livre nombreux » qu’il utilise, désigne non seulement les versions du texte mais aussi les versions du livre - soit de l’inscription médiatique du texte.
-En effet, on a bien vu que c’était aussi la mise en livre, le processus éditorial, qui avait construit une œuvre comme les Fleurs du mal, dont les éditions et rééditions ont été si nombreuses que Baudelaire lui-même n’en aura jamais vu l’état définitif. Le critère de “vérité du texte” doit alors prendre en compte cette multiplicité textuelle mais aussi matérielle, une multiplicité constitutive de la plupart des oeuvres littéraires - autant imputable à l’écrivain, qui aura construit une oeuvre sur plusieurs années), qu’à l’éditeur, qui est lui aussi l’architecte du livre.
+Sylvie Bosser :
 
+>Sur la page d’accueil de KDP19, l’accent est mis, dans le discours tenu, sur la simplicité du
+processus, la rapidité de la mise en œuvre de celui-ci (« Publiez en quelques minutes et votre
+livre apparaît sur le site d’Amazon en moins de 24 heures »), ainsi que sur la notion
+d’indépendance à travers le choix possible des territoires de vente et enfin, sur le montant de
+la redevance qui peut aller jusqu’à 70 %.
+
+>l’accent est particulièrement mis sur la maîtrise du processus par la
+personne : « C’est vous le chef, vous déterminez tout, du contenu au prix ».
+
+>la personne qui a recours au service de KDP est d’emblée désignée comme
+écrivain, pouvant de cette manière se passer de l’intermédiaire classique qu’est l’éditeur :
+« Ce n’est pas votre truc les lettres, les recherches d’argent, etc. Vous êtes un auteur, pas un
+éditeur ».
+
+>D’emblée, le texte est envisagé comme acceptable: « Vous n’avez pas à nous convaincre que
+votre livre mérite d’être publié. Désormais chacun peut publier de façon indépendante ses
+ouvrages fraîchement écrits ou ceux qui patientent depuis des années ».
+
+>discours promotionnel marqué par le registre lexical du pouvoir.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-
-### Le Chantier littéraire de _Fragments du dedans_
-
-> Tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.
->
-> François Bon (Le Tiers livre)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-![](img/fragmentDeDedansGrasset.png)<!-- .element: style="width:400px" -->
+### KDP, un service sous conditions
 
 ===
 
-Il faut bien dire que les contenus diffusés en ligne sont sans cesse susceptibles d’être modifiés, altérés ou même supprimés : ils nous est tous arrivé au moins une fois de cliquer sur un “lien mort”, par exemple. Dans le domaine littéraire, cette instabilité ou fragilité technique redouble d’ailleurs celle des contenus publiés : sur le web, les écrivains et écrivaines se servent en effet de leur blogue ou de leur site pour diffuser des brouillons, des versions inachevées ou partielles d’un récit, chapitre par chapitre.
+>Le programme KDP select est un service gratuit qui vous est proposé lorsque vous publiez
+votre livre sur Amazon. En souscrivant à ce programme, vous bénéficiez de plusieurs
+avantages par rapport aux auteurs qui ne le font pas, mais l’accès à ces avantages n’est pas
+sans contrepartie.
 
-Sur les réseaux sociaux comme Twitter, ils se lancent dans des expériences exigeantes d’écriture “en direct”, donnant quotidiennement rendez-vous à leurs lecteurs - abonnés pour livrer les fragments d’un récit en construction. Pour le lecteur, l’occasion est enfin donnée d’assister à l’élaboration progressive d’un texte, et de voir les coulisses du travail littéraire. Le processus d’écriture se révèle, comme jamais, en train de se faire.
-
-Ces chantiers à ciel ouvert que sont les blogues et les réseaux sociaux transgressent certains concepts encore très forts dans l’imaginaire littéraire et éditorial, à commencer par l’auteur et l’oeuvre. Là où le livre imprimé constituait le résultat final et très élaboré d’un travail de longue haleine, mené sur plusieurs années, mais dont rien ne filtrait, le web donne enfin à voir le travail d’écriture en amont. La conception même de l’oeuvre littéraire s’en trouve changée. Non seulement l’instabilité et le caractère inachevé du texte ne sont plus tabous.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### L'écriture-performance
-
->“Écrire n’est pas un scénario, un plan, mais comment la matière qu’on affronte sera subversion de ce scénario ou de ce plan, de l’intuition obscure qu’on en a. Le caractère nécessaire de la logique interne d’une oeuvre s’exprimant donc plutôt par l’écart qu’elle impose aux intuitions qui en sont l’origine. Le site Internet pourrait bien, alors, comme le soulignent ses détracteur, se révéler dangereux pour les grandes constructions de l’esprit : il rend inopérante la contrainte d’écart.”
->
-> François Bon (Le Tiers livre)
-
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-
-===
-Certains écrivains mettent en scène, dans ce qui devient parfois un véritable méta-récit, l’élaboration du texte. Dans les chantiers littéraires en ligne, l’écriture est ainsi transformée en une performance.
-
-
-Cette écriture-performance, François Bon l’a mise en pratique avec Fragments du dedans - un livre publié chez Grasset, mais dont le “chantier” a d’abord été publié en ligne.
-
-Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fragmentsDuDedans.png" -->
-
-===
->C’était au printemps 2013. Je reçois par mail la proposition de Jeanne Garcin, éditrice chez Grasset : un abécédaire, prise de risque sous la protection de l’alphabet, tentative par l’écart, puisque aucun des auteurs sollicités ne serait chez son éditeur habituel.
-
-Premiers rendez-vous, lente approche, le courant passe, frappé par la détermination, la qualité aussi des maquettes. Content aussi de retrouver dans cette collection quelques ferrailleurs de langue amis. Je me lance à l’été 2013, dans le petit hameau de Tartonne, dans les Alpes de Haute-Provence, mais l’écriture va continuer, le plus souvent hors domicile, dans les trains, les hôtels, les bistrots de passage, jusque vers juin 2014.
-
-Comme d’ordinaire, tout chantier d’écriture s’insère d’abord ici sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches. Les mots les plus dangereux (roman) viendraient tout à la fin.
-
-Sur le livre, voir autres billets de cette rubrique, et bien sûr possible de le commander ci-dessous, version papier ou numérique. Et c’est aussi une manière de soutenir le travail qui se fait ici en ligne.
+Par exemple, pour toucher les fameux 70% de recettes de votre livre, il faut accepter de le vendre à un tarif plafonné à 2, 99 euros !
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fragmentdededansSite.png" data-background-size="contain"-->
-
-===
-
-Ci-dessous, non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état... Et, comme on le constatera, le titre aussi a surgi tout à la fin, en complicité avec J.G.
-
-FB, août 2015
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fragmentDeDedansGrasset.png" data-background-size="contain"-->
-
-===
-
-Évidemment, il n’est pas toujours aisé pour les éditeurs de comprendre ce genre de démarche… Beaucoup d’entre eux demandent en effet aux écrivains d’effacer les traces des chantiers en ligne, de peur que les lecteurs ne voient pas bien l’intérêt d’acheter un livre dont une part du contenu est disponible gratuitement sur le web. C’est bien mal comprendre ce qui se joue fondamentalement ici : car pour le lecteur, justement, ce sont deux expériences de lecture bien différentes ! L’une, sur le web, consiste à suivre une performance d’écriture et un récit discontinu - il faut en effet patienter entre les publications, et le sens du texte semble toujours en suspens. L’autre expérience, à travers le livre, consiste à lire un récit linéaire, dont la clôture balise par ailleurs un horizon d’attente bien différent. Comme avec Les Fleurs du mal de Baudelaire, le texte se révèle donc “nombreux” depuis ses racines en ligne jusqu’au livre imprimé. Et le dispositif éditorial, ici, ne doit pas être pensé du point de vue des contenus, mais bien depuis celui de l’expérience de lecture.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le cas _Limite_ de François Bon
-* Un chantier inversé
-* La réouverture du livre
-
-===
-
-À première vue, ces chantiers littéraires en ligne pourraient passer pour une étape transitoire vers l’imprimé, dont l’autorité et la stabilité resteraient indétrônable. Le bon vieux livre papier viendrait clore un chantier numérique dont il serait la finalité. Ce serait là bien mal connaître François Bon qui, en 2010, s’est lancé dans un travail un peu fou de récriture en ligne de son second roman, Limite. Travail “fou” car François Bon à dû retaper tout son texte à la main, puisqu’il n’existait pas de copie originale numérique de cet ouvrage paru en 1985 chez Minuit. En d’autres termes, l’auteur a procédé à contre-courant de ce que propose le modèle éditorial traditionnel, en “réouvrant” le chantier d’un livre publié 25 ans plus tôt…
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limite01.png" data-background-size="contain"-->
-
-===
-
-Écrit dans les années 1980, alors que François Bon était encore un “jeune” auteur méconnu, Limite était épuisé depuis déjà bien longtemps et l’éditeur, Minuit, n’avait pas le projet de le rééditer.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-===
-En accord avec la maison d’édition, François Bon a donc décidé de rendre disponible à nouveau cet ouvrage, en le recopiant et le republiant lui-même sur son site web, le Tiers livre.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Alors scanner et préparer l’epub ? Non : 30 ans après, j’ai décidé de tout recopier à la main sur mon ordi. Bien sûr, quelques phrases ont changé, peut-être un ou deux passages ont-ils sauté, quelques adjectifs ont été virés à la soufflette. Mais l’équilibre d’une langue est comme hors de l’auteur, on n’y touche pas. C’est très surprenant aussi combien on le découvre mémorisé, organiquement lié à vous-même, bien au-delà du souvenir conscient.
-
-<!-- .element: style="font-size:1.4rem" -->
-
-===
-
-Question du choix technique :  pas de format numérique, initialement tapé à la machine (tapuscrit)... Le plus "simple" serait d'en proposer une numérisation, un peu sur le modèle de ce que propose la BN, par exemple.
-
-Mais FB va préférer travailler directement dans son site web : donc nécessité de tt recopier à la main. CITER
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Encore un travail qui a commencé par le site, et restera en ligne ci-dessous.
-Ecrit en 1985 à la Villa Médicis sur une machine à écrire électrique Adler (j’avais déjà à endurer quelques commentaires de collègues traditionnalistes sur le fait que j’utilisais un engin aussi futuriste), je n’avais pas de version numérique de Limite, dont j’ai pu il y a 3 ans récupérer les droits aux éditions de Minuit, qui l’avaient laissé en déshérence. Irène Lindon a eu l’élégance d’accepter, moi je voudrais bien récupérer les droits de tous mes livres au-delà de 10 ans d’exploitation, c’est une des raisons qui m’a conduit à fonder ma propre maison d’édition.
-
-<!-- .element: style="font-size:1.4rem" -->
-
-===
-
-Encore un travail qui a commencé par le site, et restera en ligne ci-dessous.
-Ecrit en 1985 à la Villa Médicis sur une machine à écrire électrique Adler (j’avais déjà à endurer quelques commentaires de collègues traditionnalistes sur le fait que j’utilisais un engin aussi futuriste), je n’avais pas de version numérique de Limite, dont j’ai pu il y a 3 ans récupérer les droits aux éditions de Minuit, qui l’avaient laissé en déshérence. Irène Lindon a eu l’élégance d’accepter, moi je voudrais bien récupérer les droits de tous mes livres au-delà de 10 ans d’exploitation, c’est une des raisons qui m’a conduit à fonder ma propre maison d’édition.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Et c’est dans ces heures de dactylographie (le découpage des billets ici en témoigne, une douzaine de grandes séances) que me revenaient aussi les sources, les événements, les intuitions – des moments qui touchaient parfois à l’écriture, parfois aux racines autobiographiques. « Le deuxième livre est toujours le plus difficile à écrire », c’est une phrase de Jérôme Lindon, le directeur des éditions de Minuit, à réception du premier état du manuscrit, qui portait alors pour titre Terrain glissant. J’ai décidé que cette phrase serait le titre de ce livre imprimé, spécialement composé pour accueillir cette démarche.
-
-<!-- .element: style="font-size:1.4rem" -->
-
-===
-
-Et c’est dans ces heures de dactylographie (le découpage des billets ici en témoigne, une douzaine de grandes séances) que me revenaient aussi les sources, les événements, les intuitions – des moments qui touchaient parfois à l’écriture, parfois aux racines autobiographiques. « Le deuxième livre est toujours le plus difficile à écrire », c’est une phrase de Jérôme Lindon, le directeur des éditions de Minuit, à réception du premier état du manuscrit, qui portait alors pour titre Terrain glissant. J’ai décidé que cette phrase serait le titre de ce livre imprimé, spécialement composé pour accueillir cette démarche.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limite001.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/KDP-lectureGratuite.png" data-background-size="contain" -->
 
 
 ===
 
-Tradition de Jérôme Lindon chez Minuit : refuser systématiquement les second manuscrits en l'état. Les auteurs devaient entièrement les reprendre. Personne n'y échappe. Jean ECHenoz raconte comment il a mit des années après le refus de son second MS pour oser réécrire, et renvoyer quelque chose à Lindon.
+>Prime Reading
+Prime Reading est un programme de promotion facultatif qui permet aux auteurs de proposer leurs livres aux lecteurs Amazon les plus actifs. Les membres Prime Reading peuvent accéder à un nombre illimité d’ouvrages sans frais supplémentaires.
 
-FB lui aussi, en son temps, a vu son second manuscrit refusé :
+Durant votre promotion Prime Reading, votre livre reste disponible à la vente selon nos conditions standard et continue de générer des redevances.
 
->Quand je revois Jérôme Lindon, en juin 1985, le manuscrit s’appelle Terrain glissant. Quand j’entre dans son bureau, il raccroche son téléphone : – Marguerite Duras me dit que c’est un très mauvais titre... Jamais su si c’était réel ou un de ses rituels, pour lui l’édition tenait du jeu, mais c’est avec nous qu’il jouait, on était gagnant aussi. Et c’est lui qui proposera Limite.
-
-Le livre devra en effet subir de grosses modifications.
-
-Mais cette fois, FB joue avec la formule de Lindon, pour en faire dériver quelque peu le sens : "Le second livre est toujours le plus difficile à écrire"... même si, ici, ce sera plutôt une seconde version du livre. Un livre réécrit plus 20 ans après sa première publication.
+Remarque : Votre livre doit être inscrit à KDP Select pour être éligible au programme Prime Reading.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### (1) Un travail de republication
-* Un livre "recopié" à la main pour être numérisé
-* Des modifications mineures (syntaxe, vocabulaire)
+>Notons que depuis le mois de juillet 2015, les auteurs dont les livres sont empruntés dans ce cadre ne sont plus
+rémunérés selon le barème d’une base minimale de lecture de 10 % du livre, mais en fonction du nombre de pages lues. Cette comptabilisation ne s’effectue pas selon le nombre de pages téléchargées, mais en fonction du nombre de pages affichées suffisamment longtemps à l’écran pour pouvoir supposer avoir été lues. Sous ce rapport, Amazon ne fait finalement que poursuivre son utilisation des algorithmes, valeur cardinale de son système de recommandation. Mais ces fourches caudines de l’algorithme désormais appliquées à la rémunération des auteurs, pour l’instant seulement dans le cadre du prêt, ne vont-elles pas générer de la part de ces derniers un formatage de leur écrit, au sens où il s’agira d’inciter, coûte que coûte, le lecteur à poursuivre le plus loin possible sa progression dans l’ouvrage ?
+
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
-En effet, il faut bien comprendre que le travail de recopiage auquel se livre FB, va finalement constituer un travail de réécriture à part entière qui va changer le sens de l'oeuvre.
-
-Tout d'abord, il s'agit d'un travail de l'ordre de la republication : Cette réédition numérique permet d’apporter quelques modifications mineures au texte : de l’aveu même de l’auteur, “quelques phrases ont changé, peut-être un ou deux passages ont-ils sauté, quelques adjectifs ont été virés à la soufflette” (Bon, Tiers livre).
+Par exemple, écriture de cliffangher, etc sur le modèle des séries TV mais également des feuilletons du 19e.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### 2. Un travail de remédiation (du papier au numérique)
-* De la forme linéaire à la forme fragmentée et hypertextuelle
-* Transformation du roman en feuilleton
-* Nouvelle expérience de lecture
+>En d’autres termes, sous couvert de promesse d’émancipation et d’obtention de gains substantiels, ce recours au crowdsourcing (Howe, 2006), à l’empowerment des aspirants écrivains s’inscrit dans le modèle économique de l’hyperoffre au sens de Benghozi (2012), ainsi que d’une rationalisation et industrialisation de la production des biens culturels
+(Bouquillion, Miège, Moeglin, 2013).
+
+>Sylvie Bosser, "L’autoédition selon Kindle Direct Publishing : Amazon et l’instrumentalisation de la créativité"
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La publication via les réseaux sociaux : le risque de la censure
+* Le cas François Bon & TikTok
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/AdieuTikTok.mp4" data-background-size="contain" -->
+
+===
+- censure
+cas de FB sur Tik Tok
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Il est urgent de saisir cette opportunité, créée par la remise en cause des modes de production que l’on appelle du terme générique, qui resterait à définir et critiquer, la « société de l’information ». En particulier parce que les forces dominantes cherchent à utiliser ce basculement pour revenir sur des acquis démocratiques et réorganiser les pouvoirs pour limiter plus encore les marges de liberté des créateurs sur la diffusion de l’information, de la culture et de la connaissance. Les questions de la copie privée, du brevetage des logiciels, l’extension de la propriété intellectuelle définissent ainsi des zones de front dans le nouveau cadre de la société de l’information.
+
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Une transformation de la présence sociale de l'écrivain
+* Transfert de la gestion du risque
+* Importance accrue de l'évaluation par le public
+* Importance de la recommandation par les pairs
 
 ===
 
-2. Travail de remédiation
+Transfert de la gestion du risque, traditionnellement assumé par la galerie, vers l'artiste lui-même.
 
-Par ailleurs, en choisissant de ne pas produire un livre numérique (epub), mais une série de posts de blogue publiés à intervalles réguliers, François Bon transforme le roman Limite en feuilleton : le texte est fragmenté, soit découpé en 12 parties. Il se transforme alors en hypertexte, là où la version imprimée privilégiait une forme linéaire.
-
+l’évaluation esthétique est opérée par le public en fonction de ses propres affects,
+lesquels influencent la notoriété et, conséquemment, le succès commercial.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### 3. Un travail de rétro-médiation
-* Augmentation du récit original (création d'un méta-récit)
-* Retour "à la forme initiale, en amont de la première publication”
-* _Virtualisation_ du texte : de l’édition à l’éditorialisation, revenir aux origines du geste créatif
+## Auteurs et éditeurs : du malentendu au malaise
+
+![](img/claroAuteurdoubleEmploi.png)<!-- .element: style="width:600px" -->
+
 
 ===
 
-Mais surtout, au fur et à mesure qu’il se prête à cet exercice de dactylographie à première vue bien mécanique, l’écrivain redécouvre son propre texte et entame la construction d’un métarécit à caractère autobiographique, établissant des ponts entre la fiction (Limite) et un récit rétrospectif sur son parcours d’écrivain.
-
-En republiant en ligne Limite, François Bon réouvre donc le chantier du roman, pour en créer une version augmentée qui explore les potentialités du texte au-delà de toute exigence de stabilité et de clôture. Dans sa forme imprimée, Limite, tel que publié chez Minuit, aura été un moment du texte - mais pas le seul !
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limiteExemple1.png" data-background-size="contain"-->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limiteEx2.png" data-background-size="contain"-->
-
-
+Le problème de fond: un malaise de plus en plus grand entre auteurs et éditeurs, avec un statut qui est devenu précaire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Conclusion
-De l'édition à l'éditorialisation, la fonction éditoriale est amenée à se repenser entièrement. Dans les modèles de publication (*rendre public*) numérique, le livre imprimé n'est pas nécessairement exclu, bien au contraire, mais il sera reconsidéré comme un **moment** du texte : moment de cristallisation d'une pensée, d'une oeuvre. Ainsi, sur le web, nous pouvons repérer un déplacement de la littérature qui, d'une attention entièrement tournée vers l'oeuvre, se concentre désormais vers l'écriture (comme une performance). Éditorialiser, en ce sens, engage une perte de contrôle des instances traditionnelles, redistribuées notamment à l'auteur, mais aussi à l'usager, au lecteur.
+### Les revendications
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+- obtenir une meilleure reconnaissance du travail de l'écrivain
+- mener réflexion sur le statut juridique
+- rééquilibrer la valeur créée par le commerce du livre
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/statutAuteur.mp4" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/BaillyLAP.mp4" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le rapport Racine
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/racineRapport.png" data-background-size="contain" -->
+
+
+===
+
+
+>Franck Riester, ministre de la Culture, avait confié en avril 2019 à Bruno Racine, conseiller maître à la Cour des comptes, une mission prospective sur l’état des mutations que les activités de création ont pu connaître ces trente dernières années. Cette réflexion globale devra permettre d’adapter les politiques publiques existantes en faveur des artistes, auteurs et créateurs. Son rapport sur le statut des artistes-auteurs, « L’auteur et l’acte de création », a été remis au ministre mercredi 22 janvier.
+
+Le rapport va "dresser un état des lieux de la situation des auteurs, se projeter dans la durée pour identifier les évolutions de leur activité à l’heure des GAFA, du numérique ou de l’intelligence artificielle, et surtout, proposer des changements concrets pour améliorer leurs conditions de vie."
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/PayeTonAteur.png" data-background-size="contain" -->
+
+
+===
+
+La lecture du rapport appuie le mal-être des écrivains et auteurs depuis maintenant une bonne vingtaine d'années : l’analyse menée par Bruno Racine et plusieurs experts indépendants sur plus de cent quarante pages constitue une reconnaissance de la situation difficile des artistes-auteurs.
+
+Cette revendication était d’ailleurs à l’origine de la création de nombreux mouvements de défense et d’associations ces dernières années, à l’image du collectif #Payetonauteur ou de la Ligue des auteurs professionnels. Le rapport Racine pointe donc l’érosion de leurs revenus, soulignant que « les jeunes et les femmes sont particulièrement exposés aux difficultés socio-économiques ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les propositions du rapport racine
+* établissement d’un statut professionnel des artistes-auteurs, clairement défini par des textes
+* renforcer collectivement les artistes-auteurs, via la création de syndicats d'artistes-auteurs (du droit d'auteur au droit *des* auteurs...)
+* repenser les institutions et activités des auteurs (rémunération des salons, refonte des services du ministère : remplacer le service du livre par une délégation aux artistes-auteurs)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Analyse de Télérama :
+
+>Les mesures concrètes – vingt-trois au total, dont beaucoup sont très techniques – s’articulent autour de trois grands axes, le premier étant l’établissement d’un statut professionnel des artistes-auteurs, clairement défini par des textes. Car il n’existe toujours pas, à ce jour, de définition de l’auteur, ce dernier étant reconnu comme tel uniquement si un contrat est établi avec un diffuseur. Ce statut, basé sur la pratique créative, construirait donc un corps professionnel, ouvrant potentiellement des droits aux créateurs auto-diffusés. En somme, on reconnaîtrait la « carrière artistique comme métier et pas seulement comme vocation » et, si cela semble symbolique, c’est en fait une avancée capitale qui leur permettrait notamment de peser plus face aux « acteurs de l’aval » (éditeurs, producteurs, diffuseurs...), plus puissants et mieux organisés.
+
+>Une deuxième série de mesures vise à renforcer collectivement les artistes-auteurs, en commençant par leur permettre de décider de leur sort, à travers l’organisation rapide d’élections professionnelles et démocratiques dans chaque secteur. La question de la représentation professionnelle est posée : qui défend, non pas « le droit d’auteur » mais les droits des auteurs, c’est-à-dire leurs conditions de création ? Le rapport souligne que soixante millions d’euros de droits collectés par les puissants organismes de gestion collective ou OGC (autrement dit, les gestionnaires de droits d’auteurs, comme la SACEM, la SOFIA, l’ADAGP etc) pourraient être réorientés vers le financement des syndicats d’artistes-auteurs.
+
+>Autre mesure longtemps réclamée, mais étonnamment restreinte aux auteurs de BD et jeunesse : la rémunération des auteurs lorsqu’ils participent à des salons et des festivals, auxquels l’octroi d’aides publiques serait conditionné « au respect des règles et bonnes pratiques relatives aux artistes-auteurs ». Le rapport propose enfin de mieux former les étudiants aux aspects administratifs de leurs futurs métiers, de les accompagner dans la durée, ou encore de mettre en valeur leur travail et la vitalité de la création contemporaine à travers des manifestations nationales.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LeMondeRapportRacineEnterre.png" data-background-size="contain" -->
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/demissionBailly.png" data-background-size="contain" -->
+
+===
+La ligue des auteurs pro
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Conclusion...
+La désintermédiation -- concept phare de la culture numérique il y a encore quelques années -- incarnait la promesse d'une émancipation des écrivains, enfin capable de garder l'entière maîtrise de leur travail. La fin des éditeurs a cependant été trop vite annoncée, tant la réintermédiation semble avoir mis en place un nouveau monopole qui n'est pas toujours plus favorable au statut des auteurs. Désintermédiation ou non, cette volonté des auteurs, toujours plus nombreux, à vouloir s'émanciper des éditeurs traditionnels, incarne un profond malaise qui touche la communauté des écrivains depuis maintenant plusieurs années. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### ... et ouverture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QmeIEb3x2XE?start=403" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
