@@ -554,7 +554,9 @@ La désintermédiation peut être perçue et interprétée de manière très pos
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* La désintermédiation : un facteur de la redistribution de l'autorité, en direction des premiers producteurs et du public
+La désintermédiation engage une redistribution de l'autorité, en direction des premiers producteurs et du public. On note plus largement un phénomène d'horizontalisation de l'autorité, avec un passage de la logique "top-down" vers un mouvement "bottom-up".
+
+
 
 ===
 
@@ -564,29 +566,43 @@ La désintermédiation renvoie en effet à la disparition de certains intermédi
 
 On a pu le voir à travers plusieurs exemples, dans ce cours comme dans le cours de communication.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain" -->
-
-===
-
-C'est F. BOn qui est passé de l'Éditeur (Minuit) à des Plateformes autoédition (ou sites persos)
-
-F. Bon "débarassé" de l'éditeur : relation conflictuelle à ses éditeurs. Possibilité de by-passer les refus
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/MasquePlumeBabelio.png" data-background-size="contain" -->
 
 ===
 
-Côté pouvoir au public = C'est la critique, qui est passée de secteurs spécialisés, experts, à des réseaux amateurs
+On trouve l'illustration la plus marquante de cette redistribution de l'autorité dans l'évolution récente de la critique culturelle, tous milieux confondus.
+
+La critique est passée de secteurs spécialisés, experts, à des réseaux amateurs.
+Cohabitation entre des critiques institutionnelles (Le Masque & la plume) et des réseaux amateurs. Nés dans les années 1990 avec le web, ces réseaux de critique se sont plateformisés, à l'instar de Babelio, en développant la critique amateur à une très large échelle, avec la mise en place d'un système d'évaluation globale.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/babelioaccueil.png" data-background-size="contain" -->
+
+===
+
+Sur babélio, ou booknode, un système de recommandation amateur basé en priorité sur l'évaluation : le commentaire n'est pas forcément mis en avant.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bookTubing.png" data-background-size="contain" -->
+
+
+===
+
+Avec des phénomènes comme le BookTubing, cette critique amatrice s'est même "professionnalisée". Émergence de figures de critique-amateur-pro, calquées sur le modèle communicationnel de l'influenceur.
+
+Autant le booktubeur n'est pas un professionnel du livre, autant il devient, de manière souvent autodidacte, un pro de la communication numérique. 
+
+On n'est plus non plus dans un système d'amateur éclairé (qui désigne un fin connaisseur de la litt, par exemple, qui développe pour son propre plaisir ses connaissances), car la pratique du booktubing s'inscrit dans une économie de l'attention et plus largement dans l'écosystème médiatique. Enjeux économiques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mediaCitoyen.png" data-background-size="contain" -->
 
 ===
+
+On retrouve cette figure dans l'ensemble de la sphère culturelle et communicationnelle. Remise en cause du rôle de l'expert, du savant, du professionnel.
+
 Pour sortir du seul domaine de l'édition, c'est par exemple la prise en main de la circulation voire de la production de l'information par les journalistes-citoyens.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -603,7 +619,7 @@ Nous naviguons de faire à l'heure actuelle dans un double système de validatio
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* La désintermédiation : de l'automatisation des tâches à l'obsolescence de certains métiers
+* La désintermédiation : de l'automatisation des tâches à la menace de l'obsolescence des métiers techniques de la culture
 
 
 ===
@@ -724,7 +740,7 @@ Reprenons : utopie de la désintermédiation = rêve d'une relation directe entr
 
 ### Le POD : la fin des imprimeurs ?
 * *Print on demand* ou impression à la demande
-* Des techniques de plus en plus pointues (de l'espresso book-machine)
+* Des techniques de plus en plus pointues
 * Un moyen d'éviter la réimpression
 
 ===
