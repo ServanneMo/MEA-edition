@@ -39,7 +39,7 @@ La semaine dernière, tous deux ont annoncé créer leur propre structure après
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-### Comment "s'autorise"-t-on aujourd'hui, avec ou sans éditeur ?
+### Comment "s'autorise"-t-on aujourd'hui, avec ou sans éditeur&nbsp;?
 
 
 ===
@@ -88,7 +88,7 @@ Exemple ici de Baudelaire, avec son éditeur Michel Lévy.
 
 >L’auteur, en France, est la cinquième roue du carrosse bien huilé de l’édition. Une variable qu’on ajuste selon le bon ou le mauvais temps du marché.
 
->Guilhem Méric
+>Guilhem Méric, "Les auteurs aussi ont attrapé la jaunisse", *Le Monde*, 12 décembre 2018
 
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
@@ -112,7 +112,7 @@ Ajouter visuel
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 
->Guilhem Méric, *Le Monde*
+>Guilhem Méric, "Les auteurs aussi ont attrapé la jaunisse", *Le Monde*, 12 décembre 2018
 
 <!-- .element: style="font-size:1.4rem; text-align:right" -->
 
@@ -215,9 +215,53 @@ L’un des problèmes soulevés par le numérique est le statut de l’auteur, l
 
 La grogne de nombreux auteurs vient sans doute d'une décorrélation grandissante entre la réalité à laquelle sont confrontés aujourd'hui les écrivains, et les règles qui régissent leur statut (règles fiscale, notamment). Il faut dire que le concept moderne d’auteur, et sa définition juridique en particulier, sont le fruit du processus qui a permis la professionnalisation des auteurs au sein d'une modèle économique propre à l’édition imprimée. 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Vivre de sa plume ? 
+* Entre professionnalisation et précarisation (Gisèle Sapiro)
+* 33% n'exercent "que" la profession d'écrivain
+* 49% signent en même temps un contrat d'adaptation audiovisuelle
+* Des droits d'auteurs non versés
+* Un problème de communication
+* Source : [9e baromètre des relations auteurs/éditeurs, 2022](https://www.sgdl.org/phocadownload/Barom%C3%A8tre_auteurs-editeurs/9e_Barometre_VDEF_13_03-2023_pageApage.pdf)
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/BarometreSCAM_SGDL.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Étude conjointe SCAM (soc. civile des auteurs multimédia) & SGDL (soc. gens de lettres) lancée en 2022 mais publiée en 2023.
+
+Cette étude passe pour le "baromètre" de la relation entre éditeurs et auteur. Et le moins que l'on puisse dire c'est qu'il n'est pas très bon cette année.
+
+Ils sont ainsi 33 %, selon ce baromètre SCAM/SGDL, à ne pas exercer d’autre métier – et, faute d’être tous rentiers, comme on l’imagine, par simplification, pour les écrivains du XIXe siècle, à devoir ainsi combiner hautes ambitions artistiques et basses considérations matérielles. « On assiste à un double mouvement de professionnalisation du métier d’écrivain et de précarisation » (sapiro)
+
+Autre fait notable, que je relève ici, mais sur lequel je reviendrai plus tard : la signature conjointe du contrat d'édition + contrat d'adaptation audiovisuelle. 49%, cela peut sembler bcp, mais en fait c'est un chiffre en baisse. On reviendra là-dessus.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barometreSGDl.png" data-background-size="contain" -->
+
+===
+
+À retenir : mécontentement des auteurs, la tonalité de l'étude en témoigne : "c'est la honte !" "relation avec l'éditeur à la peine" "manque de clarté persistant".
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/DroitsDerives.png" data-background-size="contain" -->
+
+
+===
+
+Un problème de communication, sans doute, entre écrivains et éditeurs. Avec les résultats affligeants du questionnaire sur les "droits dérivés" : traduction, réédition numérique.
+
+Jusqu'à la mise au pilon : seuls un quart des auteurs sont informés de la mise au pilon de leur livre...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le statut du droit d'auteur en question
 
 >Les droits d’auteur ne sont donc pas assimilables à un salaire, et le contrat d’édition n’est pas un contrat de travail – impliquant une durée du travail et un lien de subordination entre employé et employeur –, ni un contrat entre un donneur d’ordre et un fournisseur. Il a parfois été comparé à un contrat de mariage entre deux partenaires s’alliant pour permettre la diffusion commerciale d’une œuvre.
 
@@ -297,6 +341,59 @@ D’ailleurs, si le droit d’auteur est dans son esprit détaché d’un temps 
 
 Marie-Pierre Vaslet évoque ainsi un "glissement du régime « vocationnel » de certaines catégories d’auteurs vers un régime professionnel".
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La tentation de la best-sellerisation et ses risques sur l'écosystème éditorial
+* Du principe de péréquation au coeur du modèle économique des éditeurs (un succès d'édition pour financer les projets moins rémunérateurs et plus risqués)...
+* ... à la statégie expansionniste à la tentation autonomiste des écrivains...
+* dans un contexte d'augmentation massive du nombre d'ouvrages publiés (+26% en 10 ans)
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+===
+
+Best-sellerisation ? 
+
+D'abord une réalité économique au sein des maisons d'édition : un gros succès permet de financer des projets plus petits et risqués, moins rémunérateurs.
+
+Ce modèle est cependant mis à rude épreuve par une conjoncture qui le pousse dans ses retranchements : Les ventes se polarisent plus que jamais sur un tout petit nombre d’ouvrages, d’une veine souvent plus commerciale que littéraire. Dans le même temps, on assiste à une augmentation très forte du nombre de textes publiés :  le ministère de la ­culture indique que, entre 2011 et 2021, les livres enregistrés à la Bibliothèque nationale de France au titre du dépôt légal sont passés de 70 109 à 88 016 (+ 26 %).
+
+Conséquence : on publie bcp, mais peu : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
+
+La "best-sellerisation" qui était autrefois un moyen pour les éditeurs de rémunérer tt le monde équitablement, est en train d'atteindre ses limites sous son propre mouvement.
+
+Avec des effets sur l'auteur, sur l'écrivain, assez inattendus, voire pour certains préoccupants : 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Sous l’effet de chaînes comme HBO et de plates-formes telles que Netflix, une partie des auteurs serait en train de muter, convertis aux cliffhangers et autres effets scénaristiques. Pour le plus grand bonheur des groupes multimédias, mais au désespoir de certains éditeurs traditionnels. « Tous les jeunes auteurs rêvent d’être adaptés et écrivent en conséquence », se lamente l’un d’eux, sous le couvert de l’anonymat. Joël Dicker a anticipé la vague. L’art de gérer les droits audiovisuels, d’adapter les livres en scénarios, rien de tout cela ne lui a échappé non plus pendant sa formation chez de Fallois. « Bernard a refusé quatre-vingts propositions pour Harry Quebert. J’ai appris que l’auteur doit négocier ses droits et ne pas s’offrir au premier producteur venu. » 
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
+
+
+![](img/quebertTF1.jpeg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+Source : "La vérité sur l’affaire Joël Dicker, l’écrivain-entrepreneur", Pascale Nivelle pour *Le Monde*, nov. 2022
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>La classe moyenne [de l'édition] est en voie de disparition, alors qu’elle constituait jusqu’à récemment le cœur battant du milieu. Un livre dont on pouvait raisonnablement espérer, il y a quelques années, qu’il se vendrait à 15 000 ou 20 000 exemplaires atteint aujourd’hui plutôt les 2 000. 
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+Karina Hocine, secrétaire générale de Gallimard, dans *Le Monde*, octobre 2023.
+
+<!-- .element: class="source" -->
+
+
+===
+
+Les effets de la « best-sellerisation » accrue des ventes touchent durement ceux que Karina Hocine, secrétaire générale de Gallimard, appelle « la classe moyenne de l’édition ». Ceux dont les livres s’écoulaient encore récemment entre 5 000 et 10 000 exemplaires – le seuil de ventes annuel à partir duquel il deviendrait, de l’avis général, possible de vivre de sa plume si l’on y ajoute les prix littéraires, les cessions de droits pour les passages en poche, les traductions et les options pour des adaptations. « Cette classe moyenne est en voie de disparition, alors qu’elle constituait jusqu’à récemment le cœur battant du milieu, poursuit Karina Hocine. Un livre dont on pouvait raisonnablement espérer, il y a quelques années, qu’il se vendrait à 15 000 ou 20 000 exemplaires atteint aujourd’hui plutôt les 2 000. » 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -776,7 +873,7 @@ Tous ces éléments participent de ce que l'on appelle la plateformisation, à s
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-movie="img/" data-background-size="contain" -->
 
-### La publication via des chaînes numériques dédiées : le risque de la best-sellerisation
+### La publication via des chaînes numériques dédiées : le risque de l'exploitation
 * le cas Koskas & Kindle Direct Publishing (KDP)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
