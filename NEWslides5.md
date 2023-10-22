@@ -1,13 +1,11 @@
-## Publication et éditorialisation
-### Expérimentations sur la la chaîne éditoriale
+## Publication & éditorialisation
+### La littérature et le paradigme contemporain
 
 ![](img/sans_titre-2.jpg)<!-- .element: style="width:300px" -->
 
 ===
 
-**METTRE ENSEMBLE EDITORIALISATION + LITTERATURE CONTEXTUELLE**
-
-Les derniers concepts que nous allons explorer ensemble ce semestre sont les concepts de publication et d'éditorialisation. 
+Les derniers concepts que nous allons explorer ensemble ce semestre sont les concepts de publication, d'éditorialisation, mais également celui de contemporain. Un mot rapide là-dessus : le contemporain est souvent envisagé comme une manière d'établir un périmètre temporel pour classer les oeuvres (avec tout les pb que cela pose : contemporain c'est ce qui se passe en moment, sauf que forcément, demain le contemporain d'aujourd'hui ne sera déjà plus contemporain). Envisager le contemporain comme paradigme, c'est renvoyer à un modèle épistémologique, mais également esthétique. Le paradigme contemporain est en cela d'abord issu du monde de l'art, où il s'oppose au paradigme moderne ; depuis quelques années, un travail théorique est effectué pour penser le fait littéraire à travers ce paradigme contemporain.
 
 Le concept d'éditorialisation est un néologisme récent, directement issu des travaux scientifiques sur les phénomènes numériques, dont il s'attache à décrire les effets sur la fonction éditoriale donc nous avons parlé dès le premier cours. On balisera ensemble les contours de ce nouveau concept qui a fait l'objet de nombreux travaux ces dernières années -- je m'appuierai principalement sur MVR.
 
@@ -715,227 +713,593 @@ Mais espace critiqué par Ruffel car il se restreint au mâle blanc dominant. Li
 * Une hétérogénéité des formes médiatiques littéraires [textuel, oral, visuel]
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+===
+
+Pour théoriser cette multiplication des espaces de publication ainsi que cette hétérogénéité des environnements-support, et pour analyser les effets de tout cela, un concept a émergé depuis 20 ans = l'éditorialisation.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Expérimentations éditoriales
+## L'éditorialisation
+
+![](img/zapfinal4.png)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Cas numéro 1
-
-### Publie.net, la coopérative d'écrivains
+<!-- .slide: data-background-image="img/ngramEditorialisation.png" data-background-size="contain"-->
 
 
 ===
 
+Le terme éditorialisation est un néologisme récent, forgé dans les années 2000
+pour désigner de nouvelles pratiques éditoriales issues des technologies numériques. Fondamentalement, l’éditorialisation renvoie à la capacité des usagers à détourner, par leurs pratiques médiatiques, les usages institués par les media numériques (outils, plateformes, etc.). 
+
+Éditorialiser signifie ainsi produire les conditions pour que l’usager puisse détourner les contenus diffusés, dans le but de favoriser la création de nouveaux contenus. C’est là sans doute la principale distinction entre édition (y compris édition numérique) – qui se concentre sur des fonctions de production puis de diffusion de contenus – et éditorialisation – où se met en place une relation dynamique entre ces fonctions de production et de circulation. 
+
+Utilisé par des chercheurs issus de différentes disciplines (info-com, sociologie, philosophie, littérature, sciences du design, etc.), le concept d’éditorialisation fait l’objet de définitions parfois sensiblement différentes. 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/publi.png" data-background-size="contain" -->
+
+>Éditorialiser signifie ainsi produire les conditions pour que l’usager puisse détourner les contenus diffusés, dans le but de favoriser la création de nouveaux contenus. C’est là sans doute la principale distinction entre édition (y compris édition numérique) – qui se concentre sur des fonctions de production puis de diffusion de contenus – et éditorialisation – où se met en place une relation dynamique entre ces fonctions de production et de circulation. (Servanne Monjour, "Editorialisation, rééditorialisation et patrimonialisation", in *Les devenirs numérique des patrimoines*, 2022)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Un concept de remédiation (approche documentaire)
+> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications.
+>
+> Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in _L’indexation multimédia_, Paris, Hermès, 2007
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
 
-Depuis sa création en 2008 par François Bon, publie.net occupe une place à part dans le paysage éditorial francophone. À l’origine une plateforme d’édition numérique en ligne lancée et portée par l’écrivain François Bon, c’est une coopérative d’auteurs dédiée à la littérature numérique, où chacun peut participer au processus d’édition.
-http://www.dailymotion.com/video/xewz6t_francois-bon-a-propos-de-publie-net_creation
+Selon Bachimont, l’éditorialisation est le processus par lequel une ressource est
+remédiatisée et remédiée en un nouveau document numérique, impliquant la réinterprétation de la ressource. Pour le dire autrement : en changeant de forme
+médiatique et de milieu, le document est amené à devenir autre. Le processus
+d’indexation multimédia n’est donc plus seulement une forme d’édition, mais
+d’éditorialisation (le terme désignant alors ce changement de nature qui s’opère).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Un concept anti-essentialiste (approche philosophique)
+
+> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner (...) à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
+>
+> Vitali-Rosati, [_Qu'est-ce que l'éditorialisation?_, Sens public 2016](https://www.sens-public.org/article1184.html)
+
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+À partir de 2008, le concept d’éditorialisation connaît un succès croissant au sein
+d’un public élargi. Dans le séminaire “Écritures numériques et éditorialisation”,
+l’éditorialisation se conçoit comme un espace de débat et de réflexion 8 qui réunit
+des chercheurs en SHS et des praticiens (notamment des professionnels de l’information et de la documentation). L’éditorialisation permet alors de penser un processus un peu plus complexe que la définition proposée par Bruno Bachimont, car elle engage une série d’acteurs “humains” (auteurs, éditeurs, professionnels
+de la documentation, lecteurs) et “techniques” (plateformes, outils, algorithmes,
+etc.) pour étudier des dynamiques pratiques :
+
+> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner (...) à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
+
+Là où l’éditorialisation restait, dans la définition proposée par Bachimont, un processus assez limité, finalement peu éloigné de la curation de contenu, elle donne naissance sous l’impulsion de plusieurs chercheurs 9 à une théorie ambitieuse qui tend à saisir les implications culturelles, épistémologiques et ontologiques des dynamiques processuelles mises en place dans l’environnement numérique. 
+
+On retiendra ainsi certaines caractéristiques essentielles de l’éditorialisation, classées sous un principe fondamental d’ouverture et de performativité. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les caractéristiques essentielles d'un contenu éditorialisé (vs édité)
+
+1. Une ouverture dans le temps (vs stabilisation)
+2. Une ouverture dans l'espace (vs ancrage dans un support)
+3. Une relation stigmergique entre techniques et pratiques
+4. Une dynamique collective
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+===
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Une librairie
-Depuis 2008, publie.net, est :
-  * un ouvrage numérique pour le prix d’un poche
-  * l’un des premiers abonnements à une importante offre numérique, dont une majorité d’inédits
-  * la garantie d’un ouvrage numérique sans DRM (verrouillage)
-  * et depuis 2012, une offre papier incluant la version numérique, sans surcoût 
+![](img/WikipediaEdition.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/wikipediaEditionVersions.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+
+===
+
+1 = ouverture dans le temps : c’est le fondement même de la nature processuelle de l’éditorialisation. La publication en ligne n’est plus le dernier maillon d’une “chaîne” éditoriale, mais bien le début d’une série de transformations. L'exemple le plus simple de cette éditorialisation dans le temps = Wikipédia (où une notice est amenée sans cesse à évoluer). Autre exemple = votre journal, dont la Une se met à jour désormais toutes les 15 minutes. Où les articles sont susceptibles d'être mis à jour : c'est d'ailleurs la raison pour laquelle on vous demande généralement, lorsque vous citez une source numérique, d'indiquer la date de votre consultation : le référencement était traditionnellement une question de lieu (tel titre, telle édition, telle page), il est désormais aussi une question de temps (tel site, telle page web, tel jour telle heure). 
+
+Dans un régime éditorialisé, les contenus s'inscrivent en effet dans un flux permanent, là où l'édition permettait au contraire un principe très important de stabilisation des textes. On a vu que la stabilisation avait été l'un des enjeux de la construction du modèle éditorial moderne (rappelez-vous de l'auto-piratage de Voltaire). Ce principe de stabilisation se voit aujourd'hui directement remis en cause par le régime d'éditorialisation. Cette ouverture dans le temps dessine une nouvelle relation au contenu, qui se décline à présent en versions, marquant la fin de l’idée d’oeuvre conçue comme une unité stable (on pourra par exemple parler d’“états” du texte). On verra tout à l'heure avec F. Bon comment cette dé-stabilisation du texte peut être utilisée dans un corpus littéraire.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/licences.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/licenceCC.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+===
+
+2 = Une ouverture dans l’espace. Corollairement à la proposition précédente, la dissémination des contenus s’appuie sur l’investissement conjoint de plusieurs espaces numériques. Davantage que des changements contextuels, la pluralité des environnement-supports reconfigure le sens des contenus, de manière parfois
+imprévisible. Un contenu publié en ligne est en effet nécessairement soumis à une série de réappropriations qui vont le restructurer : du copier-coller, du remix, du mash-up ou remédiatisation (= republication dans un environnement alternatif). Ce qui est ici intéressant, c'est de constater que ces principes de republication échappent totalement à l'auteur original du contenu. C'est en raison même de ce principe de réappropriation que l'on a dû créer des licences (c'est la base des licences creative commons) : dans la mesure où l'on ne peut empêcher la copie d'un contenu en ligne (c'est la natude de la publication numérique que d'ouvrir à la réappropriation), on a donc créé des licences capables de déterminer les conditions de réappropriation. C'est le principe du copy-left.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+===
+
+3 = Une relation stigmergique entre techniques et pratiques. L’éditorialisation permet de penser l’influence de la technique en évitant autant que possible le biais technodéterministe, pour envisager les relations stigmergiques qui se tissent entre l’usager et les media : si les outils, les plateformes numériques ont tendance à prescrire certains usages, ces derniers peuvent être infléchis par les pratiques des utilisateurs qui s’approprient les contenus aussi bien que leur environnement médiatique. Je n'insisterai pas trop sur cet aspect.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+===
+
+4 = Une dynamique collective. Enfin, l’éditorialisation s’appuie sur un principe d’ouverture massive aux usagers, invités à devenir des acteurs à part entière de la production de contenus, via des pratiques de création participative, collaborative. Mais également via des politiques d'incitation à la réappropriation, au réagencement, etc. Cette dernière caractéristique marque une rupture épistémologique forte avec les régimes d’autorité traditionnels. Désormais, la frontière entre le producteur d’un contenu et son destinataire se voit totalement brouillée.
+
+Donner l'Exemple de GIF it UP! Ou de l'appli BDNF
+
+Important : dimension performative de l'éditorialisation.
+
+Éditorialiser, c'est faire, c'est créer.
+- L'éditorialisation vient faire appel à une activité et une responsabilité accrue des acteurs-lecteurs
+- L'éditorialisation implique aussi une série d'outils et de protocoles qui ne sont pas toujours maîtrisables
+
+Là où l'édition trad était finalement très normée, avec des structures d'autorités très fortes, l'édito implique une perte de contrôle qui peut s'avérer problématique pour nos institutions, mais aussi pour nous, lecteurs-internautes. Comment sont triés les résultats d'un page Google ? Je peux influer sur les résultats via mes recommandations. En même temps je n'ai pas la main sur l'algorithme...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Éditorialisation et littérature : François Bon dans son chantier numérique
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/6165686178_548dbd0bf9_b.jpg" -->
+
+
+===
+
+Texte important : Après le livre de F. Bon. Paru en 2011
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Nous vivons une des très rares mutations de l’écrit. Rares (la tablette, le rouleau, le codex, l’imprimerie), mais chaque fois irréversibles et globales.
+
+>Ce que change Internet, ce n’est pas le rapport au livre, c’est le rapport au monde. Le numérique affecte la façon dont on écrit aussi bien que celle dont on lit, nos bibliothèques comme la trace que nous laissons parmi les autres.
+
+>Il ne s’agit pas ici de prédire. Prendre le temps, au contraire, de considérer l’histoire récente de notre propre rapport à ces machines, comment nous nous en servons, ce qu’elles ouvrent de possibles. Prendre le temps de revenir à quelques oeuvres décisives, celles de Balzac ou de Rabelais en font partie, qui sont elles-mêmes l’empreinte d’une de ces transitions. Alors peut-être accepterons-nous de voir que s’offrent pour nos fables, nos récits, nos lettres, nos carnets privés, nos images aussi, d’autres vecteurs, une autre mémoire et de nouveaux modes de transmission.
+
+>Nous sommes déjà après le livre.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Première  question : les nouvelles formes de publication sur le web seraient-elles vraiment en train de détruire la stabilité du texte autrefois permise par l’imprimé ?
+
+Réflexion préliminaire : la question de la stabilité et de la clôture...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### "Baudelaire n'a jamais écrit <br>les _Fleurs du mal_"
+* Qu'est-ce qu'une "oeuvre" littéraire ?
+* Discussion des enjeux de clôture et de stabilisation
+* Le livre-nombreux : vers une nouvelle conception du texte et de la littérature
+
+===
+
+“Baudelaire n’a jamais écrit Les fleurs du mal”. Cette proposition polémique est le titre, un brin provocateur, du 11e chapitre d’Après le livre. Nous aurait-on alors menti ? Baudelaire ne serait pas le véritable auteur des Fleurs du mal, cette oeuvre qui compte parmi les plus connues de la littérature française ? Là n’est pas la question. François Bon n’a nullement la volonté d’ôter à Baudelaire la paternité de son oeuvre. Il s’agit plutôt de remettre en question le concept même d’oeuvre, comprise comme le résultat d’une intention explicite et forte de l’écrivain - dont le livre imprimé serait la matérialisation finale, stable et la pérenne. Dire que « Baudelaire n’a pas écrit Les Fleurs du mal », dans ce contexte, c’est donc affirmer que Les Fleurs du mal n’existent pas “en soi” comme une entité unique, autonome, et close sur elle-même, que l’auteur aurait imaginée et conçue d’un seul jet.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Une généalogie complexe, une clôture factice
+
+- Manuscrit perdu confié à Charles Asselineau (vers 1850)
+- 1ère édition par Auguste Poulet-Malassis, attaquée et censurée (1857)
+- 2nde édition chez Poulet-Malassis, sans les poèmes censurés + "Tableaux Parisiens" (1861)
+- Édition de _Les Épaves_ par Poulet-Malassis (1866)
+- 4e Édition avec 151 poèmes (1868)
+- 1949 : première "édition complète" autorisée
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+De ce point de vue, il faut bien dire que François Bon a plutôt raison, comme le montre la généalogie complexe des Fleurs du mal. On sait en effet qu’il a d’abord existé un premier manuscrit relié du recueil, aujourd’hui perdu, que le poète avait confié à son ami écrivain Charles Asselineau, vers 1850 - le contenu exact de cette version est indéterminé. En 1857, une première édition des Fleurs du mal est publiée et tirée à 1300 exemplaires par le jeune éditeur Auguste Poulet-Malassis.
+Attaquée pour outrage aux bonnes moeurs, puisque des poèmes comprennent des connotations érotiques à peine dissimulées, cette édition sera censurée.
+
+Loin de se décourager, Auguste Poulet-Malassis, auquel Baudelaire a cédé les droits de reproduction exclusifs, propose une nouvelle édition du recueil en 1861. Le poète y supprime les 6 poèmes ayant fait l’objet d’une censure, mais en ajoute 32, pour un total de 126 poèmes - dont une nouvelle section, et non la moindre, celle des « Tableaux parisiens ». Cinq ans plus tard (1866), alors qu’il est exilé en Belgique pour échapper à la justice Française, Poulet-Malassis fait paraître Les Épaves, un recueil qui compte 23 poèmes de Baudelaire, dont les 6 qui avaient été censurés dans la première édition… L’ouvrage, évidemment, est condamné, mais il est considéré par les spécialistes comme la 3è édition des Fleurs du mal. Et ce n’est pas fini ! Après le décès de Baudelaire, une quatrième édition est publiée en 1868 qui comprend un total de 151 poèmes, sans ceux qui ont été condamnés par la censure - lesquels sont parallèlement re-publiés à Bruxelles en 1869, dans un Complément aux Fleurs du Mal de Charles Baudelaire, avec le recueil Les Épaves...
+
+Tout cela pour dire, en fin de compte, que le public n’a pu lire une version “complète” des Fleurs du Mal qu’en 1949 (!), suite à un jugement de la Chambre criminelle de la Cour de cassation, qui a révisé l’ensemble des condamnations pour outrage aux bonnes mœurs commis par la voie du livre…
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le livre-nombreux
+
+> Peut-être “Les Fleurs du mal” est-il le livre le plus nombreux dans ma bibliothèque. Paradoxe de l’expression, mais comment dire autrement qu’il est présent dans la pièce où je travaille en tant d’éditions successives ou critiques, ou poche – ou ultra-poche… ?
+>
+> François Bon _Après le livre_, chapitre "Baudelaire n'a jamais écrit les Fleurs du mal" (2011)
+
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
-===
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/publie2.png" data-background-size="contain" -->
 
 ===
 
-= Un portail de mise en vente, un large catalogue mêlant littérature contemporaine, compte-rendu d’expériences d’écriture web, ateliers de création et laboratoires exploratoires de nouveaux modes d’écritures, la possibilité de s’abonner, une politique tarifaire volontaire et une juste rétribution des auteurs, autant de chantiers qui ont façonné le paysage éditorial numérique tel que nous le connaissons aujourd’hui.
+La proposition de François Bon est donc particulièrement originale : l’expression de « livre nombreux » qu’il utilise, désigne non seulement les versions du texte mais aussi les versions du livre - soit de l’inscription médiatique du texte.
+En effet, on a bien vu que c’était aussi la mise en livre, le processus éditorial, qui avait construit une œuvre comme les Fleurs du mal, dont les éditions et rééditions ont été si nombreuses que Baudelaire lui-même n’en aura jamais vu l’état définitif. Le critère de “vérité du texte” doit alors prendre en compte cette multiplicité textuelle mais aussi matérielle, une multiplicité constitutive de la plupart des oeuvres littéraires - autant imputable à l’écrivain, qui aura construit une oeuvre sur plusieurs années), qu’à l’éditeur, qui est lui aussi l’architecte du livre.
 
-Le modèle économique est déficitaire, autant le dire.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-### Vers un modèle 50-50 : une revalorisation du travail de l'auteur
-* Modèle imprimé [une norme à 10%] = coûts fixes (correction, relecture et mise en page des ouvrages) + coûts variables de l’impression, de la distribution et de la diffusion (évoluent selon le nombre d’exemplaires) + marge libraires
-* Modèle numérique = coût fixes (révision, mise en page numérique) + marge diffuseur / libraire (L'Immatériel, Amazon...)
+### Le Chantier littéraire de _Fragments du dedans_
+
+> Tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.
+>
+> François Bon (Le Tiers livre)
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
-===
 
-François Bon a donc fait le choix pour publie.net de reverser 50 % des recettes d’une œuvre à son auteur, comme le pratiquent les galeries d’art.
-
-Tandis que la norme dans l’édition papier se situe entre 9 % et 12 % du prix de vente (pour les auteurs les plus vendus), une norme que certains éditeurs appliquent à l’identique au numérique.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/publie.png" data-background-size="contain" -->
+![](img/fragmentDeDedansGrasset.png)<!-- .element: style="width:400px" -->
 
 ===
 
-La faible marge dont bénéficie l’auteur d’un livre papier s’explique par plusieurs facteurs : d’une part, la (plus ou moins grande) prise de risque de l’éditeur, qui fait confiance à l’auteur et paye les frais de fabrication des livres sans être assuré que ceux-ci se vendront ; d’autre part, ces frais eux-mêmes, comprenant les coûts fixes (correction, relecture et mise en page des ouvrages) et les coûts variables de l’impression, de la distribution et de la diffusion, qui évoluent selon le nombre d’exemplaires choisi. Les libraires touchent également une marge lors de la vente.
+Il faut bien dire que les contenus diffusés en ligne sont sans cesse susceptibles d’être modifiés, altérés ou même supprimés : ils nous est tous arrivé au moins une fois de cliquer sur un “lien mort”, par exemple. Dans le domaine littéraire, cette instabilité ou fragilité technique redouble d’ailleurs celle des contenus publiés : sur le web, les écrivains et écrivaines se servent en effet de leur blogue ou de leur site pour diffuser des brouillons, des versions inachevées ou partielles d’un récit, chapitre par chapitre.
 
-Dans le cadre de la publication d’un livre numérique, ce sont les coûts fixes, donc l’investissement de départ, qui seront les plus importants, qui consistent à payer les metteurs en page numériques, qui assureront le codage du fichier et son affichage lisible sur toutes les liseuses.
+Sur les réseaux sociaux comme Twitter, ils se lancent dans des expériences exigeantes d’écriture “en direct”, donnant quotidiennement rendez-vous à leurs lecteurs - abonnés pour livrer les fragments d’un récit en construction. Pour le lecteur, l’occasion est enfin donnée d’assister à l’élaboration progressive d’un texte, et de voir les coulisses du travail littéraire. Le processus d’écriture se révèle, comme jamais, en train de se faire.
 
-Il reste ensuite la marge accordée au diffuseur (L’Immatériel pour publie.net) ou au libraire (Amazon, Apple, Epagine...), et le reste revient à publie.net tandis que l’auteur touche la moitié de la somme déboursée par le lecteur.
-
-Le prix réel d’un livre numérique n’est jamais stable, il peut évoluer au fur et à mesure des mises à jour du code d’un livre. Le choix de rémunérer à moitié l’auteur est alors, en dehors d’une baisse des coûts globaux de fabrication d’un livre, l’expression d’une reconsidération de l’auteur.
-
-L’auteur se trouve dans une situation plus valorisante et cohérente, où le lecteur le paye conséquemment pour l’œuvre qu’il va lire, et son rapport avec l’éditeur ne se construit plus dans une logique de domination, mais dans un rapport d’égalité, il reçoit une part plus juste.
+Ces chantiers à ciel ouvert que sont les blogues et les réseaux sociaux transgressent certains concepts encore très forts dans l’imaginaire littéraire et éditorial, à commencer par l’auteur et l’oeuvre. Là où le livre imprimé constituait le résultat final et très élaboré d’un travail de longue haleine, mené sur plusieurs années, mais dont rien ne filtrait, le web donne enfin à voir le travail d’écriture en amont. La conception même de l’oeuvre littéraire s’en trouve changée. Non seulement l’instabilité et le caractère inachevé du texte ne sont plus tabous.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+### L'écriture-performance
 
-### Une communauté littéraire
-* Édition de "petits textes" : brouillons, projets, textes ne répondant pas aux normes éditoriales classiques
-* Un lieu de rassemblement pour une communauté d'écrivains en ligne
+>“Écrire n’est pas un scénario, un plan, mais comment la matière qu’on affronte sera subversion de ce scénario ou de ce plan, de l’intuition obscure qu’on en a. Le caractère nécessaire de la logique interne d’une oeuvre s’exprimant donc plutôt par l’écart qu’elle impose aux intuitions qui en sont l’origine. Le site Internet pourrait bien, alors, comme le soulignent ses détracteur, se révéler dangereux pour les grandes constructions de l’esprit : il rend inopérante la contrainte d’écart.”
+>
+> François Bon (Le Tiers livre)
+
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
-===
 
-À la base, publie.net n’était pas là pour concurrencer les maisons D’édition papier « classiques », mais pour mettre en valeur ce qui ne pouvait pas être publié, pour diverses raisons : petits textes, brouillons, projets. Textes ne répondant pas aux normes édito classiques.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ejfyn1sxkaa9ia2.jpeg" data-background-size="contain" -->
 
 ===
+Certains écrivains mettent en scène, dans ce qui devient parfois un véritable méta-récit, l’élaboration du texte. Dans les chantiers littéraires en ligne, l’écriture est ainsi transformée en une performance.
 
-Communauté d’écrivains : ces communautés sont nées sur le web - avec les blogues, forums, et surtout les réseaux sociaux. Le réseau existant avant la maison d’édition, qui est venu offrir une structure commune, une forme institutionnelle pour tout un groupe qui était disséminé (chacun son blogue, etc.). C’est un peu un lieu de rassemblement.
-les membres de publie.net fonctionnent par et en un réseau dans le réseau. L’ensemble de ses partenaires, qu’ils soient complices ou inévitables, et de ses rivaux, idéologiques ou commerciaux, dessine un paysage éditorial du livre numérique où publie.net se positionne et se détache clairement.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Cette écriture-performance, François Bon l’a mise en pratique avec Fragments du dedans - un livre publié chez Grasset, mais dont le “chantier” a d’abord été publié en ligne.
 
-### Un espace de littérature
-* Un espace de contenus, d'archivage
-* Des textes littéraires
-* Des entretiens
-* Des critiques...
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-===
-
-Tout à la fois vitrine et lieu de ventes, le site de publie.net est un espace particulièrement important qui porte l’image de la coopérative et dont l’apparence devrait entrer en écho avec ce qu’elle souhaite incarner.
+Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/blogpublie.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/fragmentsDuDedans.png" -->
 
 ===
+>C’était au printemps 2013. Je reçois par mail la proposition de Jeanne Garcin, éditrice chez Grasset : un abécédaire, prise de risque sous la protection de l’alphabet, tentative par l’écart, puisque aucun des auteurs sollicités ne serait chez son éditeur habituel.
 
-Le site web de la maison d’édition est un espace de contenus, d’archivage ainsi qu’une surface qui est le présentoir de ces documents, documents qui peuvent être multiples ; images, textes courts, liens hypertextes, logos, zones dédiées à l’écriture de l’internaute comme peuvent l’être les commentaires ou simplement l’endroit où l’on tape sa recherche.
-Vous avez donc des textes littéraires sur ce site.
+Premiers rendez-vous, lente approche, le courant passe, frappé par la détermination, la qualité aussi des maquettes. Content aussi de retrouver dans cette collection quelques ferrailleurs de langue amis. Je me lance à l’été 2013, dans le petit hameau de Tartonne, dans les Alpes de Haute-Provence, mais l’écriture va continuer, le plus souvent hors domicile, dans les trains, les hôtels, les bistrots de passage, jusque vers juin 2014.
+
+Comme d’ordinaire, tout chantier d’écriture s’insère d’abord ici sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches. Les mots les plus dangereux (roman) viendraient tout à la fin.
+
+Sur le livre, voir autres billets de cette rubrique, et bien sûr possible de le commander ci-dessous, version papier ou numérique. Et c’est aussi une manière de soutenir le travail qui se fait ici en ligne.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le livre papier : POD
-- *Print on demand* (Impression à la demande)
-- Un modèle inialement marginal, récupéré par les grands éditeurs
-- Une technique en progrès constant
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Cas numéro 2
-### La gittérature et les antilivres de la maison Abrüpt
+<!-- .slide: data-background-image="img/fragmentdededansSite.png" data-background-size="contain"-->
 
 ===
 
-C'est l'exemple le plus "geek" que je vais vous montrer.
+Ci-dessous, non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état... Et, comme on le constatera, le titre aussi a surgi tout à la fin, en complicité avec J.G.
 
-Dans la lignée des mouvements d’avant-garde littéraires et artistiques du XXe siècle, notamment ceux que l’on a pu ranger sous le paradigme « contemporain », la littérature numérique explore depuis les années 1990 des formes d’écriture issues de mariages – plus ou moins heureux – avec l’outil informatique.
+FB, août 2015
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
- Twittérature, Littératube, Booktubeurs, écranvain, autoblographie, hypéritexte, qwerty-made... et gittérature
+<!-- .slide: data-background-image="img/fragmentDeDedansGrasset.png" data-background-size="contain"-->
 
 ===
 
-Les objets hybrides qui résultent de ces explorations intermédiales, hypermédiatiques, hypertextuelles et transmédiatiques, poussent les frontières du fait littéraire au point de conduire les chercheurs à trouver de nouvelles catégories pour qualifier et organiser les corpus. Twittérature, Littératube, Booktubeurs, écranvain, autoblographie, hypéritexte, qwerty-made, sont autant de néologismes visant à baliser cette terra incognita de la littérature en ligne.
+Évidemment, il n’est pas toujours aisé pour les éditeurs de comprendre ce genre de démarche… Beaucoup d’entre eux demandent en effet aux écrivains d’effacer les traces des chantiers en ligne, de peur que les lecteurs ne voient pas bien l’intérêt d’acheter un livre dont une part du contenu est disponible gratuitement sur le web. C’est bien mal comprendre ce qui se joue fondamentalement ici : car pour le lecteur, justement, ce sont deux expériences de lecture bien différentes ! L’une, sur le web, consiste à suivre une performance d’écriture et un récit discontinu - il faut en effet patienter entre les publications, et le sens du texte semble toujours en suspens. L’autre expérience, à travers le livre, consiste à lire un récit linéaire, dont la clôture balise par ailleurs un horizon d’attente bien différent. Comme avec Les Fleurs du mal de Baudelaire, le texte se révèle donc “nombreux” depuis ses racines en ligne jusqu’au livre imprimé. Et le dispositif éditorial, ici, ne doit pas être pensé du point de vue des contenus, mais bien depuis celui de l’expérience de lecture.
 
-Derrière ces mots-valises qui peuvent paraître un brin superfétatoires – un écrivain ne demeure-t-il pas un écrivain, même s’il dédie son art aux « écrits d’écrans » ? – se dresse une ambition théorique dont on soulignera la nécessité. Il s’agit, d’abord, de décrire des poétiques innovantes fondées sur l’expérimentation technique et l’exploration du potentiel poétique de l’informatique.
 
-Mais il s’agit surtout de comprendre comment, au sein de plusieurs communautés d’écrivains, se dessine un modèle alternatif de la littérature et de ses grands concepts (l’œuvre, l’auteur, le texte, le lecteur). Cette nouvelle « idée de littérature » s’appuie tout autant sur les fondements de la culture numérique que sur un rejet parfois violent d’une conception du fait littéraire héritée d’un autre âge médiatique, celui de l’imprimerie et, plus spécifiquement, de l’édition moderne. En ce sens, la réflexion sur les écritures numériques n’est pas que poétique, elle se veut aussi politique.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le cas _Limite_ de François Bon
+* Un chantier inversé
+* La réouverture du livre
+
+===
+
+À première vue, ces chantiers littéraires en ligne pourraient passer pour une étape transitoire vers l’imprimé, dont l’autorité et la stabilité resteraient indétrônable. Le bon vieux livre papier viendrait clore un chantier numérique dont il serait la finalité. Ce serait là bien mal connaître François Bon qui, en 2010, s’est lancé dans un travail un peu fou de récriture en ligne de son second roman, Limite. Travail “fou” car François Bon à dû retaper tout son texte à la main, puisqu’il n’existait pas de copie originale numérique de cet ouvrage paru en 1985 chez Minuit. En d’autres termes, l’auteur a procédé à contre-courant de ce que propose le modèle éditorial traditionnel, en “réouvrant” le chantier d’un livre publié 25 ans plus tôt…
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/limite01.png" data-background-size="contain"-->
+
+===
+
+Écrit dans les années 1980, alors que François Bon était encore un “jeune” auteur méconnu, Limite était épuisé depuis déjà bien longtemps et l’éditeur, Minuit, n’avait pas le projet de le rééditer.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+===
+En accord avec la maison d’édition, François Bon a donc décidé de rendre disponible à nouveau cet ouvrage, en le recopiant et le republiant lui-même sur son site web, le Tiers livre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Alors scanner et préparer l’epub ? Non : 30 ans après, j’ai décidé de tout recopier à la main sur mon ordi. Bien sûr, quelques phrases ont changé, peut-être un ou deux passages ont-ils sauté, quelques adjectifs ont été virés à la soufflette. Mais l’équilibre d’une langue est comme hors de l’auteur, on n’y touche pas. C’est très surprenant aussi combien on le découvre mémorisé, organiquement lié à vous-même, bien au-delà du souvenir conscient.
+
+<!-- .element: style="font-size:1.4rem" -->
+
+===
+
+Question du choix technique :  pas de format numérique, initialement tapé à la machine (tapuscrit)... Le plus "simple" serait d'en proposer une numérisation, un peu sur le modèle de ce que propose la BN, par exemple.
+
+Mais FB va préférer travailler directement dans son site web : donc nécessité de tt recopier à la main. CITER
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Encore un travail qui a commencé par le site, et restera en ligne ci-dessous.
+Ecrit en 1985 à la Villa Médicis sur une machine à écrire électrique Adler (j’avais déjà à endurer quelques commentaires de collègues traditionnalistes sur le fait que j’utilisais un engin aussi futuriste), je n’avais pas de version numérique de Limite, dont j’ai pu il y a 3 ans récupérer les droits aux éditions de Minuit, qui l’avaient laissé en déshérence. Irène Lindon a eu l’élégance d’accepter, moi je voudrais bien récupérer les droits de tous mes livres au-delà de 10 ans d’exploitation, c’est une des raisons qui m’a conduit à fonder ma propre maison d’édition.
+
+<!-- .element: style="font-size:1.4rem" -->
+
+===
+
+Encore un travail qui a commencé par le site, et restera en ligne ci-dessous.
+Ecrit en 1985 à la Villa Médicis sur une machine à écrire électrique Adler (j’avais déjà à endurer quelques commentaires de collègues traditionnalistes sur le fait que j’utilisais un engin aussi futuriste), je n’avais pas de version numérique de Limite, dont j’ai pu il y a 3 ans récupérer les droits aux éditions de Minuit, qui l’avaient laissé en déshérence. Irène Lindon a eu l’élégance d’accepter, moi je voudrais bien récupérer les droits de tous mes livres au-delà de 10 ans d’exploitation, c’est une des raisons qui m’a conduit à fonder ma propre maison d’édition.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Et c’est dans ces heures de dactylographie (le découpage des billets ici en témoigne, une douzaine de grandes séances) que me revenaient aussi les sources, les événements, les intuitions – des moments qui touchaient parfois à l’écriture, parfois aux racines autobiographiques. « Le deuxième livre est toujours le plus difficile à écrire », c’est une phrase de Jérôme Lindon, le directeur des éditions de Minuit, à réception du premier état du manuscrit, qui portait alors pour titre Terrain glissant. J’ai décidé que cette phrase serait le titre de ce livre imprimé, spécialement composé pour accueillir cette démarche.
+
+<!-- .element: style="font-size:1.4rem" -->
+
+===
+
+Et c’est dans ces heures de dactylographie (le découpage des billets ici en témoigne, une douzaine de grandes séances) que me revenaient aussi les sources, les événements, les intuitions – des moments qui touchaient parfois à l’écriture, parfois aux racines autobiographiques. « Le deuxième livre est toujours le plus difficile à écrire », c’est une phrase de Jérôme Lindon, le directeur des éditions de Minuit, à réception du premier état du manuscrit, qui portait alors pour titre Terrain glissant. J’ai décidé que cette phrase serait le titre de ce livre imprimé, spécialement composé pour accueillir cette démarche.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/limite001.png" data-background-size="contain"-->
+
+
+===
+
+Tradition de Jérôme Lindon chez Minuit : refuser systématiquement les second manuscrits en l'état. Les auteurs devaient entièrement les reprendre. Personne n'y échappe. Jean ECHenoz raconte comment il a mit des années après le refus de son second MS pour oser réécrire, et renvoyer quelque chose à Lindon.
+
+FB lui aussi, en son temps, a vu son second manuscrit refusé :
+
+>Quand je revois Jérôme Lindon, en juin 1985, le manuscrit s’appelle Terrain glissant. Quand j’entre dans son bureau, il raccroche son téléphone : – Marguerite Duras me dit que c’est un très mauvais titre... Jamais su si c’était réel ou un de ses rituels, pour lui l’édition tenait du jeu, mais c’est avec nous qu’il jouait, on était gagnant aussi. Et c’est lui qui proposera Limite.
+
+Le livre devra en effet subir de grosses modifications.
+
+Mais cette fois, FB joue avec la formule de Lindon, pour en faire dériver quelque peu le sens : "Le second livre est toujours le plus difficile à écrire"... même si, ici, ce sera plutôt une seconde version du livre. Un livre réécrit plus 20 ans après sa première publication.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### (1) Un travail de republication
+* Un livre "recopié" à la main pour être numérisé
+* Des modifications mineures (syntaxe, vocabulaire)
+
+===
+
+En effet, il faut bien comprendre que le travail de recopiage auquel se livre FB, va finalement constituer un travail de réécriture à part entière qui va changer le sens de l'oeuvre.
+
+Tout d'abord, il s'agit d'un travail de l'ordre de la republication : Cette réédition numérique permet d’apporter quelques modifications mineures au texte : de l’aveu même de l’auteur, “quelques phrases ont changé, peut-être un ou deux passages ont-ils sauté, quelques adjectifs ont été virés à la soufflette” (Bon, Tiers livre).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### 2. Un travail de remédiation (du papier au numérique)
+* De la forme linéaire à la forme fragmentée et hypertextuelle
+* Transformation du roman en feuilleton
+* Nouvelle expérience de lecture
+
+===
+
+2. Travail de remédiation
+
+Par ailleurs, en choisissant de ne pas produire un livre numérique (epub), mais une série de posts de blogue publiés à intervalles réguliers, François Bon transforme le roman Limite en feuilleton : le texte est fragmenté, soit découpé en 12 parties. Il se transforme alors en hypertexte, là où la version imprimée privilégiait une forme linéaire.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### 3. Un travail de rétro-médiation
+* Augmentation du récit original (création d'un méta-récit)
+* Retour "à la forme initiale, en amont de la première publication”
+* _Virtualisation_ du texte : de l’édition à l’éditorialisation, revenir aux origines du geste créatif
+
+===
+
+Mais surtout, au fur et à mesure qu’il se prête à cet exercice de dactylographie à première vue bien mécanique, l’écrivain redécouvre son propre texte et entame la construction d’un métarécit à caractère autobiographique, établissant des ponts entre la fiction (Limite) et un récit rétrospectif sur son parcours d’écrivain.
+
+En republiant en ligne Limite, François Bon réouvre donc le chantier du roman, pour en créer une version augmentée qui explore les potentialités du texte au-delà de toute exigence de stabilité et de clôture. Dans sa forme imprimée, Limite, tel que publié chez Minuit, aura été un moment du texte - mais pas le seul !
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/limiteExemple1.png" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Éditorialisation de la chaîne éditoriale : le modèle SSP
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### *Single source publishing* ?
+
+### Éléments de définitions
+
+![](img/def.gif) <!-- .element: style="width:300px" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### La méthode *single-source publishing* </br>en bref
+Le *single-source publishing* désigne une méthode de production d'un objet médiatique (livre imprimé, numérique, numérique augmenté, PDF) à partir d'une source commune, dont le format permet des exports et des transformations en une multiplicité d'autres formats.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La méthode *single-source publishing* en images
+
+
+![](img/SingleSourcePublishinModel.png) <!-- .element: style="width:45%;float:right;margin-left:-1em;" -->
+
+
+![](img/singleSourcePublishinPb.png) <!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le problème
+
+- discontinuités et ruptures au stade de la production et de la publication : une multiplication de versions
+- une succession d'outils et de formats à chaque "maillon" de la chaîne : des problèmes d'interopérabilité
+- une publication orientée imprimé, le multiformat relégué en "post-production" : un travail chronophage, complexe, coûteux
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/singleSourcePublishinPb.png) <!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+- discontinuités et ruptures au stade de la production et de la publication
+
+Le texte que vous envoyez à votre directeur, celui qu'il vous renvoie : multiplication des versions.
+
+- une succession d'outils et de formats à chaque "maillon" de la chaîne
+
+Problème d'interropérabilité : la chaîne porte mal son nom, car elle laisse entendre que la production d'un livre s'opère de manière séquentielle comme un long fleuve tranquille, avec peu d'acteurs impliqués. 
+La réalité est plus complexe.
+
+- une publication multiformat en "post-production" : un travail chronophage, complexe, coûteux
+La production du livre est aujourd'hui principalement pensée pour de l'imprimé. 
+Tout ce qui va relever de la publication multimodale, notamment en numérique (epub, HTML, livre augmenté) est pensé après, alors que c'est déjà trop tard. On va remédier un livre imprimé au lieu de penser dès le premier maillon de la chaîne une sortie numérique.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La solution *SSP*
+
+* Un écosystème de publication collaboratif, où interviendront *tous* les acteurs de la chaîne
+* Un format pivot à partir duquel on produira l'ensemble des formats nécessaires à la production du livre, quelle que soit sa forme médiatique (imprimé, numérique)
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/SingleSourcePublishinModel.png) <!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/SingleSourcePublishinModel.png" data-background-size="contain"-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ssp-exemple-technique.png" data-background-size="contain"-->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La philosophie (l'utopie ?)
+
+>Single sourcing isn’t a specific solution, it is a general idea that must be intentionally designed into a publisher’s workflow. Single sourcing changes how people work and often requires a different tooling. The secret really, if we zoom out to a high-level abstraction of the problem, is to work out how the content creation and production folks can work in a shared ‘environment’ where they all work on the same files, the same source files – hence the term ‘single source’.
+
+>CoKo Foundation
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Le single source n'est pas une solution spécifique, c'est une idée générale qui doit être intentionnellement conçue dans le flux de travail d'un éditeur. Le sourcing unique modifie la façon dont les gens travaillent et nécessite souvent un outillage différent. Le secret, si l'on s'en tient à une abstraction du problème, est de trouver comment les personnes chargées de la création et de la production du contenu peuvent travailler dans un "environnement" partagé où elles travaillent toutes sur les mêmes fichiers, les mêmes fichiers sources - d'où le terme "source unique".
+
+### Expérimentations *ssp* dans les écritures littéraires 
+#### Une poétique du hack dans la *gittérature* de la maison *Abrüpt*
+
+![](img/abrupt-litterature.png)<!-- .element: style="width:400px" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/abruptGitterature.png" data-background-size="contain" -->
 
+source image : [Site web d'Abrüpt](https://abrupt.cc/)
+
+<!-- .element: class="source" -->
+
+
 ===
 
-Nous ajouterons à la liste déjà longue des néologismes de la littérature numérique le terme de gittérature, fusion entre le protocole informatique GIT et l’écriture littéraire comprise dans un sens élargi, incluant le dispositif éditorial. L’essai de définition de la gittérature qui va suivre est largement inspiré des faits d’armes de la maison d’édition Abrüpt. Nous reviendrons sur la confrontation entre deux conceptions de l’écriture : l’écriture littéraire et l’écriture du code informatique, incarnée ici via le protocole GIT, dont s’emparent depuis quelque temps des éditeurs et des écrivains.
-
-Un tel sujet pourrait sans doute relever des critical code studies, soit les travaux sur la poétique du code.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/abruptcropped.mp4" data-background-size="contain" -->
+
+source image : [page d'accueil du site web d'Abrüpt](https://abrupt.cc/)
+
+<!-- .element: class="source" -->
+
+===
+
+Abrüpt est une maison d'édition Suisse, mais il serait plus juste de dire qu'elle habite web (j'y reviendrai). J'ai tendance, vous le constatez, à personnifier mon objet d'étude, mais c'est que les éditeurs-artisans-bricoleurs à l'origine du projet se font bien discrets. Ils vous répondront toujours quand vous avez une question à leur poser, mais ils semblent tout particulièrement attachés à s'exprimer à travers un "nous" maintenant une certaine équivoque (entre acteurs "humains", acteurs "techniques", "acteurs institutionnels") :
+
+>notre situation est Internet, mais notre corporéité reste pour l’instant établie du côté de Zürich, en cette terre helvétique où se promènent les fantômes affranchis de quelques réfugiés de l’histoire.
+
+De fait, Abrüpt -- puisque je me contenterai moi aussi de ce seul nom -- adopte la rhétorique d'un mouvement collectif. En effet :
 
 >C’est abrüpt. Le mot se disperse dans l’obscur, et il ne nous reste plus que des livres à jeter au monde pour manifester rêves et hurlements. Nous nous organisons autour de textes qui s’agitent et se révoltent, s’altèrent en antilivres, s’échouent en partage. Nous fabriquons de la transdialectique et trafiquons du papier, nous prenons note d’une cyberpoétique dont le verbe fomente l’erreur au cœur du réel. Il bruit. Nous sommes à l’écoute.
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
-
-La gittérature a déjà fait l’objet d’une première définition de la part de la maison d’édition suisso-numérique Abrüpt, qui travaille depuis quelques années à la mettre en œuvre :
-
->notre situation est Internet, mais notre corporéité reste pour l’instant établie du côté de Zürich, en cette terre helvétique où se promènent les fantômes affranchis de quelques réfugiés de l’histoire.1
-
-On se contentera de ce seul nom, « Abrüpt », une entité qui s’exprime au « nous » de manière à maintenir une certaine équivoque entre acteurs « humains » (éditeurs, auteurs, développeurs, designers, tous un peu bricoleurs), « techniques » (formats, outils) et « institutionnels » (protocoles, circuits de diffusion). Plus qu’un collectif, Abrüpt semble opérer la fusion de ces acteurs au sein d’une écologie éditoriale d’un genre nouveau, où les structures d’autorité traditionnelles sont largement bousculées.
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/abrupt.png" -->
-<!-- .slide: class="hover" -->
+<!-- .slide: data-background-image="img/abruptManifeste.png" data-background-size="contain" -->
 
-===
-
-Le « nous » d’Abrüpt constitue en soi une proposition de redéfinition de la fonction éditoriale incarnée dans un nouvel objet éditorial : l’antilivre. Ce dernier n’est pas tant un refus du livre qu’une déconstruction de son modèle médiatique imprimé traditionnel – une édition garante de la stabilité du texte (comprise ici comme un figement du texte), de la légitimation d’un auteur (compris comme un statut juridique et économique plutôt qu’esthétique).
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/jeanneyformats.png" data-background-size="contain"-->
-
-
-source image : Abrüpt, Christine Jeanney, *Girafe*
+source image : [Manifeste Abrüpt](https://www.antilivre.org/#manifeste)
 
 <!-- .element: class="source" -->
 
+
 ===
-En un sens, l’antilivre est une proposition pour un nouveau media livresque, fondé sur un principe de modularité (chaque titre est proposé en format imprimé payant, HTML gratuit, PDF gratuit) et d’ouverture (textes et code sont disponibles sur un dépôt GIT qui en permet la réappropriation).
+Comme de nombreux collectifs Abrüpt a un projet. Ce projet a été formulé dans un manifeste que vous trouvez en ligne sur le site web de la maison.
+
+Morceaux choisis :
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
->L’antilivre, c’est une affirmation de la littérature, de sa circulation joyeuse, contre l’époque, contre le livre, sa chaîne, ses ronronnements, pour le futur, pour l’information réticulaire, pour un lecteur pluriel éclairé par celle-ci. L’antilivre cisaille les lenteurs industrielles du siècle, il façonne des idées d’après-demain à force de recomposer le passé. Ici, rien ne se tisse, rien ne stagne, le texte trouve une texture encore inconnue en ce qui le survolte, et d’électricité le verbe fabrique des structures nouvelles. Direction silicium, l’antilivre se veut court-circuit de la grammaire du livre pour offrir en partage l’abrupt.
+
+> L’antilivre est une métamorphose, est son désordre, est l’affirmation d’une littérature des courts-circuits, de sa circulation joyeuse, contre l’époque, contre le livre et sa grammaire, contre sa chaîne et ses ronronnements, pour un futur des altérations, pour une information libre et réticulaire, pour une multitude éclairée par celle-ci.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-===
- La définition de l’antilivre est au centre du manifeste d’Abrüpt :
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/abruptjeanney.png" data-background-size="contain"-->
+>L’antilivre n’a pas de forme, son impermanence dispose de toutes les formes, il se transforme sans cesse, et son information brute ne connaît aucune fixité, aucune frontière, elle fragmente son essence, distribue le commun, déploie sa liberté au-devant de nos singularités cybernétiques.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
-source image : Abrüpt, Christine Jeanney, *Girafe*
+>L’antilivre a pour ennemi toute culture. La culture ne lutte pas, elle tient la matraque, elle divertit, puis assomme.
 
-<!-- .element: class="source" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/abruptjeanney2.png" data-background-size="contain"-->
-
-source image : Abrüpt, Christine Jeanney, *Girafe*
-
-<!-- .element: class="source" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/jeanneygit.png" data-background-size="contain"-->
-
-source image : Abrüpt, Christine Jeanney, *Girafe*
-
-<!-- .element: class="source" -->
 
 ===
+
+L'abrüpt manifeste de l'antilivre -- et de l'antilittérature -- détaille un programme aussi poétique que politique, où la références au mouvement des communs s'accompagne d'un appel à bousculer le verbe, la langue, et plus largement l'institution culturelle dans son ensemble. Un manifeste à l'image du catalogue où cohabitent des classiques de la pensée SHS du XX^e^ siècle (Simone Weil, Pierre Kropotkine), des auteurs contemporains que l'on aura déjà croisés ici et là sur des plateformes bien connues (Pierre Ménard et Christine Jeanney, contributeurs réguliers à publie.net), mais aussi de nouveaux noms, en tout cas pour moi : Lucia Pigliapochi ou Otto Borg. Il y a de l'essai, de la poésie, du récit, de l'image aussi (photographie, dessin). Bref, un catalogue très hétérogène en apparence, mais dans le quel se file une ligne éditoriale claire.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -950,96 +1314,309 @@ Dans le manifeste antilittéraire d’Abrüpt, le poétique et le politique sont
 L'antilivre repose de plus sur une conception très technique, entièrement arrimée au protocole GIT.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Un modèle de *single-source publishing*
-Le *single-source publishing* désigne une méthode de production d'un objet médiatique (livre imprimé, numérique, numérique augmenté, PDF) à partir d'une source commune, dont le format permet des exports et des transformations en une multiplicité d'autres formats.
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .slide: data-background-image="img/dio-abrupt.png" data-background-size="contain"-->
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/singleSourcePublishinPb.png" data-background-size="contain"-->
+source image : Dio, *Anthropie*, sur le site de l'éditeur Abrüpt
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/SingleSourcePublishinModel.png" data-background-size="contain"-->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Single sourcing isn’t a specific solution, it is a general idea that must be intentionally designed into a publisher’s workflow. Single sourcing changes how people work and often requires a different tooling. The secret really, if we zoom out to a high-level abstraction of the problem, is to work out how the content creation and production folks can work in a shared ‘environment’ where they all work on the same files, the same source files – hence the term ‘single source’.
-
->CoKo Foundation
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: class="source" -->
 
 ===
 
-Le single source n'est pas une solution spécifique, c'est une idée générale qui doit être intentionnellement conçue dans le flux de travail d'un éditeur. Le sourcing unique modifie la façon dont les gens travaillent et nécessite souvent un outillage différent. Le secret, si l'on s'en tient à une abstraction de haut niveau du problème, est de trouver comment les personnes chargées de la création et de la production du contenu peuvent travailler dans un "environnement" partagé où elles travaillent toutes sur les mêmes fichiers, les mêmes fichiers sources - d'où le terme "source unique".
+L'antilivre est multiple. 
+On a une belle expression de cette multimodalité.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/gabaritAbrupt.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/dio-html.png" data-background-size="contain"-->
+
+source image : Dio, *Anthropie*, antilivre HTML
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dio-pdf.png" data-background-size="contain"-->
+
+source image : Dio, *Anthropie*, PDF
+
+<!-- .element: class="source" -->
 
 ===
 
 
-Le projet antilivresque d’Abrüpt repose sur la plateforme Gitlab1, qui tire son nom de l’outil GIT, un protocole de développement collaboratif. Grâce à son système de gestion de versions, GIT permet à des développeurs de produire, d’échanger, de modifier du code selon une logique contributive. Le logiciel libre GitLab intègre ce protocole, auquel il ajoute, sur une interface dédiée, des fonctionnalités de wiki, un système de suivi des bugs et de communication, et finalement un véritable réseau social centré sur le partage de code et d’écrits numériques. En d’autres termes, Gitlab est ce que l’on a baptisé en informatique une « forge » : un système de gestion de maintenance collaboratif de texte2.
-
-On croisera sur Gitlab davantage de “geeks” que d’écrivains. Cette dimension est en soi remarquable, car elle s’oppose mouvement de plateformisation des écritures web littéraires incarnées par le CMS Wordpress ou encore Wattpad, ayant fait le pari d’offrir des outils des simples d’utilisation au public le plus large possible. Illustration de cet effacement du medium numérique, la campagne publicitaire lancée il y a quelques années par Wattpad, dont le slogan “Don’t think, just write”, défend la démocratisation d’une écriture créative en ligne, libérée de la contrainte technique. C’est un cheminement exactement inverse que prône la gittérature : pour écrire, pensez d’abord à ce qui vous permet d’écrire. Évidemment, ce parti pris s’accompagne d’une exigence en termes de compétence technique : la maîtrise des différents niveaux de l’écriture numérique, de la ligne de commande, de la gestion de branches et du versionnage…
-
-Il ne s’agit plus seulement de développer une littératie numérique, mais bien une compétence pratique. Dans les faits, cette compétence est pour le moment loin d’être partagée par tous, et la gittérature telle que la pratique Abrüpt relève d’abord du geste éditorial plutôt que d’une véritable co-écriture avec les auteurs. Sur l’ensemble des ouvrages du catalogue, Abrüpt est souvent le seul contributeur aux dépôts – le projet « ZAP Rimbaud », dont nous reparlerons, faisant figure d’exception.
-
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/anthropieVoleCeLivre.png" data-background-size="contain"-->
 
->Nos ouvrages se dissimulent derrière les abréviations CC-BY-NC-SA 4.0, en d’autres termes, ils sont mis à disposition selon les termes de la Licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International.
+source image : Dio, *Anthropie*, version imprimée
 
->Derrière ces absconses appellations, se terre à son tour une volonté tout aussi absconse, celle de faire un pas de côté par rapport à la sacro-sainte propriété intellectuelle. Licence libre, licence ouverte, licence de libre diffusion, free software, open source, open data, open access, l’accès libre, données et sources ouvertes, copyleft ou gauche d’auteur, des commons aux communs, et la culture libre, et l’art libre, et les vocables qui flottent insensément, ivres de leur pouvoir métamorphique.
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: class="source" -->
 
 ===
 
-Conséquence : une révision de l'autorité, arrimée au nouvel esprit du colpyleft.
-Les éditeurs justifient longuement sur leur site ce qu’il revendiquent comme une « utilisation au scalpel du droit d’auteur », au nom de la liberté de l’information. Un choix pragmatique, conçu comme une étape vers le domaine public volontaire. Un choix qui étonne, et peut-être même dérange, dans le cas de l’édition littéraire où la propriété intellectuelle est non seulement un enjeu économique (comment rémunérer les auteurs et les acteurs de la chaîne du livre ?), mais aussi esthétique (abandonner son œuvre au domaine public, n’est-ce pas courir le risque de la voir déformée ou trahie ?).
-
-L'éditorialisation, ici, se matérialise dans les couches applicatives de la plateforme Gitlab et dans la façon dont les fragments de textes et les traces d’activités sont agencés pour susciter le partage, la collaboration et l’élan collectif vers une création. C’est là que se joue la gittérature, et par conséquent l’éditorialisation : autour du texte davantage que sur le texte lui-même. Cette distinction n’est pas un hasard, tant la pile1 technique, applicative et éditoriale produisent ensemble un milieu d’écriture, dont les caractéristiques sont justement d’être performatifs, processuels, conversationnels. Le texte finalement n’est peut-être qu’un terrain de jeu, un prétexte pour faire advenir le collectif2 et la circulation des idées, pour raviner des interstices de sens où peuvent se nicher la création et l’interprétation.
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dio-git.png" data-background-size="contain"-->
 
-### Le livre imprimé : la solution du POD
+source image : Dio, *Anthropie*, dépôt Git
+
+<!-- .element: class="source" -->
 
 ===
 
-- POD = impression à la demande. vs offset qui nécessite un tirage minimum.
-
-L’impression à la demande est une technique d’impression numérique qui permet d’imprimer un livre en petite quantité. Aussi appelée POD, pour print on demand, l’impression à la demande permet de réduire les coûts pour les faibles tirages. Autres avantages par rapport à l’impression offset classique : il n’y a pas besoin d’un nombre d’exemplaires minimum. L’impression à la demande peut être réalisée pour un seul exemplaire.
-
-D'abord largement développé pour les éditeurs indé ou l'auto-édition, le POD a séduit les grands éditeurs qui peuvent ainsi produire de nouveaux exemplaires en fonction des commandes de lecteurs ou de librairie, sans repasser par un tirage coûteux (notamment en termes de production, mais surtout de stockage et de distribution).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Bod.png" data-background-size="contain" -->
+
+### De la chaîne à l'environnement éditorial : GitLab
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:2rem; text-align:justify" -->
+
+
+![](img/gabaritAbrupt.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 ===
 
-Plusieurs boîtes : Lulu mais aussi BOD, utilisé par Abrüpt.
+Le modèle éditorial repose sur l'utilisation d'une plateforme un peu particulière : la plateforme Gitlab, qui tient son nom du logiciel/protocole GIT. Je vais détailler le fonctionnement de cet outil dans un instant, mais en deux mots : Git est une forge logicielle [c'est surtout un protocole] de développement collaboratif qui, grâce à son système de gestion de versions, permet à des informaticiens de produire, échanger, modifier du code, le tout selon une logique contributive. GitLab, quant à lui, est un logiciel libre basé sur [le protocole/logiciel] GIT, auquel s'ajoutent des fonctionnalités de wiki, un système de suivi des bugs et de communication.
 
-Besoin de « tirer » quelques dizaines d’exemplaires pour les commercialiser en librairie ou sur Internet ? L’impression à la demande permet cette souplesse, là où une impression traditionnelle nécessite des commandes de plusieurs centaines d’exemplaires pour être rentable.
-
-UNE MAÎTRISE DES COÛTS
-Le print on demand permet aux auteurs de maîtriser les risques financiers. Les livres ne sont imprimés que lorsqu’ils sont vendus, ainsi il n’y a pas besoin d’avancer des sommes importantes. En outre, en n’imprimant que ce dont il a besoin, l’auteur ne s’expose pas non plus à la problématique de la gestion de stocks. Avec l’impression à la demande, plus besoin de stocker des centaines d’ouvrages en attendant qu’ils soient vendus. Cet argument pousse même certaines petites maisons d’édition à se tourner vers l’impression à la demande.
-
-UNE MAÎTRISE DE LA CHAÎNE DE PRODUCTION DE A À Z
+Gitlab est ce que l'on a baptisé en informatique une "forge" : un système de gestion de maintenance collaboratif de texte. Selon Violaine Louvet "L'objectif d'une forge est d'offrir un espace d’échange permanent et de collaboration en ligne aux développeurs de logiciels, et un espace de distribution (versions publiques des logiciels développés : paquets sources, pages web) pour les utilisateurs (pour tout un chacun si la forge est publique). Elle permet ainsi de rassembler des projets et des développeurs, mais aussi d'autres personnes travaillant sur ces projets (utilisateurs, traducteurs...)." (Source : [PLUME](https://www.projet-plume.org/ressource/faq-forge)).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Bod1.png" data-background-size="contain" -->
+
+### GitLab, la plateforme d'écriture des geeks
+* Une plateformisation à contre-courant (compétence technique & littératie numérique)
+* Une philosophie anti-wattpad (*vs* "Don't think, just write")
+* Une technologie libre
+* Une rencontre entre deux philosophies d'écriture : l'informatique et la littérature
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/gabaritAbrupt.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+Bref : gitlab, c'est une plateforme de *geeks*, pas d'écrivains. Et rien que pour cette raison, il s'agit d'un cas d'étude assez intéressant pour le sujet qui nous occupe aujourd'hui, car elle prend le contre-pied du mouvement de plateformisation des écritures web "littéraires" qui, de manière générale, ont plutôt fait le pari d'ouvrir les outils à des publics sans compétences techniques poussées, voire sans littératie numérique du tout.
+
+Dans un contexte où les plateformes numériques redoublent d'effort pour, en surface, proposer des outils hyper-simples à utiliser, le passage par un logiciel tel que Gitlab propose au contraire de faire apparaître, pour mieux les penser, les différents niveaux de l'écriture web, et notamment le code informatique dont les usagers dans leur grande majorité n'ont généralement aucune connaissance. Il y a quelques années, Wattpad avait lancé une campagne publicitaire dont le slogan était "Don't think, just write" -- prônant la démocratisation d'une écriture créative en ligne, libérée de la contrainte technique. C'est un peu le chemin inverse que prône la gittérature : pour écrire, pensez d'abord à ce qui vous permet d'écrire. Ce qui peut ressembler à un verrou technique avec Gitlab est cependant compensé par une nette ouverture en termes d'autorité, puisque le système repose sur un principe de co-écriture et de partage des sources.
+
+Que l'on me comprenne bien : Gitlab n'est pas une "niche" -- la plateforme dit compter près de 30 millions d'utilisateurs, ce qui n'a rien d'anodin -- elle s'adresse simplement à une espèce d'écrivains un peu à part certes, mais d'écrivains tout de même : celle des développeurs, en apparence assez éloignés des écrivains littéraires.
+
+Ce que je vais dire peut sembler évidement mais je crois qu'il est bon de le rappeler : on aurait tort de considérer l'écriture du code comme une activité purement technique. L'histoire de l'informatique, l'émergence et la construction des langages de programmation s'est accompagnée d'une pensée théorique [et politique] sur les enjeux conceptuels [et politiques] de la technique. Dans le champ littéraire, les *critical code studies* jouent depuis longtemps avec la dimension poétique du code informatique. La gittérature s'inscrit en partie dans ce cadre, mais il me semble qu'elle va plus loin, puisqu'il s'agit de confronter la littérature à un autre modèle d'écriture, celui de l'écriture logicielle, de manière à bousculer des concepts fortement ancrés dans la tradition littéraire, à commencer par celui d'autorité.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Écrire avec Gitlab
+* Rien ne se perd, rien ne se crée, tout se transforme
+* Coder *sur* du code : une écriture-palimpseste
+* Un modèle contributif ("autorité partagée", mutualisation des compétences)
+* Un espace conversationnel
+
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/zap_branch.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Le *hack*, ainsi entendu, c'est donc en fait un principe d'écriture -- sans doute pas si éloigné d'ailleurs d'une tradition littéraire ancienne favorisant la parodie, le pastiche, et plus récemment les défis oulipiens. En programmation, on ne code jamais à partir de zéro ! On prend des morceaux de codes déjà écrits pour les adapter, les amender, les améliorer. L'écriture du code relève d'une logique du palimpseste.
+
+Évidemment, un tel paradigme d'écriture ne va pas sans une boîte à outil permettant de démonter, réagencer, partager le code. C'est là qu'intervient une forge telle que Gitlab, sorte de bibliothèque (ou de dépôt géant) où sont conservés les morceaux de code.
+
+Concrètement, comment ça marche ? Vous clonez un dépôt de code en local sur votre ordinateur, vous le manipulez, le travaillez le retravaillez, avant de le renvoyer sur le serveur pour le partager avec le reste des contributeurs.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/commitAbrupt.png" data-background-size="contain" -->
+
+source image : [projet 404-error](https://gitlab.com/404-error/404-error.gitlab.io/-/network/master)
+
+<!-- .element: class="source" -->
+
+
+===
+Chacune de vos actions vers le dépôt doit être documentée et argumentée : c'est ce que l'on appelle un commit. Ce qui veut dire qu'à l'écriture du code s'ajoute déjà une méta-écriture de type éditorial. Sur l'exemple suivant, le projet 404-error d'abrupt, la liste des commits offre une visualisation de la progression du projet, de ses corrections, amendements, ajouts, des auteurs de ces ajouts.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapRimbaudGitIssues.png" data-background-size="contain" -->
+
+source image : [projet ZAP Rimbaud - cut-up de l'idiot par Frank Queyraud](https://gitlab.com/antilivre/rimbaud.zap/-/issues/7)
+
+<!-- .element: class="source" -->
+
+===
+
+À noter que l'infrastructure gitlab a par ailleurs mis en place des outils facilitant le travail collaboratif : des wikis (où sont écrits par exemple le mode d'emploi des logiciels), des espaces conversationnels où l'on peut poser des questions ou faire remonter des bugs aux développeurs en postant ce que l'on appelle des "issues".
+
+Ici, l'espace des *issues* a été lui-même hacké lors d'un projet Abrüpt dont je vais vous parler dans un instant.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Gittérature ? Du paradigme du *hack* à la théorie de l'"écriture sans écriture"
+
+>« How I make my way through this thicket of information —how I manage it, how I parse it, how I organize and distribute it— is what distinguishes my writing from yours » (Kenneth Goldsmith, *Uncreative writing*)
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/graph-ecridil.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Une fois ces jalons posés, à quoi ça ressemble de la Gittérature ?
+
+Je vais présenter un cas concret dans un instant, mais je crois indispensable à ce stade de dessiner un parallèle entre ce paradigme du hack en informatique et le paradigme du contemporain en art, dont Kenneth Goldsmith est l'un des principaux théoriciens dans le domaine littéraire. Sa théorie de l'*uncreative writing* a été traduite en Français par François Bon sous l'expression d'"écriture sans écriture", et s'apparente à mains égards à cet effet palimpseste que l'on a relevé en informatique. Chez Goldmisth, l'autorité de l'écrivain ne se mesure pas à la singularité du style ou du récit : on raconte toujours plus ou moins les mêmes histoires, à armes plus ou moins égales : celles de la langue, de la grammaire, de la syntaxe. S'inspirant du paradigme contemporain qui régit les arts visuels depuis plus d'un siècle à présent, Goldmisth défend un point de vue performatif : l'originalité, c'est le faire. Il ne s'agit pas de créer une oeuvre que personne d'autre n'a jamais produit, mais d'entretenir un dialogue avec les oeuvres du passé, en jouant des principes de recontextualisation, de copié-collé, de mash-up ou de reformulation : "Ce qui distingue mon écriture de la vôtre, c'est la façon dont je me fraye un chemin dans la masse des données - comment je les gère, comment je les analyse, comment je les organise et les distribue." Exactement ce que permet et ce que document l'écriture sur gitlab.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### La _ZAP_ Abrüpt : hacker Rimbaud
+
+
+ZAP : Zone à poétiser.
+[ZAP Rimbaud](https://www.cyberpoetique.org/rimbaud.zap/)
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/zapAccueil.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+Je prendrai pour exemple un peu plus concret le projet de ZAP (pour zone autonome à poétiser) Rimbaud. En mai 2020, soit au moment où beaucoup d'entre nous étaient encore confinés, dans le cadre de l’Open Publishing Fest, Abrüpt a lancé un appel afin, je cite "d’installer un squat dans le monument Rimbaud et d’y lancer une réécriture frénétique et collective de sa *Saison en enfer*".
+
+Le principe était simple : réécrire, de manière collective, par-dessus le texte de Rimbaud pour créer un nouvel objet littéraire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ZAP.png" data-background-size="contain" -->
+
+
+===
+Quelques règles de base (à vrai dire très peu):
+- renoncer à son autorité : le résultat de serait pas signé et déposé dans le domaine public volontaire
+- n'utiliser que des outils libres (dont gitlab) à l'image de ce renoncement à la propriété intellectuelle
+- adhérer à la dimension festive de l'événement, car oui, il y avait de quoi se réjouir alors que le 1er confinement s'achevait à peine, et de manière très inégale, dans le monde entier, cet événement a donné l'occasion à toute une série de contributeurs francophones (de France, de Suisse, du Québec), de se retrouver et de faire corps.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Toute création est une recréation, toute invention est un vol.
+>Ensemble, créons, recréons, inventons et volons.
+>Ensemble, nous sommes Arthur Rimbaud.
+>Ensemble, nous sommes absolument modernes.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/ZAP.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zap_branch.png" data-background-size="contain" -->
+
+
+===
+
+Mode de fonctionnement : les participants clonaient le dépôt chez eux, proposaient des réécritures à partir d'une branche personnelle puis faisaient un merge request avec la branche master maintenue par les éditeurs.
+
+cette solution, un peu complexe techniquement, n'a pas toujours été facile à mener.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapRimbaudGitIssues.png" data-background-size="contain" -->
+
+
+===
+D'autres espaces ont donc été investis, notamment les espaces conversationnels traditionnels de Gitlab : celui où l'on poste habituellement des issues (cad où des utilisateurs font des réclamations ou avertissent de certains bugs) a été hacké pour poster des demandes d'ajout de texte. Ici Frank Queyraud.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Zap1.png" data-background-size="contain" -->
+
+===
+
+Parallèlement, l'espace de discussion Gitter (qui est le système de chat spécialement conçu pour les développeurs de Gitlab ou Github) a été investi par les participants, pour discuter du projet en cours, résoudre les problèmes éventuels.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapcompare.png" data-background-size="contain" -->
+
+===
+
+Sur le dépôt Git, la fonction de comparaison des fichiers permet de suivre le hack progressif du texte de rimbaud.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapfinal1.png" data-background-size="contain" -->
+
+
+===
+Évidemment, ce n'est pas le résultat final souhaité. Les éditeurs ont mis en place un site statique avec une CSS et des scripts pour visualiser de manière un peu plus "jolie" ce palimpseste. Tout ce code est lui aussi hébergé sur le dépôt et peut être réutilisé par d'autres.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapfinal2.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapfinal3.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zapfinal4.png" data-background-size="contain" -->
+
+===
+Une publication imprimée du projet a été publiée il y a un an. Pour le moment, une version livresque DIY du texte de Rimbaud a été mis à disposition par abrupt.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/blandineVolochot.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Qu'est-ce qui _git_ dans la gittérature ?
+* Les pratiques « non littéraires » seraient-elles l’avenir de la littérature ?
+* De quoi la gittérature est-elle le _NON_ ? Désessentialisation, défétichisation, déspécification...
+* Plateforme éditoriale ou d'éditorialisation ?
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Zap2.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+J'achève ici une présentation qui me donne l'impression de survoler un terrain potentiellement très riche. Aussi, je ne me sens pas vraiment à même de conclure, je préfère soulever quelques pistes en attendant vos commentaires et peut-être vos réponses, en espérant poursuivre ce chantier théorique que j'ai eu le plaisir de creuser grâce à cette journée.
+
+1. Les pratiques « non littéraires » seraient-elles l’avenir de la littérature ?
+
+Anaïs a parlé plus tôt de paralittérature, je vous ai quant à moi présenté le paradigme du hack à travers une plateforme d'écriture... C'est de toute manière le propre de cette journée de montrer combien la littérature "déborde" : elle déborde le livre, les institutions, les genres. Comme on le voit avec la gittérature, ce débordement s'appuie non seulement sur des outils d'écriture non-littéraires, mais aussi sur les phisolophies qui vont avec cet outil.
+
+2. De quoi le contemporain est-il le _non_ ?
+Avec la gittérature, ce sont des concepts traditionnels qui sont amenés à subir de radicales transformation. Fin de l'essentialisation. La gittérature s'inscrit en cela en plein dans le paradigme contemporain (cf. Mougin) : ce paradigme peut se définir, justement, comme un large processus de dé-définition de l’art comme de la littérature. Avec pour conséquence de reconsidérer les critères d’attribution de l’« artistique » ou du « littéraire », et d’ouvrir à de plus larges corpus. Il existe un tournant médiatique de la littérature (désormais intermédiale, transmédiale, etc.), qui engage à reconsidérer la suprématie du livre.
+
+
+3. Plateforme éditoriale ou d'éditorialisation ?
+Je voudrais insister sur l'effort fourni par Abrüpt pour "ouvrir" les écritures numériques : ouvrir le texte (avec la volonté que les auteurs versent leur texte dans le "domaine public volontaire"), ouvrir les protocoles, ouvrir leurs propres technologies éditoriales. Chez Abrüpt, ce n'est pas seulement l'écriture littéraire qui est libre, c'est le format même du livre : le "livre libre". Le code informatique des livres dynamique, les scripts permettant de générer les livres sont à disposition de tous. À nous de nous réapproprier ces outils et tout ce code, à nous de le *hacker*.
+
+Évidemment, un défi se pose immédiatement, et c'est là peut-être la limite des expériences Abrüpt qui relèvent souvent de la "preuve de concept": combien de lecteurs ont les moyens de s'approprier ces plateformes ? Le contre-modèle Wattpad reste difficile à prendre en mains pour l'utilisateur lambda, et l'utopie du partage, du collectif, du libre prônée par les éditeurs Abrüpt, n'est pas nécessairement synonyme d'une véritable démocratisation. Les deux plateformes me semblent cela dit partager bcp de points communs, et oeuvrer chacune à leur manière à une redéfinition de concepts institutionnels, notamment en termes d'autorité.
+
+DE fait, Gitlab apparaît ici davantage comme une plateforme d'éditorialisation qu'une plateforme éditoriale. Abrupt, c'est la maison d'édition qui aura impliqué ses lecteur dans l'écriture-éditorialisation, comme on l'a vu avec la ZAP Rimbaud.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Vers une normalisation ?
+
+#### Le ssp au Louvre
+
+
+![](img/louvre-ssp-detail.png)<!-- .element: style="width=400px" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+* Un projet institutionnel
+* Seul l'ouvrage imprimé est payant (coût du papier et de l'impression)
+* Un catalogue d'exposition... finalement très traditionnel
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Louvre-ssp.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Conclusion :
-Le modèle de publication ("rendre public") du moment contemporain de la littérature offre probablement l'occasion de repenser le rôle de l'éditeur. Selon Laurent Beccaria (Les Arènes) « Le numérique a remis l'éditeur face à son métier. Il l'oblige à se concentrer sur le travail éditorial ». Là où l'auto-édition numérique fait potentiellement courir le risque de donner du pouvoir à de nouveaux monopoles, de nouveaux modèles éditoriaux voient le jour. S'ensuit une situation paradoxale où, tandis que le marché du livre en France a tendance à s'éroder, jamais autant de « petites » maisons d'édition n'ont vu le jour. Les modèles économiques sont à réinventer, sur la base de ce moment contemporain de la littérature mis en évidence par Lionel Ruffel, en collaboration avec des institutions de toute ordre (bibliothèques, résidences, institutions culturelles, etc.), et en prenant en compte la diversité du métier d'écrivain.
+De l'édition à l'éditorialisation, la fonction éditoriale est amenée à se repenser entièrement. Dans les modèles de publication (*rendre public*) numériques, le livre imprimé n'est pas nécessairement exclu, bien au contraire, mais il sera reconsidéré comme un **moment** du texte : moment de cristallisation d'une pensée, d'une oeuvre. Ainsi, sur le web, nous pouvons repérer un déplacement de la littérature qui, d'une attention entièrement tournée vers l'oeuvre, se concentre désormais vers l'écriture (comme une performance). Éditorialiser, en ce sens, engage une perte de contrôle des instances traditionnelles, redistribuées notamment à l'auteur, mais aussi à l'usager, au lecteur. Ainsi, le modèle de publication ("rendre public") du moment contemporain de la littérature offre probablement l'occasion de repenser le rôle de l'éditeur. Selon Laurent Beccaria (Les Arènes) « Le numérique a remis l'éditeur face à son métier. Il l'oblige à se concentrer sur le travail éditorial ». Là où l'auto-édition numérique fait potentiellement courir le risque de donner du pouvoir à de nouveaux monopoles, de nouveaux modèles éditoriaux voient le jour. S'ensuit une situation paradoxale où, tandis que le marché du livre en France a tendance à s'éroder, jamais autant de « petites » maisons d'édition n'ont vu le jour. Les modèles économiques sont à réinventer, sur la base de ce moment contemporain de la littérature mis en évidence par Lionel Ruffel, en collaboration avec des institutions de toute ordre (bibliothèques, résidences, institutions culturelles, etc.), et en prenant en compte la diversité du métier d'écrivain. 
 
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
