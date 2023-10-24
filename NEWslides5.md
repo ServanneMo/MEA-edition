@@ -527,37 +527,6 @@ Contemporain = avec le temps. Nouvelle manière d'établir notre relation au tem
 Un paradigme = manière de penser
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le moment contemporain de la littérature : vers une nouvelle *exposition* du littéraire
-* D’un imaginaire de la littérature à un imaginaire de la publication
-* D’un imaginaire moderne à un imaginaire contemporain
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-===
-
-Nouvelle exposition du fait littéraire
-Imaginaire de la littérature à de la publication. Imaginaire moderne à contemporain.
-Écosystème litt cont = litt exposée hors le livre. Web, résidence, lecture. Espace hors du livre dans espace public. On débordé le livre. Investissement de l'espace public
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### L'écosystème littéraire contemporain : la littérature "exposée"
-* Des modèles "hors-le-livre" : web, résidences, lectures publiques... l'investissement d'un espace "public"
-* « La rencontre de la littérature dans les livres devient presque minoritaire » (Ruffel et Rosenthal, 2010)
-
-<!-- .element: style="font-size:1.6rem; text-align:justify" -->
-===
-
-Ruffel et rosenthal. Le littéraire se rencontre hors du livre dans l'espace public.
-La rencontre de la littérature dans le livre devient presque minoritaire.
-
-On ne s'est pas rendus compte de ce glissement.
-La littérature à envahit l'espace public sans passer par le livre
-
-Le littéraire se rencontre en ville, sur nos murs, dans les places publiques.
-
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -568,6 +537,13 @@ Le littéraire se rencontre en ville, sur nos murs, dans les places publiques.
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ===
+
+Pour Ruffel et rosenthal, Le littéraire se rencontre hors du livre dans l'espace public.
+La rencontre de la littérature dans le livre devient presque minoritaire.
+ On ne s'est pas rendus compte de ce glissement.
+La littérature à envahit l'espace public sans passer par le livre
+
+Le littéraire se rencontre en ville, sur nos murs, dans les places publiques.
 
 histoire de la littérature hors du livre, car le livre n’est pas la seule destinée de la littérature, tout juste un objet transitoire, une possibilité, voire une hypothèse.
 
@@ -803,6 +779,8 @@ On retiendra ainsi certaines caractéristiques essentielles de l’éditorialisa
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+Un principe d'ouverture dans le temps
+
 ![](img/WikipediaEdition.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
 
 ![](img/wikipediaEditionVersions.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
@@ -817,9 +795,12 @@ Dans un régime éditorialisé, les contenus s'inscrivent en effet dans un flux 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/licences.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+Un principe d'ouverture dans l'espace
 
-![](img/licenceCC.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+![](img/licences.png)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
+
+![](img/licenceCC.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -829,13 +810,21 @@ imprévisible. Un contenu publié en ligne est en effet nécessairement soumis �
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+Une relation stigmergique entre techniques et pratiques
 
+![](img/TwitterSavelliMarilyn.png)<!-- .element: style="width:400px" -->
 
 ===
 
 3 = Une relation stigmergique entre techniques et pratiques. L’éditorialisation permet de penser l’influence de la technique en évitant autant que possible le biais technodéterministe, pour envisager les relations stigmergiques qui se tissent entre l’usager et les media : si les outils, les plateformes numériques ont tendance à prescrire certains usages, ces derniers peuvent être infléchis par les pratiques des utilisateurs qui s’approprient les contenus aussi bien que leur environnement médiatique. Je n'insisterai pas trop sur cet aspect.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Une dynamique collective
+
+![](img/gifitup.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/gifitup.gif)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 
 
@@ -861,7 +850,7 @@ Là où l'édition trad était finalement très normée, avec des structures d'a
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/6165686178_548dbd0bf9_b.jpg" -->
+<!-- .slide: data-background-image="img/6165686178_548dbd0bf9_b.jpg" data-background-size="contain" -->
 
 
 ===
@@ -899,7 +888,7 @@ Réflexion préliminaire : la question de la stabilité et de la clôture...
 “Baudelaire n’a jamais écrit Les fleurs du mal”. Cette proposition polémique est le titre, un brin provocateur, du 11e chapitre d’Après le livre. Nous aurait-on alors menti ? Baudelaire ne serait pas le véritable auteur des Fleurs du mal, cette oeuvre qui compte parmi les plus connues de la littérature française ? Là n’est pas la question. François Bon n’a nullement la volonté d’ôter à Baudelaire la paternité de son oeuvre. Il s’agit plutôt de remettre en question le concept même d’oeuvre, comprise comme le résultat d’une intention explicite et forte de l’écrivain - dont le livre imprimé serait la matérialisation finale, stable et la pérenne. Dire que « Baudelaire n’a pas écrit Les Fleurs du mal », dans ce contexte, c’est donc affirmer que Les Fleurs du mal n’existent pas “en soi” comme une entité unique, autonome, et close sur elle-même, que l’auteur aurait imaginée et conçue d’un seul jet.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
+<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -984,7 +973,7 @@ Cette écriture-performance, François Bon l’a mise en pratique avec Fragments
 Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/fragmentsDuDedans.png" -->
+<!-- .slide: data-background-image="img/fragmentsDuDedans.png" data-background-size="contain" -->
 
 ===
 >C’était au printemps 2013. Je reçois par mail la proposition de Jeanne Garcin, éditrice chez Grasset : un abécédaire, prise de risque sous la protection de l’alphabet, tentative par l’écart, puisque aucun des auteurs sollicités ne serait chez son éditeur habituel.
@@ -1089,7 +1078,7 @@ Mais cette fois, FB joue avec la formule de Lindon, pour en faire dériver quelq
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### (1) Un travail de republication
+### 1. Un travail de republication
 * Un livre "recopié" à la main pour être numérisé
 * Des modifications mineures (syntaxe, vocabulaire)
 
@@ -1426,47 +1415,6 @@ Le *hack*, ainsi entendu, c'est donc en fait un principe d'écriture -- sans dou
 
 Concrètement, comment ça marche ? Vous clonez un dépôt de code en local sur votre ordinateur, vous le manipulez, le travaillez le retravaillez, avant de le renvoyer sur le serveur pour le partager avec le reste des contributeurs.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/commitAbrupt.png" data-background-size="contain" -->
-
-source image : [projet 404-error](https://gitlab.com/404-error/404-error.gitlab.io/-/network/master)
-
-<!-- .element: class="source" -->
-
-
-===
-Chacune de vos actions vers le dépôt doit être documentée et argumentée : c'est ce que l'on appelle un commit. Ce qui veut dire qu'à l'écriture du code s'ajoute déjà une méta-écriture de type éditorial. Sur l'exemple suivant, le projet 404-error d'abrupt, la liste des commits offre une visualisation de la progression du projet, de ses corrections, amendements, ajouts, des auteurs de ces ajouts.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/zapRimbaudGitIssues.png" data-background-size="contain" -->
-
-source image : [projet ZAP Rimbaud - cut-up de l'idiot par Frank Queyraud](https://gitlab.com/antilivre/rimbaud.zap/-/issues/7)
-
-<!-- .element: class="source" -->
-
-===
-
-À noter que l'infrastructure gitlab a par ailleurs mis en place des outils facilitant le travail collaboratif : des wikis (où sont écrits par exemple le mode d'emploi des logiciels), des espaces conversationnels où l'on peut poser des questions ou faire remonter des bugs aux développeurs en postant ce que l'on appelle des "issues".
-
-Ici, l'espace des *issues* a été lui-même hacké lors d'un projet Abrüpt dont je vais vous parler dans un instant.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Gittérature ? Du paradigme du *hack* à la théorie de l'"écriture sans écriture"
-
->« How I make my way through this thicket of information —how I manage it, how I parse it, how I organize and distribute it— is what distinguishes my writing from yours » (Kenneth Goldsmith, *Uncreative writing*)
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/graph-ecridil.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-===
-
-Une fois ces jalons posés, à quoi ça ressemble de la Gittérature ?
-
-Je vais présenter un cas concret dans un instant, mais je crois indispensable à ce stade de dessiner un parallèle entre ce paradigme du hack en informatique et le paradigme du contemporain en art, dont Kenneth Goldsmith est l'un des principaux théoriciens dans le domaine littéraire. Sa théorie de l'*uncreative writing* a été traduite en Français par François Bon sous l'expression d'"écriture sans écriture", et s'apparente à mains égards à cet effet palimpseste que l'on a relevé en informatique. Chez Goldmisth, l'autorité de l'écrivain ne se mesure pas à la singularité du style ou du récit : on raconte toujours plus ou moins les mêmes histoires, à armes plus ou moins égales : celles de la langue, de la grammaire, de la syntaxe. S'inspirant du paradigme contemporain qui régit les arts visuels depuis plus d'un siècle à présent, Goldmisth défend un point de vue performatif : l'originalité, c'est le faire. Il ne s'agit pas de créer une oeuvre que personne d'autre n'a jamais produit, mais d'entretenir un dialogue avec les oeuvres du passé, en jouant des principes de recontextualisation, de copié-collé, de mash-up ou de reformulation : "Ce qui distingue mon écriture de la vôtre, c'est la façon dont je me fraye un chemin dans la masse des données - comment je les gère, comment je les analyse, comment je les organise et les distribue." Exactement ce que permet et ce que document l'écriture sur gitlab.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
