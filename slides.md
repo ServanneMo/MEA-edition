@@ -3,7 +3,7 @@
 ## Enjeux et défis de l'édition contemporaine
 
 <br/>*Connaissance des métiers de l’édition*
-<br/>2022-2023
+<br/>2023-2024
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
 
 <!-- .element: style="font-size:1.7rem; text-align:center" -->
@@ -12,16 +12,30 @@
 
 ===
 
-Ce semestre, nous allons tenter de défricher les défis auxquels fait face l’édition contemporaine. Notre ambition consistera à dépasser la dichotomie entre “édition traditionnelle” (incarnée par le livre imprimé) et “publication numérique” (qu’elle comprenne le livre numérique sous différentes formes, mais également les formes “hors livre”), en remettant en perspective l’édition elle-même, tant d’un point de vue historique que conceptuel.
 
-L'objectif de ce cours est d'interroger les origines, l'ampleur et les conséquences de cette crise sur la production artistique et culturelle contemporaine, afin d'une part de comprendre comment les milieux professionnels culturels peuvent y répondre, mais aussi, d'autre part, de reconnaître le potentiel inhérent à toutes ces mutations.
+Le cours a pour titre "connaissance des métiers de l'édition". Titre assez mal choisi car, en vérité, des "métiers" de l'édition, il en existe des dizaines, plus ou moins visibles ou invisibilisés, tout le long de la chaîne de production du livre : 
+- écrivain, auteur, éditeur, agent littéraire, préparateur de copie, designeur, maquettiste, typographe, imprimeur, juriste spécialiste des droits, distributeur, diffuseur, libraire et j'en passe. 
+
+Ce cours pourrait donc rapidement ressembler à un liste à la manière de Georges Perec, ce qui serait peut-être drôle, mais au final lassant. 
+
+Une autre expression, qui recouvre en partie mais pas complètement la précédente, serait "métiers du livre". Mais c'est un peu le même problème : un livre, c'est quoi ? 
+- objet matériel : le codex, qui aujourd'hui connait de grandes mutations avec les technos numériques
+- un support pour des textes et des images -- concurrence d'autres formats (podcast ou livre audio)
+- un objet culturel et symbolique -- le livre incarne une certaine conception de la culture, de la sagesse, du savoir... il n'y a qu'à voir la portée symbolique d'un autodafé pour comprendre
+- un produit -- produit culturel certes, mais produit qd même, ET à ce titre un objet industrialisé. DE ce pt de vue, pris dans une économie.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+### Quelques questions pour commencer... 
+
+![WTFPL](img/wooclap2024.png)<!-- .element: style="width:200px" --> 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-## Panorama du champ de bataille
+## L'édition : un secteur professionnel en reconfiguration 
 
-![](img/ceciTueraCela.png)<!-- .element: style="width:400px" -->
 
 ===
 
@@ -29,21 +43,106 @@ Le début du XXIe siècle, marqué par l’avènement de la culture numérique, 
 
 Les mutations techniques liées à la fabrique du livre, mais également à sa distribution, sans même parler de sa “consommation” (modalités d’achat, usages de lecture, de prêt et de partage), génèrent des transformations sur l’ensemble de l’écosystème éditorial, dans ses dimensions à la fois littéraires, communicationnelles, économiques, juridiques, etc. Depuis l’écrivain jusqu’au lecteur, en passant par les éditeurs, les diffuseurs, les libraires, tous doivent ainsi négocier avec ces mutations qui questionnent la mission et le statut de l’édition “traditionnelle”. Largement diffusés par les médias de masse, les inquiétudes, fantasme et autres idées reçues sont légion, et parfois contradictoires
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rechatMinuit.png" data-background-size="contain" -->
+
+### Revue de presse du secteur éditorial
+* Section ["Vie de l'édition"](https://www.lemonde.fr/vie-de-l-edition/), *Le Monde*
+* *Le 1 des libraires* (en kiosques - cf. le spécial "Rentrée littéraire")
+* [ActuaLitté](https://actualitte.com/)
+* [Éditions actu](https://editions-actu.org/)
+* [LivresHebdo](https://www.livreshebdo.fr/articles)
+* Etc. 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 ===
 
-L'an dernier, l'une des plus grandes et des plus prestigieuses maison d'édition indépendantes est passée sous le giron de Gallimard. Ou, plus précisément, du groupe Madrigall, qui a été créée par Antoine Gallimard, petit-fils du fondateur Gaston Gallimard (maison fondée en 1911). Le groupe Madrigall, à la tête duquel préside encore Antoine Gallimard, est composé d'une quinzaine de maisons d'édition, de 9 librairies et de filiales de diffusion et de distribution. Il forme le troisième groupe éditorial français, depuis le rachat de l'ensemble Flammarion en 2012.
+Ce que je vous propose, c'est d'opérer ensemble un petit tour d'horizon de la presse spécialisée dans l'édition ces derniers mois et/ou années, afin de comprendre les enjeux du secteur. 
 
-Minuit était particulièrement importante dans le paysage français : maison créée pendant la guerre, maison résistante, spécialisée dans une littérature exigeante mais également en SHS.
+Cette "revue de presse" est d'ailleurs un exercice que je vous conseille d'opérer régulièrement, afin de vous tenir au courant des tendances du moment, mais également parce que c'est là dessus que portera votre évaluation : je vous proposerai un article de presse à analyser afin de le conceptualiser. Vous devrez me démontrer votre capacité à mobiliser des concepts théoriques : théorie littéraire, théorie des médias, théorie de l'histoire matérielle du livre, afin de problématiser les informations de la presse écrite et de les discuter de manière critique.
 
-C'était Irène Lindon, la fille de Jérôme Lindon (lui-même resté à la tête de la maison pendant près d'un-demi siècle), qui était alors encore en charge de la maison. Si officiellement les responsables se sont réjouis de la nouvelle, quelques dents ont grincé...
+Un article de presse se fait le reflet de l'actualité, mais ce n'est pas un texte critique. En tant que spécialistes de l'édition -- et plus largement des industries culturelles -- je vous demanderai d'être capables de prendre un recul critique sur ces informations. 
+
+Tout au long de ce semestre, nous allons donc nous préparer à exercer ce recul critique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/nyssenActesSud.png" data-background-size="contain" -->
+
+### Restez informé.es grâce aux réseaux !
+
+* Médias culture & littérature (LinkedIN, Instagram, X, TikTok)
+* Maisons d'édition et éditeurs (LinkedIN, Instagram, X, TikTok)
+* [SNE-compte LinkedIn](https://www.linkedin.com/company/syndicat-national-de-l'%C3%A9dition/posts/?feedView=all)
+* [SGDL-compte LinkedIn](https://www.linkedin.com/company/soci-t-des-gens-de-lettres/posts/?feedView=all)
+* [Ligue des auteurs professionnels](https://www.linkedin.com/company/la-ligue-des-auteurs-pros/posts/?feedView=all)
+* Etc. 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+Pour vous informer, je vous conseille également de vous abonner à des comptes linkedIn. Outre les médias cités plus tôt, vous pouvez vous abonner aux pages des maisons d'éditions elles-mêmes, désormais elles sont toutes ou presque sur LinkedIn, mais également  : 
+- le SNE
+- la SGDL
+- Ligue des auteurs pro (Stéphanie LeCam)
+
+Une manière de voir aussi les débats qui agitent la profession : important de comprendre les enjeux. 
+
+Dans cette revue de presse, je vais venir viter les actualités de ces 2-3 dernières années qui m'ont semblé les plus marquantes, à titre personnel, et je vous proposerai une synthèse par la suite des problématiques ou questionnements que l'ont peut en tirer. Dans ces prochaines semaines, il s'agira trouver des éléments de conceptuels pour nous aider à traiter ces problématiques. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Bonne rentrée littéraire !
+
+>Le magazine de la profession, Livres Hebdo, recense 459 romans prévus en août, septembre et octobre, dont 68 premiers romans (9% de moins de primo-romanciers, ils étaient 74 en 2023) ainsi que 148 livres étrangers (trois de plus qu’en 2023). C'est 1,5% de moins que les 466 de l'année précédente et 35% de moins que le record de 2010, où les librairies avaient été submergées par 701 nouveautés.
+>Pour la troisième année consécutive, le nombre de parutions à la rentrée d'automne 2024 sera sous la barre des 500 titres
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/livreHebdoRentreeLitt.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+rentrée littéraire 
+
+Selon les données de Livres Hebdo/Electre Data Services, 459 romans paraîtront à la rentrée d'automne à partir de la mi-août jusqu'au mois d'octobre. Parmi ces nouveautés figurent 311 romans français, dont 68 livres signés par des primo-romanciers, ainsi que 148 ouvrages étrangers.
+
+À titre de comparaison avec la rentrée d'automne 2023 et ses 466 nouveautés, le nombre de parutions de 2024 est quasi stable, enregistrant une baisse de seulement 1,5 %. Dans le détail, côté romans français, c'est une diminution de 3,1 % (321 romans en 2023, contre 311 en 2024) et un recul de près de 9 % du nombre de premiers romans (74 primo-romanciers français en 2023 contre 68 en 2024).
+
+Les libraires grognent depuis longtemps sur cet embouteillage de la rentrée.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2024. Le genre de la rentrée littéraire : romance et *new romance*
+
+>Un chiffre d'affaires qui augmente de 59 % en un an, un volume qui gonfle de 38 % et des tirages initiaux qui s'élèvent à 100 000 exemplaires sans sourciller... Rares sont les progressions aussi retentissantes dans le monde du livre. Fleuron économique, la romance est passée en une poignée d'années seulement de mouton noir du secteur à marché porteur. « Et ce n'est pas près de s'arrêter », se réjouit depuis Strasbourg la libraire de l'Escapade spécialisée dans le genre, Marie Wietzorek, égrenant les titres « lourds » de la rentrée : Valentina - 44 millions de lectures sur Wattpad -, l'intégrale de la série Hadès et Perséphone en collector et la suite de Trouble Maker, déjà 90 000 exemplaires vendus du premier tome. [Livre Hebdo]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
+
+
+![](img/romance.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2023. Actes Sud en difficultés
+
+
+>Actes Sud traverse une passe difficile. La direction de la maison d’édition arlésienne indépendante a dû se résoudre, en mars, à recourir à un plan de sauvegarde de l’emploi. Sur un effectif de deux cent neuf salariés en CDI, trente postes sont supprimés. Parmi les investissements à venir figurent les référencements des ouvrages sur Google ou TikTok, mais aussi le développement du livre audio. « Notre goût pour toujours dénicher de nouveaux auteurs reste intact », promet Anne-Sylvie Bameule. La littérature constitue toujours « 68 % de nos ventes, grâce à la collection de livres de poche Babel », ajoute-t-elle. [Le Monde]
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/nyssenActesSud.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
 
 
 ===
@@ -54,12 +153,201 @@ C'était Irène Lindon, la fille de Jérôme Lindon (lui-même resté à la têt
 
 >Le chiffre d’affaires s’est étiolé à 57 millions d’euros (contre 61,8 millions en 2021) et l’entreprise est devenue déficitaire, malgré la vente des locaux parisiens du 6e arrondissement. Le contexte plus difficile, lié à la hausse du prix du papier – de 50 % à 100 %, selon sa qualité – et des coûts de l’énergie, s’est lourdement fait sentir.
 
+>Parmi les investissements à venir figurent les référencements des ouvrages sur Google ou TikTok, mais aussi le développement du livre audio. « Notre goût pour toujours dénicher de nouveaux auteurs reste intact », promet Anne-Sylvie Bameule. La littérature constitue toujours « 68 % de nos ventes, grâce à la collection de livres de poche Babel », ajoute-t-elle.
+
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Parmi les investissements à venir figurent les référencements des ouvrages sur Google ou TikTok, mais aussi le développement du livre audio. « Notre goût pour toujours dénicher de nouveaux auteurs reste intact », promet Anne-Sylvie Bameule. La littérature constitue toujours « 68 % de nos ventes, grâce à la collection de livres de poche Babel », ajoute-t-elle.
+#### Avril 2024 : licenciement d'Isabelle Saporta
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+>Déstabilisée, Isabelle Saporta a refusé tout compromis avec [Lise Boëll] l’ex-éditrice d’Eric Zemmour et s’est opposée à toute collaboration avec elle. En désaccord stratégique avec son actionnaire, qui veut manifestement donner une nouvelle ligne politique à une autre maison d’édition historique, Isabelle Saporta est remerciée.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/sapporta-licenciement.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+L'année a été marquée par le licenciement de la PDG de Fayard, Isabelle Saporta.
+
+Licenciée pour avoir refusé de céder un accord de licence permettant l’utilisation de la marque de la maison au profit de l’ancienne éditrice d’Eric Zemmour, Lise Boëll.
+
+Marquée très à droite, cette dernière a également publié des ouvrages de Philippe de Villiers et, selon L’Obs, s’apprête à signer avec le président du Rassemblement national, Jordan Bardella. Lise Boëll a été nommée directrice générale des éditions Mazarine, une filiale créée par Fayard en 1979, le 22 février. Mais elle souhaitait que ses auteurs puissent signer sous la marque Mazarine/Fayard, profitant ainsi de la renommée de la maison historique.
+
+Comment Lise Boëll a-t-elle pu obtenir la tête de Saporta, pourtant directrice d,une grande maison comme Fayard ? Parce qu'elle avait le soutient de Vincent Bolloré, qui a racheté en 2023 le groupe Hachette, dont Fayard fait partie... 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+
+#### 2022. Licenciement de Sophie de Closets
+
+![](img/SophieDeClosets.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/sapporta-embauche.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Saporta victime de la droitisation de l'édition, et de la concentration éditoriale ? N'allons peut-être pas si vite en besogne. 
+
+Il y a deux ans, Le 24 mai 2022, Sophie de Closets, présidente-directrice générale des éditions Fayard, quittait son poste après avoir subit notamment des pressions de la part d'Hommes politiques dont Sarkozy, après la publication de Gérard Davet et Fabrice Lhomme, sur l'affaire Fillon.
+
+À l'époque, ce n'est pas Vincent Bolloré qui dirige Hachette, c'est encore Arnaud Lagardère, très proche de Nicolas Sarkozi. Selon les médias, et les principaux intéressés, c'est bien Nicolas Sarkozy qui exige le départ de Sophie de Closets, pour placer Isabelle Saporta, qui n'était alors "que" directrice de collection : statut tout à fait honnorable, mais relativement peu suffisant pour devenir PDG d'une aussi grande maison.
+
+Cependant voilà : Hachette Livre est passé à la fin de 2023 sous le contrôle de Vivendi, groupe du milliardaire Vincent Bolloré, accusé par de nombreux rivaux de vouloir se servir de ses maisons d’édition pour promouvoir un projet politique très à droite -- encore plus à droite que la droite de NS. C'est dans ce nouveaux contexte que s'est joué le départ d'Isabelle Saporta, 2 ans tout juste après son arrivée à la tête de la maison d'édition.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2022. La rumeur d'une fusion Éditis Hachette : le stade ultime de la concentration éditoriale ?
+
+>La diversité, c’est la substance même de l’édition ; et c’est bien en son nom que la loi instituant un prix unique du livre a été votée à l’unanimité de la Chambre en 1981. [Antoine Gallimard]
+
+>Sur le marché du livre, ce mélange des genres peut agir comme un cyclone. Avec son pouvoir d’attraction, le groupe de Vincent Bolloré pourrait assécher les terres de l’édition, en s’accaparant des droits à des prix d’acquisition hors marché. C’est un des piliers de notre culture du livre qui pourrait alors être atteint : la péréquation économique entre des livres de fonds et des livres d’exploitation rapide, laquelle permet le financement de la création dans toute sa diversité. [Antoine Gallimard]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
+
+
+![](img/gallimard-fusion-editis-hachette.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Ce qui se passe chez Fayard est le résultat d'une tension croissante entre les deux grands groupes éditoriaux français : Editis & Hachette. 
+
+Fruit de la concentration éditoriale Éditis et Hachette sont des groupes qui relevaient jusqu'en 2023 de deux entités distinctes : 
+- Editis était sous la houlette de Vivendi, propriété de Bolloré
+- Hachette était détenu par Lagardère.
+
+De quoi parle-t-on quand il est question de "Groupe" ? Du fruit de la concentration éditoriale [concept : la concentration éditoriale désigne un processus au cours duquel quelques individus ou organisations accroissent progressivement leur contrôle sur les médias de masse (journaux, magazines, livres, télévisions, radios, sites internet, etc.), sur l'industrie culturelle ainsi que sur les groupes de communication (entreprise de sondages, téléphonie mobile, internet, etc.) et par là, sur les moyens de produire et de diffuser de l'information (au sens large) et des savoirs.] Dans le monde de l'édition les premiers grands groupes éditoriaux = Gallimard, devenu à la fin du XXe siècle Madrigall.
+
+La concentration éditoriale est un phénomène très ancien, les historiens du livre ont démontré qu'elle commence dès le milieu du XIXe siècle, en pleine industrialisation de l'édition. Ce qu'il faut comprendre, c'est que l'émergence de l'édition comme métier ou plus largement ensemble de métiers, va de paire avec une concentration éditoriale progressive. 
+
+Les effets de la concentration sont connus et dénoncés depuis plus d'un-demi siècle :
+>Il y a un lien direct entre concentration, exigence de forte rentabilité et développement du livre-marketing. Quand une maison est rachetée par un groupe multinational, elle ne dispose d’une certaine marge d’autonomie que si ses résultats financiers sont conformes aux objectifs fixés par le groupe. Si cet objectif n’est pas tenu, la maison d’édition voit son budget sévèrement contrôlé et se trouve rapidement dépendante des autorisations de budget pour toute décision éditoriale.
+
+https://www.acrimed.org/La-concentration-dans-l-edition-et-ses-effets
+
+Cela étant dit, ce qui change aujourd'hui, c'est l'influence politique des groupes éditoriaux. Bien qu'habituelles, ces convergences médiatiques font aujourd'hui débat, notamment concernant les intentions et poids politiques que ces groupes peuvent avoir. Cette dimmension politique est ce qui inquiète fortement les professionnels du secteurs éditorial dès lors qu'il est question de Vincent Bolloré dont le nom est associé de plus en plus à des courants de pensée d'extrême droite.
+
+Inutile d'expliquer pourquoi, lorsque Vincent Bolloré a annoncé sa volonté de racheter Hachette, le secteur de l'édition tout entier s'est ému de la nouvelle, à l'image d'ANtoine Gallimard.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2023-24. Le numéro un et le numéro deux de l'édition français changent de mains
+
+![](img/echecFusionEditisHachette.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/kretinskyEditis.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Les éditeurs français se sont bcp mobilisés, et finalement la commission européenne, qui effectue tout de même un contrôle des rachats de médias, a autorisé Bolloré à racheter Hachette à condition de céder Editis. 
+
+Depuis l'année dernière, 2023, Hachette est la propriété de Bolloré (d'où les tensions avec Saporta) et Editis est donc désormais sous la houlette de Daniel Kretinsky,  avocat, homme d'affaires et milliardaire tchèque : propriétaire des magazines Elle, Télé 7 Jours, Marianne, France Dimanche, Ici Paris, Usbek & Rica et Franc-Tireur. Par ailleurs entre octobre 2018 et septembre 2023, il est un actionnaire majeur du groupe Le Monde...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://geo.dailymotion.com/player.html?video=x8txosg"
+    style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
+    allowfullscreen
+    title="Dailymotion Video Player"
+    allow="web-share">
+  </iframe>
+</div>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2020-24 : La tendance grandissante de l'auto-édition
+
+>Coup sur coup, plusieurs personnalités ou auteurs de best-sellers succombent aux sirènes de l’autoédition ou de l’autopublication. Ils se passent des services d’une maison d’édition pour fonder la leur, ou parient – volontairement, ou bien contraints et forcés – sur une indépendance éditoriale. Coïncidence fortuite ? En tout cas, l’arrivée de telles signatures, synonymes de centaines de milliers de ventes, bouleverse la donne et devrait inciter les maisons d’édition à se repenser. [*Le Monde, nov. 2021*]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/autoedition.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+L'indépendance, c'est un peu ce que tout le monde espère, et cela fatigue les auteurs.
+
+>Coup sur coup, plusieurs personnalités ou auteurs de best-sellers succombent aux sirènes de l’autoédition ou de l’autopublication. Ils se passent des services d’une maison d’édition pour fonder la leur, ou parient – volontairement, ou bien contraints et forcés – sur une indépendance éditoriale. Coïncidence fortuite ? En tout cas, l’arrivée de telles signatures, synonymes de centaines de milliers de ventes, bouleverse la donne et devrait inciter les maisons d’édition à se repenser.
+
+Ces deux dernières années, Kylian Mbappé, Riad Sattouf (Le Jeune Acteur 1), Joël Dicker ou Eric Zemmour se sont auto-édités, en créant généralement leur propre label pour publier leur texte.
+
+Une volonté  d'indépendance qui s'explique par de nombreux facteurs, mais qui traduisent un sentiment de plus en plus partagé par la communauté des écrivains.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La polémique de la rentrée 2023 : Kevin Lambert et les sensitivity readers
+
+
+![](img/lambert-matthieu.png)<!-- .element: style="width:500px" --> 
+
+
+===
+
+apparition de nouveaux "métiers", mais questionnements philo
+
+
+Ces relecteurs chargés de traquer dans les manuscrits des passages ou des situations susceptibles de heurter des minorités, notamment ethniques ou sexuelles, sont-ils utiles ou détestables ? Des appuis, ou des censeurs ? En Amérique du Nord, le recours à ces démineurs éditoriaux s’est considérablement développé ces dernières années. En France, la pratique reste rare. Un décalage qui explique la polémique née autour de Kevin Lambert et de son troisième roman, Que notre joie demeure, portrait d’une architecte star publié en France par Le Nouvel Attila, une maison qui dépend du Seuil (Média Participations).
+
+L’écrivain, cité dans le billet, se réjouit pour sa part que Chloé Savoie-Bernard, une poète et professeure de littérature d’origine québécoise et haïtienne, ait « contribué à l’édition du livre ».
+
+Pour Philippe Claudel, les « sensitivity readers » n’ont pas grand-chose de neuf, sinon leur appellation. « Les éditeurs ont toujours relu les textes avec attention, notamment à ce qui pouvait susciter la polémique, relève l’auteur de Crépuscule (Stock, 2022). Bien des manuscrits sont revus par des avocats, retravaillés par les éditeurs, sans que cela choque personne. Ce qui est intéressant, c’est le texte final. » Pierre Assouline, lui, se montre résolument opposé à cette pratique. « On n’a pas besoin en France de cette police de la pensée importée des Etats-Unis, plaide l’auteur du Nageur (Gallimard, 2023). Si on me le demandait pour un de mes livres, je refuserais. »
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La polémique 2024 : taxer le livre d'occasion ?
+
+![](img/taxeOccasion.png)<!-- .element: style="width:500px" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Pendant ce temps, le numérique poursuit sa croissance...
+
+![](img/expansionNumerique.png)
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+![](img/amazon.png)
+
+
+<!-- .element: style="width:45%;float:right;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+===
+
+Pdt ce temps, le livre numérique gagne du terrain...
+
+
+Avec des inquiétudes légitimes.
+Concurrence pour les éditeurs, fausse indépendance pour les écrivains, qui croient trouver une alternative finalement loin d'être parfaite.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### ... et génère une remise en question du métier
+
+>L’intelligence artificielle constitue également une opportunité pour l’édition. L’assistance à des tâches de production ou encore l’amélioration de la découvrabilité des fonds, sont autant de pistes explorées activement au sein de notre métier. [Communiqué du SNE]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/IA-edition_sne.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+On reparlera de l'IA dans les deux cours, y compris en communication.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -80,87 +368,12 @@ C'était Irène Lindon, la fille de Jérôme Lindon (lui-même resté à la têt
 
 
 ===
->« Le marché s’est transformé de façon importante, notamment en raison de la place prépondérante prise par le manga, la bande dessinée et la romance, alors que le pouvoir d’achat des lecteurs reste le même », explique Anne-Sylvie Bameule. 
+
+Essai de synthèse...
 
 >Le secteur de l’édition, après avoir affiché des résultats historiques pendant la crise due au Covid-19, a connu un ralentissement. Selon le Syndicat national de l’édition, le chiffre d’affaires des éditeurs a chuté de 5,4 % en 2022, à 2,9 milliards d’euros, mais comparé à 2019, année de référence prépandémique, le marché du livre affiche toujours une croissance de 3,7 %. L’institut GFK note une assez belle dynamique des ventes de littérature générale au premier trimestre 2023 (+ 3 % par rapport à la même période de 2022). Toutefois, chez Actes Sud, comme chez ses concurrents, les ventes en littérature étrangère ont plus de mal à décoller.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autoedition.png" data-background-size="contain" -->
-
-
-===
-
-L'indépendance, c'est un peu ce que tout le monde espère, et cela fatigue les auteurs.
-
->Coup sur coup, plusieurs personnalités ou auteurs de best-sellers succombent aux sirènes de l’autoédition ou de l’autopublication. Ils se passent des services d’une maison d’édition pour fonder la leur, ou parient – volontairement, ou bien contraints et forcés – sur une indépendance éditoriale. Coïncidence fortuite ? En tout cas, l’arrivée de telles signatures, synonymes de centaines de milliers de ventes, bouleverse la donne et devrait inciter les maisons d’édition à se repenser.
-
-L'an passé, Kylian Mbappé, Riad Sattouf (Le Jeune Acteur 1), Joël Dicker ou Eric Zemmour se sont auto-édités, en créant généralement leur propre label pour publier leur texte.
-
-Une volonté  d'indépendance qui s'explique par de nombreux facteurs, mais qui traduisent un sentiment de plus en plus partagé par la communauté des écrivains.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/SophieDeClosets.png" data-background-size="contain" -->
-
-
-===
-
-Les éditeurs ne sont pas pour autant les grands méchants loups de l'histoire...
-
-Le 24 mai, Sophie de Closets, présidente-directrice générale des éditions Fayard, quitte son poste après avoir subit notamment des pressions de la part d'H politiques dont Sarkozy, après la publication de Gérard Davet et Fabrice Lhomme, surl l'affaire Fillon.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/AuteursDepart.png" data-background-size="contain" -->
-
-===
-
-Signe que cette volonté d'indépendance est forte, le départ de Sophie DC a entraîné celui de tout un ensemble d'écrivains.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/ligueDesAuteursPro.png" data-background-size="contain" -->
-
-===
-
->La Ligue des auteurs professionnels est une association loi de 1901 créée en 2018 avec un double objectif, de réflexion sur le métier d'une part et de propositions de solutions concrètes pour la protection et l'avenir de celui-ci d'autre part, afin de créer le statut de l'auteur professionnel. Parmi ses membres fondateurs, on compte la Charte des auteurs et des illustrateurs jeunesse, les États Généraux de la Bande Dessinée et le SNAC BD. De 2018 à 2021, la présidente était Samantha Bailly.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/lambert.png" data-background-size="contain" -->
-
-===
-
-Ces relecteurs chargés de traquer dans les manuscrits des passages ou des situations susceptibles de heurter des minorités, notamment ethniques ou sexuelles, sont-ils utiles ou détestables ? Des appuis, ou des censeurs ? En Amérique du Nord, le recours à ces démineurs éditoriaux s’est considérablement développé ces dernières années. En France, la pratique reste rare. Un décalage qui explique la polémique née autour de Kevin Lambert et de son troisième roman, Que notre joie demeure, portrait d’une architecte star publié en France par Le Nouvel Attila, une maison qui dépend du Seuil (Média Participations).
-
-L’écrivain, cité dans le billet, se réjouit pour sa part que Chloé Savoie-Bernard, une poète et professeure de littérature d’origine québécoise et haïtienne, ait « contribué à l’édition du livre ».
-
-Pour Philippe Claudel, les « sensitivity readers » n’ont pas grand-chose de neuf, sinon leur appellation. « Les éditeurs ont toujours relu les textes avec attention, notamment à ce qui pouvait susciter la polémique, relève l’auteur de Crépuscule (Stock, 2022). Bien des manuscrits sont revus par des avocats, retravaillés par les éditeurs, sans que cela choque personne. Ce qui est intéressant, c’est le texte final. » Pierre Assouline, lui, se montre résolument opposé à cette pratique. « On n’a pas besoin en France de cette police de la pensée importée des Etats-Unis, plaide l’auteur du Nageur (Gallimard, 2023). Si on me le demandait pour un de mes livres, je refuserais. »
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/expansionNumerique.png" data-background-size="contain" -->
-
-===
-
-Pdt ce temps, le livre numérique gagne du terrain...
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/amazon.png" data-background-size="contain" -->
-
-===
-
-Avec des inquiétudes légitimes.
-Concurrence pour les éditeurs, fausse indépendance pour les écrivains, qui croient trouver une alternative finalement loin d'être parfaite.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Noury-numerique-stupide.png" data-background-size="contain" -->
-
-===
-
-En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de décridibilisation du numérique.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/hachette.png" data-background-size="contain" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Noury-dehors.png" data-background-size="contain" -->
+>« Le marché s’est transformé de façon importante, notamment en raison de la place prépondérante prise par le manga, la bande dessinée et la romance, alors que le pouvoir d’achat des lecteurs reste le même », explique Anne-Sylvie Bameule. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -186,6 +399,7 @@ En 2018, Arnaud Nourry, PDG de Hachette, s'était lancé dans une campagne de d�
 * À quoi sert l'éditeur si Amazon peut faire tout le travail (et d'ailleurs, le fait-il vraiment) ?
 * Comment penser la nouvelle relation qui se tisse entre les écrivains et le lecteur, à travers de nouvelles expériences médiatrices (réseaux sociaux, etc.) ?
 * Comment institutionnaliser et rémunérer de nouvelles façon d'écrire (*sensitivity readers*, etc.)
+* Des technologies numériques comme les générateurs de textes (capables également de corriger les textes), vont-ils devenir des outils pour les éditeurs de demain, au même titre qu'un logiciel de traitement de texte et de design graphique (Word, InDesign...) ?
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -473,7 +687,20 @@ Il est important de noter combien les éditeurs se doivent de comprendre les bes
 Mais nous avons besoin de comprendre les attentes des lecteurs et leurs comportements qui ne cessent d'évoluer.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/etudeSofia.png" data-background-size="contain" -->
+
+#### Les études de marché
+
+Études annuelles de la Sofia-SGDL-SNE
+
+- édition imprimée
+- édition numérique (pas de précision sur les formats)
+- édition audio
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/etudeSofia.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
 
 ===
 Ces stats sont produites par la Sofia (Organisme de gestion collective
@@ -487,7 +714,7 @@ L'intérêt de cette étude, c'est qu'elle pointe de suite les trois grandes for
 Je ne rentrerai pas dans le détail de l'étude, mais je pointe votre attention sur quelques points de l'étude comparative.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/profilLecteur.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2401.png" data-background-size="contain" -->
 
 source : Baromètre La Sofia-SNE-SGDL
 
@@ -509,7 +736,7 @@ audio, physiques et numériques, attirent de plus en
 plus le lectorat masculin
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/achats-2021.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2404.png" data-background-size="contain" -->
 
 source : Baromètre La Sofia-SNE-SGDL
 
@@ -528,6 +755,12 @@ Le livre reste une valeur sûre, objet souvent offert.
 Pdt la pandémie, le marché du livre s'est particulièrement bien porté, avec cependant des conséquences perverses : les valeurs sûres l'ont emporté avec l'achat en ligne. Le fait d'avoir des librairies fermées, notamment lors des deux premiers confinements, a empêché une pratique du flanage et donc la vente de nouveaux auteurs ou d'auteurs peu connus.
 
 S'est ainsi accentuée une tendance à ne publier que des auteurs déjà confirmée. De quoi alimenter la question : à qui s'adresse-t-on ? À un lectorat de fidèles. Ou alors à celui qui se fie à la critique, aux prix.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2408.png" data-background-size="contain" -->
+
+
+===
 
 Qu'est-ce qu'on lit ?
 >La littérature reste la catégorie la plus lue pour 91%
@@ -566,22 +799,6 @@ an, traduit vraisemblablement le début d’un véritable
 basculement du livre audio physique au profit du
 livre audio numérique
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/supports-2021.png" data-background-size="contain" -->
-
-source : Baromètre La Sofia-SNE-SGDL
-
-<!-- .element: class="source" -->
-
-===
-
->Après une forte hausse en 2020, les habitudes des
-lecteurs se maintiennent sur tous les supports à
-l’exception du livre audio numérique qui poursuit sa
-progression. La fréquence d’écoute des livres audio
-est en hausse chez les auditeurs assidus et réguliers
-(+6 points pour le livre audio physique et +7 points
-pour l’audio numérique).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/lieux-achat-2021.png" data-background-size="contain" -->
@@ -612,12 +829,19 @@ empruntent en bibliothèque (plus de 20 par an pour
 empruntent également en bibliothèque (+ 8 pts)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/obtention-2021.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2409.png" data-background-size="contain" -->
 
 source : Baromètre La Sofia-SNE-SGDL
 
 <!-- .element: class="source" -->
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2410.png" data-background-size="contain" -->
+
+source : Baromètre La Sofia-SNE-SGDL
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -855,11 +1079,3 @@ charge d'une manière ou d'une autre ces trois fonctions de production, de diffu
 et de légitimation, en bouleversant le panorama éditorial qui s'était stabilisé au
 cours des derniers siècles.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/rondepierre.png" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-## Bonne session !
-
-===

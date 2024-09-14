@@ -956,7 +956,7 @@ Ces chantiers à ciel ouvert que sont les blogues et les réseaux sociaux transg
 
 ### L'écriture-performance
 
->“Écrire n’est pas un scénario, un plan, mais comment la matière qu’on affronte sera subversion de ce scénario ou de ce plan, de l’intuition obscure qu’on en a. Le caractère nécessaire de la logique interne d’une oeuvre s’exprimant donc plutôt par l’écart qu’elle impose aux intuitions qui en sont l’origine. Le site Internet pourrait bien, alors, comme le soulignent ses détracteur, se révéler dangereux pour les grandes constructions de l’esprit : il rend inopérante la contrainte d’écart.”
+>“Écrire n’est pas un scénario, un plan, mais comment la matière qu’on affronte sera subversion de ce scénario ou de ce plan, de l’intuition obscure qu’on en a. Le caractère nécessaire de la logique interne d’une oeuvre s’exprimant donc plutôt par l’écart qu’elle impose aux intuitions qui en sont l’origine. Le site Internet pourrait bien, alors, comme le soulignent ses détracteurs, se révéler dangereux pour les grandes constructions de l’esprit : il rend inopérante la contrainte d’écart.”
 >
 > François Bon (Le Tiers livre)
 
