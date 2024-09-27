@@ -18,14 +18,33 @@ Chaque séance sera consacrée à un concept ou à une figure majeure de l'édit
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Comment l'éditeur produit-il de la légitimité ? Comment peut-il lui-même faire fructifier sa propre légitimité ? Existe-t-il des opérations concrètes et objectives pour produire de la légitimité ? Que devient la puissance de légitimation des éditeurs en contexte numérique ?
+Comment l'éditeur produit-il de la légitimité - et quelle corrélation peut-on établir entre légitimation et qualité du travail éditorial ? 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+Comment peut-il lui-même faire fructifier sa propre légitimité ? 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+Existe-t-il des opérations concrètes et objectives pour produire de la légitimité ? 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+Que devient la puissance de légitimation des éditeurs en contexte numérique ?
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 ===
 
-Aujourd'hui, le cours se concentrera sur le métier d'éditeur, et sur la fonction de légitimation qu'elle engage. Comment l'éditeur produit-il de la légitimité ? Comment peut-il lui-même faire fructifier sa propre légitimité ? Existe-t-il des opérations concrètes et objectives pour produire de la légitimité ?  On comprend bien ici l'enjeu : l'éditeur doit d'abord construire sa légitimité afin d'être lui-même doté d'un pouvoir de légitimation, qui lui permet de transformer un texte en livre (voire en "oeuvre"), et un écrivain en auteur. Enfin, que devient la puissance de légitimation des éditeurs en contexte numérique ?
+Aujourd'hui, le cours se concentrera sur le métier d'éditeur, et sur la fonction de légitimation qu'elle engage. Comment l'éditeur produit-il de la légitimité ? Quelle relation peut-on établit entre la légitimité que l'éditeur confère à un auteur ou une oeuvre, et la qualité du travail éditorial effectué ?
+
+D'ailleurs, j'en profite ici pour préciser une ou
+
+Comment peut-il lui-même faire fructifier sa propre légitimité ? Existe-t-il des opérations concrètes et objectives pour produire de la légitimité ?  On comprend bien ici l'enjeu : l'éditeur doit d'abord construire sa légitimité afin d'être lui-même doté d'un pouvoir de légitimation, qui lui permet de transformer un texte en livre (voire en "oeuvre"), et un écrivain en auteur. Enfin, que devient la puissance de légitimation des éditeurs en contexte numérique ?
 
 Il est difficile de mesurer la légitimité et la force de légitimation d'une institution éditoriale. Aujourd'hui, on va voir comment elle peut s'appuyer sur des éléments matériels, et notamment sur la fabrique du livre, mais également comment cette légitimité se construit sur le temps long de l'histoire.
 
@@ -153,7 +172,9 @@ Je vais d'abord passer en revue avec vous les principaux éléments du texte, en
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## 1. La légitimation par l'image graphique du texte : autour du concept d'énonciation éditoriale
+## 1. La légitimation par l'image graphique du texte 
+
+#### Introduction au concept d'énonciation éditoriale
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -441,22 +462,179 @@ tristan-bartolini
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/fontmeme.png" data-background-size="contain" -->
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## L'énonciation éditoriale : une part d'invisibilisation 
+
+#### Le cas de la révision et de la préparation de copie
+* Révision ortho-typographique  
+* Un protocole de travail codifié et évolutif selon les techniques éditoriales
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/vollard_exemple.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Emmanuel Souchier relie l’énonciation éditoriale à deux caractéris­tiques essentielles : d’une part la pluralité des instances qui interviennent dans la production du livre (outre l’auteur, l’éditeur et le cas échéant le diffuseur, il faut compter avec l’imprimeur, le distributeur et le libraire) ; d’autre part, le fait que les marques laissées par ces différentes instances tendent à devenir invisibles (1998a : 140 ; v. aussi Souchier, 1998b : 172). 
+
+Pour illustrer cette invisibilisation, j'ai choisi de vous parler de la révision et préparation de copie : c'est ainsi que l'on qualifie une série d'actions sur le texte, avant et après sa mise en page (cad lorsqu'il en est à l'état d'épreuve), afin d'enlever les erreurs de langue, mais également régler les problèmes de mise en forme.
+
+Le travail de révision (d'abord révision d'épreuves, puis préparation de copie et révision de fichiers), est un élément essentiel du travail éditorial. Besoin des réviseurs : compétences linguistiques ++, mais également connaissances des règles de mise en forme et de présentation. 
+
+Il s'agit d'une tâche généralement opérée par des personnes rigoureuses, minutieuses, et dotées d'une excellente connaissance de la langue et du travail de mise en page..
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Memento-signes-correction.svg" data-background-size="contain" -->
+
+
+===
+
+Historiquement, aux débuts de l’imprimerie, la correction était souvent effectuée par deux correcteurs : le premier lisait un exemplaire de l’épreuve à haute voix, le second effectuait les corrections au moyen de signes conventionnels. 
+
+
+Le lecteur utilisait, pour signaler les diverses ponctuations et styles typographiques, de termes abréviatifs : « ouvre » pour une parenthèse ouvrante, « ferme » pour une parenthèse fermante, « clame » pour un point d’exclamation, « sus » pour des points de suspension, etc. 
+
+
+Plus tard le correcteur travaille seul, apposant ses corrections à l’encre rouge en suivant les codes conventionnels : une marque signale le ou les caractères à changer dans le corps du texte, et la correction à apporter est mentionnée en marge.
+
+Les règles de révision se sont de plus en plus formalisées pour aboutir à la création d'un code de révision, que l'on apprenait dans nos études.
+
+On peut voir ici une manifestation de l'invisibilisation du travail éditorial, travail exigeant qui disparaît totalement. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Qualité de la publication et invisibilisation de l'énonciation éditoriale&nbsp;: une relation consubstantielle ?
+
+
+![](img/preparationCopieExemple.jpg)<!-- .element: style="width:300px" -->
+
+
+===
+
+Le processus d'invisibilisation de l'énonciation éditoriale ne doit pas cacher l'importance qu'elle joue dans la légitimation d'une publication : un texte qui a été travaillé ++ est forcément de meilleure qualité.
+
+
+On pourra même suggérer l'hypothèse selon laquel plus le travail édito est invisibilisé, plus l'énonciation éditoriale est muette, plus la qualité d'un ouvrage ou d'une publication est grande. 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## L'énonciation éditoriale dans les écrits d'écrans
 
-### La difficile légitimation des "écranvains"
+* Le dispositif numérique : un acteur supplémentaire de l'énonciation éditoriale
+* Comment l'outil numérique change le rapport à la matérialité de l'écriture et de sa mise en forme ?
+* Les "écrits d'écrans" : du code à l'interface, une nouvelle manière de concevoir l'énonciation éditoriale
 
-Comment l'image du texte se reconfigure-t-elle à l'écran ? Qui prend en charge l'énonciation éditoriale à l'écran ? Qu'est-ce qui fait qu'un texte à l'écran est plus "légitime qu'un autre" ? Comment devient-on un "auteur" quand on publie en ligne ?
-
-<!-- .element: style="font-size:1.6rem" -->
 ===
 
 La question de l'énonciation éditoriale se dote de toute nouvelles problématique depuis l'émergence du texte à l'écran.
 
 On verra plus en détail la question de la fabrique du livre et sa remédiation dans deux semaines. On envisagera les enjeux de la remédiation du livre, à travers une approche design en particulier. Mais dès aujourd'hui on peut aborder la question de l'énonciation éditoriale dans les écrits d'écran.
 
-Le problème que je vais adresse nous éloigne en apparence de la pratique éditoriale traditionnelle : elle vient poser la question des compétences de l'auteur numérique. Elle interroge également la redistribution de la fonction éditoriale à l'époque numérique.
+
+* Le dispositif numérique : un acteur supplémentaire de l'énonciation éditoriale
+* Comment l'outil numérique change le rapport à la matérialité de l'écriture et de sa mise en forme ?
+* Les "écrits d'écrans" : du code à l'interface, une nouvelle manière de concevoir l'énonciation éditoriale
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La préparation de copie en PAO
+* PAO = Publication assistée par ordinateur
+* Un système d'automatisation de la révision
+* Les commentaires et le *track-changes*
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/trackChanges.jpeg)<!-- .element: style="width:20%;float:right;margin-right:-1em;" -->
+
+===
+
+Publication assistée par ordinateur
+
+Logiciel Word : track changes.
+
+Ouvrage de de Matthew Kirschenbaum, propose une archéologie des logociels de traitement de texte, pour « raconter et décrire en termes matériels et historiques comment les ordinateurs, et plus particulièrement le traitement de texte, sont devenus partie intégrante de la création littéraire et de l'écriture littéraire ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/trackChanges.jpeg)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
+
+![](img/prepaCopie_PAO.png)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
+
+
+===
+
+
+Il explique déjà comment les logiciels de traitement de texte ont permis de voir directement ce que l'on écrivait en temps réel (vs. les machines à écrire où tout s'inscrivait qd on arrivait à la fin = retour chariot). 
+
+Il explique aussi comment le fait de pouvoir copier-coller a changé le rapport des écrivains à la matérialité du texte, avec la possibilité de le manipuler : matérialité de plus en plus labile.
+
+Il montre que le track changes a permis également de manipuler le texte davantage, mais également de produire un commentaire, une glose autour de ce texte. 
+
+Il explique enfin qu'aujourd'hui, il existe un monopole du logiciel de traitement de texte, qui a imposé sa manière de travailler.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Avec l’informatique, le texte de l’ouvrage confié par l’auteur à l’éditeur n’est pas ressaisi mais directement mis en pages : les épreuves ont complètement changé de sens : on ne demande plus à l’auteur de corriger les fautes de l’imprimeur, mais de se relire pour se corriger lui-même ou pour valider les corrections introduites par l’éditeur. Lorsqu’un auteur relit les épreuves de son texte, les coquilles apparaissent beaucoup mieux que sur sortie d’imprimante, a fortiori que sur écran.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+Marc Arabyan, Introduction au dossier "L'énonciation éditoriale" paru dans *Semen*, 41 (2016)
+
+<!-- .element: style="font-size:1.7rem; text-align:right" -->
+
+
+===
+
+L'informatique n'aura fait qu'automatiser un processus éditorial. 
+
+À méditer quand on sait qu'aujourd'hui, des expériences sont menées afin d'intégrer l'IA à la préparation de copie. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Préparation de copie et automatisation
+* Logiciels de correction et révision : Antidote, ProLexis
+* Intégration de l'intelligence articicielle
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/antidote.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Des logiciels de révision existent.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### La difficile légitimation des "écranvains"
+
+Comment devient-on un "auteur" quand on publie en ligne ?
+
+<!-- .element: style="font-size:1.6rem" -->
+
+
+Qu'est-ce qui fait qu'un texte à l'écran est plus "légitime qu'un autre" ? 
+
+
+<!-- .element: style="font-size:1.6rem" -->
+===
+
+
+Le problème que je vais adresser à présent nous éloigne en apparence de la pratique éditoriale traditionnelle : elle vient poser la question des compétences de l'auteur numérique. Elle interroge également la redistribution de la fonction éditoriale à l'époque numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -676,7 +854,7 @@ En standardisant les écritures, les logiciels régissent donc des fonctionnalit
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Classez la légitimité des plateforme suivantes :
+### Classez la légitimité des plateformes suivantes :
 
 >Sur quelle plateforme iriez-vous lire/écouter un texte littéraire ?
 
@@ -730,71 +908,15 @@ L’enjeu n’est d’ailleurs pas seulement symbolique, il est aussi politique,
 
 Massivement investis par les écrivains, ces nouveaux dispositifs éditoriaux (CMS, réseaux sociaux) permettent l’émergence d’une génération qui est loin de partager la même littératie numérique que celle qui l’a précédée.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DitaKepler.png" data-background-size="contain" -->
-
-
-Source image : Dita Kepler (Anne Savelli), profil Twitter (2018)
-
-<!-- .element: class="source" -->
-
-===
-
-D’abord, il existe tout un mouvement dans lequel les écrivains, loin d’adhérer naïvement à ces formes éditoriales, les questionnent, les prennent à parti, et surtout les détournent telles des contraintes créatives. C’est le cas par exemple de l’écriture « profilaire » : investissant les plateformes conçues pour créer des « profils » d’usager, les écrivains ont largement joué des contraintes techniques, plastiques ou institutionnelles de ces objets très formatés.
-
-Là où les plateformes attendaient la création de profils « réels » (n’hésitant pas d’ailleurs à faire la guerre aux « faux » profils), les écrivains — mais aussi les amateurs — envahi les réseaux sociaux à des fins esthétiques — voir politiques. Ils y ont créé des personnages, des fictions, y ont forgé de nouvelles figures autoriales, singulières ou collectives, qui ont parfois largement dépassé leurs attentes.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-><p>"Quand j’ai créé mon avatar sur Second Life Dita Kepler, en 2009, je savais que je ne voulais pas en faire un personnage dans l’acception classique du terme. Je voulais simplement qu’elle reste le plus libre possible, non liée à la publication : je lisais mes textes en public, au Cent Quatre ou à la Bellevilloise, mais ne les postais pas sur Fenêtres, n’en faisais pas un ensemble à soumettre à un éditeur. Je ne pouvais pas prévoir que Pierre Ménard allait la faire parler sur Twitter — ce que j’avais pourtant implicitement mis en route en disant un jour en public que tout le monde pouvait s’emparer d’elle. A partir de là, Dita Kepler est restée “mon” personnage, mais elle a, sans le dire, été voir ailleurs, du côté d’autres auteurs. Sur Twitter, c’est parfois moi qui tient le compte, parfois non. Chez Christophe Grossi, on trouve un texte qui parle d’elle... Etc."</p> (Anne Savelli)
-
-<!-- .element: style="font-size:1.6rem" -->
-
-===
-À propos de son « avatar » Dita Kepler, Anne Savelli reconnait par exemple : CITER
-
-L’écriture profilaire relève en fait de la stratégie du « cheval de Troie », qui consiste à investir la plateforme pour mieux la torpiller, de l’intérieur. Cette stratégie est révélatrice du déplacement du sens même de nos « compétences numériques ». Celles-ci ne se fondent plus seulement sur un savoir technique, mais aussi sur une culture, qui suppose notamment la maîtrise des connotations associées au web. L’autorité de l’écrivain en ligne se joue donc désormais sur cette culture, cette compréhension d’enjeux historiques, politiques, identitaires, des nouvelles technologies.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
 ## Conclusion (1/2)...
-Avec le concept d'énonciation éditoriale, on comprend combien la part éditoriale du texte, sa réalité formelle, n’est plus envisagée comme une médiation neutre mais bien comme une pratique énonciative à part entière. Le travail éditorial, en transformant le texte en livre, ne contente pas de transmettre : elle produit du sens, elle valorise, dévalorise, construit un horizon d'attente. Transposée aux médias informatisés, cette notion fait alors émerger des enjeux de pouvoir liés à la question du formatage. À cet égard, le risque de la plateformisation (= la standardisation de l'écriture / lecture qui accompagne une démocratisation des dispositifs éditoriaux numériques) est grand.
-
-<!-- .element: style="font-size:1.6rem" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## ... Conclusion (2/2)...
-L’importance accordée à la dimension technique des œuvres numériques répond probablement d’abord à un besoin de légitimation, et non à des critères de littérarité, même si nous avons parfois tendance à considérer ces deux aspects comme concomitants. Là où l’éditeur traditionnel assumait autrefois un rôle de garant, ce sont aujourd’hui les compétences numériques de l’écrivain que l’on a mis en avant pour assurer la qualité littéraire d’une œuvre — au risque de la survaloriser ou au contraire de la sous-estimer. Les mutations rapides et spectaculaires du fait numérique nous poussent à engager une réévaluation de notre imaginaire technologique et, dans son sillage, d’un grand nombre d’objets littéraires (blogues, « twittérature » et autres textes publiés sur des plateformes comme Wattpad) qui, bien que natifs numériques, ne correspondent pas exactement aux critères canoniques de la littérature électronique des grands répertoires et se trouvent encore trop souvent marginalisés.
+Avec le concept d'énonciation éditoriale, on comprend combien la part éditoriale du texte, sa réalité formelle, n’est plus envisagée comme une médiation neutre mais bien comme une pratique énonciative à part entière. Le travail éditorial, en transformant le texte en livre, ne contente pas de transmettre : elle produit du sens, elle valorise, dévalorise, construit un horizon d'attente. L'énonciation éditoriale renvoie par ailleurs au paradoxe de l'éditeur, tiraillé entre une invisibilisation nécessaire (il n'est pas l'auteur) et une exigence de qualité qui requiert une manipulation profonde du texte. Dans le contexte de l'informatisation de l'édition -- qui n'est qu'une étape supplémentaire dans l'automatisation des tâches de l'éditeur -- l'énonciation notion fait alors émerger des enjeux de pouvoir liés à la question du formatage et à l'émergence de nouveaux acteurs de l'édition qui viennent bouleverser les équilibres (GAFAM). À cet égard, le risque de la plateformisation (= la standardisation de l'écriture / lecture qui accompagne une démocratisation des dispositifs éditoriaux numériques) doit faire l'objet d'une attention particulière afin de garantir la bibliodiversité. 
 
 <!-- .element: style="font-size:1.6rem" -->
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### ... et ouverture
-
-><p>"Puisque nos écritures sont nativement numériques, doivent-elles n’être envisagées qu’à cette aune ? Étranges tensions. Pour ma part, je n’aurais fait du code que pour effacer l’impression de la technique : page blanche (en fait, pas tout à fait blanche : un peu grise ; la technique nous apprend que le blanc sur noir est difficilement lisible, qu’un dégradé imperceptible est nécessaire). Il en est du design (la mise en forme des objets pour l’usage ?) comme de la langue [...], non pas pour se demander comment le fond témoigne de la forme (vieille question), mais dans quelle mesure le nouage pouvait conclure à la singularité des écritures et de notre époque."</p>
-
-><p>Arnaud Maïsetti</p>
-
-<!-- .element: style="font-size:1.6rem" -->
-
-
-===
-
-Langue et technique apparaissent comme des « sables mouvants », pour reprendre la formule de Bataille, dont la maîtrise n’est jamais totalement assurée. Comme la langue, la technique est loin d’être figée, elle se transforme sous l’action de ses usagers, elle conduit à des partis-pris et fait l’objet de nombreux désaccords.
-
-À l’heure où un nouveau rapport à la technique se dessine pour toute une vague d’écrivains et de lecteurs (on préférera le terme « vague » à celui de « génération », qui pourrait donner l’impression d’un conflit générationnel, ce qui n’est pas tout à fait le cas), ces désaccords promettent des débats cruciaux, notamment en ce qui concerne la légitimation de la littérature numérique — dont la définition même semble en jeu. Ces débats, comprenons-le bien, ne sont qu’une déclinaison des discussions sur le capital symbolique des maisons d’édition plus traditionnelles. Aussi est-il temps, pour les chercheurs, de prendre en compte davantage l’imaginaire de la technique et son système de valeur associé. Loin de se débarrasser de la question technique, il s’agit plutôt de la réintégrer dans une réflexion épistémologique.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rondepierre.png" data-background-size="contain"-->
-
-><p>"Curieux anachronisme, ces questions autour de “L’avenir du livre” quand on tâchait de parler du présent de l’écriture ; même pas de l’écriture : l’écriture, c’était seulement le prétexte : le présent du monde, c’était seul ce qu’on voulait nommer, et cela d’ailleurs est ce qui demeure encore, demeurera".</p>
-
-><p>Arnaud Maïsetti</p>
-
-<!-- .element: style="font-size:1.6rem" -->
