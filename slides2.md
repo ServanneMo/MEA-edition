@@ -729,7 +729,7 @@ Pour bien comprendre le problème, posons-nous la question : qu'Est-ce que l'éc
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/code.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -741,7 +741,7 @@ Pour bien comprendre le problème, posons-nous la question : qu'Est-ce que l'éc
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/publi.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/interface.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
