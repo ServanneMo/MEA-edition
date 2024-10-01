@@ -530,6 +530,9 @@ On pourra même suggérer l'hypothèse selon laquel plus le travail édito est i
 * Comment l'outil numérique change le rapport à la matérialité de l'écriture et de sa mise en forme ?
 * Les "écrits d'écrans" : du code à l'interface, une nouvelle manière de concevoir l'énonciation éditoriale
 
+<!-- .element: style="font-size:1.6rem" -->
+
+
 ===
 
 La question de l'énonciation éditoriale se dote de toute nouvelles problématique depuis l'émergence du texte à l'écran.
@@ -715,7 +718,7 @@ Pour bien comprendre le problème, posons-nous la question : qu'Est-ce que l'éc
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/matrix.jpg" -->
+<!-- .slide: data-background-image="img/binaryCode.png" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -913,8 +916,8 @@ Massivement investis par les écrivains, ces nouveaux dispositifs éditoriaux (C
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Conclusion (1/2)...
-Avec le concept d'énonciation éditoriale, on comprend combien la part éditoriale du texte, sa réalité formelle, n’est plus envisagée comme une médiation neutre mais bien comme une pratique énonciative à part entière. Le travail éditorial, en transformant le texte en livre, ne contente pas de transmettre : elle produit du sens, elle valorise, dévalorise, construit un horizon d'attente. L'énonciation éditoriale renvoie par ailleurs au paradoxe de l'éditeur, tiraillé entre une invisibilisation nécessaire (il n'est pas l'auteur) et une exigence de qualité qui requiert une manipulation profonde du texte. Dans le contexte de l'informatisation de l'édition -- qui n'est qu'une étape supplémentaire dans l'automatisation des tâches de l'éditeur -- l'énonciation notion fait alors émerger des enjeux de pouvoir liés à la question du formatage et à l'émergence de nouveaux acteurs de l'édition qui viennent bouleverser les équilibres (GAFAM). À cet égard, le risque de la plateformisation (= la standardisation de l'écriture / lecture qui accompagne une démocratisation des dispositifs éditoriaux numériques) doit faire l'objet d'une attention particulière afin de garantir la bibliodiversité. 
+## Conclusion 
+Le concept d'énonciation éditoriale souligne combien la part éditoriale du texte, sa réalité formelle, n’est plus envisagée comme une médiation neutre mais bien comme une pratique énonciative à part entière. Le travail éditorial, en transformant le texte en livre, ne contente pas de transmettre : elle produit du sens, elle valorise, dévalorise, construit un horizon d'attente. L'énonciation éditoriale renvoie par ailleurs au paradoxe de l'éditeur, tiraillé entre une invisibilisation nécessaire (il n'est pas l'auteur) et une exigence de qualité qui requiert une manipulation profonde du texte. Dans le contexte de l'informatisation de l'édition -- qui n'est qu'une étape supplémentaire dans l'automatisation des tâches de l'éditeur -- l'énonciation éditoriale fait émerger des enjeux de pouvoir liés à la question du formatage et à l'émergence de nouveaux acteurs de l'édition qui viennent bouleverser les équilibres (GAFAM). À cet égard, le risque de la plateformisation (= la standardisation de l'écriture / lecture qui accompagne une démocratisation des dispositifs éditoriaux numériques) doit faire l'objet d'une attention particulière afin de garantir la bibliodiversité. 
 
 <!-- .element: style="font-size:1.6rem" -->
 
