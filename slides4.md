@@ -116,6 +116,29 @@ Ajouter visuel
 
 <!-- .element: style="font-size:1.4rem; text-align:right" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le "scandale" de l'AGESSA  
+
+* Des milliers d'"assujettis" privés de retraite, en raison d'un statut administratif flou
+
+<!-- .element: style="font-size:1.4rem;" -->
+
+
+![](img/caricatureAgessa.png)<!-- .element: style="width:500px" -->
+
+===
+
+Les vélléités d'indépendance des écrivains contemporain doivent être remises dans le contexte d'un conflit qui est d'abord un conflit social. Au coeur de ce conclit = les graves dysfonctionnement de l’Agessa pendant quarante ans, qui ont pénalisé jusqu’à 186 000 auteurs créateurs : Des écrivains, compositeurs, réalisateurs, dramaturges, scénaristes, photographes, traducteurs, illustrateurs, graphistes ou même chorégraphes se sont vu amputer d’une partie de leur retraite. 
+
+Pour bien comprendre, il y avait 2 statuts possibles à l'AGESSA : affilié, qd on atteint le seuil des 8 000 - 9 0000 euros de revenus, ou bien assujettis, quand on touche moins de 9 000 euros. En gros, qd vous êtes affilié (pour vous donner une idée cela représente 17 000 personnes en 2018) vous payez d’office vos cotisations retraite.
+
+Le problème c'est que « Les artistes-auteurs anciennement assujettis à l’Agessa n’ont jamais été prélevés de cotisations à l’assurance-vieillesse depuis la création de ce régime ». C’était à eux d’effectuer les démarches – ce qui n’existe dans aucun autre régime en France. Fort peu l’ont fait. En violation du code de la Sécurité sociale, l’Agessa s’exonérait donc de sa mission légale de recensement et d’identification de ces artistes-auteurs et n’a jamais appelé de cotisation vieillesse de base entre 1978 et fin 2018. 
+
+
+>Thierry Dumas, le directeur de l’Agessa depuis 2004 et également de la Maison des artistes (MDA) depuis 2011 – qui, elle, a effectué normalement son travail de recouvrement –, a été bien obligé de constater dans le « 20 heures » de France 2, jeudi 30 janvier, que « l’Agessa n’a pas fait son travail pendant quarante ans ». En plein débat sur les retraites, il se justifie au Monde : « L’Agessa a été conçue dès le début pour gérer uniquement les auteurs vivant de leur création, donc quelques milliers d’affiliés. Elle s’est trouvée sous-dimensionnée pour identifier une partie des artistes-auteurs et recouvrer la cotisation vieillesse. » Jusqu’en 2007, l’Agessa n’arrivait même pas à savoir combien elle comptait d’assujettis…
+
+S’il admet que « l’Agessa aurait dû appeler les cotisations », il renvoie la responsabilité de ce fiasco à sa double tutelle (les ministères de la culture et des affaires sociales). Il assure que bon nombre d’auteurs préféraient ne pas cotiser parce qu’ils occupaient un autre emploi – d’enseignant, journaliste ou autre – et n’avaient pas envie de payer deux fois. Il fait valoir par ailleurs que « la situation était dénoncée depuis des années par le conseil d’administration », mais qu’il devait aussi faire face à « des impossibilités juridiques et structurelles pour collecter les cotisations vieillesse ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
