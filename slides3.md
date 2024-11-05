@@ -82,7 +82,7 @@ quelques chiffres :
 
 ### La multiples réalités de l'édition numérique
 
-* Une production homothétique peut intéressante au plan éditorial (version Kindle, Koobo des grands titres)
+* Une production homothétique peu intéressante au plan éditorial (version Kindle, Koobo des grands titres)
 * Une production expérimentale relevant de la micro-édition (éditions indépendantes, auto-édition, cricuits courts)
 
 <!-- .element: style="font-size:1.3rem; text-align:justify" -->
@@ -138,7 +138,7 @@ ENfin : comment penser le stockage de ces ouvrages dans de nouvelles bibliothèq
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Les médias numérique : une problématique de la remédiation
+## Les médias numériques : une problématique de la remédiation
 
 * La remédiation : un concept pour penser les transitions médiatiques
 * La remédiation a-t-elle une utilité pratique ou n'est-elle qu'un artifice ?
