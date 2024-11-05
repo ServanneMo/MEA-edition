@@ -3,8 +3,94 @@
 
 ## Remédiations : concevoir le livre de demain
 
+### De l'imprimé au numérique, quel avenir pour l'objet livre ?
+
 ![](img/livrenum.jpeg)<!-- .element: style="width:400px" -->
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La fin des livres
+
+>« Si par livres vous entendez parler de nos innombrables cahiers de papier imprimé, ployé, cousu, broché sous une couverture annonçant le titre de l’ouvrage, je vous avouerai franchement que je ne crois point, — et que les progrès de l’électricité et de la mécanique moderne m’interdisent de croire, — que l’invention de Gutenberg puisse ne pas tomber plus ou moins prochainement en désuétude comme interprète de nos productions intellectuelles. »
+>« Je crois donc au succès de tout ce qui flattera et entretiendra la paresse et l’égoïsme de l’homme ; l’ascenseur a tué les ascensions dans les maisons ; le phonographe détruira probablement l’imprimerie. Nos yeux sont faits pour voir et refléter les beautés de la nature et non pas pour s’user à la lecture des textes ; il y a trop longtemps qu’on en abuse, et il n’est pas besoin d’être un savant ophtalmologiste pour connaître la série des maladies qui accablent notre vision et nous astreignent à emprunter les artifices de la science optique. »
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+"La fin des livres", *Contes pour bibliophiles*, Octave Uzanne (illustr. Albert Robida), 1894.
+
+<!-- .element: style="font-size:1.5rem; text-align:right" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+« Pour le livre, ou disons mieux, car alors les livres auront vécu, pour le novel ou storyographe, l’auteur deviendra son propre éditeur, afin d’éviter les imitations et contrefaçons ; il devra préalablement se rendre au Patent Office pour y déposer sa voix et en signer les notes basses et hautes, en donnant des contre-auditions nécessaires pour assurer les doubles de sa consignation. Aussitôt cette mise en règle avec la loi, l’auteur parlera son œuvre et la clichera sur des rouleaux enregistreurs et mettra en vente lui-même ses cylindres patentés, qui seront livrés sous enveloppe à la consommation des auditeurs. »
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Uzanne1.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+« Les dames ne diront plus, parlant d’un auteur à succès : « J’aime tant sa façon d’écrire ! » Elles soupireront toutes frémissantes : « Oh ! ce diseur a une voix qui pénètre, qui charme, qui émeut ; ses notes graves sont adorables, ses cris d’amours déchirants ; il vous laisse toute brisée d’émotion après l’audition de son œuvre : c’est un ravisseur d’oreille incomparable. [...] Les éditions recherchées seront celles qui auront été autophonographiées par des artistes en vogue : on se disputera, par exemple, le Molière de Coquelin, le Shakespeare d’Irving, le Dante de Salvini, le Dumas fils d’Éléonore Duce, le Hugo de Sarah Bernhardt, le Balzac de Mounet Sully [...]»
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Uzanne2.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Explorations médiatiques du livre
+
+![](img/foot-realiteaugmentee.gif)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+![](img/kindle-paperwhite-2018-wifi_dcc6d79033e1f191__450_400.jpg)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+====
+
+Question aujourd'hui : les nouvelles formes du livre. 
+Porté par la vague des nouveaux appareils numériques, en particulier le téléphone et la tablette tactile, le livre se réinvente, et se déplace : il investit des formes médiatiques -- comme l'audio, l'écran -- qui l'éloignent de sa forme canonique : le papier. 
+
+Après avoir un temps fait courir la rumeur d'un remplacement médiatique, et de la disparition du papier, le livre numérique apparaît plutôt comme une nouvelle offre, qui n'est pas nécessairement à prendre comme une offre concurrente, mais comme une offre supplémentaire.
+
+Mis à part lors de certaines périodes critiques (le covid), les chiffres de vente des livres imprimé n'ont jamais baissé au profit d'une hausse du numérique. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Chriffres clés (enquête SNE 2024)
+
+* Le livre numérique en France : 283 millions € de chiffre d’affaires
+* Le numérique : une offre scolaire et universitaire
+* La littérature en progression (mais seulement 6% de la production numérique)
+* L’édition numérique représentent 10 % du chiffre d’affaires total des éditeurs
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+===
+
+quelques chiffres : 
+
+37,71 millions € d’ebooks de Littérature écoulés en 2023, cela représente 14,51 % de mieux que l’année passée. Pour autant, le genre ne pèse toujours que 6,01 % des ventes totales, loin derrière le Scolaire (13,83 %, pour 41,03 millions €) et l’indétrônable Professionnel/Universitaire (44,52 %, pour 185,9 millions €).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La multiples réalités de l'édition numérique
+
+* Une production homothétique peut intéressante au plan éditorial (version Kindle, Koobo des grands titres)
+* Une production expérimentale relevant de la micro-édition (éditions indépendantes, auto-édition, cricuits courts)
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+===
+
+Parler d'édition numérique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/phallainaChap1.mp4" -->
@@ -52,9 +138,9 @@ ENfin : comment penser le stockage de ces ouvrages dans de nouvelles bibliothèq
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## La culture numérique : une problématique de la remédiation
+## Les médias numérique : une problématique de la remédiation
 
-* De quoi la remédiation est-elle le signe ? Une "nostalgie" médiatique ? Un refus des nouvelles technologies ?
+* La remédiation : un concept pour penser les transitions médiatiques
 * La remédiation a-t-elle une utilité pratique ou n'est-elle qu'un artifice ?
 * Existe-t-il une esthétique ou même une poétique de la remédiation ?
 
@@ -244,11 +330,14 @@ L'hypermédiateté semble être le maître-mot de la transition numérique
 
 C'est l'esthétique par excellence des interfaces
 
+LofiPlayer = logiciel pour créer de la musique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM2.png" data-background-size="contain"-->
 
 ===
+
+PixlrOmatic.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/phpThumb_generated_thumbnailjpg.jpeg" data-background-size="contain"-->
@@ -270,11 +359,15 @@ Empruntés à la musique.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## La (re)remédiation du livre à l'ère numérique
+## Une histoire des remédiations du livre
+* Histoire matérielle et technique
+* Histoire culturelle du livre
 
 ===
 
-Le livre n'en est pas à sa première remédiation
+Le livre n'en est pas à sa première remédiation.
+
+Étudier les remédiations du livre, c'est faire une histoire matérielle de l'édition, et comprendre à la fois pourquoi l'objet livre tel que nous le connaissons aujourd'hui a cette forme, et pourquoi cette forme est porteuse de connotations et de capital symbolique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
