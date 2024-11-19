@@ -1054,6 +1054,7 @@ Source : *Le livre infini*, Albertine Meunier
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Etant_Donnee2.mp4" data-background-size="contain"-->
 
+
 Source : *Étant donnée*, Cécile Portier
 
 <!-- .element: class="source" -->
