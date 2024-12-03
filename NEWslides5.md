@@ -1,21 +1,138 @@
 ## Publication & éditorialisation
-### La littérature et le paradigme contemporain
+#### Modèles alternatifs en régime contemporain : littérature exposée, éditions indépendantes, micro-édition artisanale
 
 ![](img/sans_titre-2.jpg)<!-- .element: style="width:300px" -->
 
 ===
 
-Les derniers concepts que nous allons explorer ensemble ce semestre sont les concepts de publication, d'éditorialisation, mais également celui de contemporain. Un mot rapide là-dessus : le contemporain est souvent envisagé comme une manière d'établir un périmètre temporel pour classer les oeuvres (avec tout les pb que cela pose : contemporain c'est ce qui se passe en moment, sauf que forcément, demain le contemporain d'aujourd'hui ne sera déjà plus contemporain). Envisager le contemporain comme paradigme, c'est renvoyer à un modèle épistémologique, mais également esthétique. Le paradigme contemporain est en cela d'abord issu du monde de l'art, où il s'oppose au paradigme moderne ; depuis quelques années, un travail théorique est effectué pour penser le fait littéraire à travers ce paradigme contemporain.
+Nous abordons aujourd'hui le dernier temps de ce cours, dans lequel je voudrais évoquer avec vous la question des modèles d'édition alternatifs, incarnés notamment par ce que l'on appelle de manière assez large "des éditeurs indépendants".  
+
+Les derniers concepts que nous allons explorer ensemble ce semestre sont les concepts de publication, d'éditorialisation, mais également celui de contemporain. 
+
+Les exemples dont je vais parler aujourd'hui sont paradoxaux :
+- à la fois ils constituent des cas limites, car économiquement ils ne sont souvent pas viables
+- ils incarnent un pourcentage important de l'édition en France (de 30 à 40%, c'est selon : on va voir que c'est compliqué à définir un éditeur indé), et favorisent un principe de bibliodiversité essentiel à notre culture.
+
+Bref : il s'agit d'une activité éditoriale qui, comme pour les auteurs, ne sont suffisent svt pas à vivre, et donc apparaissent comme une activité complémentaire, voire un hobby... 
+
+<!--
+Un mot rapide là-dessus : le contemporain est souvent envisagé comme une manière d'établir un périmètre temporel pour classer les oeuvres (avec tout les pb que cela pose : contemporain c'est ce qui se passe en moment, sauf que forcément, demain le contemporain d'aujourd'hui ne sera déjà plus contemporain). Envisager le contemporain comme paradigme, c'est renvoyer à un modèle épistémologique, mais également esthétique. Le paradigme contemporain est en cela d'abord issu du monde de l'art, où il s'oppose au paradigme moderne ; depuis quelques années, un travail théorique est effectué pour penser le fait littéraire à travers ce paradigme contemporain.
 
 Le concept d'éditorialisation est un néologisme récent, directement issu des travaux scientifiques sur les phénomènes numériques, dont il s'attache à décrire les effets sur la fonction éditoriale donc nous avons parlé dès le premier cours. On balisera ensemble les contours de ce nouveau concept qui a fait l'objet de nombreux travaux ces dernières années -- je m'appuierai principalement sur MVR.
 
-La "publication" en revanche est un terme plutôt commun, je dirais même fonctionnel, et son usage ne prête à aucune problématisation. C'est pourtant ce que je vous propose de faire, en suivant les traces cette fois-ci de Lionnel Ruffel, qui a bcp travaillé le concept ces dernières années, notammant dans *Brouhaha* (2016).
+--->
 
-Traditionnellement, la publication est associée à la fois à la production de l'objet livre, mais également à la dimension légitimante de cette production: "être publié" (généralement employé à la voix passive) c'est être adoubé par un éditeur, par l'écosystème éditorial.
 
-Ainsi la publication est-elle devenue un concept propre à l'édition professionnelle.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Pourtant, fondamentalement, la publication est indépendante de toute institution. C'est ce qu'en dit notamment son étymologie : rendre public. Or aujourd'hui, on l'a vu, les moyens pour "rendre public" à la fois une oeuvre mais aussi sa propre personne (se rendre public) se sont démultipliés sous l'effet d'une diversification et d'une prolifération d'espaces ou d'écosystèmes de publication alternatifs. 
+### Éditeurs indépendants ? Une réalité multiple
+
+* Une édition en marge des grands groupes
+* Une définition floue et une institutionnalisation récente
+* Un enjeu de bibliodiversité
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:left" -->
+
+
+![](img/AssisesEditionInde2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+La notion d'éditeur indépendant recouvre une multitude de réalités, et ne fait d'ailleurs pas toujours l'objet d'un concensus. Par son principe même, l'édition indépendante a tendance à échapper à l'institutionnalisation. 
+
+Dans un sens large, l'indépendance se pense d'abord en opposition à la notion de groupe éditorial. Aujourd'hui, 65 % de l’édition française sont détenus par les géants Hachette Livre et Editis (respectivement = Bolloré et Kretinsky), auxquels il faut ajouter les autres groupes (Madrigall, Média Participations…). Déjà, on voit que mon propos peut être problématique, dans la mesure où je mets dans le même pannier Madrigall (Gallimard - encore une maison familiale aujourd'hui ; ou même Actes Sud qui appartient encore à la famille Nyssen) et Hachette de Bolloré. 
+
+La notion d'éditeur indépendant se pense d'abord dans ce contexte d'une concentration des maisons d’édition est extrême, où l’édition indépendante est marginale.
+
+La qualification « édition indépendante », dans ce sens, désigne les maisons d'édition, souvent de petite taille, mais pas toujours (Actes Sud est une grande maison), qui n'appartiennent pas aux groupes d'édition qui forment aujourd'hui l'oligopole en réseau de l'édition et des médias.
+
+Dans un contexte d'amplification majeur de la concentration éditoriale, ainsi que de politisation croissante des grands groupes éditoriaux (je vous renvoie aux inquiétudes exprimées ces temps-ci du côté de chez Hachette, et des perturbations chez Fayard -- sans parler de l'actualité récente chez Bayard), les éditeurs indépendants ont tenté ces dernières années de s'organiser.
+
+En 2023, la FEDEI, pour Fédération des éditions indépendantes (éditions plutôt que éditeurs) a ainsi organisé les premières assises des indépendants. 2e édition à venir en 2025, à Bordeau. Il s'agit d'une jeune Fédération, qui attire de plus en plus l'attention sur elle. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### L'indépendance selon la fédération des éditions indépendantes 
+
+* Publier uniquement à compte d’éditeur des publications de toute nature, commercialisées auprès du public,
+* Ne pas être contrôlée, directement ou indirectement, par l’État, une collectivité territoriale ou un établissement public, par un groupe d’éditions ou un groupe financier et
+* Réaliser un chiffre d’affaire dont le montant annuel ne dépasse pas 10 millions d’euros.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:left" -->
+
+
+![](img/FedeEditionInde.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Définition de la FEDEI. 
+
+La FEDEI estime approximativement à 2500, le nombre de maisons d’éditions indépendantes sur le territoire national, répondant à ces critières. 
+
+>Elles ne sont pourtant que très peu représentées auprès des pouvoirs publics. Nous constituons un maillage dense et riche, porteurs d’emplois et culture. Mais nous sommes peu visibles et fragiles face à l’offre pléthorique dont les grands groupes éditoriaux abreuvent le marché. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### L'indépendance ...
+
+* Économique 
+* Éditoriale / idéologique (une édition _engagée_)
+* Créative / esthétique (une édition alternative)
+
+### ... et ses défis
+* Économiques (rentabilité moindre voire nulle)
+* Logistiques (Distribution et Diffusion)
+
+===
+
+Il existe donc de nombreuses manière de considérer son indépendance. Indépendance financière : des modèles économiques souvent non-rentables. Beaucoup de ces passionnés ne vivent pas de leur activité, avec la nécessité d’avoir plusieurs emplois, de réaliser des ateliers et autres prestations.
+
+Une indépendance que je note ici "éditoriale ou idéologique", mais que j'aurais pu qualifier de politique. 
+
+Une indépendance créative, enfin. 
+
+Tout cela ne va pas sans difficultés.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Bibliodiversité : des modèles alternatifs
+
+>« indépendante » pour définir l’édition, est-ce là le bon terme ? Nous incarnons une mosaïque, pas un monolithe. Quel est le plus petit dénominateur commun à même d’exprimer nos singularités ? Voilà un aspect à cerner : que la perception devienne un portrait.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+>Dominique Tourte, Président de la FEDEI
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+L'indépendance, également, renvoie à un enjeu de diversité, ce qui est plutôt logique, lorsque l'on songe au principe d'uniformisation qui caractérise les grands groupes. Ce que l'on qualifiera de bibliodiversité, ici, renvoie à une variété des idées véhiculées par les livres, une variété des publics visés, mais également une variété des formes éditoriales envisagées. 
+
+Camille Delettre, à la tête de la maison L’Atteinte. Pour ce dernier, le terme indépendant est problématique, lui préférant « alternatif, plus proche de la réalité ». Il ne rejette certes pas le commerce, mais le souhaite éthique et moral, sans compromission.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Des qualificatifs multiples...
+
+* _Small press_, 
+* Petite édition, 
+* _micro-édition_
+* Fanzine, POD...
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+#### ...pour de faibles tirages, un nombre réduit de titres & une fabrique artisannale
+
+===
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -29,6 +146,16 @@ Pourtant, fondamentalement, la publication est indépendante de toute institutio
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 ====
+
+Pour réfléchir à cette notion d'éditions indépendantes, que l'on a requalifié en modèles "alternatifs" et qui désignent des réalités, très multiples, je voudrais prendre un peu de hauteur et réfléchir avec vous à un concept essentiel mais pourtant très flou dans le champ des études littéraires et de l'histoire du livre et de l'édition : le concept de PUBLICATION.
+
+La "publication" en revanche est un terme plutôt commun, je dirais même fonctionnel, et son usage ne prête à aucune problématisation. C'est pourtant ce que je vous propose de faire, en suivant les traces cette fois-ci de Lionnel Ruffel, qui a bcp travaillé le concept ces dernières années, notammant dans *Brouhaha* (2016).
+
+Traditionnellement, la publication est associée à la fois à la production de l'objet livre, mais également à la dimension légitimante de cette production: "être publié" (généralement employé à la voix passive) c'est être adoubé par un éditeur, par l'écosystème éditorial.
+
+Ainsi la publication est-elle devenue un concept propre à l'édition professionnelle.
+
+Pourtant, fondamentalement, la publication est indépendante de toute institution. C'est ce qu'en dit notamment son étymologie : rendre public. Or aujourd'hui, on l'a vu, les moyens pour "rendre public" à la fois une oeuvre mais aussi sa propre personne (se rendre public) se sont démultipliés sous l'effet d'une diversification et d'une prolifération d'espaces ou d'écosystèmes de publication alternatifs. 
 
 QUels sont ces espaces : 
 Bibliothèques et musées, maisons de la culture ou de la poésie, établissements scolaires, résidences d'auteurs (publiques ou privées), évidemment : sites web, blogues, réseaux sociaux, plateformes vidéo et audio ; mais également des espaces plus surprenants : les murs de la ville, par exemple...
