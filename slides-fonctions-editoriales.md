@@ -1,17 +1,34 @@
-# Que signifier éditer ? 
+# Que veut dire "Éditer" ?
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Les trois piliers de la fonction éditoriale
 
-## Retour aux fondamentaux : la fonction éditoriale
-* Production
-* Diffusion
-* Légitimation
 
 ===
 
-On peut alors reconnaître trois fonctions essentielles : la production, la circulation, la validation des contenus.
+Le premier concept dont je voudrais vous parler est celui de fonction éditoriale. Théorisé par MVR et Benoît Epron en 2015. Le concept de fonction éditoriale nous détache pour le moment des maisons d'édition, pour ne parler que d'édition. 
+
+
+Les maisons d'édition sont une invention assez récente (18e, 19e), liées à l'invention de l'imprimerie puis, surtout, à son industrialisation. Mais on fabrique des livres et on édite des textes depuis l'Antiquité au moins. 
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Production
+#### Diffusion
+#### Légitimation
+
+===
+
+Si on déconstruit les objectifs de l'édition, on aboutit à 3 fonctions éditoriales.  
+
+#### Production
+#### Diffusion
+#### Légitimation
 
 Je vais en donner ici un très bref descriptif, puis nous les envisagerons une par une à la lumière des développements historiques de cette fonction mais également des problématiques contemporaines qui leur sont associées.
+
+
 
 La production renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus livresques. Si la paternité des oeuvres revient bien évidemment à l’auteur, il ne faut pas sous-estimer le rôle des éditeurs (*editor* et *publisher*), à qui revient la responsabilité d’opérer un choix parmi de nombreux manuscrits reçus et de décider ce qui doit être publié... ou pas. Leur rôle d’autorité dans la chaine éditoriale traditionnelle est donc essentiel.
 Attention, l’éditeur n’est pas pour autant un prescripteur. À l’origine, il cherche surtout à garantir la transmission d’un savoir, ou d’une culture.
@@ -23,12 +40,12 @@ Enfin, la fonction éditoriale vient garantir les contenus publiés en s’assur
 
 Analyser ces trois fonctions permet de comprendre à quoi sert fondamentalement l'édition, qui s'est professionnalisée au cours du temps et en particulier à partir du 18e, pour s'interroger ensuite sur la façon dont les technologies numériques réagencent le processus en le transformant.
 
-Il faut bien comprendre en fait que la fonction éditoriale - qui a été prise en charge en grande partie par des maisons d'édition dans les derniers siècles - ne leur est pas réservée par définition.
+Il est important de souligner que, si ces trois fonctions ont été fondamentalement prises en charge par des maisons d'édition dans les derniers siècles, il n'est pas intrinsèquement
+nécessaire que l'instance éditoriale soit systématiquement identifiée avec ces institutions. 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-## La fonction de production
+## 1. La fonction de production
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -150,10 +167,10 @@ De manière générale, l'auteur reprend en charge la fonction éditoriale : c'e
 
 Cela fait écho à une certaine lassitude de nombreux auteurs, qu'ils soient débutants ou même confirmés (et c'est là que c'est très intéressant, car on a une communauté qui renonce au service proposé par l'éditeur), lassitude vis-à-vis des éditeurs, ou plus généralement d'un système éditorial qui a creusé des inégalités, et dans lesquels de nombreux auteurs ne se reconnaissent plus.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
-## La fonction de diffusion
+## 2. La fonction de diffusion
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -447,9 +464,9 @@ Chez certains vendeurs, comme Amazon et son système Kindle, nous ne sommes donc
 
 Je m'arrête là temporairement, mais je résume : dans le cas des publications en libre accès, la fonction éditoriale se trouve donc grandement transformée, et surtout de plus en plus floue. Les nouvelles possibilités, offertes par le web, rendent les frontières de la fonction éditoriale floues: la désintermédiation ainsi que le déplacement et l'éclatement de ces fonctions font qu’aujourd’hui, une reconstruction de ces procédés est à faire. Le glissement de ces fonctions s’est fait des éditeurs vers les auteurs et les lecteurs.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## La fonction de validation / légitimation
+## 3. La fonction de validation / légitimation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -607,22 +624,17 @@ Lecteur érudit vs lecteur réel.
 
 Système de recommandation qui a évolué : les lecteurs se parlent entre eux, grâce à l'émergence de forum, puis surtout des réseaux sociaux.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Conclusion
 
-Les débats qui agitent l'écosystème éditorial contemporain, sous l'effet notamment des mutations technologiques et culturelles liées au développement du fait numérique, nous donnent l'occasion de réinventer les métiers de l'édition à la lumière d'une fonction éditoriale qui excède l'émergence du modèle éditorial moderne. Cette fonction éditoriale comprend trois piliers interdépendant. Tout d'abord, une fonction de production qui renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus (livresques ou non). Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et, bien souvent, la mise en marché des contenus. La troisième fonction, dite de légitimation, concerne la valeur symbolique des contenus conférée par l'instance éditorial : c'est elle qui donne les garanties au public. La fonction éditoriale - qui a été prise en charge en grande partie par des maisons d'édition dans les derniers siècles - ne leur est donc pas réservée par définition.
+#### Conclusion : de la fonction éditoriale aux éditeurs... à la fonction éditoriale
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+La fonction éditoriale, qui a été prise en charge en grande partie par des maisons d'édition dans les derniers siècles, ne leur est pas réservée par définition.
 
-===
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
-Nous avons parlé jusqu’à présent de fonction éditoriale pour ne pas confondre les
-trois objectifs de l'édition avec les maisons d'édition. Il est en effet important de
-souligner que, si ces trois fonctions ont été fondamentalement prises en charge par
-des maisons d'édition dans les derniers siècles, il n'est pas intrinsèquement
-nécessaire que l'instance éditoriale soit systématiquement identifiée avec ces
-institutions. À partir de l'invention et de la diffusion en occident de la presse à
+
+>À partir de l'invention et de la diffusion en occident de la presse à
 caractères mobiles au XVe siècle, s’est opéré un processus d'institutionnalisation des
 maisons d'édition qui sont devenues l'instance éditoriale par excellence. Or ce qui
 est en train de se produire, avec le rapide développement du web à partir des années
@@ -631,4 +643,40 @@ termes, il y a d'autres entités, différentes des maisons d'édition, qui prenn
 charge d'une manière ou d'une autre ces trois fonctions de production, de diffusion
 et de légitimation, en bouleversant le panorama éditorial qui s'était stabilisé au
 cours des derniers siècles.
+
+<!-- .element: style="font-size:1.2rem; text-align:justify" -->
+
+Benoît Epron et Marcello Vitali-Rosati, *Qu'est-ce que l'édition numérique ?*, 2015
+
+<!-- .element: style="font-size:1.2rem; text-align:right" -->
+
+
+===
+
+La fonction éditoriale, qui a été prise en charge en grande partie par des maisons d'édition dans les derniers siècles, ne leur est pas réservée par définition.
+
+>À partir de l'invention et de la diffusion en occident de la presse à
+caractères mobiles au XVe siècle, s’est opéré un processus d'institutionnalisation des
+maisons d'édition qui sont devenues l'instance éditoriale par excellence. Or ce qui
+est en train de se produire, avec le rapide développement du web à partir des années
+1990, est une progressive émergence d'autres instances éditoriales. En d'autres
+termes, il y a d'autres entités, différentes des maisons d'édition, qui prennent en
+charge d'une manière ou d'une autre ces trois fonctions de production, de diffusion
+et de légitimation, en bouleversant le panorama éditorial qui s'était stabilisé au
+cours des derniers siècles.
+
+Les débats qui agitent l'écosystème éditorial contemporain, sous l'effet notamment des mutations technologiques et culturelles liées au développement du fait numérique, nous donnent l'occasion de réinventer les métiers de l'édition à la lumière d'une fonction éditoriale qui excède l'émergence du modèle éditorial moderne. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+#### Conclusion 
+
+Les débats qui agitent l'écosystème éditorial contemporain, sous l'effet notamment des mutations technologiques et culturelles liées au développement du fait numérique, nous donnent l'occasion de réinventer les métiers de l'édition à la lumière d'une fonction éditoriale qui excède l'émergence du modèle éditorial moderne. Cette fonction éditoriale comprend trois piliers interdépendant. Tout d'abord, une fonction de production qui renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus (livresques ou non). Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et, bien souvent, la mise en marché des contenus. La troisième fonction, dite de légitimation, concerne la valeur symbolique des contenus conférée par l'instance éditorial : c'est elle qui donne les garanties au public. 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+
 

@@ -29,7 +29,7 @@ Une autre expression, qui recouvre en partie mais pas complètement la précéde
 
 ### Quelques questions pour commencer... 
 
-![WTFPL](img/wooclap-qrcode-2025-26.png)<!-- .element: style="width:200px" --> 
+![](img/wooclap-qrcode-2025-26.png)<!-- .element: style="width:200px" --> 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -82,6 +82,47 @@ Dans cette revue de presse, je vais venir viter les actualités de ces 2-3 derni
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+#### Bonne rentrée... littéraire !
+
+* 484 romans paraîtront à la rentrée d'automne à partir de la mi-août et jusqu'au mois d'octobre
+* Une hausse des parutions après trois années successives de baisse des titres
+* 344 titres en langue française, parmi lesquels 73 premiers romans
+* Publication d'auteurs reconnus : Emmanuel Carrère, Anne Berest, Maria Pourchet, Amélie Nothomb, Laurent Mauvignier, etc.
+* Des éditeurs prudents (baisse de 19% des nouveautés), après un début d'année 2025 jugé "morose"
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/rentree_litt2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+rentrée littéraire 
+
+Le nombre de romans de la rentrée littéraire repart à la hausse en 2025, avec 484 titres entre août et octobre, selon le comptage de Livres Hebdo.
+
+Le mensuel de l'édition, qui tient les comptes depuis les années 1980, indique dans son numéro "spécial rentrée littéraire" paru jeudi 26 juin que ce total avait baissé trois années de suite, jusqu'à tomber à 459 l'an dernier.
+
+Selon les chiffres annuels du Syndicat national de l'édition, les éditeurs français ont publié 19% de nouveautés en moins en 2024 qu'en 2019 (tous genres confondus, pas uniquement la littérature).
+
+La fébrilité est palpable chez les éditeurs, les résultats du premier semestre s’étant révélés décevants. Entre janvier et mars, l’Observatoire de la librairie a constaté une baisse de 4,6 % en volume chez les libraires indépendants, par rapport à la même période de 2024 (source : Les Echos). Certes, le recul est moins important (– 1 %) si l’on inclut les grandes enseignes, comme la Fnac ou Cultura, où quelques titres de littérature populaire tirent les ventes. Mais, dans l’ensemble, le marché demeure morose, et les maisons d’édition misent sur cette rentrée d’automne pour rattraper un début d’année inquiétant.
+
+Cela étant dit, il est à noter que les libraires grognent depuis longtemps sur cet embouteillage de la rentrée, qui selon eux pénalisent le marché et les auteurs. L'événement "rentrée littéraire", qui a tendance à invisibiliser sous la masse les ouvrages, est régulièrement décrié.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Les tendance de la rentrée : écritures du réel, récits de soi, non-fiction
+
+![](img/LeMonde_rentree2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+![](img/rentree_2025_bd.png)<!-- .element: style="width:45%;float:left;margin-left:-1em;" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 #### 2025 (et avant cela : 2024, 2023...). Le genre de la rentrée littéraire : romance et *new romance*
 
 >Un chiffre d'affaires qui augmente de 59 % en un an, un volume qui gonfle de 38 % et des tirages initiaux qui s'élèvent à 100 000 exemplaires sans sourciller... Rares sont les progressions aussi retentissantes dans le monde du livre. Fleuron économique, la romance est passée en une poignée d'années seulement de mouton noir du secteur à marché porteur. « Et ce n'est pas près de s'arrêter », se réjouit depuis Strasbourg la libraire de l'Escapade spécialisée dans le genre, Marie Wietzorek, égrenant les titres « lourds » de la rentrée : Valentina - 44 millions de lectures sur Wattpad -, l'intégrale de la série Hadès et Perséphone en collector et la suite de Trouble Maker, déjà 90 000 exemplaires vendus du premier tome. [Livre Hebdo]
@@ -101,14 +142,21 @@ Dans cette revue de presse, je vais venir viter les actualités de ces 2-3 derni
 ![](img/dark-romance-2025.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
 
 
+===
+
+Des polémiques : qui de la dimension féministes de ces ouvrages. 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/roamnce-chretienne_2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+![](img/roamnce-chretienne_2025.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
 
 >Bien installée aux États-Unis mais quasiment inconnue en France, la romance chrétienne arrive en librairie à compter du 9 mai 2025 avec « Cœur pur », une nouvelle collection lancée par Mame Éditions (groupe Fleurus). L'éditeur développe en même temps « Cœur à cœur », une ligne de romance light. Ciblant des lectrices de 14 à 18 ans, ces collections ont en commun de promouvoir des « relations saines » et des contenus sans « scène explicite » ni « langage cru », selon l'éditrice Marie Rémond. [Livre Hebdo]
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
 
+===
+
+Un contre-mouvement: la romance chrétienne?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -143,49 +191,29 @@ Une volonté  d'indépendance qui s'explique par de nombreux facteurs, mais qui 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Bonne rentrée littéraire !
+#### Polémique : une droitisation de l'édition ?
 
-* 484 romans paraîtront à la rentrée d'automne à partir de la mi-août et jusqu'au mois d'octobre
-* Une hausse des parutions après trois années successives de baisse des titres
-* 344 titres en langue française, parmi lesquels 73 premiers romans
-* Publication d'auteurs reconnus : Emmanuel Carrère, Anne Berest, Maria Pourchet, Amélie Nothomb, Laurent Mauvignier, etc.
-* Des éditeurs prudents (baisse de 19% des nouveautés), après un début d'année 2025 jugé "morose"
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+![](img/2025-alaindebenoist_fayard.png)<!-- .element: style="width:400px" --> 
 
 
-![](img/rentree_litt2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Les indépendants en lutte 
+
+![](img/debroderBollore.png)<!-- .element: style="width:300px" --> 
 
 
 ===
 
-rentrée littéraire 
+Face à la concentration de l’édition dans les mains d’acteurs conservateurs, un réseau d’éditeurs et libraires indépendants fourmille et pique autour du slogan « Déborder Bolloré ».
 
-Le nombre de romans de la rentrée littéraire repart à la hausse en 2025, avec 484 titres entre août et octobre, selon le comptage de Livres Hebdo.
+Le projet est simple : un recueil collectif, coédité par une cinquantaine d'éditeurs et éditrices indépendants, prévu en librairies en juin 2025. Une action qui s’inscrit dans la campagne Désarmons Bolloré et en soutien au boycott lancé par les « libraires antifascistes », cet ouvrage apporte sa pierre dans une réflexion sur le démantèlement de l'empire Bolloré.
 
-Le mensuel de l'édition, qui tient les comptes depuis les années 1980, indique dans son numéro "spécial rentrée littéraire" paru jeudi 26 juin que ce total avait baissé trois années de suite, jusqu'à tomber à 459 l'an dernier.
-
-Selon les chiffres annuels du Syndicat national de l'édition, les éditeurs français ont publié 19% de nouveautés en moins en 2024 qu'en 2019 (tous genres confondus, pas uniquement la littérature).
-
-La fébrilité est palpable chez les éditeurs, les résultats du premier semestre s’étant révélés décevants. Entre janvier et mars, l’Observatoire de la librairie a constaté une baisse de 4,6 % en volume chez les libraires indépendants, par rapport à la même période de 2024 (source : Les Echos). Certes, le recul est moins important (– 1 %) si l’on inclut les grandes enseignes, comme la Fnac ou Cultura, où quelques titres de littérature populaire tirent les ventes. Mais, dans l’ensemble, le marché demeure morose, et les maisons d’édition misent sur cette rentrée d’automne pour rattraper un début d’année inquiétant.
-
-Cela étant dit, il est à noter que les libraires grognent depuis longtemps sur cet embouteillage de la rentrée, qui selon eux pénalisent le marché et les auteurs. L'événement "rentrée littéraire", qui a tendance à invisibiliser sous la masse les ouvrages, est régulièrement décrié.
-
+Déborder Bolloré, ce sont 320 pages, un gros volume grisé puisqu’imprimé sur papier recyclé, et les petites fourmis actives et urticantes qui animent ses pages représentent la masse innombrable des éditeurs et éditrices indépendantes, libraires, imprimeurs et imprimeuses qui ont l’idée de se regrouper pour conscientiser le public francophone : il y a urgence à défendre une édition indépendante, des écritures et pratiques diversifiées dans un secteur du livre désormais hyperconcentré économiquement, qui connaît par ailleurs une droitisation, un conservatisme assumé, catholique, blanc, cisgenre que ce collectif entend questionner, et, de ce fait, déborder.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Écritures du réel, récits de soi, non-fiction
-
-![](img/LeMonde_rentree2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-
-![](img/rentree_2025_bd.png)<!-- .element: style="width:45%;float:left;margin-left:-1em;" -->
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### La polémique de la rentrée 2023 : Kevin Lambert et les sensitivity readers
+#### La polémique 2023 : Kevin Lambert et les sensitivity readers
 
 
 ![](img/lambert-matthieu.png)<!-- .element: style="width:500px" --> 
@@ -205,9 +233,19 @@ Pour Philippe Claudel, les « sensitivity readers » n’ont pas grand-chose de 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### La polémique 2024 : taxer le livre d'occasion ?
+#### Polémique (encore) : taxer le livre d'occasion ?
 
-![](img/taxeOccasion.png)<!-- .element: style="width:500px" -->
+![](img/taxeOccasion.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+
+![](img/livreoccasion2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+La seconde main dans le livre prospère au point qu’une partie de la filière l’accuse de cannibaliser le marché sans verser de droits d’auteur. Certains réclament des droits à la revente, mais le droit européen fait obstacle.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -251,17 +289,17 @@ On reparlera de l'IA dans les deux cours, y compris en communication.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Un marché en pleine transformation
-- ralentissement post-covid (- 5,4% de chiffre d'affaire pour les éditeurs)
-- croissance par rapport à la période pré-covid (+3%)
-- belle dynamique des ventes de littérature générale
+#### Un marché en pleine transformation
+- ralentissement en 2024 (-1,5% de chiffre d'affaire pour les éditeurs)
+- mais croissance par rapport à la période pré-covid (+3,4%)
+- belle dynamique des ventes de littérature générale, roman policier, format poche
 - difficultés de la littérature étrangère
 - place prépondérante prise par la BD, la romance, le manga
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/manga.jpeg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+![](img/livres-hebdoCHIFFRES2025.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 
@@ -270,79 +308,102 @@ On reparlera de l'IA dans les deux cours, y compris en communication.
 
 Essai de synthèse...
 
->Le secteur de l’édition, après avoir affiché des résultats historiques pendant la crise due au Covid-19, a connu un ralentissement. Selon le Syndicat national de l’édition, le chiffre d’affaires des éditeurs a chuté de 5,4 % en 2022, à 2,9 milliards d’euros, mais comparé à 2019, année de référence prépandémique, le marché du livre affiche toujours une croissance de 3,7 %. L’institut GFK note une assez belle dynamique des ventes de littérature générale au premier trimestre 2023 (+ 3 % par rapport à la même période de 2022). Toutefois, chez Actes Sud, comme chez ses concurrents, les ventes en littérature étrangère ont plus de mal à décoller.
+>Le secteur de l’édition, après avoir affiché des résultats historiques pendant la crise due au Covid-19, a connu un ralentissement. 
+
+Dans une conjoncture économique délicate, le marché du livre affiche des résultats en léger retrait en 2024 (-1,5 %), selon les données consolidées du Syndicat national de l’édition, mais toujours supérieurs en valeur à 2019 (+ 3,4 %), grâce notamment à la performance de la littérature, du roman policier et à la résistance du format poche.
 
 >« Le marché s’est transformé de façon importante, notamment en raison de la place prépondérante prise par le manga, la bande dessinée et la romance, alors que le pouvoir d’achat des lecteurs reste le même », explique Anne-Sylvie Bameule. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-
-## Des enjeux économiques et institutionnels
-* Quelles sont les conséquences d'une refonte de la chaîne éditoriale ?
-* Comment évaluer le coût d'une oeuvre numérique ?
-* Comment penser de nouveaux modèles économiques fondés sur les potentialités du numérique ?  
-* Comment rétribuer justement les acteurs de l'édition ?
-* Quels métiers sont menacés / créés ?
-* Doit-on réécrire le droit d'auteur ?
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-===
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## Des enjeux pratiques :
-* Les artistes et écrivains doivent-ils développer de nouvelles compétences pour s'insérer dans l'écosystème numérique ?
-* À quoi sert l'éditeur si Amazon peut faire tout le travail (et d'ailleurs, le fait-il vraiment) ?
-* Comment penser la nouvelle relation qui se tisse entre les écrivains et le lecteur, à travers de nouvelles expériences médiatrices (réseaux sociaux, etc.) ?
-* Comment institutionnaliser et rémunérer de nouvelles façon d'écrire (*sensitivity readers*, etc.)
-* Des technologies numériques comme les générateurs de textes (capables également de corriger les textes), vont-ils devenir des outils pour les éditeurs de demain, au même titre qu'un logiciel de traitement de texte et de design graphique (Word, InDesign...) ?
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-## Des questions esthétiques et artistiques :
-* Peut-on tout publier ?
-* Comment valoriser des formes réputées jusque là paralittéraires (BD, Manga, *young adult*) ?
-* Un succès d'autoédition numérique mérite-t-il forcément de passer chez un éditeur traditionnel ?
-* Comment juger de la valeur esthétique de productions médiatiques totalement inédites (la littérature "numérique", par exemple) ?
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-===
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## Des questions épistémologiques :
-* Redéfinir la littérature et ses grands concepts ?
-* Quelles études et quelles théories pour prendre la mesure de ces mutations ?
-* La recherche en lettres et communication peut-elle encourager l'innovation ?
-* Pourquoi et comment étudier les oeuvres de la culture numérique ?
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## Renverser la problématique
+#### Approche du cours : renverser la problématique...
 Le système éditorial moderne s'appuie sur un modèle (économique, juridique, institutionnel etc.) qui a atteint ses limites plutôt qu'il n'est menacé par les phénomènes techniques et culturels contemporains. Affirmer qu'il existe des **modèles** éditoriaux revient à désacraliser l'édition, et engage à la "virtualiser" : revenir à une définition conceptuelle avant d'en envisager les déclinaisons pratiques.
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
+#### Poser des questions simples... apporter des réponses documentées, conceptuelles et nuancées
+
 ===
 
-Quand on pose toutes ces questions plutôt complexes, quand on envisage le champ de bataille de l'édition contemporaine, ses défis, ses enjeux, ses problèmes, on est parfois tentés de dire c'est tout un modèle qui est menacé.
+Comment va-t-on traiter cette actualité ? 
 
-Et de fait, il s'agit d'un discours que vous entendrez souvent dans votre carrière. Le parti pris de ce cours vise à couper court à cette tendance qui consiste à opposer le monde éditorial ancien (généralement présenté sous son meilleur jour, comme un modèle vertueux garant d'une qualité littéraire, de la défense de grands auteurs), au monde contemporain et nouveaux (un monde où tout se perd, les valeurs culturelles, littéraires etc.).
+Quand on pose toutes ces questions plutôt complexes, pour certaines déprimantes, quand on envisage le champ de bataille de l'édition contemporaine, ses défis, ses enjeux, ses problèmes, on est parfois tentés de dire c'est tout un modèle qui est menacé.
 
-Dans ce cours, nous allons chercher à dépasser cette querelle générationnelle, pour prendre un peu de recul et réfléchir à redéfinir l'édition à travers ses fonctions fondamentales.
+Et de fait, il s'agit d'un discours que vous entendrez souvent dans votre carrière. 
+
+Le parti pris de ce cours vise à couper court à cette tendance qui consiste à opposer le monde éditorial ancien (généralement présenté sous son meilleur jour, comme un modèle vertueux garant d'une qualité littéraire, de la défense de grands auteurs), au monde contemporain et nouveaux (un monde où tout se perd, les valeurs culturelles, littéraires etc.).
+
+Dans ce cours, nous allons chercher à dépasser cette querelle générationnelle, cette querelle technologique, pour prendre un peu de recul et réfléchir à redéfinir l'édition à travers ses fonctions fondamentales.
 
 En effet, il semble que le système éditorial moderne s'appuie sur un modèle (économique, juridique, institutionnel etc.) qui a atteint ses limites plutôt qu'il n'est menacé par les phénomènes techniques et culturels contemporains. Affirmer qu'il existe des **modèles** éditoriaux revient à désacraliser l'édition, et engage à la "virtualiser" : revenir à une définition conceptuelle avant d'en envisager les déclinaisons pratiques.
 
 Autrement dit, plutôt que d’envisager l’“édition” comme un secteur en crise, il s’agira de questionner ensemble les enjeux de la fonction éditoriale, indépendamment de l’émergence, finalement très récente, de notre modèle éditorial moderne aujourd’hui remis en question par la culture numérique. Ce fil rouge nous conduira à questionner les concepts-clés de l’édition, et les missions des principaux métiers qui y sont associés : qu’est-ce qu’un livre ? Qu’est-ce qu’un auteur ? Qu’est-ce qu’un éditeur ? Que signifie “publier” ?
 
-J'ai parlé d'une fonction éditoriale, quelle est-elle ?
+Je vais, à chaque cours jusqu'à la fin du semestre, poser des questions très simples, pour y apporter des réponses compliquée. Mais non ! Y apporter des réponses nuancées, et conceptualisées => ojbectif du cours = être capable de conceptualiser. DÉpasser la discussion de comptoir. 
+
+Il s'agira de :
+- partir d'une question d'actualité
+- proposer une étude historique ou archéologique pour comprendre pourquoi et comment cette question d'actualité a été amenée à se poser
+- proposer des exemples, des cas d'études
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+## Axe 1 : déconstruire l'édition
+
+* Que veut dire éditer ? *La fonction éditoriale*
+* Qui sont les acteurs de la "chaîne du livre"? *L'énonciation éditoriale*
+* Qui dirige le monde de l'édition ? *Politiques éditoriales*
+* L'édition est-elle rentable ? *Les modèles économiques*
+
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+## Axe 2 : polémiques éditoriales contemporaines
+
+* Peut-on tout (re)publier ? *Sensitivity readers, récriture, censure*
+* Auteurs et éditeurs : meilleurs ennemis ? *Autorisation & droit d'auteur*
+* A-t-on encore besoin des éditeurs ? *Auto-édition et désintermédiation*
+* Le livre est-il écologique ? *Permapublishing*
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Axe 3 : mutations technologiques en édition
+* Pourquoi l'auto-édition n'est-elle pas toujours rentable ? *Ré-intermédiation & Plateformisation*
+* Pourquoi la révolution numérique n'a-t-elle pas (vraiment) eu lieu ? *Remédiation*
+* Le livre imprimé est-il une fin (littéraire) en soi ? *Publication, éditorialisation*
+* L'IA va-t-elle remplacer les auteurs et les éditeurs ? *llm, création, expérimentation*
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Évaluation
+* Partiel en janvier : épreuve d'1h30
+* Lecture d'un article de presse
+* Questions de compréhension, d'analyse critique de l'article
+
+===
+
+
+
+
+
+
+
+
 
