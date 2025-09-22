@@ -1,6 +1,8 @@
-# Que veut dire "Éditer" ?
+## Que veut dire "Éditer" ?
 
-### Les trois piliers de la fonction éditoriale
+### *Les trois piliers de la fonction éditoriale*
+
+![](img/Fleurs_du_mal.jpg)<!-- .element: style="width:200px" -->
 
 
 ===

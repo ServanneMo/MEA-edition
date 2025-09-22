@@ -42,8 +42,6 @@ Que devient la puissance de légitimation des éditeurs en contexte numérique ?
 
 Aujourd'hui, le cours se concentrera sur le métier d'éditeur, et sur la fonction de légitimation qu'elle engage. Comment l'éditeur produit-il de la légitimité ? Quelle relation peut-on établit entre la légitimité que l'éditeur confère à un auteur ou une oeuvre, et la qualité du travail éditorial effectué ?
 
-D'ailleurs, j'en profite ici pour préciser une ou
-
 Comment peut-il lui-même faire fructifier sa propre légitimité ? Existe-t-il des opérations concrètes et objectives pour produire de la légitimité ?  On comprend bien ici l'enjeu : l'éditeur doit d'abord construire sa légitimité afin d'être lui-même doté d'un pouvoir de légitimation, qui lui permet de transformer un texte en livre (voire en "oeuvre"), et un écrivain en auteur. Enfin, que devient la puissance de légitimation des éditeurs en contexte numérique ?
 
 Il est difficile de mesurer la légitimité et la force de légitimation d'une institution éditoriale. Aujourd'hui, on va voir comment elle peut s'appuyer sur des éléments matériels, et notamment sur la fabrique du livre, mais également comment cette légitimité se construit sur le temps long de l'histoire.

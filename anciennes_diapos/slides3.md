@@ -439,30 +439,6 @@ Ces procédés étaient essentiellement manuels jusque dans les années 80-90. O
 >La publication assistée par ordinateur se fait à l'aide de logiciels spécialisés, appelés logiciels de mise en page ou logiciels de PAO, semblables à des logiciels de traitement de texte ordinaires, mais où un accent particulier a été mis sur la disposition des textes et des images sur une page.
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/CouvIndesign-CreerCouv-1.jpg" data-background-size="contain"-->
-
-
-===
-On sera sur du logiciel WYSIWYG (What you see is what you get), c'est à dire qui présentent une interface graphique dans laquelle vous pouvez organiser les éléments entre eux.
-
-Exemple : InDesign de la société Adobe.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/scribus1.jpg" data-background-size="contain"-->
-
-===
-
-Autre exemple : Scribus, qui propose une alternative libre, que je vous encourage donc à prendre en main. QUESTION D'INDÉPENDANCE.
-
->Scribus n’est pas fait pour écrire directement du texte, la rédaction pourrait se révéler fastidieuse. Mieux vaut préparer ses textes dans une application spécifique, comme les logiciels de traitement de texte dont c’est le rôle premier (Word par exemple).
-
->Un gros avantage, c’est que Scribus peut importer différents formats de texte, mais surtout des fichiers OpenOffice, la référence bureautique du monde libre. Les styles présents dans le document sont récupérés par Scribus et viennent s’ajouter ou remplacer les styles existants dans la mise en page.
-
-
-Dans quelques semaines, nous vous présenterons dans les cours d'édition (dans ce CM + dans le TD) un outil éditorial basé sur une solution WYSIWYM (What you see is what you mean), c'est-à-dire sur du sémantique. Je vous parlerai en effet de la création du logiciel Stylo, dans le cadre de la refonte d'une revue en ligne (la revue SP). Ceux d'entre vous qui sont en TD d'édition, vous aurez l'occasion de jouer avec l'outil directement.
-
-L'objectif de la PAO reste le print : l'impression. Mais qu'en est-il pour des livres 100% numériques ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
