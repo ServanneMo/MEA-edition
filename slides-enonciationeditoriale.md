@@ -66,7 +66,15 @@ Je ne vais pas tant critiquer cette chaîne éditoriale, car je crois déjà qu'
 
 Plutôt que de chaîne éditoriale, je préfère parler de protocoles éditoriaux : c'est-à-dire de l'ensemble des consignes aux auteurs, mais également de l'environnement de travail, des étapes du travail qui sont définis par des équipes d'éditeur afin que toute cette équipe travaille efficacement. 
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/editionsducommuns.png)
+
+===
+
 Ne pas oublier que l'on édite des livres, et qu'en fonction des livres édités, il y aura parfois des préférences pour telle ou telle manière de faire. Personnellement j'ai travaillé pour 3 éditeurs, et j'ai eu à chaque fois 3 des protocoles et chaînes différentes. 
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
