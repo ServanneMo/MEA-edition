@@ -354,7 +354,7 @@ De cette ultime définition, on retiendra la suivante : le texte est aussi bien 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
 ===
-<!-- .element: style="width:400px" -->
+
 En proposant donc un déplacement de notre attention du contenu vers le support, ou plus exactement de l'environnement support du contenu (= le contenant),le concept d'énonciation éditoriale nous encourage à considérer la forme et la matérialité du livre comme des énoncés, et donc à en lire le sens.
 
 L'énoncé, je le répète mais c'est important, ce n'est donc plus seulement ici le texte d'un auteur, mais c'est également son inscription matérielle.
