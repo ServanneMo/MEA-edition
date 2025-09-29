@@ -2,6 +2,8 @@
 
 #### Indépendance(s), concentration(s) et bibliodiversité
 
+![](img/cherche_trouve.png)<!-- .element: style="width:300px" -->
+
 ===
 
 Dans ce cours, nous allons aborder la question de la gouvernance de l'édition.
@@ -506,11 +508,11 @@ Bref, les diffuseurs font du porte-à-porte dans l’espoir de placer en rayon l
 * Un déséquilibre entre groupes et éditeurs indépendants
 * Des éditeurs indépendants forcés de s'auto-distribuer et s'auto-diffuser
 
-
 ===
 
 Si j'ai insisté aussi longtemps sur la distribution et la diffusion, ce n'est pas pour faire de vous des experts du stockage, mais pour comprendre que se joue ici un aspect logistique assez peu médiatisé de la concentration éditoriale, et pourtant aux très lourdres conséquences sur la bibliodiversité et l'indépendance.
 
+Une enquête de l'asso des éditeurs indépendants montre que l'écrasante majorité des petites maisons indé 67 % (moins de 25.000 € de CA) assurent eux-mêmes leur diffusion, tandis que les maisons au CA supérieur à 250.000 € ont systématiquement recours à un diffuseur et un distributeur. Effet de précarisation. 
 
 Comme nous l’avons vu, la diffusion et la distribution peuvent parfois être assurées par la même société. Mais la sélection à l’entrée est souvent un frein pour de nombreux éditeurs qui ne peuvent compter sur aucun distributeur, ni aucun diffuseur. Ils entretiennent alors du mieux possible leur réseau de libraires pour vendre vos livres. C’est un travail de titan qu’ils assure souvent uniquement dans leur secteur. Le stockage, l’expédition et la facturation des commandes leur incombent aussi. Ces éditeurs-là sont des héros, mais leur efficacité est bien moindre que celle d’éditeurs entourés d’un distributeur et d’un diffuseur.
 
