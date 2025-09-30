@@ -352,7 +352,7 @@ La distribution et la diffusion de livres sont deux métiers à part entière, c
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Les diffuseurs
+#### Les distributeurs
 * Fonctions : référencer, stocker, expédier, retourner, facturer
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -380,7 +380,7 @@ En ayant acquis ou créé leurs structures de distribution, les grands groupes s
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Que font les diffuseurs ? 
+### Que font les distributeurs ? 
 
 #### Du référencement
 * catalogues de libraires (Dilicom, Electre...)
@@ -399,7 +399,7 @@ Les livres sont référencés dans le catalogue des libraires via des entités c
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Que font les diffuseurs ? 
+### Que font les distributeurs ? 
 
 
 #### Du stockage
@@ -433,7 +433,7 @@ Pour un petit éditeur qui aurait une vingtaine de titres à son catalogue, tir�
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Que font les diffuseurs ? 
+### Que font les distributeurs ? 
 
 
 #### La gestion des expéditions et des retours & La facturation
