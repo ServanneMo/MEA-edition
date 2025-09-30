@@ -2,7 +2,7 @@
 
 #### Modèles économiques, péréquation, best-sellerisation, financements participatifs
 
-![](best-seller.webp)<!-- .element: style="width:300px" -->
+![](img/best-seller.png)<!-- .element: style="width:400px" -->
 
 ===
 
@@ -56,6 +56,9 @@ Un rapide coup d'oeil aux segments éditoriaux montre que la littérature conser
 * Actes Sud : 69,1 millions d'euros
 * Classiques Garnier : 2,4 millions d'euros
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 Le planisphère de l'édition produit par Livre Hedbo, dont nous avons parlé la semaine dernière, fait état quant à lui de chiffres d'Affaire particulièrement élevés. 
@@ -72,7 +75,7 @@ Mais ces chiffres cachent de véritables disparités, avec des CA bien moins mir
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/maison-inde-CA.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+![](img/maison-inde-CA.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 
 ===
@@ -83,6 +86,7 @@ Cela se ressent sur les conditions de travail variable (plus de télétravail et
 
 Autre élément notable : Des revenus complémentaires chez les indépendants, pour une diversification de l'activité (médiation culturelle, événements sociaux autour des livres, graphisme, communication, etc.)
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
@@ -92,19 +96,23 @@ Autre élément notable : Des revenus complémentaires chez les indépendants, p
 Promulguée le 10 août 1981, la loi sur le prix unique du livre (dite loi « Lang ») est entrée en vigueur le 1er janvier 1982 en instaurant le système du prix unique du livre en France : toute personne qui publie ou importe un livre est tenue de fixer pour ce livre un prix de vente au public.
 
 
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="width:65%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/Logo_PUL_ok.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+![](img/Logo_PUL_ok.png)<!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
 
 
 
 
 ===
 
+
+
 La France a une particularité, c'est le tarif unique du livre NEUF ! 
 
 On doit cette loi à Jack Lang, ministre de la culture sous Mitterand, d'où le nom de loi Lang. Promulguée le 10 août 1981, la loi sur le prix unique du livre (dite loi « Lang ») est entrée en vigueur le 1er janvier 1982 en instaurant le système du prix unique du livre en France : toute personne qui publie ou importe un livre est tenue de fixer pour ce livre un prix de vente au public.
+
+Et c’est d’ailleurs pour cela qu’il est imprimé obligatoirement en quatrième de couverture de celui-ci.
 
 Quelle que soit la période de l’année, ce prix doit être respecté par tous les détaillants (grande surface spécialisée, hypermarché, maison de la presse, grossiste, librairie traditionnelle ou en ligne), qui n’ont la faculté d’accorder des rabais que s’ils sont limités à 5 % du prix déterminé par l’éditeur ou son importateur.
 
@@ -112,18 +120,300 @@ Quelle que soit la période de l’année, ce prix doit être respecté par tous
 À l'origine de cette loi, refus de considérer le livre comme un produit marchand banalisé, ne répondant qu’aux seules exigences de rentabilité immédiate. En effet la pratique de bradage (discount) entraîne, à long terme, une raréfaction du nombre de titres disponibles, au profit des ouvrages à « rotation rapide », touchant un vaste public (best-sellers, guides,…), au détriment des œuvres de création originale.
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Répartition du prix du livre : la bataille des chiffres
+
+« Cette étude rappelle que s’il faut un auteur pour un livre, il faut une maison d’édition pour le financer », insiste Vincent Montagne, président du SNE et PDG de Média-Participations. 
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/calculatrice-en-main-le-syndicat-des-editeurs-compte-trop-bien-65bd05491079a578986145.jpg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Dispatch prix du livre : étude SNE 2024
+
+Les éditeurs rémunèrent le plus communément leurs auteurs proportionnellement aux ventes de l’ouvrage. D’après la Société des Gens de Lettres, cette rémunération « se situe entre 5 % et 12 % selon le secteur éditorial, le niveau de ventes espéré, la maison d’édition et la notoriété de l’auteur. En littérature générale, cette fourchette est le plus souvent comprise entre 8 % et 10 %. Plusieurs pourcentages peuvent également être fixés par le contrat (par exemple 8 %, 10 % et 12 %) et s’appliquer par paliers au fur et à mesure du nombre d’exemplaires vendus. » 
+
+Les auteurs peuvent négocier un à-valoir : un montant pré-défini qui, s’il est accepté par l’éditeur, lui sera versé quelles que soient les ventes effectuées. Toujours d’après la Société des Gens de Lettres, cet à-valoir peut lui être versé en une fois à la signature du contrat ou en plusieurs versements avant la publication de l’ouvrage. Au fur et à mesure des ventes, cet à-valoir est ensuite compensé : l’éditeur retient les droits d’auteur qu’il aurait normalement versés à l’auteur pour rembourser cet à-valoir, jusqu’à ce le montant des droits d’auteur générés par les ventes dépasse l’à-valoir. À partir de ce moment, l’auteur perçoit ses droits de manière proportionnelle, comme expliqué ci-dessus. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/ligue_auteur-pro_SNE.png)
+
+
+===
+
+La Ligue des auteurs professionnels regrette que « la notion d’auteur envisagée dans l’étude semble inclure de nombreuses acceptions (rémunération des directeurs de collection, acquisition des droits à l’étranger, à-valoir versés à des traducteurs…) », ce qui déforme la réalité. Autre pierre d’achoppement : « L’auteur devra payer sur ses droits ses cotisations sociales, son loyer et l’amortissement de son matériel », rappelle la Ligue. Selon Renaud Lefebvre, directeur général du SNE, l’étude précise que « sur ses rémunérations, l’auteur doit couvrir ses propres charges, et notamment ses cotisations sociales ».
+
+
+« Cet outil de propagande, qui aurait pu être le premier pas d’objectivation de l’économie du livre, ne peut que susciter une grande méfiance pour ceux qui connaissent le sujet et une grande confusion pour le grand public », résume l’écrivain et scénariste Benoît Peeters.
+
+Pour le lauréat du prix Goncourt 2023, Jean-Baptiste Andrea, connu pour son franc-parler, les conclusions de l’étude sont « hallucinantes et fausses », et l’interprétation du SNE, « complètement erronée ». Plus encore, il se dit agacé par « l’inertie du ministère de la culture, qui ne remplit pas son rôle de régulateur et de garant de l’intérêt général », mais cherche à « diviser pour mieux régner ». L’auteur de Veiller sur elle (L’Iconoclaste, 2023) « en a marre de ces ministres qui se disent de la culture et ne font rien ».
 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Les financements de l'édition
+>L’échantillon permettant d’établir une telle conclusion porte uniquement sur l’analyse de la comptabilité des grosses maisons (Actes Sud, Albin Michel, Editis, Glénat Editions, Hachette Livre, Madrigall – la maison mère de Gallimard et Flammarion), Média-Participations et la petite maison indépendante Zulma. Ces poids lourds représentaient 29 % du marché en 2022 et ont pour particularité de publier le plus grand nombre de best-sellers – et donc de payer le plus de droits d’auteur.
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+>Par ailleurs, seuls cinq secteurs ont été passés en revue pour cette étude : la littérature générale, les livres pratiques, les livres d’art, de jeunesse et la bande dessinée, qui représentaient, en 2022, 68,5 % du marché français de l’édition. Jugés peu représentatifs, le scolaire, aléatoire selon les réformes, et le manga, liés à des cessions de droits à l’étranger, n’ont pas été gardés.
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+>Nicole Vulser, *Le Monde*, février 2024
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Or, le camembert devrait en tout premier lieu pointer que sur les 49 % du prix de vente hors taxe, 42,8 % reviennent à l’éditeur. Que la répartition des débits qu’une maison effectue entre les salaires, les frais de fonctionnement, les charges et autres représente un appréciable effort de transparence. Mais paradoxalement, cet inventaire de coûts à la Prévert renvoie l’information inverse de la réalité.Au choix, l’arbre qui cache la forêt, ou mieux : diviser (le pourcentage global), non pour mieux régner, mais noyer le poisson. [*Nicolas Gary pour Livre Hebdo*]
+
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/calculatrice-en-main-le-syndicat-des-editeurs-compte-trop-bien-65bd08d7358bc316299809.jpg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le modèle des éditions du commun
+
+![](img/Diagramme-prix_livre-72DPI_large.webp)
+
+===
+
+Si on prend le diagramme circulaire, on peut déjà parler du fait que 5,5 % vont à la TVA donc à l’État.
+
+Une taxe dont là encore le pourcentage est différent d’autres secteurs. Dans la suite si je prends le schéma à rebours on aurait le libraire autour de 35 %, on a ensuite un diffuseur et un distributeur qui pour nous sont différenciés, mais ensemble les deux ont à peu près 24 %. Nous avons ensuite l’auteur/l’autrice, qui pour nous aujourd’hui a 8 % lorsque c’est une personne seule et dès qu’ils sont plusieurs se partagent 12 %. Il y a ensuite l’imprimeur qui est autour, pour nous là aussi, de 10 %. Et il reste donc pour celles et ceux qui ont fait le calcul 17,5 % pour l’éditeur.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Une redistribution de plus en plus contestée
+
+* Précarisation du métier
+* Essor de l'auto-édition
+* Organisation des auteurs en collectifs (ligue des auteurs pro)
+
 
 ===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+### Comment financer un projet éditorial ?
+* Un secteur soutenu par l'état et les collectivités
+* Un système fondé sur un principe de péréquation
+* La course aux prix & best-sellers
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/CNL.png)
+
+![](img/CNL-aide-editeurs.png)
+
+* 3 098 aides allouées (subventions et prêts),
+pour un montant total de 23,8 M€
+
+===
+
+en 2024 : * 3 098 aides allouées (subventions et prêts),
+pour un montant total de 23,8 M€
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 2024-aides-maisons-inde.png
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le principe de la péréquation
+
+En édition, le principe de péréquation renvoie à un modèle économique dominant dans lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement de projets éditoriaux plus risqués et confidentiels. 
+
+===
+
+En édition, le principe de péréquation renvoie à un modèle économique majoritaire dans lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement de projets éditoriaux plus difficiles et confidentiels. 
+
+Le principe de péréquation est ultra majoritaire dans le système éditorial contemporain, où il a assuré pendant plusieurs décénnies un certain équilibre et une forme de diversité. 
+
+Attention, dans la définition que je donne ici, on a un peu l'impression qu'un littérature populaire et de moindre qualité assurerait la publication de genres de niches hyper spécialisés. C'est toujours plus compliqué que cela. 
+
+Le principe de péréquation fait aujourd'hui l'objet d'une importante remise en cause, dont nous allons essayer ensemble de comprendre les raisons. 
+
+Cette remise en question de la péréquation passe par un objet éditorial que j'ai mentionné plus tôt : le best seller.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### « L’ère des cent mille », ou la naissance du "best-sellers"
+
+>: «  On appelle succès, de notre temps, le brusque engouement d’un public étendu pour un ouvrage, se traduisant parfois, dans l’espace de quelques mois, par une vente qui dépasse cent mille exemplaires » (Bernard Grasset, correspondance)
+
+===
+
+L'anglicisme Best Seller laisse parfois penser que la mode des grands succès populaires est assez récent. Pourtant, on retrouve cette idée du best seller dans l'histoire de l'édition industrielle, dès le XIXe. 
+
+Un éditeur en particulier s'est imposé dans le discours sur le best-seller : Bernard Grasset. 
+
+Grasset est un éditeur à part : c'est lui qui établit un système de publication à compte d'auteur (et publiera le premier Proust, à compte d'auteur justement). C'est lui également qui va lancer les premières publicités pour le livre. C'est un éditeur et un homme d'affaire. De fait, Grasset a beaucoup théorisé le principe du best seller : même si ce à quoi il fait référence existe souvent depuis bien plus longtemps. 
+
+>Dès les années 1920, L’édition serait entrée dans ce qu’il appelle « l’ère des cent mille » – chiffre en réalité fabuleux, très rarement atteint par des ouvrages de littérature générale. Grasset considère
+que la lecture littéraire aurait progressé dans le goût d’un grand nombre de personnes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le best seller, une histoire de changement d'échelle
+* Capacité à assurer de forts tirages
+* Transformations de l'objet livre
+* Augmentation des lecteurs
+* Modèle de l'offre (vs demande)
+
+===
+
+Cette citation de Grasset amène à bien comprendre le phénomène. Les best-sellers, c'est d'abord une histoire d'échelle : 
+- d'abord une capacité technique à produire des forts tirages
+- également transformation de l'objet livre pour en baisser le prix (on ne va pas tirer 100 000 livres "Précieux"). Le best seller intervient donc à un moment où on va repenser l'objet vendu : en réduisant sa taille, mais également en usant de papiers davantage bon marché (souvenez-vous ici de l'énonciation éditoriale : la qualité matérielle du livre relève de cette énonciation)
+- enfin une augmentation des lecteurs, qui va transformer le modèle éco, en passant d'un modèle dit de la demande (on commandait des livres qui étaient produits après cette commande) à une politique de l'offre (on fait de gros tirages en pariant sur le fait que ceux-ci vont trouver leur public)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+===
+
+Or, si Grasset, au début du XX, met les mots sur ce phénomène, c'est bien au XIXe que celui-ci s'est développé. 
+
+Le XIXe est le siècle où s'opère une importante mutation des usages et des consommations de
+produits culturels : celui de Madame Bovary de Gustave Flaubert, publié en 1857 en
+deux tomes et vendu à 25 000 exemplaires en une année.
+
+Pour vous donner un ordre d'idée : Tout au long du 18e, les éditeurs se contentaient de tirer à 800, 1 000 ou 1 200 exemplaires des romans qu’ils tronçonnaient en deux ou trois tomes.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'émergence des collections grand public : une transformation de l'objet livre
+
+
+===
+
+Au XIXe se développent, par ailleurs, des collections grand public. qui préfigurent la littérature sérielle du dernier tiers du xixe siècle [33], celle dont profitera Fantômas, dont les trente-deux volumes dépasseront en moyenne les 140 000 exemplaires [34] entre 1911 et 1913.
+
+On voit ici comment l'influence d'une énonciation éditoriale s'exerce, et va profondément influencer la littérature et la culture : le développement du best-seller, comme stratégie éditoriale qui permet à l'éditeur de gagner de l'argent, mais également de financer des projets plus risqués, repose sur le développement d'une littérature populaire. 
+
+Il est donc intéressant de voir que l'on conspue la littérature populaire, alors qu'elle permet finalement le développement de projets plus "difficiles". 
+D'un autre côté, un argument consiste à voir un nivellement par le bas de l'offre. 
+
+C'est une logique du pharmakon : on est toujours sur une ligne de crète entre ce qui est bénéfique et ce qui potentiellement vient pourrir un système. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La starification des écrivains
+
+>Mais parallèlement, un phénomène de starisation avant la lettre se produit qui profite avant tout aux « vedettes » de la scène et du roman. Ernest Feydeau avait connu un succès foudroyant, quoiqu’éphémère, au début des années 1860, avec la publication de deux romans légers, Fanny et Daniel, mais ce sont surtout Victor Hugo et Ernest Renan qui écrasèrent la concurrence avec la publication des Misérables en 1862 et de la Vie de Jésus en 1863.
+
+>JY Mollier
+
+===
+
+Dans nos études littéraires, on a tendance à focaliser notre attention sur les textes, et tt ce que j'ai dit depuis le début du cours, c'est que le texte est en fait inclu dans un écosystème, une fabrique que l'on a gommé, mais qui exerce une forte influence sur les contenus. 
+
+On vient de voir comment les mutations industrielles et formelles de l'objet livre avaient, dès le XIX, permis d'accueillir une certaine littérature. 
+
+Mais les textes et les oeuvres elles-mêmes ne sont pas les seules à avoir subi cette influence du modèle économique du best-seller. 
+
+L'auteur en a également fait les frais. JY Mollier n'hésite pas à parler de starification des écrivains, qui commence dès le XIXe, dans un contexte d'un culture médiatique émergente. 
+
+>Mais parallèlement, un phénomène de starisation avant la lettre se produit qui profite avant tout aux « vedettes » de la scène et du roman. Ernest Feydeau avait connu un succès foudroyant, quoiqu’éphémère, au début des années 1860, avec la publication de deux romans légers, Fanny et Daniel, mais ce sont surtout Victor Hugo et Ernest Renan qui écrasèrent la concurrence avec la publication des Misérables en 1862 et de la Vie de Jésus en 1863.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'émergence de l'ère médiatique : *La vie de Jésus* d'Ernest Renan, premier _bad buzz_ de l'édition ?
+
+
+===
+
+Dans le premier cas, les dix tomes se vendirent à 12 000 exemplaires en moyenne,
+soit 120 000 exemplaires, et dans le second, la Vie de Jésus à 7,50 francs bénéficia
+d’une vente de 72 000 exemplaires bien relayée par les 96 000 exemplaires du Jésus à
+1,25 franc imprimé en 1864 [35]. Cet exemple est intéressant en ce qu’il montre qu’en
+ce début d’ère médiatique une œuvre telle que la Vie de Jésus, lancée comme un
+produit scandaleux par un professeur dont le cours au Collège de France a été
+suspendu l’année précédente parce qu’il niait la divinité du Christ
+
+Pour vous donner un ordre d'idée : Tout au long du 18e, les éditeurs se contentaient de tirer à 800, 1 000 ou 1 200 exemplaires des romans qu’ils tronçonnaient en deux ou trois tomes.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La tentation de la best-sellerisation et ses risques sur l'écosystème éditorial
+* Du principe de péréquation au coeur du modèle économique des éditeurs (un succès d'édition pour financer les projets moins rémunérateurs et plus risqués)...
+* ... à la statégie expansionniste à la tentation autonomiste des écrivains...
+* dans un contexte d'augmentation massive du nombre d'ouvrages publiés (+26% en 10 ans)
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+===
+
+Best-sellerisation ? 
+
+D'abord une réalité économique au sein des maisons d'édition : un gros succès permet de financer des projets plus petits et risqués, moins rémunérateurs.
+
+Ce modèle est cependant mis à rude épreuve par une conjoncture qui le pousse dans ses retranchements : Les ventes se polarisent plus que jamais sur un tout petit nombre d’ouvrages, d’une veine souvent plus commerciale que littéraire. Dans le même temps, on assiste à une augmentation très forte du nombre de textes publiés :  le ministère de la ­culture indique que, entre 2011 et 2021, les livres enregistrés à la Bibliothèque nationale de France au titre du dépôt légal sont passés de 70 109 à 88 016 (+ 26 %).
+
+Conséquence : on publie bcp, mais peu : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
+
+La "best-sellerisation" qui était autrefois un moyen pour les éditeurs de rémunérer tt le monde équitablement, est en train d'atteindre ses limites sous son propre mouvement.
+
+Avec des effets sur l'auteur, sur l'écrivain, assez inattendus, voire pour certains préoccupants : 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Sous l’effet de chaînes comme HBO et de plates-formes telles que Netflix, une partie des auteurs serait en train de muter, convertis aux cliffhangers et autres effets scénaristiques. Pour le plus grand bonheur des groupes multimédias, mais au désespoir de certains éditeurs traditionnels. « Tous les jeunes auteurs rêvent d’être adaptés et écrivent en conséquence », se lamente l’un d’eux, sous le couvert de l’anonymat. Joël Dicker a anticipé la vague. L’art de gérer les droits audiovisuels, d’adapter les livres en scénarios, rien de tout cela ne lui a échappé non plus pendant sa formation chez de Fallois. « Bernard a refusé quatre-vingts propositions pour Harry Quebert. J’ai appris que l’auteur doit négocier ses droits et ne pas s’offrir au premier producteur venu. » 
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
+
+
+![](img/quebertTF1.jpeg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+Source : "La vérité sur l’affaire Joël Dicker, l’écrivain-entrepreneur", Pascale Nivelle pour *Le Monde*, nov. 2022
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>La classe moyenne [de l'édition] est en voie de disparition, alors qu’elle constituait jusqu’à récemment le cœur battant du milieu. Un livre dont on pouvait raisonnablement espérer, il y a quelques années, qu’il se vendrait à 15 000 ou 20 000 exemplaires atteint aujourd’hui plutôt les 2 000. 
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+Karina Hocine, secrétaire générale de Gallimard, dans *Le Monde*, octobre 2023.
+
+<!-- .element: class="source" -->
+
+
+===
+
+Les effets de la « best-sellerisation » accrue des ventes touchent durement ceux que Karina Hocine, secrétaire générale de Gallimard, appelle « la classe moyenne de l’édition ». Ceux dont les livres s’écoulaient encore récemment entre 5 000 et 10 000 exemplaires – le seuil de ventes annuel à partir duquel il deviendrait, de l’avis général, possible de vivre de sa plume si l’on y ajoute les prix littéraires, les cessions de droits pour les passages en poche, les traductions et les options pour des adaptations. « Cette classe moyenne est en voie de disparition, alors qu’elle constituait jusqu’à récemment le cœur battant du milieu, poursuit Karina Hocine. Un livre dont on pouvait raisonnablement espérer, il y a quelques années, qu’il se vendrait à 15 000 ou 20 000 exemplaires atteint aujourd’hui plutôt les 2 000. » 
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 

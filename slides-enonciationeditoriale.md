@@ -613,6 +613,85 @@ Le processus d'invisibilisation de l'énonciation éditoriale ne doit pas cacher
 
 On pourra même suggérer l'hypothèse selon laquel plus le travail édito est invisibilisé, plus l'énonciation éditoriale est muette, plus la qualité d'un ouvrage ou d'une publication est grande. 
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La préparation de copie avec Word
+* Un système d'automatisation de la révision
+* Les commentaires et le *track-changes*
+* Des logiciels assistants de correction (Antidote, Prolexis)
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/trackChanges.jpeg)<!-- .element: style="width:20%;float:right;margin-right:-1em;" -->
+
+===
+
+Avec l'informatique, la prépa de copie a connu une importante révolution, avec un principe d'autonomisation, d'une part de la communication entre le préparateur de copie et l'auteur (grâce au track changes ou suivi des modifs), d'autre part avec l'utilisation de correcteurs automatiques. 
+
+Logiciel Word : track changes.
+
+Ouvrage de de Matthew Kirschenbaum, propose une archéologie des logociels de traitement de texte, pour « raconter et décrire en termes matériels et historiques comment les ordinateurs, et plus particulièrement le traitement de texte, sont devenus partie intégrante de la création littéraire et de l'écriture littéraire ».
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/trackChanges.jpeg)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
+
+![](img/prepaCopie_PAO.png)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
+
+
+===
+
+
+Matthew Kirschenbaum explique comment les logiciels de traitement de texte ont permis de voir directement ce que l'on écrivait en temps réel (vs. les machines à écrire où tout s'inscrivait qd on arrivait à la fin = retour chariot). 
+
+Il explique aussi comment le fait de pouvoir copier-coller a changé le rapport des écrivains à la matérialité du texte, avec la possibilité de le manipuler : matérialité de plus en plus labile.
+
+Il montre que le track changes a permis également de manipuler le texte davantage, mais également de produire un commentaire, une glose autour de ce texte. 
+
+Il explique enfin qu'aujourd'hui, il existe un monopole du logiciel de traitement de texte, qui a imposé sa manière de travailler.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Avec l’informatique, le texte de l’ouvrage confié par l’auteur à l’éditeur n’est pas ressaisi mais directement mis en pages : les épreuves ont complètement changé de sens : on ne demande plus à l’auteur de corriger les fautes de l’imprimeur, mais de se relire pour se corriger lui-même ou pour valider les corrections introduites par l’éditeur. Lorsqu’un auteur relit les épreuves de son texte, les coquilles apparaissent beaucoup mieux que sur sortie d’imprimante, a fortiori que sur écran.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+Marc Arabyan, Introduction au dossier "L'énonciation éditoriale" paru dans *Semen*, 41 (2016)
+
+<!-- .element: style="font-size:1.7rem; text-align:right" -->
+
+
+===
+
+>Avec l’informatique, le texte de l’ouvrage confié par l’auteur à l’éditeur n’est pas ressaisi mais directement mis en pages : les épreuves ont complètement changé de sens : on ne demande plus à l’auteur de corriger les fautes de l’imprimeur, mais de se relire pour se corriger lui-même ou pour valider les corrections introduites par l’éditeur. Lorsqu’un auteur relit les épreuves de son texte, les coquilles apparaissent beaucoup mieux que sur sortie d’imprimante, a fortiori que sur écran.
+
+
+L'informatique n'aura fait qu'automatiser un processus éditorial. 
+
+À méditer quand on sait qu'aujourd'hui, des expériences sont menées afin d'intégrer l'IA à la préparation de copie. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Préparation de copie et automatisation
+* Logiciels de correction et révision : Antidote, ProLexis
+* Intégration de l'intelligence articicielle
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/antidote.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Des logiciels de révision existent.
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 #### L'énonciation éditoriale dans les écrits d'écrans
@@ -701,83 +780,6 @@ On sera sur du logiciel WYSIWYG (What you see is what you get), c'est à dire qu
 Dans quelques semaines, nous vous présenterons dans les cours d'édition (dans ce CM + dans le TD) un outil éditorial basé sur une solution WYSIWYM (What you see is what you mean), c'est-à-dire sur du sémantique. Je vous parlerai en effet de la création du logiciel Stylo, dans le cadre de la refonte d'une revue en ligne (la revue SP). Ceux d'entre vous qui sont en TD d'édition, vous aurez l'occasion de jouer avec l'outil directement.
 
 L'objectif de la PAO reste le print : l'impression. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### La préparation de copie avec Word
-* Un système d'automatisation de la révision
-* Les commentaires et le *track-changes*
-* Des logiciels assistants de correction (Antidote, Prolexis)
-
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/trackChanges.jpeg)<!-- .element: style="width:20%;float:right;margin-right:-1em;" -->
-
-===
-
-Avec l'informatique, la prépa de copie a connu une importante révolution, avec un principe d'autonomisation, d'une part de la communication entre le préparateur de copie et l'auteur (grâce au track changes ou suivi des modifs), d'autre part avec l'utilisation de correcteurs automatiques. 
-
-Logiciel Word : track changes.
-
-Ouvrage de de Matthew Kirschenbaum, propose une archéologie des logociels de traitement de texte, pour « raconter et décrire en termes matériels et historiques comment les ordinateurs, et plus particulièrement le traitement de texte, sont devenus partie intégrante de la création littéraire et de l'écriture littéraire ».
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/trackChanges.jpeg)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
-
-![](img/prepaCopie_PAO.png)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
-
-
-===
-
-
-Matthew Kirschenbaum explique comment les logiciels de traitement de texte ont permis de voir directement ce que l'on écrivait en temps réel (vs. les machines à écrire où tout s'inscrivait qd on arrivait à la fin = retour chariot). 
-
-Il explique aussi comment le fait de pouvoir copier-coller a changé le rapport des écrivains à la matérialité du texte, avec la possibilité de le manipuler : matérialité de plus en plus labile.
-
-Il montre que le track changes a permis également de manipuler le texte davantage, mais également de produire un commentaire, une glose autour de ce texte. 
-
-Il explique enfin qu'aujourd'hui, il existe un monopole du logiciel de traitement de texte, qui a imposé sa manière de travailler.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Avec l’informatique, le texte de l’ouvrage confié par l’auteur à l’éditeur n’est pas ressaisi mais directement mis en pages : les épreuves ont complètement changé de sens : on ne demande plus à l’auteur de corriger les fautes de l’imprimeur, mais de se relire pour se corriger lui-même ou pour valider les corrections introduites par l’éditeur. Lorsqu’un auteur relit les épreuves de son texte, les coquilles apparaissent beaucoup mieux que sur sortie d’imprimante, a fortiori que sur écran.
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-Marc Arabyan, Introduction au dossier "L'énonciation éditoriale" paru dans *Semen*, 41 (2016)
-
-<!-- .element: style="font-size:1.7rem; text-align:right" -->
-
-
-===
-
->Avec l’informatique, le texte de l’ouvrage confié par l’auteur à l’éditeur n’est pas ressaisi mais directement mis en pages : les épreuves ont complètement changé de sens : on ne demande plus à l’auteur de corriger les fautes de l’imprimeur, mais de se relire pour se corriger lui-même ou pour valider les corrections introduites par l’éditeur. Lorsqu’un auteur relit les épreuves de son texte, les coquilles apparaissent beaucoup mieux que sur sortie d’imprimante, a fortiori que sur écran.
-
-
-L'informatique n'aura fait qu'automatiser un processus éditorial. 
-
-À méditer quand on sait qu'aujourd'hui, des expériences sont menées afin d'intégrer l'IA à la préparation de copie. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Préparation de copie et automatisation
-* Logiciels de correction et révision : Antidote, ProLexis
-* Intégration de l'intelligence articicielle
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/antidote.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-
-===
-
-Des logiciels de révision existent.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
