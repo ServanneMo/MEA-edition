@@ -6,7 +6,7 @@
 
 ===
 
-Aujourd'hui, on va parler d'argent.
+Aujourd'hui, on va parler d'argent et de modèles économique.
 
 L'édition est un secteur économique qui suscite une attention particulière en France, dans la mesure où il passe pour un fleuron un peu particulier de notre économie : celui de notre prestige et santé culturelle. 
 
@@ -70,7 +70,7 @@ Mais ces chiffres cachent de véritables disparités, avec des CA bien moins mir
 #### De fortes disparités entre les éditeurs
 * 67 % des maisons d’édition fonctionnent avec des revenus inférieurs à 75.000 € annuels
 * Des conditions de travail variable (plus de télétravail et de bénévolat dans les maisons indés)
-* Des revenus complémentaires chez les indépendants, pour une diversification de l'activité
+* Des **revenus complémentaires** chez les indépendants, pour une diversification de l'activité
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
@@ -86,11 +86,45 @@ Cela se ressent sur les conditions de travail variable (plus de télétravail et
 
 Autre élément notable : Des revenus complémentaires chez les indépendants, pour une diversification de l'activité (médiation culturelle, événements sociaux autour des livres, graphisme, communication, etc.)
 
+Élément très important : dans le modèle économique des éditeurs, la vente de livre n'est pas la seule source de rémunération. Un éditeur peut vendre des services, comme le font très souvent les structures indépendantes. 
+Les éditeurs peuvent aussi percevoir des subventions, comme on le verra. 
+Autre modèle dont on reparlera : les services de publication à compte d'auteur. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Rémunération des éditeurs (assistants édition)
+
+
+![](img/conventionCollectiveSNE.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+![](img/salaires2025.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+===
+
+Salaires...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Rémunération des auteurs
+* Rémunération proportionnelle aux ventes de l'ouvrage (5 à 12%)
+* À-valoir versé en avance (compensé ensuite selon la vente des ouvrages)
+* "Auteur", "écrivain"... une activité entre professionnalisation et précarisation
+
+<!-- .element: style="font-size:1.4rem" -->
+
+
+===
+
+Les éditeurs rémunèrent le plus communément leurs auteurs proportionnellement aux ventes de l’ouvrage. D’après la Société des Gens de Lettres, cette rémunération « se situe entre 5 % et 12 % selon le secteur éditorial, le niveau de ventes espéré, la maison d’édition et la notoriété de l’auteur. En littérature générale, cette fourchette est le plus souvent comprise entre 8 % et 10 %. Plusieurs pourcentages peuvent également être fixés par le contrat (par exemple 8 %, 10 % et 12 %) et s’appliquer par paliers au fur et à mesure du nombre d’exemplaires vendus. » 
+
+Les auteurs peuvent négocier un à-valoir : un montant pré-défini qui, s’il est accepté par l’éditeur, lui sera versé quelles que soient les ventes effectuées. Toujours d’après la Société des Gens de Lettres, cet à-valoir peut lui être versé en une fois à la signature du contrat ou en plusieurs versements avant la publication de l’ouvrage. Au fur et à mesure des ventes, cet à-valoir est ensuite compensé : l’éditeur retient les droits d’auteur qu’il aurait normalement versés à l’auteur pour rembourser cet à-valoir, jusqu’à ce le montant des droits d’auteur générés par les ventes dépasse l’à-valoir. À partir de ce moment, l’auteur perçoit ses droits de manière proportionnelle, comme expliqué ci-dessus. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-#### La loi "Lang" sur le prix unique du livre
+#### Une spécificicté française : la loi "Lang" (prix unique du livre)
 
 
 Promulguée le 10 août 1981, la loi sur le prix unique du livre (dite loi « Lang ») est entrée en vigueur le 1er janvier 1982 en instaurant le système du prix unique du livre en France : toute personne qui publie ou importe un livre est tenue de fixer pour ce livre un prix de vente au public.
@@ -106,9 +140,7 @@ Promulguée le 10 août 1981, la loi sur le prix unique du livre (dite loi « La
 
 ===
 
-
-
-La France a une particularité, c'est le tarif unique du livre NEUF ! 
+La France a une particularité, c'est le tarif unique du livre NEUF ! Cette pratique amène donc à une régulation du marché particulièrement importante, avec pour objectif de favoriser (ou ne pas défavoriser) les librairies indépendantes.
 
 On doit cette loi à Jack Lang, ministre de la culture sous Mitterand, d'où le nom de loi Lang. Promulguée le 10 août 1981, la loi sur le prix unique du livre (dite loi « Lang ») est entrée en vigueur le 1er janvier 1982 en instaurant le système du prix unique du livre en France : toute personne qui publie ou importe un livre est tenue de fixer pour ce livre un prix de vente au public.
 
@@ -116,8 +148,8 @@ Et c’est d’ailleurs pour cela qu’il est imprimé obligatoirement en quatri
 
 Quelle que soit la période de l’année, ce prix doit être respecté par tous les détaillants (grande surface spécialisée, hypermarché, maison de la presse, grossiste, librairie traditionnelle ou en ligne), qui n’ont la faculté d’accorder des rabais que s’ils sont limités à 5 % du prix déterminé par l’éditeur ou son importateur.
 
-
 À l'origine de cette loi, refus de considérer le livre comme un produit marchand banalisé, ne répondant qu’aux seules exigences de rentabilité immédiate. En effet la pratique de bradage (discount) entraîne, à long terme, une raréfaction du nombre de titres disponibles, au profit des ouvrages à « rotation rapide », touchant un vaste public (best-sellers, guides,…), au détriment des œuvres de création originale.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -134,26 +166,27 @@ Quelle que soit la période de l’année, ce prix doit être respecté par tous
 
 ===
 
-Dispatch prix du livre : étude SNE 2024
+Dispatch prix du livre : étude SNE 2024 qui a fait couler beaucoup d'encre.
 
-Les éditeurs rémunèrent le plus communément leurs auteurs proportionnellement aux ventes de l’ouvrage. D’après la Société des Gens de Lettres, cette rémunération « se situe entre 5 % et 12 % selon le secteur éditorial, le niveau de ventes espéré, la maison d’édition et la notoriété de l’auteur. En littérature générale, cette fourchette est le plus souvent comprise entre 8 % et 10 %. Plusieurs pourcentages peuvent également être fixés par le contrat (par exemple 8 %, 10 % et 12 %) et s’appliquer par paliers au fur et à mesure du nombre d’exemplaires vendus. » 
 
-Les auteurs peuvent négocier un à-valoir : un montant pré-défini qui, s’il est accepté par l’éditeur, lui sera versé quelles que soient les ventes effectuées. Toujours d’après la Société des Gens de Lettres, cet à-valoir peut lui être versé en une fois à la signature du contrat ou en plusieurs versements avant la publication de l’ouvrage. Au fur et à mesure des ventes, cet à-valoir est ensuite compensé : l’éditeur retient les droits d’auteur qu’il aurait normalement versés à l’auteur pour rembourser cet à-valoir, jusqu’à ce le montant des droits d’auteur générés par les ventes dépasse l’à-valoir. À partir de ce moment, l’auteur perçoit ses droits de manière proportionnelle, comme expliqué ci-dessus. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/ligue_auteur-pro_SNE.png)
+![](img/ligue_auteur-pro_SNE.png)<!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
+
+« Cet outil de propagande, qui aurait pu être le premier pas d’objectivation de l’économie du livre, ne peut que susciter une grande méfiance pour ceux qui connaissent le sujet et une grande confusion pour le grand public » [Benoît Peeters]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
 ===
 
-La Ligue des auteurs professionnels regrette que « la notion d’auteur envisagée dans l’étude semble inclure de nombreuses acceptions (rémunération des directeurs de collection, acquisition des droits à l’étranger, à-valoir versés à des traducteurs…) », ce qui déforme la réalité. Autre pierre d’achoppement : « L’auteur devra payer sur ses droits ses cotisations sociales, son loyer et l’amortissement de son matériel », rappelle la Ligue. Selon Renaud Lefebvre, directeur général du SNE, l’étude précise que « sur ses rémunérations, l’auteur doit couvrir ses propres charges, et notamment ses cotisations sociales ».
+La Ligue des auteurs professionnels regrette que « la notion d’auteur envisagée dans l’étude semble inclure de nombreuses acceptions (rémunération des directeurs de collection, acquisition des droits à l’étranger, à-valoir versés à des traducteurs…) », ce qui déforme selon eux la réalité. 
+
+Autre pierre d’achoppement : « L’auteur devra payer sur ses droits ses cotisations sociales, son loyer et l’amortissement de son matériel », rappelle la Ligue. On reviendra sur ces questions sur le statut d'auteur un peu plus tard.
 
 
 « Cet outil de propagande, qui aurait pu être le premier pas d’objectivation de l’économie du livre, ne peut que susciter une grande méfiance pour ceux qui connaissent le sujet et une grande confusion pour le grand public », résume l’écrivain et scénariste Benoît Peeters.
-
-Pour le lauréat du prix Goncourt 2023, Jean-Baptiste Andrea, connu pour son franc-parler, les conclusions de l’étude sont « hallucinantes et fausses », et l’interprétation du SNE, « complètement erronée ». Plus encore, il se dit agacé par « l’inertie du ministère de la culture, qui ne remplit pas son rôle de régulateur et de garant de l’intérêt général », mais cherche à « diviser pour mieux régner ». L’auteur de Veiller sur elle (L’Iconoclaste, 2023) « en a marre de ces ministres qui se disent de la culture et ne font rien ».
-
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -175,16 +208,13 @@ Pour le lauréat du prix Goncourt 2023, Jean-Baptiste Andrea, connu pour son fra
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Or, le camembert devrait en tout premier lieu pointer que sur les 49 % du prix de vente hors taxe, 42,8 % reviennent à l’éditeur. Que la répartition des débits qu’une maison effectue entre les salaires, les frais de fonctionnement, les charges et autres représente un appréciable effort de transparence. Mais paradoxalement, cet inventaire de coûts à la Prévert renvoie l’information inverse de la réalité.Au choix, l’arbre qui cache la forêt, ou mieux : diviser (le pourcentage global), non pour mieux régner, mais noyer le poisson. [*Nicolas Gary pour Livre Hebdo*]
-
+>"Le camembert devrait en tout premier lieu pointer que sur les 49 % du prix de vente hors taxe, 42,8 % reviennent à l’éditeur. Que la répartition des débits qu’une maison effectue entre les salaires, les frais de fonctionnement, les charges et autres représente un appréciable effort de transparence. Mais paradoxalement, cet inventaire de coûts à la Prévert renvoie l’information inverse de la réalité.Au choix, l’arbre qui cache la forêt, ou mieux : diviser (le pourcentage global), non pour mieux régner, mais noyer le poisson." [*Nicolas Gary pour Livre Hebdo*]
 
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
 ![](img/calculatrice-en-main-le-syndicat-des-editeurs-compte-trop-bien-65bd08d7358bc316299809.jpg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
-
-
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -207,8 +237,11 @@ Une taxe dont là encore le pourcentage est différent d’autres secteurs. Dans
 * Essor de l'auto-édition
 * Organisation des auteurs en collectifs (ligue des auteurs pro)
 
+<!-- .element: style="font-size:1.4rem" -->
+
 
 ===
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -217,51 +250,72 @@ Une taxe dont là encore le pourcentage est différent d’autres secteurs. Dans
 * Un système fondé sur un principe de péréquation
 * La course aux prix & best-sellers
 
-===
+<!-- .element: style="font-size:1.4rem" -->
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/CNL.png)
-
-![](img/CNL-aide-editeurs.png)
-
-* 3 098 aides allouées (subventions et prêts),
-pour un montant total de 23,8 M€
 
 ===
 
-en 2024 : * 3 098 aides allouées (subventions et prêts),
-pour un montant total de 23,8 M€
+On va laisser de côté ces questions de partage, on y reviendra en partie, mais il faut aussi garder à l'esprit qu'il y a de fortes disparités et des cas particuliers. 
+
+Penchons-nous sur les financements possibles de projets éditoriaux. Je voudrais aborder 3 points :
+
+* Un secteur soutenu par l'état et les collectivités : je n'insisterai pas bcp là-dessus, mais c'est sans doute la première chose à relever : importance de protéger un système culturel.
+* Un système fondé sur un principe de péréquation 
+* La course aux prix & best-sellers : je m'y attarderai car des questions littéraires.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-2024-aides-maisons-inde.png
+![](img/CNL.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/CNL-aide-editeurs.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+* 3 098 aides allouées (subventions et prêts), pour un montant total de 23,8 M€
+
+<!-- .element: style="font-size:1.4rem" -->
+
+
+===
+
+Premier principe : les aides publiques. État, CNL, collectivités locales. 
+
+en 2024 : * 3 098 aides allouées (subventions et prêts), pour un montant total de 23,8 M€
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 #### Le principe de la péréquation
 
-En édition, le principe de péréquation renvoie à un modèle économique dominant dans lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement de projets éditoriaux plus risqués et confidentiels. 
+En édition, le principe de péréquation renvoie à un mécanisme économique par lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement les titres moins rentables, souvent plus exigeants, risqués ou destinés à un public restreint.
+
+<!-- .element: style="font-size:1.4rem" -->
+
 
 ===
 
-En édition, le principe de péréquation renvoie à un modèle économique majoritaire dans lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement de projets éditoriaux plus difficiles et confidentiels. 
+Second principe = système économique de la péréquation.
+
+En édition, le principe de péréquation renvoie à un mécanisme économique par lequel un succès éditorial majeur et grand public (ce que l'on pourra qualifier de *best seller*) assure le financement les titres moins rentables, souvent plus exigeants, risqués ou destinés à un public restreint.
+
+Autrement dit, c’est une forme de solidarité économique interne au sein d’un catalogue :
+les best-sellers permettent de maintenir une diversité éditoriale.
 
 Le principe de péréquation est ultra majoritaire dans le système éditorial contemporain, où il a assuré pendant plusieurs décénnies un certain équilibre et une forme de diversité. 
 
 Attention, dans la définition que je donne ici, on a un peu l'impression qu'un littérature populaire et de moindre qualité assurerait la publication de genres de niches hyper spécialisés. C'est toujours plus compliqué que cela. 
 
-Le principe de péréquation fait aujourd'hui l'objet d'une importante remise en cause, dont nous allons essayer ensemble de comprendre les raisons. 
+Le principe de péréquation fait aujourd'hui l'objet d'une importante remise en cause, dont nous allons essayer ensemble de comprendre les raisons. En effet, avec la concentration du secteur et la baisse des ventes moyennes, ce modèle devient difficile à maintenir.
 
-Cette remise en question de la péréquation passe par un objet éditorial que j'ai mentionné plus tôt : le best seller.
+Mais j'aimerais profiter de ce sujet pour en revenir à la question du Best-Seller.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### « L’ère des cent mille », ou la naissance du "best-sellers"
+#### « L’ère des cent mille », ou la naissance du *best-seller*
 
->: «  On appelle succès, de notre temps, le brusque engouement d’un public étendu pour un ouvrage, se traduisant parfois, dans l’espace de quelques mois, par une vente qui dépasse cent mille exemplaires » (Bernard Grasset, correspondance)
+>«  On appelle succès, de notre temps, le brusque engouement d’un public étendu pour un ouvrage, se traduisant parfois, dans l’espace de quelques mois, par une vente qui dépasse cent mille exemplaires&nbsp;» (Bernard Grasset, correspondance, vers 1920)
+
+<!-- .element: style="font-size:1.4rem" -->
+
 
 ===
 
@@ -276,22 +330,11 @@ que la lecture littéraire aurait progressé dans le goût d’un grand nombre d
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Le best seller, une histoire de changement d'échelle
-* Capacité à assurer de forts tirages
-* Transformations de l'objet livre
-* Augmentation des lecteurs
-* Modèle de l'offre (vs demande)
+![](img/500px-Madame_Bovary_1857.jpg)<!-- .element: style="width:300px" -->
 
-===
+Madame Bovary de Gustave Flaubert, publié en 1857 en deux tomes et vendu à 25 000 exemplaires en une année.
 
-Cette citation de Grasset amène à bien comprendre le phénomène. Les best-sellers, c'est d'abord une histoire d'échelle : 
-- d'abord une capacité technique à produire des forts tirages
-- également transformation de l'objet livre pour en baisser le prix (on ne va pas tirer 100 000 livres "Précieux"). Le best seller intervient donc à un moment où on va repenser l'objet vendu : en réduisant sa taille, mais également en usant de papiers davantage bon marché (souvenez-vous ici de l'énonciation éditoriale : la qualité matérielle du livre relève de cette énonciation)
-- enfin une augmentation des lecteurs, qui va transformer le modèle éco, en passant d'un modèle dit de la demande (on commandait des livres qui étaient produits après cette commande) à une politique de l'offre (on fait de gros tirages en pariant sur le fait que ceux-ci vont trouver leur public)
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
+<!-- .element: style="font-size:1.4rem" -->
 
 
 ===
@@ -305,21 +348,68 @@ deux tomes et vendu à 25 000 exemplaires en une année.
 Pour vous donner un ordre d'idée : Tout au long du 18e, les éditeurs se contentaient de tirer à 800, 1 000 ou 1 200 exemplaires des romans qu’ils tronçonnaient en deux ou trois tomes.
 
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### L'émergence des collections grand public : une transformation de l'objet livre
+#### Le best seller, une histoire de changement d'échelle
+* Capacité à assurer de forts tirages
+* Transformations de l'objet livre
+* Augmentation des lecteurs
+* Modèle de l'offre (*vs* demande)
+
+<!-- .element: style="font-size:1.4rem" -->
 
 
 ===
 
-Au XIXe se développent, par ailleurs, des collections grand public. qui préfigurent la littérature sérielle du dernier tiers du xixe siècle [33], celle dont profitera Fantômas, dont les trente-deux volumes dépasseront en moyenne les 140 000 exemplaires [34] entre 1911 et 1913.
+Cette citation de Grasset amène à bien comprendre le phénomène. Les best-sellers, c'est d'abord une histoire d'échelle : 
+- d'abord une capacité technique à produire des forts tirages
+- également transformation de l'objet livre pour en baisser le prix (on ne va pas tirer 100 000 livres "Précieux"). Le best seller intervient donc à un moment où on va repenser l'objet vendu : en réduisant sa taille, mais également en usant de papiers davantage bon marché (souvenez-vous ici de l'énonciation éditoriale : la qualité matérielle du livre relève de cette énonciation)
+- enfin une augmentation des lecteurs, qui va transformer le modèle éco, en passant d'un modèle dit de la demande (on commandait des livres qui étaient produits après cette commande) à une politique de l'offre (on fait de gros tirages en pariant sur le fait que ceux-ci vont trouver leur public)
 
-On voit ici comment l'influence d'une énonciation éditoriale s'exerce, et va profondément influencer la littérature et la culture : le développement du best-seller, comme stratégie éditoriale qui permet à l'éditeur de gagner de l'argent, mais également de financer des projets plus risqués, repose sur le développement d'une littérature populaire. 
 
-Il est donc intéressant de voir que l'on conspue la littérature populaire, alors qu'elle permet finalement le développement de projets plus "difficiles". 
-D'un autre côté, un argument consiste à voir un nivellement par le bas de l'offre. 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-C'est une logique du pharmakon : on est toujours sur une ligne de crète entre ce qui est bénéfique et ce qui potentiellement vient pourrir un système. 
+#### Les machines à vapeur : une révolution de l'imprimerie
+
+![](img/imprimerie_vapeur.png)<!-- .element: style="width:500px" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'enjeu du format
+
+>La solution préconisée était simple et révolutionnaire : en finir avec le beau volume in-octavo à grandes marges et papier agréable au toucher, et remplacer le volume à 7,50 francs par un petit in-18 « Jésus » qui serait commercialisé à 3,50 francs, tout en offrant au lecteur la matière de deux in-octavo. [JY Mollier, "L’entrée dans l’ère des cent mille, un tournant irréversible", *Best sellers, l'industrie du succès*, 2021]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+
+![](img/gervais-charpentier.png) <!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
+
+[Consulter le document en ligne](https://gallica.bnf.fr/ark:/12148/bpt6k6305332g/f403.item.zoom)
+
+<!-- .element: style="width:35%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+===
+
+
+
+Élément majeur : le travail sur le format. Réflexion sur l'objet (et donc énonciation éditoriale).
+
+Le format est un enjeu permanent de l’édition, d’extension et de spécialisation des marchés et de praticité de la lecture. Dès le début du 16e siècle, on édite du « livre portatif » qui connaîtra une forte demande [Febvre et Martin, 1958]. Avec l’essor de l’enseignement au milieu du 19e siècle, des collections à bas prix sont lancées pour les nouveaux lectorats.
+
+Réduire le format, c'est aller dans le sens d'une transformation de l'économie du livre pour le faire entrer dans une distribution plus massive.
+
+Il faut rappeler que Jusque dans les années 1830, le livre est un produit de luxe qui se vend entre 7 et 9 francs. Lorsqu’il s’agit de la première publication, il faut même débourser jusqu’à 15 francs. De plus à cette époque, les éditeurs ont pour habitude de publier un titre en plusieurs volumes. Cette pratique est largement soutenue par les auteurs et bibliophiles qui peuvent ainsi meubler leur belle bibliothèque. Cependant, elle freine encore davantage l’accès au livre pour les classes modestes. Pour se procurer l’intégralité d’une œuvre, il faut donc acheter deux, trois voire quatre volumes. Et le montant total s’envole !
+
+Un nom à retenir : Gervais Charpentier (1805-1871) est un libraire éditeur du XIXe siècle, qui a bouleversé l’économie du livre et son mode de consommation. Pionnier de l’édition bon marché, il a ouvert la voie aux grands noms de l’édition que sont Hachette ou Michel et Calmann Lévy.
+
+Gervais Charpentier va frapper fort en proposant ses livres au prix de 3,5 francs.
+
+Ses arguments de vente sont :prix unique de 3 francs 50 centimes le volume ; chaque ouvrage en un seul volume ; publié dans le format anglais (in-18, soit 11,5 x 18,3 cm)
+
+L’intérêt économique du livre de poche tient à la réduction des coûts de fabrication, l’accroissement des volumes, l’optimisation de la gestion des droits et les facilités de commercialisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -327,7 +417,13 @@ C'est une logique du pharmakon : on est toujours sur une ligne de crète entre c
 
 >Mais parallèlement, un phénomène de starisation avant la lettre se produit qui profite avant tout aux « vedettes » de la scène et du roman. Ernest Feydeau avait connu un succès foudroyant, quoiqu’éphémère, au début des années 1860, avec la publication de deux romans légers, Fanny et Daniel, mais ce sont surtout Victor Hugo et Ernest Renan qui écrasèrent la concurrence avec la publication des Misérables en 1862 et de la Vie de Jésus en 1863.
 
->JY Mollier
+<!-- .element: style="font-size:1.6rem" -->
+
+
+>JY Mollier, "L’entrée dans l’ère des cent mille, un tournant irréversible", *Best sellers, l'industrie du succès*, 2021
+
+<!-- .element: style="font-size:1.6rem" -->
+
 
 ===
 
@@ -346,6 +442,12 @@ L'auteur en a également fait les frais. JY Mollier n'hésite pas à parler de s
 
 #### L'émergence de l'ère médiatique : *La vie de Jésus* d'Ernest Renan, premier _bad buzz_ de l'édition ?
 
+>Cet exemple est intéressant en ce qu’il montre qu’en ce début d’ère médiatique une œuvre telle que la Vie de Jésus, lancée comme un produit scandaleux par un professeur dont le cours au Collège de France a été suspendu l’année précédente parce qu’il niait la divinité du Christ. [JY Mollier, "L’entrée dans l’ère des cent mille, un tournant irréversible", *Best sellers, l'industrie du succès*, 2021]
+
+<!-- .element: style="width:65%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/page7-436px-Renan_-_La_Vie_de_Jésus.djvu.jpg)<!-- .element: style="width:25%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -355,10 +457,126 @@ d’une vente de 72 000 exemplaires bien relayée par les 96 000 exemplaires du 
 1,25 franc imprimé en 1864 [35]. Cet exemple est intéressant en ce qu’il montre qu’en
 ce début d’ère médiatique une œuvre telle que la Vie de Jésus, lancée comme un
 produit scandaleux par un professeur dont le cours au Collège de France a été
-suspendu l’année précédente parce qu’il niait la divinité du Christ
+suspendu l’année précédente parce qu’il niait la divinité du Christ.
 
-Pour vous donner un ordre d'idée : Tout au long du 18e, les éditeurs se contentaient de tirer à 800, 1 000 ou 1 200 exemplaires des romans qu’ils tronçonnaient en deux ou trois tomes.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'émergence d'une culture populaire
+
+![](img/fantomas_img-2-small480.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+Le développement du best-seller, comme stratégie éditoriale qui permet à l'éditeur de gagner de l'argent, mais également de financer des projets plus risqués, repose sur le développement d'une littérature populaire. 
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+CI-contre, *Fantômas*, trente-deux volumes vendus à près de 140 000 exemplaires entre 1911 et 1913.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+===
+
+Au XIXe se développent également des collections grand public. qui préfigurent la littérature sérielle du dernier tiers du xixe siècle [33], celle dont profitera Fantômas, dont les trente-deux volumes dépasseront en moyenne les 140 000 exemplaires [34] entre 1911 et 1913.
+
+On voit ici comment l'influence d'une énonciation éditoriale s'exerce, et va profondément influencer la littérature et la culture : le développement du best-seller, comme stratégie éditoriale qui permet à l'éditeur de gagner de l'argent, mais également de financer des projets plus risqués, repose sur le développement d'une littérature populaire. 
+
+Il est donc intéressant de voir que l'on conspue la littérature populaire, alors qu'elle permet finalement le développement de projets plus "difficiles". 
+D'un autre côté, un argument consiste à voir un nivellement par le bas de l'offre. 
+
+C'est une logique du pharmakon : on est toujours sur une ligne de crète entre ce qui est bénéfique et ce qui potentiellement vient pourrir un système. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le paradoxe du *best seller* : pas vu, pas pris
+
+>On n’en parle jamais dans la presse littéraire ni à l’école, et pourtant on ne voit qu’eux dans les trains et sur les plages, et ils offrent des heures de divertissement et même des cadres de pensée à des millions de Français. Telle est la destinée des best-sellers : innombrables en librairie, têtes de gondoles dans les rayons des hypermarchés et les maisons de la presse, mais absents des programmes académiques ; appréciés des lecteurs qui font la queue dans les salons du livre pour rencontrer leurs auteurs fétiches, mais souvent considérés avec quelque dédain comme une distraction inavouable. Ils sont pourtant une nécessité essentielle, mais cachée, de l’économie française de la culture : on a pu estimer le poids global des revenus de Marc Levy à 80,6 millions d’euros en 2008, soit à lui seul environ deux fois le budget annuel du Centre national du livre.
+
+<!-- .element: style="font-size:1.4rem;text-align:justify;" -->
+
+
+O. Bessard Banquy, S. Ducas et A. Gefen *Best-sellers : L'industrie du succès*, 2021
+
+<!-- .element: style="font-size:1.4rem;text-align:right;" -->
+
+===
+
+Le paradoxe du best seller : 
+
+>On n’en parle jamais dans la presse littéraire ni à l’école, et pourtant on ne voit qu’eux dans les trains et sur les plages, et ils offrent des heures de divertissement et même des cadres de pensée à des millions de Français. Telle est la destinée des best-sellers : innombrables en librairie, têtes de gondoles dans les rayons des hypermarchés et les maisons de la presse, mais absents des programmes académiques ; appréciés des lecteurs qui font la queue dans les salons du livre pour rencontrer leurs auteurs fétiches, mais souvent considérés avec quelque dédain comme une distraction inavouable. Ils sont pourtant une nécessité essentielle, mais cachée, de l’économie française de la culture : on a pu estimer le poids global des revenus de Marc Levy à 80,6 millions d’euros en 2008, soit à lui seul environ deux fois le budget annuel du Centre national du livre.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le concept de *best seller* : contre une certaine idéologie de la littérature
+
+>Le discours sur les best-sellers est en réalité construit en creux à partir d’une définition moderniste de la littérature valorisant des modèles d’exigence fondés sur la rareté et le refus d’une trop grande accessibilité. Une telle définition, moderniste, s’est progressivement imposée au cours du xixe siècle en réaction à trois phénomènes : le développement d’une culture médiatique, celui d’une pulsion démocratique portée par le peuple, celui enfin des nouvelles formes de la société marchande. Or ces trois traits convergent dans le best-seller.
+
+<!-- .element: style="font-size:1.6rem;text-align:justify;" -->
+
+Matthieu Letourneux, "Best-seller, consommation et idéologie", Dans O. Bessard Banquy, S. Ducas et A. Gefen *Best-sellers : L'industrie du succès*, 2021.
+
+<!-- .element: style="font-size:1.4rem;text-align:right;" -->
+
+
+===
+
+La mise en perspective que l'on vient de faire montre qu'il a toujours existé des best-sellers (pris au sens
+neutre de meilleures ventes). Pourtant, la notion apparaît dans le langage courant bien plus tard, à compter des années 1960, à un moment clé de l’histoire
+économique (celui du basculement des États-Unis dans une culture de
+consommation) qui a eu une répercussion majeure dans l’histoire culturelle (Letourneux)
+
+La rapidité avec laquelle la notion de best-seller s’est imposée au début du xxe siècle tient à sa manière de synthétiser les transformations de la culture qui se produisent à l’époque.
+
+Ce rôle du best-seller comme lieu de cristallisation d’un débat culturel plus large
+expliquerait le glissement qui s’est opéré dès les premières années d’une définition
+économique (le best-seller renvoyant, au sens propre, aux « meilleurs ventes ») vers
+une définition littéraire à forte coloration axiologique. En réalité, par la suite, un tel
+glissement se retrouvera constamment dans les études consacrées au best-seller,
+que celles-ci soient universitaires ou journalistiques d’ailleurs. Elles témoignent
+que le discours sur les best-sellers est en réalité construit en creux à partir d’une
+définition moderniste de la littérature valorisant des modèles d’exigence fondés sur
+la rareté et le refus d’une trop grande accessibilité. Une telle définition, moderniste,
+s’est progressivement imposée au cours du xixe siècle en réaction à trois
+phénomènes : le développement d’une culture médiatique, celui d’une pulsion
+démocratique portée par le peuple, celui enfin des nouvelles formes de la société
+marchande [2]. Or ces trois traits convergent dans le best-seller.
+
+
+Pour Letourneux, le best-seller ne doit pas être compris seulement comme une catégorie économique (meilleures ventes) ni comme une catégorie littéraire, mais avant tout comme une catégorie idéologique. Il cristallise en effet les tensions de la culture moderne entre élitisme et culture de masse.
+
+
+Le problème et l'intérêt du best seller, c'est qu'il est objet de débats culturels :
+Le best-seller a très vite été associé à une culture de masse, démocratique et médiatisée, opposée aux valeurs modernistes d’exigence et de rareté. La presse et la critique oscillent alors entre fascination pour le succès et condamnation d’une marchandisation de l’esprit.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Une littérature illégitime ? La *middlebrow culture* 
+
+>La thèse qui sous-tend Middlebrow Matters est par conséquent que depuis la fin du dix-neuvième siècle il existe toute une couche de fiction narrative qui a été lue et appréciée par des milliers de lecteurs (voire de lectrices), qui a joué un rôle important dans la construction de mentalités et d’imaginaires collectifs, mais qui reste absente ou en marge du canon « légitime » – à cause de sa relative transparence formelle et de sa négation des principes modernistes.</br>Diana Holmes, *Middlebrow Matters. Women's reading and the literary canon in France since the Belle Époque*, Contemporary French and Francophone Cultures, 57.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
+
+
+
+![](img/middlebrow.jpg)<!-- .element: style="width:35%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Middlebrow culture :
+Les best-sellers s’imposent dans l’espace des classes moyennes, soutenus par les magazines populaires et une culture de consommation. Ils se situent entre la culture « highbrow » (élite intellectuelle) et la « lowbrow » (culture populaire), proposant un divertissement « de bon goût » qui emprunte aux genres populaires tout en s’en distinguant.
+
+Critiques et idéologies :
+Les modernistes comme Virginia Woolf ou Q. D. Leavis dénoncent le best-seller comme signe d’un déclin culturel. Mais au-delà des attaques, ce sont surtout les nouvelles pratiques de consommation et les rapports entre littérature et marché qui sont visés.
+
+Évolution au XXᵉ siècle :
+Le discours critique a intégré progressivement un vocabulaire « mineur » (plaisir, divertissement, originalité légère) pour parler des best-sellers, ce qui reflète l’influence croissante de la société de consommation. À partir des années 1970, les genres populaires (policier, espionnage, fantasy, etc.) occupent de plus en plus les listes de best-sellers, dans un contexte post-fordiste qui combine standardisation et singularisation.
+
+Conclusion :
+Le best-seller est un observatoire des mutations culturelles : il révèle les tensions entre élitisme et culture de masse, entre valeur artistique et succès commercial, entre singularité et production industrielle. Plus qu’un simple indicateur de ventes, il est un symptôme des transformations idéologiques et sociales de la culture au XXᵉ siècle, dominée par la logique de consommation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -372,13 +590,14 @@ Pour vous donner un ordre d'idée : Tout au long du 18e, les éditeurs se conten
 
 ===
 
-Best-sellerisation ? 
+Best-sellerisation ? Nouveau concept pour désigner une dérive, pas tant du best seller (même s'il sert de prétexte), que du système de péréquation.
 
-D'abord une réalité économique au sein des maisons d'édition : un gros succès permet de financer des projets plus petits et risqués, moins rémunérateurs.
 
 Ce modèle est cependant mis à rude épreuve par une conjoncture qui le pousse dans ses retranchements : Les ventes se polarisent plus que jamais sur un tout petit nombre d’ouvrages, d’une veine souvent plus commerciale que littéraire. Dans le même temps, on assiste à une augmentation très forte du nombre de textes publiés :  le ministère de la ­culture indique que, entre 2011 et 2021, les livres enregistrés à la Bibliothèque nationale de France au titre du dépôt légal sont passés de 70 109 à 88 016 (+ 26 %).
 
-Conséquence : on publie bcp, mais peu : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
+Conséquence : on publie bcp de titres, mais peu d'ouvrage : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
+
+En d'autres termes : la best-sellerisation réduit la possibilité pour un auteur "non populaire" de toucher des droits d'auteurs. D'autant plus que les risques sont de moins en moins pris.
 
 La "best-sellerisation" qui était autrefois un moyen pour les éditeurs de rémunérer tt le monde équitablement, est en train d'atteindre ses limites sous son propre mouvement.
 
@@ -415,9 +634,43 @@ Karina Hocine, secrétaire générale de Gallimard, dans *Le Monde*, octobre 202
 Les effets de la « best-sellerisation » accrue des ventes touchent durement ceux que Karina Hocine, secrétaire générale de Gallimard, appelle « la classe moyenne de l’édition ». Ceux dont les livres s’écoulaient encore récemment entre 5 000 et 10 000 exemplaires – le seuil de ventes annuel à partir duquel il deviendrait, de l’avis général, possible de vivre de sa plume si l’on y ajoute les prix littéraires, les cessions de droits pour les passages en poche, les traductions et les options pour des adaptations. « Cette classe moyenne est en voie de disparition, alors qu’elle constituait jusqu’à récemment le cœur battant du milieu, poursuit Karina Hocine. Un livre dont on pouvait raisonnablement espérer, il y a quelques années, qu’il se vendrait à 15 000 ou 20 000 exemplaires atteint aujourd’hui plutôt les 2 000. » 
 
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Le temps des alternatives : 
+#### Chez les indépendants, un modèle économique sans cesse à réinventer
+
+===
+
+Les grands perdants = classe moyenne
+Et plus généralement les éditeurs indé. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/2024-aides-maisons-inde.png)
+
+===
+
+Dépendance aux financements publics
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/macula-economie.png)
+
+===
+
+macula-economie.png
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le temps des alternatives : le financement participatif
+
+![](img/ulule.png)
+
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ##### Patreon, le réseau social anti-social ?
 
@@ -488,25 +741,6 @@ Le crowdfunding s'est largement répandu ces dernières années dans le secteur 
 
 Logique du management : le créateur devient de plus en plus son propre producteur.
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## Sur les réseaux sociaux, une relation avant tout parasociale
-
-Le concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-
-Comment les relations entre l'écrivain et le lecteur, le patron-mécènne, sont-elles organisées et gérées ? 
-
-Rappel : La littérature des plateformes accompagne les mutations profondes de la présence sociale de l'écrivain dans l'espace public. La présence en ligne des auteurs, généralement sur des réseaux sociaux caractérisés par un flux conversationnel continu, implique une prise en charge l'identité auctoriale, qui tend à se confondre avec l'identité numérique. Ces écritures profilaires, qui échappent de plus en plus aux éditeurs, jusque-là seuls responsables de la médiatisation de l'écrivain, représentent un travail quotidien, parfois risqué, tant la gestion des communautés numérique implique un savoir-faire à part entière.
-
-Comme les CMS, les réseaux sociaux ont également nourri un discours de la désintermédiation : sur Twitter, FaceBook, le lecteur ou le fan serait en mesure d'échanger "directement" avec son artiste favori. La communauté Des travaux ont nuancé cette relation directe, en requalifiant de "parasociale" la relation qui unit les créateurs de contenus et leurs *follower*. Ce concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
-
-Sur Patreon, l'accent est mis sur la promesse d'une sociabilité plus authentique, garantissant un accès direct au créateur. François Bon insiste : "le Patreon autorise une relation directe et un autre espace d'expérimentation privilégiée." L'abonnement garantit un "accès à la messagerie privée avec priorité de mon côté." 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -626,14 +860,12 @@ François Bon est sans doute celui de nos deux écrivains qui déploie le plus l
 François Bon apparaît ainsi comme le chef d'orchestre ou l'animateur d'un petit groupe d'amateurs éclairés, et même davantage : d'autres créateurs en devenir.
 
 
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-Là où la plupart des plateformes créatives et de financement participatif jouent sur la monétisation de la relation parasociale qui se crée entre le créateur et sa communauté, à partir d'une mise en scène de l'intime, Patréon joue sur la carte de la professionnalisation, et valorise un discours du travail. Il me semble à cet égard que la plateforme est sans doute la plus à même de renouer avec un certain esprit du salon littéraire -- métaphore souvent avancée, de manière trop poussive à mon sens, pour qualifier les forums en ligne puis les différentes plateformes d'écriture et enfin les réseaux sociaux.
+## Conclusion
+
+L'édition moderne et contemporaine s'est construite sur un modèle économique de péréquation, qui s'est appuyé sur la publication de succès d'édition -- ou *best sellers*. Paradoxalement, les *best sellers* sont des impensés des études littéraires, qui privilégient une culture élitiste. Les études médiatiques, et certains coutants théoriques contemporains, s'attachent à étudier ces oeuvres issues de la culture populaire, dont certaines ont d'ailleurs fini par acquérir leurs lettres de noblesse. Dans un contexte accru de concentration éditoriale, ce modèle de la péréquation est remis en cause par une tendance à la best-sellerisation qui voit la classe moyenne de l'édition menacée. Cette crise économique voit émerger des modèles alternatifs, et participe de la tendance à l'auto-édition.
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-
-En d'autres termes, **là où la plupart des plateformes créatives et de financement participatif jouent sur la monétisation de la relation parasociale qui se crée entre le créateur et sa communauté, à partir d'une mise en scène de l'intime, Patréon joue sur la carte de la professionnalisation, et valorise un discours du travail. Il me semble à cet égard que la plateforme est sans doute la plus à même de renouer avec un certain esprit du salon littéraire -- métaphore souvent avancée, de manière trop poussive à mon sens, pour qualifier les forums en ligne puis les différentes plateformes d'écriture et enfin les réseaux sociaux.**
-
