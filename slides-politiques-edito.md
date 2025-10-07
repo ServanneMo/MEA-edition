@@ -588,6 +588,7 @@ Bref : il s'agit d'une activité éditoriale qui, comme pour les auteurs, ne son
 * Un enjeu de bibliodiversité
 
 
+
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:left" -->
 
 
@@ -604,9 +605,20 @@ La notion d'éditeur indépendant se pense d'abord dans ce contexte d'une concen
 
 La qualification « édition indépendante », dans ce sens, désigne les maisons d'édition, souvent de petite taille, mais pas toujours (Actes Sud est une grande maison), qui n'appartiennent pas aux groupes d'édition qui forment aujourd'hui l'oligopole en réseau de l'édition et des médias.
 
-Dans un contexte d'amplification majeur de la concentration éditoriale, ainsi que de politisation croissante des grands groupes éditoriaux, les éditeurs indépendants ont tenté ces dernières années de s'organiser.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-En 2023, la FEDEI, pour Fédération des éditions indépendantes (éditions plutôt que éditeurs) a ainsi organisé les premières assises des indépendants. 2e édition à venir en 2025, à Bordeau. Il s'agit d'une jeune Fédération, qui attire de plus en plus l'attention sur elle. 
+>Le cas d'Actes Sud incarne « l’ambivalence du discours de l’indépendance et les dissonances entre la présentation de soi, les récits d’entreprise et la division du travail ; en bref, entre les moyens de production et les discours qui les justifient » </br>Julien Lefort-Fravreau, *Le Luxe de l’indépendance. Réflexions sur le monde du livre*, Montréal, Lux, 2021.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+![](img/nyssen.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+l’indépendance n’est jamais qu’une « position de départ » (p. 52) et ne reflète en rien la trajectoire complète d’une structure, comme le révèle l’histoire de l’éditeur français Actes Sud (p. 45-61). Tout en passant d’une petite maison indépendante créée dans une bergerie près d’Arles en 1978 à un groupe particulièrement puissant (tant d’un point de vue économique que symbolique), Actes Sud a maintenu une rhétorique faisant la part belle à son indépendance originelle et à un idéal artisanal. Les activités de la maison – diversification des activités du groupe, rachat de petites structures d’édition, constitution d’un important capital immobilier –, tout comme la trajectoire de l’héritière de la structure, Françoise Nyssen, qui devint pour un temps ministre de la Culture, semblent contradictoires avec ces déclarations. Cet exemple permet de rendre compte de « l’ambivalence du discours de l’indépendance », et plus particulièrement « les dissonances entre la présentation de soi, les récits d’entreprise et la division du travail ; en bref, entre les moyens de production et les discours qui les justifient » (p. 55).
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -617,6 +629,8 @@ En 2023, la FEDEI, pour Fédération des éditions indépendantes (éditions plu
 * Ne pas être contrôlée, directement ou indirectement, par l’État, une collectivité territoriale ou un établissement public, par un groupe d’éditions ou un groupe financier et
 * Réaliser un chiffre d’affaire dont le montant annuel ne dépasse pas 10 millions d’euros.
 
+
+
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:left" -->
 
 
@@ -624,6 +638,11 @@ En 2023, la FEDEI, pour Fédération des éditions indépendantes (éditions plu
 
 
 ===
+
+Dans un contexte d'amplification majeur de la concentration éditoriale, ainsi que de politisation croissante des grands groupes éditoriaux, les éditeurs indépendants ont tenté ces dernières années de s'organiser.
+
+En 2023, la FEDEI, pour Fédération des éditions indépendantes (éditions plutôt que éditeurs) a ainsi organisé les premières assises des indépendants. 2e édition à venir en 2025, à Bordeau. Il s'agit d'une jeune Fédération, qui attire de plus en plus l'attention sur elle. 
+
 
 Définition de la FEDEI. 
 
@@ -639,9 +658,15 @@ La FEDEI estime approximativement à 2500, le nombre de maisons d’éditions in
 * Éditoriale / idéologique (une édition _engagée_)
 * Créative / esthétique (une édition alternative)
 
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
 ### ... et ses défis
 * Économiques (rentabilité moindre voire nulle)
 * Logistiques (Distribution et Diffusion)
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
 
 ===
 
@@ -660,24 +685,24 @@ Tout cela ne va pas sans difficultés.
 
 La question de l’indépendance c’est considérablement complexifiée, à tel point qu’elle devient difficile à définir. Et pourtant il est indispensable de nommer et de qualifier cette façon très politique de faire de l’édition de création, si singulière et si différente de l’« édition de groupe ». Si l’on se concentre exclusivement sur le capital, donc une indépendance économique, c’est oublier la dépendance économique dans laquelle sont placées des structures qui ont recours à une diffusion distribution déléguées, qu’elle soit ou non rattachée à un groupe éditorial. La question de liberté et la qualité de choix éditoriaux ne peuvent pas non plus être utilisé seuls comme outil de définition de l’indépendance, la liberté et la qualité éditoriale se retrouvant tant dans les publications de collections appartenant à des groupes que dans celles des structures indépendantes. 
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 >Benoît Laureau, co-fondateur de L’Ogre, dans « (Re)définir l’indépendance », Livre Hebdo, 2024.
 
-<!-- .element: style="font-size:1.7rem; text-align:right" -->
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 L’indépendance serait donc surtout une question d’état d’esprit et de capacité à contrôler à minima la manière d’éditer, de fabriquer et de commercialiser le livre. Mais ce que révèle surtout cette tentative de définition, c’est que, derrière de nos indépendances individuelles (auteurs, éditeurs, libraires, diffuseurs-distributeurs), se cache une interdépendance très concrète et politique. Et il me semble aujourd’hui beaucoup plus intéressant de se concentrer sur cette notion, de la définir et s’en servir pour construire une véritable chaine du livre indépendant qui permettrait d’apporter un ensemble de réponse à nos préoccupations sociales, écologiques, et économiques.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 >Benoît Laureau, co-fondateur de L’Ogre, dans « (Re)définir l’indépendance », Livre Hebdo, 2024.
 
-<!-- .element: style="font-size:1.7rem; text-align:right" -->
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -686,12 +711,12 @@ L’indépendance serait donc surtout une question d’état d’esprit et de ca
 
 >« Indépendante » pour définir l’édition, est-ce là le bon terme ? Nous incarnons une mosaïque, pas un monolithe. Quel est le plus petit dénominateur commun à même d’exprimer nos singularités ? Voilà un aspect à cerner : que la perception devienne un portrait.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 
 >Dominique Tourte, Président de la FEDEI
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
 
 
 ===
@@ -702,7 +727,18 @@ Camille Delettre, à la tête de la maison L’Atteinte. Pour ce dernier, le ter
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Dans les prochains cours... 
+#### Une réflexion à poursuivre dans les prochains cours... 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Envisager l'indépendance financière
+* Financements participatifs
+* Le coût de l'indépendance
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+![](img/ulule.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -712,30 +748,36 @@ Camille Delettre, à la tête de la maison L’Atteinte. Pour ce dernier, le ter
 * Modèles hors le livre
 * Édition numérique
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+![](img/abruptgitlaberror.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Des qualificatifs multiples...
+### Repenser les échelles et l'artisanat éditorial
 
 * _Small press_, 
 * Petite édition, 
 * _micro-édition_
 * Fanzine, POD...
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+![](img/espritEscalier.jpeg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
-#### ...pour de faibles tirages, un nombre réduit de titres & une fabrique artisannale
 
 ===
+
+pour de faibles tirages, un nombre réduit de titres & une fabrique artisannale
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### L'auto-édition, une solution ? 
 
-![](img/kindleDirectPublishing.png)
+![](img/kindleDirectPublishing.png)<!-- .element: style="width:400px" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -751,6 +793,6 @@ Camille Delettre, à la tête de la maison L’Atteinte. Pour ce dernier, le ter
 
 ## Conclusion
 
-La question de la gouvernance éditoriale pose celle de l'influence des grands groupes sortis vainqueurs des batailles pour la concentration éditoriale aux XX et XXIe siècles. L'actualité brûlante de cette concentration pose aujourd'hui Hachette et Editis en leader du marché, qui comprend aussi bien un catalogue d'auteurs (et d'idées) qu'une structure logistique qui leur permet de conserver leur domination. Dans ce contexte, l'indépendance éditoriale fait face à des défis multiples, mais semble plus essentielle que jamais. Cet état des lieux ouvre à de nouveaux questionnements, sur l'auto-édition, les modèles éditoriaux alternatifs, ainsi que les effets de concentration à venir, liés à l'essor de l'édition numérique.
+La question de la gouvernance éditoriale pose celle de l'influence des grands groupes sortis vainqueurs des batailles pour la concentration éditoriale aux XX et XXIe siècles. L'actualité brûlante de cette concentration pose aujourd'hui Hachette et Editis en leader du marché, qui comprend aussi bien un catalogue d'auteurs (et d'idées) qu'une structure logistique qui leur permet de conserver leur domination. Dans ce contexte, l'indépendance éditoriale apparaît comme un "luxe" (Favreau) et fait face à des défis multiples, mais semble plus essentielle que jamais. Cet état des lieux ouvre à de nouveaux questionnements, sur l'auto-édition, les modèles éditoriaux alternatifs, ainsi que les effets de concentration à venir, liés à l'essor de l'édition numérique.
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->

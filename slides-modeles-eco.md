@@ -28,7 +28,9 @@ N'étant pas économiste, je ne me lancerai pas dans un cours de gestion, mais j
 
 ![](img/evolution-CA-editeurs-2024.png)
 
-(chiffres SNE)
+chiffres SNE
+<!-- .element: style="font-size:1.7rem" -->
+
 
 ====
 
@@ -664,7 +666,7 @@ macula-economie.png
 
 #### Le temps des alternatives : le financement participatif
 
-![](img/ulule.png)
+![](img/ulule.png)<!-- .element: style="width:500px" -->
 
 
 ===
@@ -672,7 +674,7 @@ macula-economie.png
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-##### Patreon, le réseau social anti-social ?
+##### Patreon, plateforme de publication & rémunération
 
 ![](img/becomeApatron.jpeg)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
 
@@ -842,7 +844,7 @@ Là où le recrutement et l’activation de la participation des internautes est
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/lecture_collective_manuscrits.png)<!-- .element: style="width:570px" -->
+![](img/lecture_collective_manuscrits.png)<!-- .element: style="width:400px" -->
 
 ===
 
