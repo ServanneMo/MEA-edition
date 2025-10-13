@@ -1,10 +1,241 @@
-## Pourquoi certains écrivains sont-ils parfois en conflit avec les éditeurs ?
+### Faut-il repenser le statut de l'auteur ? 
 
-#### Professionnalisation & précarisation des auteurs-créateurs
+#### Droit d'auteur, déconstruction, professionnalisation & précarisation des auteurs-créateurs au XXIe siècle
+
+![](img/XauteursEnColere.png)<!-- .element: style="width:400px" -->
+
+===
+
+Une campagne sur les réseaux sociaux et un mème : Paye ton auteur. C'était en 2018, et cela a marqué le début d'un conflit qui mine les relations entre les grands éditeurs et les auteurs depuis lors. 
+
+Cette séance a vocation à faire le pont entre les considérations des dernières semaines sur la gouvernance et les modèles éco des éditeurs, et le "problème" de l'auto-édition aujourd'hui. 
+
+Une petite anecdote pour mettre en bouche.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Auteurs et éditeurs, la longue histoire d'une relation amour-haine
+### La menace de la "dés-autorisation"...
+
+===
+On peut avoir été auteur et ne plus l'être. Du moins, administrativement. C'est la mésaventure qui est arrivée à François Bon en 2018.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/agessa.jpg" data-background-size="contain" -->
+
+source : Tiers livre, François Bon
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+>Zut alors : privé d’« assiette sociale ». J’avais une assiette sociale sans le savoir et je n’en ai plus.
+Dingue : pour la 1ère fois depuis... 1986, JE NE SUIS PLUS auteur ni quedalle... bon, j’ai du vieux cuir tanné – et quelques états de service derrière moi, mais ça montre bien :
+- 1, comment la précarisation des auteur.e.s touche globalement et massivement désormais TOUTE la profession ;
+- 2, que le régime démerde ça va être massivement la règle pour tou.te.s les d’jeuns qui débarquent dans le métier ;
+
+>Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Psychologiquement, pour moi, c’est la première fois depuis 30 ans, et depuis 20 ans de web, ce sont mes activités numériques indépendantes (y compris la vente de mes livres Tiers Livre Editeur, qui payent frais de site et matos, mais sur lesquels je ne me rémunère pas en D.A.) qui deviennent mon activité principale.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cnl_08.jpg" data-background-size="contain" -->
+
+source : Tiers livre, François Bon
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+Mais au fait, un auteur, c'est quoi ?
+
+===
+
+Un auteur, c'est quoi ? L'auteur, c'est d'abord un concept. En tant que concept, l'auteur a donc répondu à des définitions variées en fonction des différentes périodes historiques, mais également des ères géographiques et culturelles. Dans le domaine français, l'auteur est particulièrement tiraillé entre une définition institutionnelle & juridique (il est celui qui tombe sous le coup du droit d'auteur), et une entité bénéficiant d'une valeur symbolique particulière : l'auteur, c'est aussi celui qui a un statut d'artiste et qui, en ce sens, va bénéficier d'une certaine forme de sacralisation. 
+
+En tant qu'étudiants en études littéraires, vous avez une connaissance de l'auteur qui est avant tout  historique (vous étudiez de "grands auteurs) et théorique (avec un peu de chance, vous avez lu Barthes et Foucault). 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Une définition institutionnelle et juridique
+
+Le concept moderne d’auteur est le fruit du processus qui permet la professionnalisation des auteurs à la base du modèle économique de l’édition imprimée. En d’autres termes, la fonction fondamentale de l’auctorialité est la propriété. Cela signifie que la notion d’auteur n’a rien d’absolu et de nécessaire, elle est historique et, en outre, de formation relativement récente.
+
+<!-- .element: style="font-size:1.4rem;text-align:justify;" -->
+
+===
+
+Le concept moderne d’auteur est le fruit du processus qui permet la professionnalisation des auteurs à la base du modèle économique de l’édition imprimée. En d’autres termes, la fonction fondamentale de l’auctorialité est la propriété. Cela signifie que la notion d’auteur n’a rien d’absolu et de nécessaire, elle est historique et, en outre, de formation relativement récente.
+
+Le XVIIIe siècle est, en matière de librairie, le temps de la législation.
+À cette époque, les privilèges sont renouvelés régulièrement et restent parfois durant plus d'un siècle aux mains d'une même famille de libraires :
+- celle-ci réalise souvent des bénéfices importants,
+- tandis que les descendants de l'auteur, à qui l'œuvre en question a été achetée, se trouvent dans la misère.
+
+Cette situation, qui fait de plus en plus débat, va favoriser la mise en place d’un cadre législatif qui va définir les principaux acteurs de l’édition moderne, en institutionnalisant par des lois les pratiques éditoriales qui étaient, jusque là, génératrices de fortes inégalités.
+
+L’idée moderne d’auteur est donc née au début du XVIIIe siècle pour des raisons essentiellement économiques : il fallait un modèle économique pour l’édition papier en train de se généraliser. C’est à partir de ce besoin qu’une série d’ajustements légaux ont été mis en place pour parvenir à l’une des premières lois sur le copyright au Royaume Uni, Le statut d’Anne, en 1710.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le statut d'Anne (1710), première loi sur le copyright
+
+![](img/375px-Statute_of_anne.jpg)
+
+===
+
+- En Angleterre *Le Statut d’Anne (1710) - Copyright*
+
+Depuis le premier "Statut d'Anne", en 1710, le droit d'auteur est conçu comme un droit d'équilibre entre les intérêts de la société et ceux des auteurs. Ces derniers disposent du monopole d'exploitation de leurs oeuvres, qui ne peuvent être éditées ou représentées sans leur consentement.
+Concrètement, l’originalité du statut repose sur deux points :
+•	Le droit d’exclusivité (le copyright), défini comme « la seule liberté d’imprimer et réimprimer un livre», était désormais formellement rattaché à l’auteur (vs le libraire-imprimeur).
+•	mais cette exclusivité est à durée limitée. 
+
+*Le statut créait donc un « domaine public », avec comme conséquence qu’un ensemble de textes (et de livres) ne pourraient plus être soumis à des privilèges exclusifs d’impression.
+
+Comme le révèle l’expression « composer des livres utiles » - copyright, la loi est tournée du côté de l’exploitation de l’oeuvre. Elle défend d’abord un droit de copier (qui est un droit d'exploitant) lié à l'œuvre elle-même.
+Dans ce raisonnement, le texte est donc conçu comme une marchandise.
+
+Le copyright est une protection qui se limite à la sphère stricte de l’œuvre, sans considérer d’attribut moral à l’auteur en relation avec son œuvre, sauf sa paternité ; ce n’est plus l’auteur proprement dit, mais l’ayant-droit qui détermine les modalités de l’utilisation d’une œuvre.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La déclinaison française du droit d'auteur
+
+Inspiré par la situation anglaise, la France propose une série d'arrêts en 1777, pour revoir la législation : un auteur qui prendra lui-même son privilège et vendra son œuvre chez lui pourra transmettre à ses héritiers un droit perpétuel sur cette œuvre [**= droit patrimonial (exploitation économique)**]. Dans la foulée, une loi sur la propriété littéraire (1793) rend hommage au « génie » de l’homme de lettres [**= droit moral (« intégrité » de l’oeuvre)**]. C’est la naissance du Droit d’auteur à la française, source de bien des interprétations et des conflits.
+
+<!-- .element: style="font-size:1.4rem;text-align:justify;" -->
+
+===
+
+- En France : *Arrêt de 1777- droit d’auteur*
+Inspiré par la situation anglaise, la France propose une série d'arrêts en 1777, pour revoir la législation : un auteur qui prendra lui-même son privilège et vendra son œuvre chez lui pourra transmettre à ses héritiers un droit perpétuel sur cette œuvre (//système anglais). Dans la foulée, une loi sur la propriété littéraire (1793) rendait hommage au « génie » de l’homme de lettres. C’est la naissance du Droit d’auteur.
+
+Cette double législation est complexe et aboutit à une notion d’auteur problématique puisque le droit d’auteur va recouvrir :
+- droit patrimonial (exploitation économique)
+- droit moral (« intégrité » de l’oeuvre)
+
+C’est à dire qu’on insère avec ce droit moral (en fait très flou) un droit au respect de l’auteur, indépendant des droits patrimoniaux. Les droits moraux servent à protéger l’auteur en ce qui a trait au respect de l’intégrité de son œuvre et au respect de sa paternité sur son œuvre.   
+(NB : Par la loi, les droits moraux ne peuvent pas être cédés, mais ils peuvent toutefois faire l’objet d’une renonciation par contrat. Il faut donc bien lire le contrat offert par l’éditeur afin de s’assurer que vous conserviez le respect de vos droits moraux).
+
+Par opposition au système anglo-américain du copyright, qui privilégie le public, le code français, depuis les Lumières et la Révolution, avantage et sacralise l'auteur. Ce sont là deux conceptions rivales de la culture.
+
+Le droit d’auteur et le copyright diffèrent notamment sur un point : la notion de droit moral, inaliénable, perpétuel et imprescriptible.
+Dans le droit français, ce droit moral est constitutif de l’attachement du droit d’auteur à la personne de l’auteur plutôt qu’à l’œuvre : il reconnaît dans l’œuvre l’expression de la personne de l’auteur, et la protège donc au même titre.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Un droit soumis à interprétation
+
+![](img/cosette-temps-illusions.png)<!-- .element: style="width:400px" -->
+
+===
+
+Au nom de ce droit, bcp de procès: l’écrivain François Cérésa, qui avait rédigé, en 2001, la suite du célèbre roman donnant vie à Cosette dans "Cosette ou le temps des illusions" et "Marius ou le fugitif".
+L’affaire remonte à 2001, à l’aube du bicentenaire du mastodonte de la littérature française. La maison d’édition Plon met au défi les plumes audacieuses de rédiger la suite des fameux "Misérables". La version de François Cérésa est retenue, et connaît, d’ailleurs, un succès mitigé. Dès sa publication, deux camps se profilent. L’un, mené par Pierre Hugo, arrière-arrière-petit-fils de l'écrivain romantique, crie à la *dénaturation* de l’œuvre en question. S’il admet les adaptations et autres produits dérivés issus du roman, il dénonce en revanche la "suite" en tant que telle. Et notamment le fait qu’elle ressuscite le policier Javert que Victor Hugo avait noyé dans la Seine. Pierre Hugo demande 4,5 millions de francs (690 000 euros) de dommages-intérêts.
+
+Finalement, l’éditeur gagne au bout de 7 années de procès.
+Le droit d’auteur comme droit moral se heurte, on le voit, à la liberté d’expression.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+#### Une notion théorique : déconstruire l'auteur
+
+![](img/michel-foucault_michel-_opaleplus.opale14266_01.jpg)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/barthes2.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Dans la seconde moitié du XXe, les post-structuralistes vont critiquer la notion culturelle d’auteur, avec deux critiques phares : Michel Foucault, dans le texte « Qu'est-ce qu'un auteur ? », texte d'une conférence donnée en février 1969 à la Société française de Philosophie, écrit peu après un article non moins fameux de Roland Barthes, au titre plus polémique, « La mort de l'auteur », publié en 1968.
+
+Au départ, ces deux critiques étaient animés par un mouvement d'hostilité à l'égard de l'histoire littéraire, dont ils contestaient la domination dans les études littéraires à l'université. Ils s'opposaient à la littérature considérée en relation avec son auteur, ou comme expression de son auteur, suivant une doctrine résumée dans le titre courant des thèses de lettres : X, l'homme et l'oeuvre.
+
+Ce que démontrent ces travaix, c'est que l’auteur est un personnage moderne produit par notre société dans la mesure où, au sortir du Moyen Âge, avec l'empirisme anglais, le rationalisme français, et la foi personnelle de la Réforme, elle a découvert le prestige de l'individu. Tel était le point de départ de la nouvelle critique : l'auteur n'est autre que le bourgeois, l'incarnation de l'idéologie capitaliste.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Contre l'individuation de l'auteur
+
+>l'image de la littérature que l'on peut trouver dans la culture courante est tyranniquement centrée sur l'auteur, sa personne, son histoire, ses goûts, ses passions; 1a critique consiste encore, la plupart du temps, a dire que l'oeuvre de Baudelaire, c'est l'échec de l'homme Baudelaire.
+celle de Van Gogh,c'est sa folie, celle de Tchaikowsky, c'est son vice : l' explication de l'oeuvre est toujours cherchée du côté de celle qui l'a produite, comme si, à travers l'allégorie plus ou moins transparente de la fiction, c'était toujours finalement la voix d'une seule et même personne, l'auteur, qui livrait sa "confidence".
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+====
+
+Dans son essai "La Mort de l'auteur", Barthes s'oppose à la méthode de lecture et de critique littéraire qui s'appuie sur telle facette de l'identité d'un auteur pour comprendre le sens de son œuvre. Dans ce type de critique, les expériences et les préjugés de l'auteur servent d'« explication » définitive au texte. Pour Barthes, cette méthode de lecture qui peut sembler ordonnée et pratique se révèle bâclée et imparfaite : « Donner un auteur à un texte », et lui attribuer une interprétation unique et correspondante, « c'est imposer une limite à ce texte ».
+
+« La mort de l’auteur » = prôner une nouvelle approche des textes littéraires contre la position lansonienne.
+
+Ce qu'il qualifie d'empire de l'auteur...
+
+>l'image de la littérature que l'on peut trouver dans la culture courante est tyranniquement centrée sur l'auteur, sa personne, son histoire, ses goûts, ses passions; 1a critique consiste encore, la plupart du temps, a dire que l'oeuvre de Baudelaire, c'est l'échec de l'homme Baudelaire.
+celle de Van Gogh,c'est sa folie, celle de Tchaikowsky, ,c'est son vice : l' explication de l'oeuvre est toujours cherchée du côté de celle qui l'a produite, comme si, à travers l'allégorie plus ou moins transparente de la fiction, c'était toujours finalement la voix d'une seule et même personne, l'auteur, qui livrait sa "confidence".
+
+
+Barthes plaide pour que l'étude littéraire fasse abstraction de l'auteur, comme producteur du texte, et comme contrainte dans la lecture ; il proposait en revanche une analyse des discours fondée sur les modèles de la linguistique.   
+
+On passe donc en plein des théories de l’intention à la théorie de la réception : ce qui compte, c’est comment nous, nous lisons le texte.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Foucault et la fonction auctoriale
+
+>Le thème dont je voudrais partir, j'en emprunte la formulation à Beckett : « Qu'importe qui parle, quelqu'un a dit qu'importe qui parle. » Dans cette indifférence, je crois qu'il faut reconnaître un des principes éthiques fondamentaux de l'écriture contemporaine.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+Foucault part quant à lui d’une double critique :
+- Critique de l’individuation propre à notre conception de l’auteur, qui est une simplification de l’histoire (littéraire, mais aussi en général) et une réorientation de celle-ci à des fins parfois peu nobles.
+- Critique de la tendance classificatoire et sacralisante de l’oeuvre.
+
+>Le thème dont je voudrais partir, j'en emprunte la formulation à Beckett : « Qu'importe qui parle, quelqu'un a dit qu'importe qui parle. » Dans cette indifférence, je crois qu'il faut reconnaître un des principes éthiques fondamentaux de l'écriture contemporaine.
+
+Il proclame ainsi l'anonymat de la parole dans la littérature contemporaine (le sujet écrivant ne cesse de disparaître), et plaide pour l’autonomie des textes (qui n’est référée qu’à elle-même).
+
+L'autorité, pour lui, sera donc d'abord et avant tout une fonction : c'est la théorie de la fonction auctoriale, qui ne renvoie pas à l’individu réel, mais à une figure de l’auteur dans le texte.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ 
+
+#### De l'écrivain à l'auteur : la fonction de légitimation de l'éditeur
+Fondamentalement, c'est l'éditeur qui transforme un écrivain en auteur. 
+
+===
+
+Le statut de l'auteur -- et plus largement le droit d'auteur, sa rémunération, sa figure, etc. -- a toujours été occupé par des tensions, tensions avec l'éditeur.
+
+J'aimerais revenir avec vous sur une série de tensions qui ont émaillé les relations entre les éditeurs et les auteurs-créateurs. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Auteurs et éditeurs, la longue histoire d'une relation amour-haine
 
 >J’irai prochainement vous voir. Mais comme il y a deux Michel, celui de son bureau, qui croit devoir être hérissé comme un sauvage, et celui du domicile personnel, qui est parfait homme du monde, vous me permettrez de choisir le second. Tout à vous. 
 
@@ -22,6 +253,14 @@ Remise en perspective : les tensions entre auteur et éditeur sont consubstantie
 Les conflits que nous traversons présentement sont importants, mais nous n'en sommes pas à la première crise entre éditeurs et écrivains, deux métiers qui ont profondément besoin l'un de l'autre, mais sont dans un espèce de rapport de concurrence. On adore se détester.
 
 Exemple ici de Baudelaire, avec son éditeur Michel Lévy.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Comprendre la colère des auteurs-créateurs 
+* Des événements marquants : Réforme de l'AGESSA, salon des auteurs
+* Des tendances de fond : Professionnalisation, précarisation
+
+===
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -44,8 +283,6 @@ Exemple ici de Baudelaire, avec son éditeur Michel Lévy.
 ===
 
 En 2018, la réforme de l'AGESSA (caisse de retraite des écrivains) a mis le feu aux poudres.
-
-Ajouter visuel
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -104,50 +341,7 @@ En 2018, l’ouverture du Salon du livre de Paris avait vu le départ d’une mo
 
 Le SNE et le salon ont finalement plié, et le salon s'est déroulé en présence des auteurs, rémunérés pour leur participation.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### La menace de la "dés-autorisation"...
-
-===
-On peut avoir été auteur et ne plus l'être. Du moins, administrativement. C'est la mésaventure qui est arrivée à François Bon en 2018.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/agessa.jpg" data-background-size="contain" -->
-
-source : Tiers livre, François Bon
-<!-- .element: class="source" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->Zut alors : privé d’« assiette sociale ». J’avais une assiette sociale sans le savoir et je n’en ai plus.
-Dingue : pour la 1ère fois depuis... 1986, JE NE SUIS PLUS auteur ni quedalle... bon, j’ai du vieux cuir tanné – et quelques états de service derrière moi, mais ça montre bien :
-- 1, comment la précarisation des auteur.e.s touche globalement et massivement désormais TOUTE la profession ;
-- 2, que le régime démerde ça va être massivement la règle pour tou.te.s les d’jeuns qui débarquent dans le métier ;
-
->Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Psychologiquement, pour moi, c’est la première fois depuis 30 ans, et depuis 20 ans de web, ce sont mes activités numériques indépendantes (y compris la vente de mes livres Tiers Livre Editeur, qui payent frais de site et matos, mais sur lesquels je ne me rémunère pas en D.A.) qui deviennent mon activité principale.
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
->Francois Bon, [Tiers Livre](http://www.tierslivre.net/spip/spip.php?article4777)
-
-<!-- .element: style="font-size:1.4rem; text-align:right" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/cnl_08.jpg" data-background-size="contain" -->
-
-source : Tiers livre, François Bon
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -419,7 +613,8 @@ La ligue des auteurs pro
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Conclusion...
-La désintermédiation -- concept phare de la culture numérique il y a encore quelques années -- incarnait la promesse d'une émancipation des écrivains, enfin capable de garder l'entière maîtrise de leur travail. La fin des éditeurs a cependant été trop vite annoncée, tant la réintermédiation semble avoir mis en place un nouveau monopole qui n'est pas toujours plus favorable au statut des auteurs. Désintermédiation ou non, cette volonté des auteurs, toujours plus nombreux, à vouloir s'émanciper des éditeurs traditionnels, incarne un profond malaise qui touche la communauté des écrivains depuis maintenant plusieurs années. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
+
+On le voit, la notion d’auteur est confuse. Comme catégorie du droit, elle est soumise à interprétation. Le statut légal de l’auteur ne renvoie aucunement à une « Vérité » : il est culturel, et varie en fonction des sociétés dans lequel il est pensé. Ce statut légal de l’auteur - notamment dans sa version « latine », française, influence cependant profondément ce que nous faisons des oeuvres, la façon dont nous les lisons. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 

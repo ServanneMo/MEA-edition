@@ -415,7 +415,7 @@ L’intérêt économique du livre de poche tient à la réduction des coûts de
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### La starification des écrivains
+#### La starisation des écrivains
 
 >Mais parallèlement, un phénomène de starisation avant la lettre se produit qui profite avant tout aux « vedettes » de la scène et du roman. Ernest Feydeau avait connu un succès foudroyant, quoiqu’éphémère, au début des années 1860, avec la publication de deux romans légers, Fanny et Daniel, mais ce sont surtout Victor Hugo et Ernest Renan qui écrasèrent la concurrence avec la publication des Misérables en 1862 et de la Vie de Jésus en 1863.
 
@@ -492,6 +492,20 @@ C'est une logique du pharmakon : on est toujours sur une ligne de crète entre c
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+![](img/fantomas_img-2-small480.jpg)
+
+===
+
+
+Reprise de la dernière fois : on a travaillé sur les enjeux des modèles économiques. On a rappelé que l'édition reposait sur un modèle dit de la "péréquation" : soit un système dans lequel un succès d'édition (que l'on connaît aujourd'hui sous le nom de "best seller") permet le financement de projets éditoriaux plus risqués, s'adressant à un public potentiellement moins large. 
+
+Ce modèle historique de la péréquation ouvre deux conséquences et pistes de réflexion sur l'histoire du livre et de la littérature : 
+- d'abord, la "fabrique" du succès fait partie du travail de l'éditeur, et cette fabrique du succès ne repose pas que sur des critères purement littéraires, c'est-à-dire sur les contenus littéraires. Il serait naïf de croire que le texte de l'auteur est le seul responsable d'un sccès éditorial. Comme on l'a vu, un succès d'édition est le fruit d'une politique éditoriale et d'une énonciation éditoriale qui a notamment repensé au XIXe siècle l'objet livre : son format, la qualité de son papier, son prix. Un travail également sur le dispositif marketing autour du livre. Une starisation de certains auteurs qui seront particulièrement attendus par le public. En d'autres termes, un travail sur le livre en tant que "produit" culturel.
+
+- deuxième élément : la péréquation nous amène à réfléchir au statut du best seller, souvent mal aimé des études littéraires, qui, à l'Université du moins, s'intéressent plutôt à ces projets réputés "plus risqués", et donc plus élitiste. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 #### Le paradoxe du *best seller* : pas vu, pas pris
 
 >On n’en parle jamais dans la presse littéraire ni à l’école, et pourtant on ne voit qu’eux dans les trains et sur les plages, et ils offrent des heures de divertissement et même des cadres de pensée à des millions de Français. Telle est la destinée des best-sellers : innombrables en librairie, têtes de gondoles dans les rayons des hypermarchés et les maisons de la presse, mais absents des programmes académiques ; appréciés des lecteurs qui font la queue dans les salons du livre pour rencontrer leurs auteurs fétiches, mais souvent considérés avec quelque dédain comme une distraction inavouable. Ils sont pourtant une nécessité essentielle, mais cachée, de l’économie française de la culture : on a pu estimer le poids global des revenus de Marc Levy à 80,6 millions d’euros en 2008, soit à lui seul environ deux fois le budget annuel du Centre national du livre.
@@ -505,7 +519,9 @@ O. Bessard Banquy, S. Ducas et A. Gefen *Best-sellers : L'industrie du succès*,
 
 ===
 
-Le paradoxe du best seller : 
+
+
+C'est ce que l'on peut qualifier de paradoxe du best seller : 
 
 >On n’en parle jamais dans la presse littéraire ni à l’école, et pourtant on ne voit qu’eux dans les trains et sur les plages, et ils offrent des heures de divertissement et même des cadres de pensée à des millions de Français. Telle est la destinée des best-sellers : innombrables en librairie, têtes de gondoles dans les rayons des hypermarchés et les maisons de la presse, mais absents des programmes académiques ; appréciés des lecteurs qui font la queue dans les salons du livre pour rencontrer leurs auteurs fétiches, mais souvent considérés avec quelque dédain comme une distraction inavouable. Ils sont pourtant une nécessité essentielle, mais cachée, de l’économie française de la culture : on a pu estimer le poids global des revenus de Marc Levy à 80,6 millions d’euros en 2008, soit à lui seul environ deux fois le budget annuel du Centre national du livre.
 
@@ -530,25 +546,11 @@ neutre de meilleures ventes). Pourtant, la notion apparaît dans le langage cour
 économique (celui du basculement des États-Unis dans une culture de
 consommation) qui a eu une répercussion majeure dans l’histoire culturelle (Letourneux)
 
-La rapidité avec laquelle la notion de best-seller s’est imposée au début du xxe siècle tient à sa manière de synthétiser les transformations de la culture qui se produisent à l’époque.
+Ainsi, pour Mathieur Letourneux, la rapidité avec laquelle la notion de best-seller s’est imposée au XXe siècle tient à sa manière de synthétiser les transformations de la culture qui se produisent à l’époque. Le best-seller doit ainsi être entendu comme le lieu de cristallisation d’un débat culturel plus large : 
 
-Ce rôle du best-seller comme lieu de cristallisation d’un débat culturel plus large
-expliquerait le glissement qui s’est opéré dès les premières années d’une définition
-économique (le best-seller renvoyant, au sens propre, aux « meilleurs ventes ») vers
-une définition littéraire à forte coloration axiologique. En réalité, par la suite, un tel
-glissement se retrouvera constamment dans les études consacrées au best-seller,
-que celles-ci soient universitaires ou journalistiques d’ailleurs. Elles témoignent
-que le discours sur les best-sellers est en réalité construit en creux à partir d’une
-définition moderniste de la littérature valorisant des modèles d’exigence fondés sur
-la rareté et le refus d’une trop grande accessibilité. Une telle définition, moderniste,
-s’est progressivement imposée au cours du xixe siècle en réaction à trois
-phénomènes : le développement d’une culture médiatique, celui d’une pulsion
-démocratique portée par le peuple, celui enfin des nouvelles formes de la société
-marchande [2]. Or ces trois traits convergent dans le best-seller.
-
+>Le discours sur les best-sellers est en réalité construit en creux à partir d’une définition moderniste de la littérature valorisant des modèles d’exigence fondés sur la rareté et le refus d’une trop grande accessibilité. Une telle définition, moderniste, s’est progressivement imposée au cours du xixe siècle en réaction à trois phénomènes : le développement d’une culture médiatique, celui d’une pulsion démocratique portée par le peuple, celui enfin des nouvelles formes de la société marchande. Or ces trois traits convergent dans le best-seller.
 
 Pour Letourneux, le best-seller ne doit pas être compris seulement comme une catégorie économique (meilleures ventes) ni comme une catégorie littéraire, mais avant tout comme une catégorie idéologique. Il cristallise en effet les tensions de la culture moderne entre élitisme et culture de masse.
-
 
 Le problème et l'intérêt du best seller, c'est qu'il est objet de débats culturels :
 Le best-seller a très vite été associé à une culture de masse, démocratique et médiatisée, opposée aux valeurs modernistes d’exigence et de rareté. La presse et la critique oscillent alors entre fascination pour le succès et condamnation d’une marchandisation de l’esprit.
@@ -557,7 +559,7 @@ Le best-seller a très vite été associé à une culture de masse, démocratiqu
 
 #### Une littérature illégitime ? La *middlebrow culture* 
 
->La thèse qui sous-tend Middlebrow Matters est par conséquent que depuis la fin du dix-neuvième siècle il existe toute une couche de fiction narrative qui a été lue et appréciée par des milliers de lecteurs (voire de lectrices), qui a joué un rôle important dans la construction de mentalités et d’imaginaires collectifs, mais qui reste absente ou en marge du canon « légitime » – à cause de sa relative transparence formelle et de sa négation des principes modernistes.</br>Diana Holmes, *Middlebrow Matters. Women's reading and the literary canon in France since the Belle Époque*, Contemporary French and Francophone Cultures, 57.
+>La thèse qui sous-tend *Middlebrow Matters* est par conséquent que depuis la fin du dix-neuvième siècle il existe toute une couche de fiction narrative qui a été lue et appréciée par des milliers de lecteurs (voire de lectrices), qui a joué un rôle important dans la construction de mentalités et d’imaginaires collectifs, mais qui reste absente ou en marge du canon « légitime » – à cause de sa relative transparence formelle et de sa négation des principes modernistes.</br>Diana Holmes, *Middlebrow Matters. Women's reading and the literary canon in France since the Belle Époque*, Contemporary French and Francophone Cultures, 57.
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
 
@@ -568,11 +570,31 @@ Le best-seller a très vite été associé à une culture de masse, démocratiqu
 
 ===
 
+Pour Letourneux, comme l'ensemble des spécialistes de la culture médiatique et populaire, le best seller est l'un des éléments clés d'une middlebrow culture. 
+
+La “middlebrow culture” (ou culture moyenne en français) est un concept sociologique et critique qui désigne une forme de culture située entre la “highbrow” culture (la culture dite « haute », élitiste, intellectuelle) et la “lowbrow” culture (la culture populaire ou de masse).
+
+Le mot middlebrow est apparu au début du XXᵉ siècle, notamment dans la presse anglo-saxonne. Il combine middle (moyen) et brow (front, par référence au “haut front” des intellectuels).
+
+Il a souvent une connotation péjorative, surtout dans la bouche d’intellectuels comme Virginia Woolf, qui l’utilisait pour dénoncer une forme de culture prétentieuse — celle de gens cherchant à paraître cultivés sans vraiment s’engager dans une démarche intellectuelle profonde.
+
+Diana Holmes, ouvrage essentiel sur le sujet :
+
+>La thèse qui sous-tend *Middlebrow Matters* est par conséquent que depuis la fin du dix-neuvième siècle il existe toute une couche de fiction narrative qui a été lue et appréciée par des milliers de lecteurs (voire de lectrices), qui a joué un rôle important dans la construction de mentalités et d’imaginaires collectifs, mais qui reste absente ou en marge du canon « légitime » – à cause de sa relative transparence formelle et de sa négation des principes modernistes.<
+
+La middlebrow culture correspond à une culture :
+
+- accessible, mais se voulant respectable ou éducative ;
+- consommée par les classes moyennes instruites, souvent en quête de distinction sociale ;
+- qui cherche un équilibre entre plaisir et prestige culturel.
+
+En d’autres termes, c’est la culture qui traduit la “haute culture” en formats populaires (par exemple via la télévision, les clubs de lecture, les best-sellers littéraires “intelligents”, ou les musées pédagogiques).
+
 Middlebrow culture :
 Les best-sellers s’imposent dans l’espace des classes moyennes, soutenus par les magazines populaires et une culture de consommation. Ils se situent entre la culture « highbrow » (élite intellectuelle) et la « lowbrow » (culture populaire), proposant un divertissement « de bon goût » qui emprunte aux genres populaires tout en s’en distinguant.
 
 Critiques et idéologies :
-Les modernistes comme Virginia Woolf ou Q. D. Leavis dénoncent le best-seller comme signe d’un déclin culturel. Mais au-delà des attaques, ce sont surtout les nouvelles pratiques de consommation et les rapports entre littérature et marché qui sont visés.
+Les modernistes comme Virginia Woolf dénoncent le best-seller comme signe d’un déclin culturel. Mais au-delà des attaques, ce sont surtout les nouvelles pratiques de consommation et les rapports entre littérature et marché qui sont visés.
 
 Évolution au XXᵉ siècle :
 Le discours critique a intégré progressivement un vocabulaire « mineur » (plaisir, divertissement, originalité légère) pour parler des best-sellers, ce qui reflète l’influence croissante de la société de consommation. À partir des années 1970, les genres populaires (policier, espionnage, fantasy, etc.) occupent de plus en plus les listes de best-sellers, dans un contexte post-fordiste qui combine standardisation et singularisation.
@@ -597,7 +619,7 @@ Best-sellerisation ? Nouveau concept pour désigner une dérive, pas tant du bes
 
 Ce modèle est cependant mis à rude épreuve par une conjoncture qui le pousse dans ses retranchements : Les ventes se polarisent plus que jamais sur un tout petit nombre d’ouvrages, d’une veine souvent plus commerciale que littéraire. Dans le même temps, on assiste à une augmentation très forte du nombre de textes publiés :  le ministère de la ­culture indique que, entre 2011 et 2021, les livres enregistrés à la Bibliothèque nationale de France au titre du dépôt légal sont passés de 70 109 à 88 016 (+ 26 %).
 
-Conséquence : on publie bcp de titres, mais peu d'ouvrage : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
+Conséquence : on publie bcp de titres, mais peu d'ouvrages : le tirage moyen d’un ­livre (tous genres confondus : BD, essais, romans, jeunesse, scolaires, usuels…) était en 2010 de 7 937 exemplaires, contre 4 815 en 2022, selon les chiffres du Syndicat national de l’édition (SNE). Ce qui de fait réduit la part de droits d'auteurs potentielle. 
 
 En d'autres termes : la best-sellerisation réduit la possibilité pour un auteur "non populaire" de toucher des droits d'auteurs. D'autant plus que les risques sont de moins en moins pris.
 
@@ -619,6 +641,13 @@ Source : "La vérité sur l’affaire Joël Dicker, l’écrivain-entrepreneur",
 
 <!-- .element: class="source" -->
 
+===
+
+L'un des symptômes de la best-sellerisation, c'est la volonté de créer, pour certains auteurs, des oeuvres qui feront l'objet d'une adaptation, voire d'un univers transmédia, ou encore d'une franchisation (cf. avec Madame Goudmand, des cas tels que HP). 
+
+Il faut rappeler que l'auteur n'est pas tenu de céder ses droits d'adaptation audiovisuelle à l'éditeur. Il peut conserver le monopole de l'exploitation de ces droits et convenir ultérieurement d'une cession au profit d'un tiers.
+
+De fait, c'est le graal pour certains auteurs de vendre des droits d'adaptation, voire tout simplement de collaborer avec un producteur (chaîne TV, plateforme, ou cinéma), pour la récriture en scénario de son travail.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -671,6 +700,53 @@ macula-economie.png
 
 ===
 
+De plus en plus d'éditeurs et d'auteurs passent par des outils de financement participatif.
+
+Le phénomène est ici double, car il concerne deux "communautés" différentes : 
+- les éditeurs, souvent jeunes éditeurs ou indépendants en difficulté
+- les auteurs eux-mêmes, dans une perspective d'auto-édition (sur laquelle je reviendrai plus tard)
+
+Ce qui unit ces démarches, c'est une même précarisation, mais aussi un désir d'indépendance et d'autonomie pour réaliser des projets éditoriaux parfois engagés.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### De la souscription à la participation 
+
+![](img/souscription_encyclopedie_diderot.png)<!-- .element: style="width:400px" -->
+
+
+===
+
+En soi, la participation n'a rien d'inédit en édition. C'est même le modèle économique premier, celui qui a précédé le modèle de la péréquation.
+
+La souscription est l'achat d'un livre avant sa publication, ou encore l'engagement pris par un particulier de fournir à une date convenue une somme d'argent pour le financement.
+
+
+On peut citer, parmis les oeuvres du patrimoine français, l'Encyclopédie de DA: 
+>En novembre 1750 paraît le second Prospectus, distribué à huit mille exemplaires. Signalons que les libraires interviennent au début et à la fin du Prospectus pour annoncer aux lecteurs les Conditions proposées aux souscripteurs. Le dictionnaire, selon ce Prospectus, aura dix volumes in-folio, dont huit d’articles, et six cents planches en taille-douce en deux volumes. La livraison se succèdera sans interruption. Les souscripteurs devront payer au total 280 livres pour l’ensemble de l’ouvrage.
+
+
+
+Ce qui change avec ces plateformes, c'est une institutionnalisation de la souscription dans un modèle communicationnel issu de la culture numérique : qui est une culture participative, mais aussi une culture traversée par des enjeux d'économie de l'attention. 
+
+En un sens, la campagne de financement participatif s'inscrit complètement dans la culture numérique : jouer la présence en ligne de l'éditeur ou l'écrivain (on verra à quel point c'est essentiel dans le cours qui suit), à travers des campagnes marketing qui sur le fond peuvent reprendre des vieux principes, mais sur la forme doivent négocier avec les communautés contemporaines = community management.
+
+En un autre sens, la campagne de financement participatif requière un engagement majeur du public : son argent -- ce que le public n'est plus habitué à donner dans ses pratiques de consommation en ligne. C'est pourquoi ces campagnes laissent une large place aux "goodies" (qui sortent parfois de la sphère éditoriale).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Le développement du modèle du "pourboire" (Tipee, Patreon)
+
+![](img/tipee-bd.png)
+
+
+===
+
+Tipee, Patreon appartiennent à la grande famille des plateformes de financement participatif, dont elles incarnent un modèle assez mal connu : contrairement à Ulule, par exemple, qui va proposer des campagnes de financement sur projet avec des objectifs à atteindre en un temps limité (des paliers sont débloqués en échange de contreparties souvent gadget), Patreon opte pour un modèle de micro-contributions mensuelles (quelques euros) permettant aux porteurs de projets de s’assurer une rémunération régulière, sur le modèle du salaire. 
+
+Très développé en BD
+
+>Afin de construire une communauté autour de leur création, les auteurs se racontent et nouent un dialogue avec leurs lecteurs. Or, le storytelling constitue un moyen pour les entrepreneurs d’établir une légitimité et d’obtenir le soutien de leurs parties prenantes 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -686,11 +762,7 @@ macula-economie.png
 
 ===
 
-Patreon n'est pas une plateforme extrêmement populaire, que ce soit auprès du grand public ou des chercheurs. La littérature sur le sujet est pauvre, et j'ai eu peine à trouver des études approfondies utiles à mon propos : qq rares mentions dans des articles en français, plusieurs études dans le monde anglo-saxon. Mais l'orientation est souvent axée sur l'influence du _business model_, et sur des profils patreon consacrés aux contenus musicaux. Les rares fois où il est question de profils issus de la sphère littéraire, c'est toujours de la BD. Rien sur les créateurs de littérature native numérique.
-
-
-
-Patreon a été créée en 2013. Initialement investie par le secteur musical, elle a séduit plusieurs écrivains, notamment des créateurs de BD, mais également certains auteurs-créateurs issus du web littéraire francophone. Elle appartient à la grande famille des plateformes de financement participatif, dont elle incarne un modèle assez mal connu : contrairement à Ulule, par exemple, qui va proposer des campagnes de financement sur projet avec des objectifs à atteindre en un temps limité (des paliers sont débloqués en échange de contreparties souvent gadget), Patreon opte pour un modèle de micro-contributions mensuelles (quelques euros) permettant aux porteurs de projets de s’assurer une rémunération régulière, sur le modèle du salaire. 
+Patreon a été créée en 2013. Initialement investie par le secteur musical, elle a séduit plusieurs écrivains, notamment des créateurs de BD, mais également certains auteurs-créateurs issus du web littéraire francophone. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -739,11 +811,15 @@ Concrètement, le créateur peut adapter les formules comme il le souhaite et, s
 
 ===
 
-Le crowdfunding s'est largement répandu ces dernières années dans le secteur de la création, où il défend le principe d'une relation sur le long terme entre le créateur et son public selon une logique de mécénat qui ne fixe aucune durée de collecte ni d'objectifs précis à atteindre, comme la publication d'un livre ou d'un CD, par exemple. Comme on l'a rapidement évoqué, le nom même de la plateforme s'inscrit dans ce paradigme du mécénat, puisque *patreon* est une déformation de *patron*, en anglais, qui signifie donateur, mécène. En français, le terme peut porter à confusion.
+Incarne la transformation de la présence sociale de l'écrivain.
 
 Logique du management : le créateur devient de plus en plus son propre producteur.
 
 
+>Afin de construire une communauté autour de leur création, les auteurs se racontent et nouent un dialogue avec leurs lecteurs. Or, le storytelling constitue un moyen pour les entrepreneurs d’établir une légitimité et d’obtenir le soutien de leurs parties prenantes 
+
+
+Le crowdfunding s'est largement répandu ces dernières années dans le secteur de la création, où il défend le principe d'une relation sur le long terme entre le créateur et son public selon une logique de mécénat qui ne fixe aucune durée de collecte ni d'objectifs précis à atteindre, comme la publication d'un livre ou d'un CD, par exemple. Comme on l'a rapidement évoqué, le nom même de la plateforme s'inscrit dans ce paradigme du mécénat, puisque *patreon* est une déformation de *patron*, en anglais, qui signifie donateur, mécène. En français, le terme peut porter à confusion.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -797,7 +873,7 @@ Le discours est similaire chez les autres. Ainsi, chez Anne Archet, notre contri
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Le paradigme du "patron" [Mécène] 
+### Le paradigme du "patron" 
 #### Une contre-culture participative ? 
 
 |Artiste|Nombre total de membres|Membres payants|Publications|
@@ -863,6 +939,30 @@ François Bon apparaît ainsi comme le chef d'orchestre ou l'animateur d'un peti
 
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Un modèle difficile à généraliser
+
+* Dépendance à la communauté
+* Gestion chronophage (notamment sur un plan communicationnel)
+* Revenus modestes
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+Dépendance à la communauté : les revenus dépendent du bon vouloir des internautes.
+
+Illusion du succès : seuls quelques auteurs gagnent réellement leur vie grâce au modèle (biais du survivant).
+
+Gestion chronophage : animer sa page, produire des contreparties, entretenir le lien demande beaucoup de temps.
+
+Gêne à demander de l’argent : certains auteurs éprouvent un malaise à solliciter le public.
+
+Revenus modestes : la médiane sur Tipeee (catégorie BD/comics) est d’environ 64 € par mois pour 10 contributeurs.
+
+>Sur 122 projets pour lesquels il nous est donc possible de relever la somme recueillie, le montant moyen collecté (par mois ou par projet) est de 141 euros ; quant à la somme médiane, elle est de 64 euros. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
