@@ -614,7 +614,7 @@ La ligue des auteurs pro
 
 ## Conclusion...
 
-On le voit, la notion d’auteur est confuse. Comme catégorie du droit, elle est soumise à interprétation. Le statut légal de l’auteur ne renvoie aucunement à une « Vérité » : il est culturel, et varie en fonction des sociétés dans lequel il est pensé. Ce statut légal de l’auteur - notamment dans sa version « latine », française, influence cependant profondément ce que nous faisons des oeuvres, la façon dont nous les lisons. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
+La notion d’auteur est confuse. Comme catégorie du droit, elle est soumise à interprétation. Le statut légal de l’auteur ne renvoie aucunement à une « Vérité » : il est culturel, et varie en fonction des sociétés dans lequel il est pensé. Ce statut légal de l’auteur - notamment dans sa version « latine », française, influence cependant profondément ce que nous faisons des oeuvres, la façon dont nous les lisons. La réforme du statut des auteurs semble nécessaire, reste à déterminer dans quelle mesure elle sera encouragée par les institutions éditoriales.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 

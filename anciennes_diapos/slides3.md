@@ -442,7 +442,7 @@ Ces procédés étaient essentiellement manuels jusque dans les années 80-90. O
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Livre homothétique
+### Le livre homothétique
 
 Transposition à l'identique d'un livre imprimé en version numérique, investissement minimal des potentialités de la technologie numérique.
 
@@ -480,7 +480,7 @@ https://www.unidivers.fr/livre-numerique-michel-morvan/
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Livre enrichi
+### Le livre enrichi
 Le livre enrichi utilise les possibilités techniques du format numérique afin d’apporter un enrichissement, autant au contenu qu’à la mise en forme de l’ouvrage imprimé qu’il vient compléter. Il s'agit d'ajouter une plus-value au livre.
 
 ===
