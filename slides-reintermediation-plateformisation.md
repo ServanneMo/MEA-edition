@@ -1,8 +1,12 @@
-## Pourquoi la désintermédiation n'a-t-elle finalement pas eu lieu ?
+## Les plateformes vont-elles remplacer les éditeurs ?
 
-#### Réintermédiation & plateformisation
+#### Réintermédiation, GAFAM & plateformisation
 
-![](img/kindleDirectPublishing.png)<!-- .element: style="width:400px" -->
+![](img/kindleDirectPublishing.png)<!-- .element: style="width:300px" -->
+
+===
+
+J'ai parlé dans le cours précédent de "services" à l'édition, qui sont aujourd'hui des acteurs majeur de l'auto-édition.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -14,10 +18,11 @@
 
 ===
 
-Marin Dacos, Pierre Mounier = créateurs de OpenEdition, et du CMS Lodel.
+Reprenons : utopie de la désintermédiation = rêve d'une relation directe entre tous les écrivains et leur public, sans la médiation (et parfois la censure, la révision, le jugement).
 
-Reprenons : utopie de la désintermédiation = rêve d'une relation directe entre tous les écrivains et leur public, sans la médiation (et parfois la censure, la révision, le jugement)
+Qui parle ici ? Marin Dacos, Pierre Mounier = créateurs de OpenEdition, et du CMS Lodel. CMS Lodel = plateforme pour l'édition scientifique en France. Pour rappel : avec les CMS il est directement possible de publier un contenu sur le web, sans rien savoir aux langages HTML, CSS ou Javascript. 
 
+Une plateforme éditoriale ou plate-forme éditoriale est un outil de travail collaboratif utilisable en ligne au moyen d'un navigateur web permettant la gestion et/ou la production de publications destinées à l'impression (ou publications print). 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -46,16 +51,77 @@ Que veut dire cette citation ? Qu'une publication en ligne reste, quoiqu'on en d
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-ILLUSTRER
+![](img/revue_hn_interface.png)
 
 ===
 
 DÉtaillons, à partir de ce qu'en disent Mounier & Dacos
 
-– du design des plateformes informatiques =  succès de certaines formes médiatiques comme la vidéo ou l'image, svnt ou dépends du texte (on va aussi développer pour une lecture sur appareil téléphone)  
-– de la définition des règles d'écriture et de lecture = sur les réseaux sociaux, des règles parfois très strictes sur la taille des contenus (c'était le cas sur Twitter, ça l'est sur TikTok). Exemple également de Wikipédia. 
-– de la gestion des communautés qui les utilisent = question de l'économie de l'attention, du calcul des profils, du community management qui va permettre de donner vie à un contenu, dans un contexte de surcharge informationnelle.   
-– des algorithmes de classement de l'information produite = comment un contenu va-t-il être indexé sur Google ? Ou même au sein d'une plateforme (algo de Tik Tok, Youtube, Netflix, etc.)
+– du design des plateformes informatiques =  succès de certaines formes médiatiques comme la vidéo ou l'image, svnt ou dépends du texte (on va aussi développer pour une lecture sur appareil téléphone) 
+
+Ici, interface de Lodel, le CMS de Mounier et Dacos.
+Question de l'interface = ce qui nous rend intelligibles et interrogeables les données numériques, les textes.Interface ne signifie pas seulement “interface graphique” ou question “esthétique”. Il s’agit bien d’interroger chacun de ces points où nous interagissons avec nos objets. Comment le design de l'interface a donc prévu des comportements de lecture ou d'écriture, comment elle les prescrit et, de fait, comment elle en empêche d'autres. 
+
+Pas d'espace d'annotation, par exemple. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/revue-hn-lodel-backokkfice.png)
+
+===
+
+– de la définition des règles d'écriture et de lecture = ici, je vous montre le backoffice de Lodel. Règles d'écriture = formatage. Que du docx, que du XML. Organisation en arborescence. Ce qui donne l'aspect très standardisé de l'édition fr scientifique aujourd'hui.
+
+Ces choix ne sont pas à la main des éditeurs : ils sont à la main des concepteurs de la plateforme, aujourd'hui le service OpenEdition, service du CNRS à Marseille. 
+
+
+Mais on peut aller au-delà : sur les réseaux sociaux, des règles parfois très strictes sur la taille des contenus (c'était le cas sur Twitter, ça l'est sur TikTok). Exemple également de Wikipédia. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/revue_hn_linkedIn.png)<!-- .element: style="width:400px" -->
+
+===
+
+– de la gestion des communautés qui les utilisent = question de l'économie de l'attention, du calcul des profils, du community management qui va permettre de donner vie à un contenu, dans un contexte de surcharge informationnelle.  
+
+Justement, ma plateforme lodel est très nulle pour cela. Ce qui m'oblige à en utiliser d'autres. Pour l'histoire, avant j'utilisais Twitter, maintenant LinkedIn, mais rien de bien efficace. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/humanites_numeriques_google.png)<!-- .element: style="width:700px" -->
+
+
+===
+
+– des algorithmes de classement de l'information produite = comment un contenu va-t-il être indexé sur Google ? 
+
+Ici, j'ai cherché ma revue sur Google. Pas le premier résultat... 
+
+Ou même au sein d'une plateforme (algo de Tik Tok, Youtube, Netflix, etc.)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'énonciation éditoriale des écrits d'écrans
+* Une dynamique d'éditorialisation
+* Une publication en ligne reste, quoiqu'on en dise, le résultat d'une médiation et d'un travail éditorial. Mais d'un travail éditorial dont les acteurs ne sont pas toujours identifiés comme des éditeurs, ni même identifiés tout court.
+
+<!-- .element: style="font-size:1.4rem" -->
+
+
+===
+
+Reprenons la citation de Mounier et Dacos
+
+>la spontanéité apparente du texte 2.0 n'est qu'un leurre et le texte est en réalité le résultat d'une très puissante médiation, mais qui s'exprime selon des modes peu habituels et parfaitement inconnus des acteurs traditionnels. 
+
+Parfaitement inconnu ? NON. Tous ces éléments relèvent d'un concept que l'on a déjà vu : de l'énonciation éditoriale. Énonciation éditoriale qui, cependant, relève des écrits d'écran.
+
+Cette énonciation éditoriale relève d'un concept que l'on développera dans 2 semaines : l'éditorialisation. En deux mots, ce que devient l'édition en régime numérique, soumis à des logiques de flux, des logiques algorithmiques.
+
+Je l'ai dit plus tôt : une publication en ligne reste, quoiqu'on en dise, le résultat d'une médiation et d'un travail éditorial. Mais d'un travail éditorial dont les acteurs ne sont pas toujours identifiés comme des éditeurs, ni même identifiés tout court.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -63,9 +129,28 @@ DÉtaillons, à partir de ce qu'en disent Mounier & Dacos
 * La disparition d'intermédiaires historiques...
 * ... sitôt remplacés par de nouveaux acteurs (géants du web, GAFAM... avec des modèles économiques et culturels différents)
 
+<!-- .element: style="font-size:1.4rem" -->
+
+
 ===
 
 Ce que les débats sur l'autorité contemporaine travaillent, c'est d'abord une tension entre l'utopie, propre à l'économie numérique, d'une désintermédiation, et la réalité d'une ré-intermédiation qui ne dit pas toujours son nom.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>La situation de ces marchés peut ainsi être qualifiée d'oligopole à franges, c'est à dire un marché structuré principalement autour d'un nombre réduit d'acteurs captant la majeure partie du marché et entourés d'un grand nombre d'acteurs de taille bien plus réduite se partageant une part très limitée du marché. Cette tectonique des usages numériques a abouti à l'émergence d'acteurs largement dominants regoupés sous l'acronyme GAFAM pour Google, Apple, Facebook, Amazon et Microsoft. </br></br>**L’édition à l’époque du numérique, Benoît Epron et Marcello Vitali-Rosati, 2018.**
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/DRE351OXkAAJHxU.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+GAFAM qui aura porté la tendance monopolistique de l’édition moderne vers une dynamique oligopolistique. 
+
+>La structuration progressive de l'écosystème numérique a fait émerger une structuration oligopolistique forte des acteurs. Cette dynamique de concentration des activités numériques autour d'un nombre restreint de plate-formes est observable dès le début des années 2000 avec un mécanisme d'externalités positives qui s'enclenche pour certaines plate-formes et qui leur permet d'occuper progressivement des positions fortes sur leurs secteurs d'activités. 
+
+>Cette évolution est observable dans un grand nombre de secteurs d'activité avec comme corollaire une concentration des moyens et donc de la capacité à proposer des services innovants et coûteux en terme d'infrastructures. Ces nouveaux services permettant de capter de nouveaux usages et venant donc renforcer encore plus ces positions fortes. La situation de ces marchés peut ainsi être qualifiée d'oligopole à franges, c'est à dire un marché structuré principalement autour d'un nombre réduit d'acteurs captant la majeure partie du marché et entourés d'un grand nombre d'acteurs de taille bien plus réduite se partageant une part très limitée du marché. Cette tectonique des usages numériques a abouti à l'émergence d'acteurs largement dominants regoupés sous l'acronyme GAFAM pour Google, Apple, Facebook, Amazon et Microsoft. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -84,7 +169,11 @@ Vincent Bullich, La « plateformisation » comme déploiement d’une logique or
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Réintermédiation numérique : le risque de la plateformisation
+
 Uniformisation des productions s'intégrant dans un format de publication préconstruit et partagé par une communauté d'utilisateurs, avec les dérives potentielles en termes de censure, de formatage, d'appauvrissement des contenus etc.
+
+<!-- .element: style="font-size:1.4rem" -->
+
 
 ===
 
@@ -99,13 +188,19 @@ Mounier et Dacos parlent plus haut de facteurs de réintermédiation via :
 Tous ces éléments participent de ce que l'on appelle la plateformisation, à savoir
 - uniformisation des productions pour entrer dans un modèle de publication préconstruit et partagé par une communauté d'utilisateurs
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+## Focus sur quelques effets de réintermédiation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-movie="img/" data-background-size="contain" -->
 
-### La publication via des chaînes numériques dédiées : le risque de l'exploitation
-* le cas Koskas & Kindle Direct Publishing (KDP)
+### [CAS 1] Kindle Direct Publishing (KDP), une plateforme de publication littéraire
+
+===
+
+Émergence de "Plateformes éditoriales", spécialement conçues pour la publication littéraire. 
+La publication via des chaînes numériques dédiées : le risque de l'exploitation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/kindleDirectPublishing.png" data-background-size="contain" -->
@@ -237,7 +332,14 @@ Par exemple, écriture de cliffangher, etc sur le modèle des séries TV mais é
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### La publication via les réseaux sociaux : le risque de la censure
+### [CAS 2] La publication sur les RSN : le cas TikTok
+
+===
+
+La publication via les réseaux sociaux : émergence d'une avant garde litt, avec exploration de nouvelles formes (sur Youtube par exemple, les vlogues). Avantage de rejoindre un public très large. Très peu de contraintes. Mais : Twitter = exemple de dérive.
+
+Plus : le risque de la censure. 
+
 * Le cas François Bon & TikTok
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -249,20 +351,29 @@ cas de FB sur Tik Tok
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Il est urgent de saisir cette opportunité, créée par la remise en cause des modes de production que l’on appelle du terme générique, qui resterait à définir et critiquer, la « société de l’information ». En particulier parce que les forces dominantes cherchent à utiliser ce basculement pour revenir sur des acquis démocratiques et réorganiser les pouvoirs pour limiter plus encore les marges de liberté des créateurs sur la diffusion de l’information, de la culture et de la connaissance. Les questions de la copie privée, du brevetage des logiciels, l’extension de la propriété intellectuelle définissent ainsi des zones de front dans le nouveau cadre de la société de l’information.
+#### Sur les réseaux sociaux, une relation artiste/public avant tout parasociale
 
->Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
+Le concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+La littérature des plateformes accompagne les mutations profondes de la présence sociale de l'écrivain dans l'espace public. La présence en ligne des auteurs, généralement sur des réseaux sociaux caractérisés par un flux conversationnel continu, implique une prise en charge l'identité auctoriale, qui tend à se confondre avec l'identité numérique. Ces écritures profilaires, qui échappent de plus en plus aux éditeurs, jusque-là seuls responsables de la médiatisation de l'écrivain, représentent un travail quotidien, parfois risqué, tant la gestion des communautés numérique implique un savoir-faire à part entière.
+
+Comme les CMS, les réseaux sociaux ont également nourri un discours de la désintermédiation : sur Twitter, FaceBook, le lecteur ou le fan serait en mesure d'échanger "directement" avec son artiste favori. La communauté Des travaux ont nuancé cette relation directe, en requalifiant de "parasociale" la relation qui unit les créateurs de contenus et leurs *follower*. Ce concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Une transformation de la présence sociale de l'écrivain
+### Les écrivains sur les RSN : une transformation de la présence sociale de l'auteur
 * Transfert de la gestion du risque
 * Importance accrue de l'évaluation par le public
 * Importance de la recommandation par les pairs
 
 ===
+
+Pas de désintermédiation, mais une transformation de la présence sociale de l'auteur dans l'espace public, qui est aujourd'hui avant tout un espace numérique.
 
 Transfert de la gestion du risque, traditionnellement assumé par la galerie, vers l'artiste lui-même.
 
@@ -271,7 +382,24 @@ lesquels influencent la notoriété et, conséquemment, le succès commercial.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Le POD : une technologie de désintermédiation au service de la réintermédiation ?
+## [CAS 3] Le POD : une désintermédiation au service de la réintermédiation ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-video="img/espressoBookMachine.mp4" data-background-size="contain" -->
+
+
+===
+
+chronologiquement : expresso-book machine
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/editionsL-17-11-25.png)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Quand les éditeurs s'emparent du POD 
 * *Print on demand* ou impression à la demande
 * Des techniques de plus en plus pointues depuis les années 1990
 * Une réappropriation par les éditeurs pour éviter les coûts de réimpression
@@ -287,7 +415,7 @@ lesquels influencent la notoriété et, conséquemment, le succès commercial.
 
 La réintermédiation ne touche pas seulement la question des plateformes et du tout numérique. 
 
-chronologiquement : expresso-book machine
+
 Puis des machines de + en + perfectionnées (possibilité d'imprimer des titres très rapidement)
 Ces machines POD réintégrées dans les chaînes des grands éditeurs traditionnels, qui s'en servent pour gérer les pb de stock. Un éditeur n'a pas intérêt à tirer bcp d'exemplaires (politique de retour des livres, mis au pilon). Pour des ouvrages qui ne sont plus dispo, on les met en POD, et on peut faire soit des tirages à la demande (Stock), soit refaire des stocks qui ne relèvent pas d'une "réimpression" (seuil pour la réimpression = 500 exemplaires)
 
@@ -318,25 +446,13 @@ Désintermédiation ratée, puisque les éditeurs se sont emparés de la starté
 
 Conséquences : remettre en marché des livres depuis lgtps écoulés. Limiter la mise au pilon. Retravailler avec les libraires. Limiter le problème du stockage.
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Sur les réseaux sociaux, une relation avant tout parasociale
+>Il est urgent de saisir cette opportunité, créée par la remise en cause des modes de production que l’on appelle du terme générique, qui resterait à définir et critiquer, la « société de l’information ». En particulier parce que les forces dominantes cherchent à utiliser ce basculement pour revenir sur des acquis démocratiques et réorganiser les pouvoirs pour limiter plus encore les marges de liberté des créateurs sur la diffusion de l’information, de la culture et de la connaissance. Les questions de la copie privée, du brevetage des logiciels, l’extension de la propriété intellectuelle définissent ainsi des zones de front dans le nouveau cadre de la société de l’information.
 
-Le concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
+>Hervé Le Crosnier, "Désintermédiation et démocratie. Quelques questions dans le domaine culturel", 2004.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-
-Comment les relations entre l'écrivain et le lecteur, le patron-mécènne, sont-elles organisées et gérées ? 
-
-Rappel : La littérature des plateformes accompagne les mutations profondes de la présence sociale de l'écrivain dans l'espace public. La présence en ligne des auteurs, généralement sur des réseaux sociaux caractérisés par un flux conversationnel continu, implique une prise en charge l'identité auctoriale, qui tend à se confondre avec l'identité numérique. Ces écritures profilaires, qui échappent de plus en plus aux éditeurs, jusque-là seuls responsables de la médiatisation de l'écrivain, représentent un travail quotidien, parfois risqué, tant la gestion des communautés numérique implique un savoir-faire à part entière.
-
-Comme les CMS, les réseaux sociaux ont également nourri un discours de la désintermédiation : sur Twitter, FaceBook, le lecteur ou le fan serait en mesure d'échanger "directement" avec son artiste favori. La communauté Des travaux ont nuancé cette relation directe, en requalifiant de "parasociale" la relation qui unit les créateurs de contenus et leurs *follower*. Ce concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
-
-Sur Patreon, l'accent est mis sur la promesse d'une sociabilité plus authentique, garantissant un accès direct au créateur. François Bon insiste : "le Patreon autorise une relation directe et un autre espace d'expérimentation privilégiée." L'abonnement garantit un "accès à la messagerie privée avec priorité de mon côté." 
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -346,3 +462,4 @@ Sur Patreon, l'accent est mis sur la promesse d'une sociabilité plus authentiqu
 La désintermédiation -- concept phare de la culture numérique il y a encore quelques années -- incarnait la promesse d'une émancipation des écrivains, enfin capable de garder l'entière maîtrise de leur travail. La fin des éditeurs a cependant été trop vite annoncée, tant la réintermédiation semble avoir mis en place un nouveau monopole qui n'est pas toujours plus favorable au statut des auteurs. 
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
+

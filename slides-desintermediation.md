@@ -28,7 +28,20 @@ La semaine dernière, tous deux ont annoncé créer leur propre structure après
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+L’étude révèle une polarisation marquée entre l’autoédition et l’édition traditionnelle. La tendance serait donc à la complémentarité plus qu’à la substitution : sur 70 087 auteurs ayant déposé au moins un livre en littérature à la BnF entre 2007 et 2016, plus de 48 % sont toujours restés fidèles à l’édition classique et 40 %, à l’inverse, n’ont jamais quitté l’autoédition. Seuls 12 % sont passés de l’un à l’autre de ces mondes entre 1970 et 2016.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/autoedition-rapport.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" --
+
+===
+
+Profil sociologique : plutôt des hommes (60%), et plutôt matures (moyenne d'âge 56 ans)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Sur le(s) terrain(s) de l'auto-édition
+- 25 % des livres enregistrés au dépôt légal
 - des stratégies éditoriales variées : d'*entreprises* en auto-édition à une édition subie
 - un long chemin de croix
 - une formule pas encore complètement gagnante
@@ -41,6 +54,11 @@ La semaine dernière, tous deux ont annoncé créer leur propre structure après
 
 Bcp à dire sur l'auto-édition : des modèles variés, des réalités très différentes.
 
+Près du quart des livres papier déposés à la Bibliothèque nationale de France (BnF) sont autoédités en 2015, contre un dixième il y a 40 ans. La croissance du nombre de titres autoédités déposés au dépôt légal est impressionnante : 20 % en 2019 contre 12 % en 2010.
+
+En 2015, au sein de la littérature française, la poésie occupe une part deux fois plus importante parmi les livres autoédités que parmi ceux édités classiquement, 60 % des livres de poésie étant autopubliés. Les romans sont aussi surreprésentés en autoédition, à l’inverse de la bande dessinée et de la littérature jeunesse.
+
+- représente 25 % des livres enregistrés au dépôt légal
 - des stratégies éditoriales variées :  d'*entreprises* en auto-édition à une édition subie
 - un long chemin de croix : pour de jeunes auteurs, pas si simple
 - une formule pas encore complètement gagnante, en dépit de quelques success stories qui alimentent des fantasmes et espoirs
@@ -49,6 +67,8 @@ Bcp à dire sur l'auto-édition : des modèles variés, des réalités très dif
 On va proposer non pas un panorama exhaustif, mais quelques exemples permettant de baliser une séries d'enjeux et de problématiques, mais aussi un panorama historique de l'auto-édition ces dernières années.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
 
 ### Auto-édition : de quoi parle-t-on ?
 * Autoédition
