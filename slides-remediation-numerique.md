@@ -1,7 +1,6 @@
-<!-- .slide: data-background-image="img/devTrays.png" -->
-<!-- .slide: class="hover"-->
 
-### De l'imprimé au numérique, quel avenir pour l'objet livre ?
+
+### Pourquoi la révolution numérique de l'édition n'a-t-elle pas (encore) vraiment eu lieu?
 
 Édition(s) numérique(s), livre(s) numérique(s), remédiations, design éditorial
 
@@ -10,94 +9,15 @@
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### La fin des livres
-
->« Si par livres vous entendez parler de nos innombrables cahiers de papier imprimé, ployé, cousu, broché sous une couverture annonçant le titre de l’ouvrage, je vous avouerai franchement que je ne crois point, — et que les progrès de l’électricité et de la mécanique moderne m’interdisent de croire, — que l’invention de Gutenberg puisse ne pas tomber plus ou moins prochainement en désuétude comme interprète de nos productions intellectuelles. »
->« Je crois donc au succès de tout ce qui flattera et entretiendra la paresse et l’égoïsme de l’homme ; l’ascenseur a tué les ascensions dans les maisons ; le phonographe détruira probablement l’imprimerie. Nos yeux sont faits pour voir et refléter les beautés de la nature et non pas pour s’user à la lecture des textes ; il y a trop longtemps qu’on en abuse, et il n’est pas besoin d’être un savant ophtalmologiste pour connaître la série des maladies qui accablent notre vision et nous astreignent à emprunter les artifices de la science optique. »
-
-<!-- .element: style="font-size:1.3rem; text-align:justify" -->
-
-"La fin des livres", *Contes pour bibliophiles*, Octave Uzanne (illustr. Albert Robida), 1894.
-
-<!-- .element: style="font-size:1.5rem; text-align:right" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-« Pour le livre, ou disons mieux, car alors les livres auront vécu, pour le novel ou storyographe, l’auteur deviendra son propre éditeur, afin d’éviter les imitations et contrefaçons ; il devra préalablement se rendre au Patent Office pour y déposer sa voix et en signer les notes basses et hautes, en donnant des contre-auditions nécessaires pour assurer les doubles de sa consignation. Aussitôt cette mise en règle avec la loi, l’auteur parlera son œuvre et la clichera sur des rouleaux enregistreurs et mettra en vente lui-même ses cylindres patentés, qui seront livrés sous enveloppe à la consommation des auditeurs. »
-
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/Uzanne1.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-« Les dames ne diront plus, parlant d’un auteur à succès : « J’aime tant sa façon d’écrire ! » Elles soupireront toutes frémissantes : « Oh ! ce diseur a une voix qui pénètre, qui charme, qui émeut ; ses notes graves sont adorables, ses cris d’amours déchirants ; il vous laisse toute brisée d’émotion après l’audition de son œuvre : c’est un ravisseur d’oreille incomparable. [...] Les éditions recherchées seront celles qui auront été autophonographiées par des artistes en vogue : on se disputera, par exemple, le Molière de Coquelin, le Shakespeare d’Irving, le Dante de Salvini, le Dumas fils d’Éléonore Duce, le Hugo de Sarah Bernhardt, le Balzac de Mounet Sully [...]»
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/Uzanne2.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Explorations médiatiques du livre
-
-![](img/foot-realiteaugmentee.gif)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-
-![](img/kindle-paperwhite-2018-wifi_dcc6d79033e1f191__450_400.jpg)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
-
-
-====
-
-Question aujourd'hui : les nouvelles formes du livre. 
-Porté par la vague des nouveaux appareils numériques, en particulier le téléphone et la tablette tactile, le livre se réinvente, et se déplace : il investit des formes médiatiques -- comme l'audio, l'écran -- qui l'éloignent de sa forme canonique : le papier. 
-
-Après avoir un temps fait courir la rumeur d'un remplacement médiatique, et de la disparition du papier, le livre numérique apparaît plutôt comme une nouvelle offre, qui n'est pas nécessairement à prendre comme une offre concurrente, mais comme une offre supplémentaire.
-
-Mis à part lors de certaines périodes critiques (le covid), les chiffres de vente des livres imprimé n'ont jamais baissé au profit d'une hausse du numérique. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Chriffres clés (enquête SNE 2024)
-
-* Le livre numérique en France : 283 millions € de chiffre d’affaires
-* Le numérique : une offre scolaire et universitaire
-* La littérature en progression (mais seulement 6% de la production numérique)
-* L’édition numérique représentent 10 % du chiffre d’affaires total des éditeurs
-
-<!-- .element: style="font-size:1.3rem; text-align:justify" -->
-
-
-===
-
-quelques chiffres : 
-
-37,71 millions € d’ebooks de Littérature écoulés en 2023, cela représente 14,51 % de mieux que l’année passée. Pour autant, le genre ne pèse toujours que 6,01 % des ventes totales, loin derrière le Scolaire (13,83 %, pour 41,03 millions €) et l’indétrônable Professionnel/Universitaire (44,52 %, pour 185,9 millions €).
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### La multiples réalités de l'édition numérique
-
-* Une production homothétique peu intéressante au plan éditorial (version Kindle, Koobo des grands titres)
-* Une production expérimentale relevant de la micro-édition (éditions indépendantes, auto-édition, cricuits courts)
-
-<!-- .element: style="font-size:1.3rem; text-align:justify" -->
-
-
-===
-
-Parler d'édition numérique
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/phallainaChap1.mp4" -->
 
 
 
 ===
+
+Porté par la vague des nouveaux appareils numériques, en particulier le téléphone et la tablette tactile, le livre se réinvente, et se déplace : il investit des formes médiatiques -- comme l'audio, l'écran -- qui l'éloignent de sa forme canonique : le papier. 
+
+
 Introduction :
 exemple de Phalaina, de Marietta Ren (ancienne étudiante des Gobelins) :
 - à l'image, j'ai un graphisme qui ressemble beaucoup à de la BD
@@ -108,6 +28,8 @@ exemple de Phalaina, de Marietta Ren (ancienne étudiante des Gobelins) :
 
 DÉpendance à la machine de plus en plus forte.
 
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Mon livre numérique est-il encore un livre ?
@@ -116,8 +38,11 @@ DÉpendance à la machine de plus en plus forte.
 * Un nouveau dispositif de lecture (tablettes, liseuse, écran)
 * Des enjeux de stockage et de pérennité (quelle bibliothèque ?)
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/phallaine.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -133,6 +58,158 @@ Ainsi, le passage de l'imprimé au numérique pose d'abord la question des forma
 ENjeu de la machine : sur quel appareil lit-on ? Quel est son coût ? Si je conçois une oeuvre hypermédiatique qui requiert un écran tactile, certaines liseuses seront exclues de mon marché.
 
 ENfin : comment penser le stockage de ces ouvrages dans de nouvelles bibliothèques ?
+
+C'est beau hein ? 
+
+Ça c'est le cours que je donnais il y a encore 2 ans. Sauf que, force est de constater, des ouvrages comme Phalaina, très peu de gens les lisent, il ne sont jamais nommés aux Goncourt, et de toute manière, bien souvent, je ne peux pas les faire étudier parceque tt le monde n'a pas d'ipad, ou tout simplement l'appli ne fonctionne plus sur tablette. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+[Flashback : la fin du livre, sans cesse annoncée, sans cesse repoussée]
+
+![](img/Hold On Rewind GIF by CLAVVS.gif)
+
+====
+
+En vérité, l'édition numérique n'a pas encore connu son grand soir. Il y a encore 10-15 ans les éditeurs, les écrivains, les profs s'inquiétaient de la révolution numérique à l'oeuvre, mais de révolution, point du tout. Ce que je voudrais faire avec vous, c'est tenter de comprendre les raisons de cet "échec", qui n'en est pas vraiment un non plus :
+- pas de "grand remplacement"
+- une cohabitation
+
+Mis à part lors de certaines périodes critiques (le covid), les chiffres de vente des livres imprimé n'ont jamais baissé au profit d'une hausse du numérique. On est à 10% du marché global de l'édition.
+
+
+Comprendre les raisons de l'échec relatif du numérique, c'est également comprendre les raisons du succès du livre : en tant que média, le livre fait valoir une incroyable longévité, car il a plus de 2000 ans. Le livre a résisté à de nombreuses révolutions médiatiques et à la concurrence d'autres médias : le phonographe, le cinéma, la télévision, et aujourd'hui les médias numériques. Résisté, oui, mais pas non plus resté monolithique. Le cours que je vous propose aujourd'hui se déroule un peu en deux temps : évidemment, je parlerai beaucoup d,édition numérique, pour vous présenter les enjeux de la transition numérique du livre, les nouveaux objets de lecture qui sont créée et diffusés aujourd'hui. Mais le plus important est aussi de comprendre les effets de contamination réciproque : comment notre bon vieux livre imprimé traditionnel est reconfiguré au contact d'autres réalités médiatiques. 
+
+Parti pris : le livre, comme média, ne doit pas être essentialisé, mais conçu dans ses multiples relations intermédiales, des effets d'échange avec d'autres formes médiatiques.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### La fin des livres (?)
+
+>«&nbsp;Si par livres vous entendez parler de nos innombrables cahiers de papier imprimé, ployé, cousu, broché sous une couverture annonçant le titre de l’ouvrage, je vous avouerai franchement que je ne crois point, — et que les progrès de l’électricité et de la mécanique moderne m’interdisent de croire, — que l’invention de Gutenberg puisse ne pas tomber plus ou moins prochainement en désuétude comme interprète de nos productions intellectuelles.&nbsp;»</br></br>
+>«&nbsp;Je crois donc au succès de tout ce qui flattera et entretiendra la paresse et l’égoïsme de l’homme ; l’ascenseur a tué les ascensions dans les maisons ; le phonographe détruira probablement l’imprimerie. Nos yeux sont faits pour voir et refléter les beautés de la nature et non pas pour s’user à la lecture des textes ; il y a trop longtemps qu’on en abuse, et il n’est pas besoin d’être un savant ophtalmologiste pour connaître la série des maladies qui accablent notre vision et nous astreignent à emprunter les artifices de la science optique.&nbsp;»
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+"La fin des livres", *Contes pour bibliophiles*, Octave Uzanne (illustr. Albert Robida), 1894.
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
+===
+
+Quand les premières tablettes, ebook, sont apparus, on a vu croître un peu partout un discours de la fin des livres.
+Ce n'est pas la première fois qu'on annonce la mort du livre. CITER.
+
+
+ce texte a plus d'un siècle, il date de la fin du XIX. Et annonce la fin du livre, supplanté par les nouveaux médias d'alors : le phonographe. 
+
+On appelle cela de la littérature d'anticipation, très fréquente au XIX, avec des têtes de proue comme Jules Verne, qui avait écrit l'arrivée de l'homme sur la Lune. Ce qui est intéressant dans la littérature d'anticipation, c'est que parfois elle tombe juste, parfois elle énonce des discours qui perdurent dans le temps. C'est du moins mon avis avec ce texte sur la disparition du livre. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>« Pour le livre, ou disons mieux, car alors les livres auront vécu, pour le novel ou storyographe, l’auteur deviendra son propre éditeur, afin d’éviter les imitations et contrefaçons ; il devra préalablement se rendre au Patent Office pour y déposer sa voix et en signer les notes basses et hautes, en donnant des contre-auditions nécessaires pour assurer les doubles de sa consignation. Aussitôt cette mise en règle avec la loi, l’auteur parlera son œuvre et la clichera sur des rouleaux enregistreurs et mettra en vente lui-même ses cylindres patentés, qui seront livrés sous enveloppe à la consommation des auditeurs. »
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Uzanne1.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Proposition : l'auteur s'auto-éditera. 
+Proposition : on laissera tomber l'écriture pour la voix (le podcast).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+« Les dames ne diront plus, parlant d’un auteur à succès : « J’aime tant sa façon d’écrire ! » Elles soupireront toutes frémissantes : « Oh ! ce diseur a une voix qui pénètre, qui charme, qui émeut ; ses notes graves sont adorables, ses cris d’amours déchirants ; il vous laisse toute brisée d’émotion après l’audition de son œuvre : c’est un ravisseur d’oreille incomparable. [...] Les éditions recherchées seront celles qui auront été autophonographiées par des artistes en vogue : on se disputera, par exemple, le Molière de Coquelin, le Shakespeare d’Irving, le Dante de Salvini, le Dumas fils d’Éléonore Duce, le Hugo de Sarah Bernhardt, le Balzac de Mounet Sully [...]»
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Uzanne2.jpg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Starification des "interprêtes".
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Le livre numérique : une "révolution" qui se fait attendre
+
+(ou qui surgit là où on ne l'attend pas)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Chriffres clés de 2023 (enquête SNE 2024)
+
+* Le livre numérique en France : 283 millions € de chiffre d’affaires
+* Le numérique : une offre scolaire et universitaire
+* La littérature en progression (mais seulement 6% de la production numérique)
+* L’édition numérique représente 10 % du chiffre d’affaires total des éditeurs
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+===
+
+Année 2024 dans la slide suivante
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>En 2024, le marché de l’édition numérique, tous supports et toutes catégories éditoriales confondus, a généré un chiffre d’affaires de 278,6 millions d’euros, en baisse de 1,6% par rapport à 2023. Cette tendance est principalement due à l’édition grand public (hors littérature) dont le CA est en baisse de 17,1%. La constante progression de l’édition numérique de littérature (+ 8,5%) est tirée par la romance, la science-fiction et le roman policier. Le reste de l’édition professionnelle et universitaire est en légère hausse (+ 0,7%). L’édition scolaire numérique est en forte baisse (- 14%). 
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/2024-SNE-numerique.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/chiffres-edition-numerique-24.png)
+
+===
+
+Une édition qui est très "pratique" : scientifique, essai, etc. 
+
+Paradoxalement, d'un pt de vue purement économique, le livre numérique ne se vend pas beaucoup, et quand il se vend, c'est pour toucher un public particulièrement professionnel. L'édition numérique est très peu une édition littéraire ou une édition de loisir (même si, c'est là aussi un paradoxe, l'édition numérique littéraire qui fonctionne bien renvoie d'abord à des genres dits "middlebrow" : romance, SF, etc.). 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Quelques freins au développement du livre numérique
+* Modèle économique encore insatisfaisant
+* Multiplicité et éparpillement technologique
+* Des projets (passionnants) expérimentaux, mais peu industrialisés
+* Un modèle médiatique imprimé encore prégnant
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+===
+
+Raisons multiples : 
+* Économique : pas de modèle encore. Le coût de développement d'un livre num est grand
+* Technique : pas de consensus technique, bizarrement
+* Expérimental : qd l'édition numérique fonctionne et qu'elle est intéressante, c'est pour de l'avant garde. Et les avant garde, ça n'a jamais fait vachement vendre. Dada, vous ne l'achetez pas pour vous détendre sur la plage : vous l'achetez parce que votre prof de lettres vous l'a demandé.
+* médiatique : en fait on aime lire des livres imprimé : l'édition littéraire n'est pas encore conquise par le support numérique. Le support numérique (notamment le smartphone) cristallise la consommation, mais pas pour de la lecture littéraire (à quelques exceptions : le livre audio), plutôt pour de l'information, et sous forme de vidéo/audio (donc plus trop du texte). 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La multiples réalités de l'édition numérique
+
+* Une production homothétique grand public devenue complémentaire à l'offre papier, mais peu intéressante au plan du design éditorial (version Kindle, Koobo des grands titres)
+* Une production expérimentale relevant de la production de "beau-livre" ou de la micro-édition (éditions indépendantes, auto-édition, cricuits courts)
+* Des créations éditoriales multi-support, qui relèvent d'une hybridation médiatique (applications numériques, webdoc, fictions transmédiatiques)
+
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+
+===
+
+Parler d'édition numérique
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -223,7 +300,7 @@ Comment donner accès au réel ?
 "Ce que disent les designers, c'est qu'ils veulent une interface "sans interface", dans laquelle il n'y aura pas d'outils électroniques reconnaissables - pas de boutons, de fenêtres, de scroll-barres, ni même d'icônes en tant que telles. Au lieu de cela, l'utilisateur se déplacera dans l'espace en interagissant avec les objets "naturellement", comme il le fait dans le monde physique. La réalité virtuelle, les graphiques tridimensionnels et la conception des interfaces graphiques visent tous à rendre la technologie numérique "transparente". En ce sens, une interface transparente serait une interface qui s'efface d'elle-même, de sorte que l'utilisateur n'est plus conscient de se confronter à un support, mais se trouve au contraire dans une relation immédiate avec le contenu de ce support."
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Facetime.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/movink-feature-video2-1400x788.gif" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -231,8 +308,7 @@ Comment donner accès au réel ?
 ### 2. Hypermediacy : la logique de l'emprunte médiatique (car "Le médium, c'est le message")
 
 >If the paintbox software is ‘intuitive,’ it is only intuitive because the paintbox is a culturally
-familiar object. In fact, the graphical interface referred not only to culturally familiar objects, but specifically to prior media, such as painting, typewriting, and handwriting. In making such references,
-computer designers were in fact creating a more complex system in which iconic and arbitrary forms of representation interact.
+familiar object. In fact, the graphical interface referred not only to culturally familiar objects, but specifically to prior media, such as painting, typewriting, and handwriting. In making such references, computer designers were in fact creating a more complex system in which iconic and arbitrary forms of representation interact.
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 ===
@@ -242,7 +318,7 @@ Si le logiciel "paintbox" est "intuitif", c'est uniquement parce que la boîte d
 Ici, il s'agit cette fois de surjouer la présence du media, généralement d'un ancien media, dont on reprend des codes graphiques, sonores, kinésiques...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/word.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/page-de-garde-word.gif" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -259,7 +335,9 @@ Maldonaclo - 1961, Venise. Définition adoptée par l'SICSID (Conseil Internatio
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 ===
-Le concept de remédiation a été spécifiquement pensé dans une réflexion sur la transition numérique, et sur le design des outils numériques.
+Le concept de remédiation a été spécifiquement pensé dans une réflexion sur la transition numérique, et sur le design des outils numériques, le design des interfaces. On y reviendra, car cela a toute son importance pour l'édition : quelle interface offre le livre ? 
+
+Le livre **est un objet de design**
 
 Ce mot vient du latin designare qui signifie marquer d'un signe distinctif. Les mots dérivés sont :
 
@@ -301,9 +379,17 @@ source image : "Le voyage dans la lune", Georges Mélies
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Hypermédiateté et immédiateté : une opposition si simple ?
+#### Hypermédiateté et immédiateté : une opposition si simple ?
 
 Pourquoi l'hypermédiateté semble-t-elle si importante au début de cette remédiation numérique ?
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+![](img/foot-realiteaugmentee.gif)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+![](img/kindle-paperwhite-2018-wifi_dcc6d79033e1f191__450_400.jpg)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
 
 ===
 Pour de nombreux  media, et en particulier le livre, le principe d'hypermédiateté, c'est-à-dire cette dimension médiatique surjouée, est prépondérante. Pourquoi ? La question du design est essentielle : parce qu'une oeuvre numérique, ce n'est pas toujours si simple à lire...
@@ -312,49 +398,7 @@ Parce que l'interface, celle notamment de l'écran (et surtout de la machine qui
 
 Echec de certaines oeuvres très belles graphiquement, très intelligentes et complexes sur le plan du dispositif médiatique, mais des échecs publics complets, car les lecteurs/spectateurs n'ont pas réussi à s'approprier l'objet.
 
-D'où un questionnement : et si la transparence, c'était le bruit ?
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-## Pratiques et esthétiques lo-fi : et si la transparence, c'était le bruit ?
-
-
-===
-L'hypermédiateté semble être le maître-mot de la transition numérique
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/lifoPlayer.png" data-background-size="contain"-->
-
-===
-
-C'est l'esthétique par excellence des interfaces
-
-LofiPlayer = logiciel pour créer de la musique.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/UdeM2.png" data-background-size="contain"-->
-
-===
-
-PixlrOmatic.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/phpThumb_generated_thumbnailjpg.jpeg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Lo-Fi vs Hi-Fi : deux conceptions de l'"authenticité" médiatique
-* High-fidelity : medium d’enregistrement = transmetteur d’une performance (sonore, visuelle..) authentique, qui doit rester "muet"
-* Low-fidelity : medium = objet esthétique singulier, déterminé par cette singularité (rayure entre les sillons d’un vinyle, couleurs passées d’une photographie...). La trace du du medium, son "bruit", fait œuvre.
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-En vérité, ce sont ici deux conceptions de l'authenticité qui s'affrontent... en lien avec des conceptions assez diverse de la mimesis (concept qui renvoie à la représentation la plus "correcte" du réel).
-
-2 termes sont ici importants : lo-fi / hi-fi.
-Empruntés à la musique.
+D'où un questionnement : et si la transparence, c'était le bruit ? Parfois plus facile pour des lecteurs/consommateurs de s'approprier des interfaces très fournies, remplies de signes qui font écho à des codes médiatiques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -363,11 +407,16 @@ Empruntés à la musique.
 * Histoire matérielle et technique
 * Histoire culturelle du livre
 
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 ===
 
 Le livre n'en est pas à sa première remédiation.
 
 Étudier les remédiations du livre, c'est faire une histoire matérielle de l'édition, et comprendre à la fois pourquoi l'objet livre tel que nous le connaissons aujourd'hui a cette forme, et pourquoi cette forme est porteuse de connotations et de capital symbolique.
+
+Ce que je propose, c'est un panorama vraiment très très générique et simpliste, mais qui cherche à montrer comment les usages et du coup la signifaction de l'objet livre comme média a pu s'enrichir au fil des grandes évolutions technologiques. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -376,18 +425,52 @@ Le livre n'en est pas à sa première remédiation.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/volumen2.jpeg" data-background-size="contain"-->
+
+![](img/volumen2.jpeg)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+![](img/rouleau-codex.jpg)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+===
+
+Saint Marc copiant un rouleau dans un codex
+
+Codex est un mot latin qui désigne le livre formé de feuilles pliées et assemblées en cahiers, et couvert d'une reliure tel que nous le connaissons.
+Le parchemin, en effet, matière solide, facile à plier, inscriptible des deux côtés, donne des feuillets que l’on réunit et assemble en cahiers. Le codex ainsi formé contient beaucoup plus de textes que le rouleau antique (volumen).
+
+Il existe des vestiges de codex en parchemin très tôt, dès le début du 2e siècle. Mais le rouleau (volumen) reste, dans l'Antiquité, le principal format des livres. Son abandon pour le codex est une mutation qui bouleverse les habitudes d’écriture et de lecture, et qui prend plusieurs siècles. Elle est impulsée par les chrétiens : la Bible est copiée sur codex dès le 2e siècle. codex s’impose vraiment au 4e siècle dans l’Occident latin et au 5e siècle dans l’Empire byzantin. La forme du rouleau persiste au Moyen Âge pour des pièces liturgiques ou administratives des chroniques ou des généalogies sous forme de volumen ou de rotulus à déroulement vertical.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+#### Une révolution technologique & intellectuelle
+
 * L'invention de la page (et de l'architecture du savoir : sommaires, index, pages de titre et de couverture)
-* De nouveaux gestes de lecture
+* De nouveaux gestes de lecture et d'annotation (naissance de la glose)
 * La trace du *volumen* dans le lexique éditorial (le "volume")
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+Le codex présente de nombreux avantages : il permet de réunir une grande quantité d'écriture, il occupe moins de place dans les bibliothèques que le papyrus et permet une organisation plus rationnelle du texte. Enfin, il favorise le travail scolastique d'annotation. Grâce au codex, la page n'est plus comme sur le rouleau un défilé continuel de colonnes, mais bien un espace délimité, une entité visuelle intellectuellement autonome.
+
+Le codex permet au lecteur de garder une main libre pour écrire et donc annoter, commenter, gloser le texte. Il lui offre une véritable architecture du texte, séquencée en pages, hiérarchisée en chapitres, puis en paragraphes, aisément feuilletable grâce à un index. Il lui autorise également retours et avancées au fil de sa curiosité ou des besoins de sa mémoire et fortifie son rapport au savoir.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Deuxième époque : du manuscrit à l'imprimé
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Vers une stabilisation des textes
+* Naissance d'une industrie culturelle
+* Un changement d'échelle de la diffusion des savoirs 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -401,6 +484,10 @@ Le livre n'en est pas à sa première remédiation.
 * Les incunables désignent les premiers livres fabriqués dans les décennies qui ont suivi l'invention de Gutenberg
 * Des livres imprimés... qui imitent le manuscrit !
 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## Troisième époque : de l'imprimé au numérique (et vice-versa...)
@@ -412,7 +499,9 @@ Contrairement à mes deux précédentes révolutions, je voudrais qd même reven
 
 Après avoir imaginé que l'un chasserait l'autre, nous nous sommes plutôt résolus à penser ces deux formes médiatiques en termes de complémentarité. J'y reviendrai en détails, mais je le précise préalablement pour justifier mon titre : de l'imprimé au numérique et "Vice-versa" : on réalisera que de très nombreuses oeuvres littéraires, essayistiques, etc. qui sont natives numériques, finissent par trouver une nouvelle vie dans un modèle imprimé.
 
-La remédiation de l'imprimé par le numérique ne s'effectue donc nullement sur le mode d'une technologie chassant l'autre. On est sur la réalisation d'objets hybrides, de plus en plus complémentaires. Pas de "ceci tuera cela".s
+De plus, la représentation numérique du livre est désormais un élément important de la production du livre imprimé, notamment parce que l'on travaille tous ou presque sur du fichier numérique. La chaîne du livre est largement informatisée, cf. début du semestre. 
+
+La remédiation de l'imprimé par le numérique ne s'effectue donc nullement sur le mode d'une technologie chassant l'autre. On est sur la réalisation d'objets hybrides, de plus en plus complémentaires. Pas de "ceci tuera cela".
 
 Mais n'allons pas trop vite en besogne et observons de plus près ce fameux "livre numérique".
 
@@ -421,14 +510,14 @@ Mais n'allons pas trop vite en besogne et observons de plus près ce fameux "liv
 ## Le "livre numérique" n'existe pas...
 * Une "adaptation" de l'imprimé à un mode de consultation/diffusion numérique (= livres homothétiques)
 * Des propositions techniques et conceptuelles natives numériques (oeuvres hypermédiatiques, livres-appli, etc.)
-* Une production hybride : complémentarité imprimé & numérique ; PAO (publication assistée par ordinateur)
+* Une production hybride : complémentarité imprimé & numérique ; PAO (publication assistée par ordinateur); Web to print
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 
 ===
 
-Parler de "Livre numérique" n'a en soit aucun sens : l'édition numérique recouvre en vérité une multitude de pratiques dessinant un très large spectre depuis une adaptation très basique du livre imprimé pour un mode de consultation / diffusion numérique (ce que l'on va appeler le livre "homothétique"), jusqu'à des conception conception du livre directement pensée pour la lecture numérique.
+Parler de "Livre numérique" n'a en soit aucun sens : l'édition numérique recouvre en vérité une multitude de pratiques dessinant un très large spectre depuis une adaptation très basique du livre imprimé pour un mode de consultation / diffusion numérique (ce que l'on va appeler le livre "homothétique"), jusqu'à des conceptions du livre directement pensée pour la lecture numérique et ses nouveaux support : cad du "Livre à l'écran".
 
 Entre les deux extrémités de ce spectre, on retiendra que désormais, quoiqu'il arrive, la production d'un livre fait nécessairement appel à une technologie numérique. C'est notamment ce que l'on appelle la PAO (publication assistée par ordinateur).
 
@@ -438,54 +527,86 @@ Ces procédés étaient essentiellement manuels jusque dans les années 80-90. O
 
 >La publication assistée par ordinateur se fait à l'aide de logiciels spécialisés, appelés logiciels de mise en page ou logiciels de PAO, semblables à des logiciels de traitement de texte ordinaires, mais où un accent particulier a été mis sur la disposition des textes et des images sur une page.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Je ne me lancerai pas dans une typologie du livre numérique, car ce serait trop hasardeux.
 
-### De l'imprimé au numérique, du texte au code
-
-* Composante graphique
-* Composante computationnelle
-
-### Une énonciation éditoriale des "écrits d'écran"
-
-
-===
-Repartons de l'origine du problème : l'écriture numérique se caractérise par sa dualité, comprenant une composante graphique, mais aussi des composantes computationnelles (comme l'a notamment théorisé Bruno Bachimont). Cette stratification de l'écriture numérique, des codes graphiques, linguistiques et informatiques, engage en vérité une stratification du sens, qui globalement échappe à l'usager.
+Cependant, on peut reconnaître trois grandes familles de livres conçues pour la diffusion et la lecture numérique, familles que je distingue en fonction d'intentions éditoriales voire esthétiques.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/codeCarpenter.png" data-background-size="contain" -->
-<!-- .slide: class="hover" -->
 
-### Les 3 "niveaux" de l'écriture numérique (Bouchardon & Petit)
+#### L'édition numérique : une question de forme et de formats
 
->Le livre a une réalité physique ou matérielle (le papier, l’encre) et une réalité symbolique ou culturelle (la langue, les signes à interpréter). Mais pour comprendre le fonctionnement du numérique il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : **il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible.** ([Bouchardon et Petit, 2017](http://www.costech.utc.fr/CahiersCOSTECH/spip.php?article69))
-
+>HVFRQWHQXVQXP«ULTXHVVRQWSDUQDWXUHHQFRG«V3RXUSRXYRLU¬WUHSDUWDJ«HXQH LQIRUPDWLRQGRLW¬WUHVWUXFWXU«HVHORQGHVVWDQGDUGVbOHVIRUPDWV/HFKRL[GɛXQIRUPDW DGHVLPSOLFDWLRQVSURIRQGHVbOHVLQIRUPDWLRQVTXHOɛRQSHXWWUDQVPHWWUHFKDQJHQW DLQVLTXHOHXUOLVLELOLW«OHXUXQLYHUVDOLW«OHXUDJHQFHPHQ OHXUWUDQVSRUWDELOLW«OHXU
+WUDQVIRUPDELOLW«HWF
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
+
 ===
 
-Sur le web, nous sommes tous écrivains.
+Ouch : ça va pas bien. 
+Pourquoi ? Parce que justement j'ai un problème de format. 
 
-Nous pratiquons une écriture dont nous sommes conscients et que nous maîtrisons complètement ou presque (écrire un courriel, éditer un profil sur les réseaux sociaux, commenter un article de presse, remplir un formulaire en ligne pour acheter un livre ou un billet de train, etc.). C'est la dimension "graphique" de l'écriture numérique.
+Cf. slide suivante, puis revenir ici
 
-Mais aussi une écriture dont nous avons souvent qu'une conscience assez superficielle, dont connaissons mal le fonctionnement, et que nous maîtrisons encore moins : l’écriture des données. Car pour chaque action que nous opérons sur le web - y compris les plus minimales (une connexion, un clic, un « like ») nous générons des données, qui sont collectées pour former le fameux « big data », et exploitées à différentes fins dont la bienveillance et l’intérêt général laissent dubitatif. Géolocalisation intempestive, publicité ciblée, suggestions de notre sélection musicale un peu trop intempestive… nous avons tous fait au moins une fois l’expérience peu agréable d'être traqués sur le web.
+Que s'est-il passé ? J'ai fait un copié collé depuis le PDF, or le PDF est encodé de telle manière que mon résultat donne ce texte illisible. Tous les PDF ne font pas cela, mais dépendamment de la façon dont ils ont été produits, cela peut aboutir à ces bogues d'affichage. 
+
+>Les formats nous sont le plus souvent invisibles ou presque. On clique sur une icône pour ouvrir un fichier. [...]Nous visionnons un film, nous entendons de la musique, nous visualisons une image, nous lisons un texte qui peut d’ailleurs « contenir » du son, de l’image, de la vidéo. Il y a donc un mécanisme qui associe au format de chaque document un outil adapté. Ce mécanisme apparaît d’abord quand l’application effectue un diagnostic – elle fait l’hypothèse que le document relève d’un format déterminé – et qu’elle nous propose éventuellement d’utiliser un certain outil pour ce document et pour tous les autres du même format. Ce mécanisme apparaît également quand l’application ne trouve pas d’outil adéquat. Elle nous demande alors de chercher sur l’ordinateur utilisé l’outil nécessaire ou de l’installer. Notre ordinateur utilise donc un mécanisme de détection de format et maintient un « dictionnaire » évolutif associant à un format l’outil à utiliser. On comprend en passant qu’un format peut parfois être utilisé par plusieurs outils.
+
+L’outil qui peut traiter un format change au fil du temps. De nouvelles versions surviennent. Le décalage de version entre celle nécessaire et celle de l’outil peut gêner dans les deux directions. Une ancienne version d’un logiciel peut ne pas prendre en compte un nouveau format. Inversement, une version peut être incapable d’interagir avec un format trop ancien.
 
 
-Pour le dire plus radicalement : sur le web, nous écrivons avec des outils numériques, mais ces outils nous écrivent aussi. En ce sens, ne nous y trompons pas : contrairement à ce que laisse suggérer le terme, une donnée n'est pas donnée : elle a été pensée, sélectionnée, prélevée à des fins précises - le calcul de certains comportements, notamment, jugés utiles par les compagnies qui récoltent ces données. Se joue avec l'écriture des données une représentation numérique du Sujet, qui engage un véritable changement de paradigme pour penser l'identité, désormais définie en termes non plus seulement qualitatifs, mais aussi quantitatifs.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'édition numérique : une question de forme et de formats </br>(deuxième essai)
+
+>Les contenus numériques sont, par nature, encodés. Pour pouvoir être partagée, une information doit être structurée selon des standards : les formats. Le choix d’un format a des implications profondes : les informations que l’on peut transmettre changent, ainsi que leur lisibilité, leur universalité, leur agencement, leur transportabilité, leur transformabilité, etc. 
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+Viviane Boulétreau et Benoît Habert, "Les formats", *Qu'est-ce que l'édition numérique?*, PUM 2014.
+
+<!-- .element: style="font-size:1.7rem; text-align:right" -->
+
+
+
+===
+
+Tout ce que vous écrivez sur votre ordinateur est formaté (cf cours introduction)
+
+Format = l’extension que vous voyez à la fin du fichier. Les formats cachent souvent des clauses cachées au contrat explicite.
+On distingue plusieurs catégories de formats :
+▪ Les « formats propriétaires » : leurs spécifications techniques sont contrôlées par une entité privée et ont en général fait l’objet d’un brevet. Leur usage est donc limité. FORMAT AZW (KINDLE) / DOC (word) / PDF
+▪ Les « formats libres ou ouverts » : leurs spécifications techniques sont publiques et il n’y a pas de restriction d’accès ou de mise en œuvre. Chaque éditeur de logiciel peut donc librement proposer les modules permettant de lire ou d’écrire des données selon ces formats. EPUB
+On parle souvent de droits d’auteurs, aujourd’hui ce problème est aussi celui des formats : vous ne pouvez pas ouvrir certains fichiers sans posséder le logiciel. Quand vous achetez un livre électronique sur amazon, vous êtes obligés de le lire sur Kindle. Vous ne pouvez pas prêter votre livre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/format.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+![](img/format-1.png)<!-- .element: style="width:45%;float:roght;margin-right:-1em;" -->
+
+===
+
+Derrière ces questions qui ne peuvent sembler que techniques se mettent en place des stratégies éditoriales. 
+
+REVENIR à la diapo précédente
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Le livre homothétique
 
-Transposition à l'identique d'un livre imprimé en version numérique, investissement minimal des potentialités de la technologie numérique.
+Le livre "homothétique" désigne toute transposition à l'identique ou presque d'un livre imprimé en version numérique, avec un investissement minimal des potentialités de la technologie numérique.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 
-Je ne me lancerai pas dans une typologie du livre numérique, car ce serait trop hasardeux.
+Derrière ces questions qui ne peuvent sembler que techniques se mettent en place des stratégies éditoriales. 
+Je voudrais voir avec vous quelques "formes" du livre numérique, à travers quelques histoires de formats. 
 
-Cependant, on peut reconnaître trois grandes familles de livres conçues pour la diffusion et la lecture numérique, familles que je distingue en fonction d'intentions éditoriales voire esthétiques.
-
-1) Version homothétique.
+1) Le livre homothétique.
 
 Le premier, et le plus répandu, est le livre électronique « homothétique », qui est une transposition à l’identique d’un livre papier en version numérique.
 
@@ -500,31 +621,161 @@ Michel Morvan :
 https://www.unidivers.fr/livre-numerique-michel-morvan/
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/epub1.png" data-background-size="contain"-->
 
+PDF
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/epub2.png" data-background-size="contain"-->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/epub3.png" data-background-size="contain"-->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le livre enrichi
-Le livre enrichi utilise les possibilités techniques du format numérique afin d’apporter un enrichissement, autant au contenu qu’à la mise en forme de l’ouvrage imprimé qu’il vient compléter. Il s'agit d'ajouter une plus-value au livre.
+![](img/edition-numerique-pdf.png)<!-- .element: style="width:700px" -->
 
 ===
 
-le livre enrichi, qui prend une place de plus en plus importante : il utilise les possibilités techniques du format numérique afin d’apporter un enrichissement, autant au contenu qu’à la mise en forme de l’ouvrage imprimé qu’il vient compléter.
+Le livre homothétique va se manifester sous différents formats. 
 
-Beaucoup de cas différents : collection Parcours numériques : des livres imprimés sans illustration.
+D'abord le PDF. 
+
+Le Portable Document Format, communément abrégé en PDF, est un langage de description de page présenté par la société Adobe Systems en 1992 et qui est devenu en 2008 une norme ISO en format ouvert.
+
+Les premières versions de PDF ne prenaient pas en charge les hyperliens externes, ce qui limitait son utilité sur Internet. La taille plus importante d'un document PDF par rapport au texte brut entraînait des temps de téléchargement plus longs, en particulier avec les modem plus lents couramment utilisés à l'époque. De plus, le rendu des fichiers PDF était lent sur les machines moins puissantes de l'époque.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+![](img/pratiques-edition-num-chap-9-pdf.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+![](img/pratiques-edition-num-chap-9-print.jpg)<!-- .element: style="width:45%;float:roght;margin-right:-1em;" -->
+
+===
+
+La spécificité du PDF est de préserver la mise en page d’un document — polices de caractères, images, objets graphiques, etc. — telle qu'elle a été définie par son auteur, et cela quels que soient le logiciel, le système d'exploitation et l'ordinateur utilisés pour l’imprimer ou le visualiser. Le PDF offre ainsi une forte stabilisation, ce qui est une caractéristique de l'objet imprimé : on veut une clôture & stabilisation du texte.
+
+
+Visuellement, on voit bien l'idée du livre "homothétique" : vous avez des pages, numérotées, on est vraiment dans une "Photocopie" de ce qu'est un livre. 
+Format d'Adobe, soit une entreprise privée, ultra majoritaire, celui qu'on produit tous. Interropérable dans la limite des fonctionnalités. Pas éditable (je peux aller éditer un mur).
+
+Le format PDF peut aussi être interactif. Il est possible d'incorporer des champs de textes, des notes, des corrections, des menus déroulants, des choix, des calculs, etc. On parle alors de formulaire PDF.
+
+Globalement, PDF = le nouveau print. Il s'est largement répandu dans les pratiques, parce qu'il est proposé en sortie de tous les éditeurs de texte. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+EPUB
+
+![](img/epub1.png)<!-- .element: style="width:700px" -->
+
+===
+
+Epub = j'y reviendrai tt à l'heure, format créé par le W3C, donc ouvert & libre. 
+
+EPUB = aussi un standard
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/epub2.png)<!-- .element: style="width:700px" -->
+
+===
+
+
+L'EPUB est conçu pour faciliter la mise en page du contenu, le texte affiché étant ajusté au tout dernier moment en fonction du dispositif d'affichage et des choix ergonomiques du lecteur au moment précis de la lecture, choix totalement différent de celui du format PDF. 
+
+Dans un PDF, la mise en page du livre est fixe et ne se modifie pas, peu importe sur quel support on le lit (ordinateur, tablette, liseuse ou iPhone). La mise en page du livre en ePub est quant à elle fluide et s’adapte facilement à l’écran de lecture. On peut, entre autres, modifier la taille et la police de caractères, ce qui rend la lecture plus agréable sur un iPhone par exemple. Toutefois, la mise en page modifiée entraîne forcément des changements dans la pagination, ce qui implique un ajustement dans les usages.
+
+Cette fluidité n'a donc pas forcément plu aux lecteurs, qui avaient besoin de citer, donc de se repérer dans le livre. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+![](img/epub3.png)<!-- .element: style="width:700px" -->
+
+===
+
+La première version de l'EPUB est proposée durant les années 2000 alors que le marché des liseuses commence à se développer. Le format entend répondre au besoin de celles-ci mais il est tout d'abord peu apprécié des éditeurs et lecteurs en raison de ses limites. Notamment, au début pb d'interactivité (intégration img et son, vidéo) 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+AZW (kindle)
+
+![](img/Amazon_Kindle_-_Off.jpg)<!-- .element: style="width:300px" -->
+
+===
+
+AZW = format proprio : impossible ou difficile de le lire indépendamment de l'outil, en l'occurrence une application, Kindle, développée par Amazon. 
+
+C'est le dev de ce format qui a permis le modèle économique d'Amazon : ne pas vendre des livres mais l'Accès à un catalogue. 
+
+Amazon est allé plus loin : l'outil n'est pas seulement une application, mais un objet-support. 
+
+C'est l'Essor de la liseuse. 
+Tout premier Kindle = 2007
+
+Il n’y avait pas d'interface tactile, cependant, le Kindle offrait un clavier complet, avec boutons de navigation et un design en forme de coin favorisant une bonne prise en main. Il offrait également un haut-parleur, une prise casque et un rangement extensible de carte SD.
+
+Comme la navigation était difficile, elle comportait une molette de défilement pour faciliter les sélections sur l'écran. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/kindle-gamme.png)
+
+===
+
+Le principe même de la liseuse est intéressant, car on voit que le réflexe de lecture change finalement assez peu : on a encore la logique de la page, là où l'écran, par exemple sur smartphone, nous a appris à scroller. 
+
+Question des gestes de lecture dont on reparlera plus tard.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le livre enrichi ou augmenté
+Le livre enrichi utilise les possibilités techniques du format numérique afin d’apporter un enrichissement, autant au contenu qu’à la mise en forme de l’ouvrage imprimé qu’il vient compléter. Il s'agit d'ajouter une plus-value au livre.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+===
+
+le livre enrichi doit idéalement utiliser les possibilités techniques du format numérique afin d’apporter un enrichissement, autant au contenu qu’à la mise en forme de l’ouvrage imprimé qu’il vient compléter.
+
+Ça a été la grande mode, mais souvent ç'en est resté à « vitrine technologique ». Développement très coûteux, peu de modèle éco encore. Difficile à faire tenir sur le temps long. 
+
+L'idée de l'enrichissement était d'aller vers un modèle hybride, dans lequel on aurait une plus-value grâce au numérique, soit sous la forme d'une augmentation des types de contenus, soit sous la forme de potentialités de lecture. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Édition augmentée en ligne - Format WEB (HTML/XML)
+
+
+![](img/ParcoursNUm.png)<!-- .element: style="width:25%;float:left;margin-right:-1em;" -->
+
+
+![](img/parcoursnum-edition-augmentee.png)<!-- .element: style="width:65%;float:roght;margin-right:-1em;" -->
+
+
+===
+
+Beaucoup de cas différents : d'abord des éditions dites "augmentées".
+
+collection Parcours numériques : des livres imprimés sans illustration.
 
 Des illustrations sur un site web.
 
 On a donc deux objets, qui fonctionnent indépendamment mais s’apportent une plus-value mutuelle très forte.
+
+Dans cette maison d'édition, passage d'un CMS vers un format Web statique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Édition enrichie via un dispositif transmédia (lecture délocalisée sur un appareil)
+
+![](img/foot-realiteaugmentee.gif)
+
+===
+
+Le livre augmenté, quant à lui, est un dispositif transmédia s’articulant généralement autour d’un livre physique et d’une application mobile dédiée apportant du contenu supplémentaire à l’histoire : sons, images animées en réalité augmentée qui se superposent aux pages du livre, etc.  
+
+DÉlocalisation vers un appareil : ipad, iphone. Souvent qd même des outils apple... On y reviendra, mais développer pour Android et Apple, c'Est très cher. Problème du format de développement : 2 grosses entreprises non interopérables.
+
+Phénomène très utilisé en jeunesse, où il a permis de faire des "histoires animées"
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Collection Histoires animées.mp4" data-background-size="contain"-->
@@ -532,12 +783,17 @@ On a donc deux objets, qui fonctionnent indépendamment mais s’apportent une p
 
 ===
 
-Phénomène très utilisé en jeunesse
+Phénomène très utilisé en jeunesse.
+
+Ici tentative chez Albin Michel : collection "Histoires animées". Seulement 2 ouvrages parus en 2016
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Le livre hypermédiatique
-Oeuvre numérique, qui joue des potentialités techniques du media numérique (plurimédiatique, immersif, interactif...). Positionnement esthétique en faveur de la création de nouvelles formes livresques, émancipées du modèle imprimé.
+Une oeuvre numérique s'inspire des potentialités techniques du media numérique (plurimédiatique, immersif, interactif...). Elle opte pour un positionnement esthétique en faveur de la création de nouvelles formes livresques, émancipées du modèle imprimé. La notion même de "livre" est d'ailleurs parfois difficile à convoquer encore.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
 
 ===
 
@@ -570,6 +826,14 @@ Exemple du manifeste de la revue BleuOrange, paru en 2015.
 >NOUS DISTINGUERONS LE LIVRE NUMÉRIQUE DU LIVRE HOMOTHÉTIQUE DE FORMAT PDF OU DE CERTAINS EPUB, DONT LA FORME SE CONTENTE D’IMITER LE LIVRE PAPIER. IL NE S’AGIT PAS NON PLUS D’UN SITE WEB AU SENS CLASSIQUE DU TERME: UN SUPPORT AU CONTENU EXTENSIBLE ET DONT LA FORME OUVERTE (ECO) EST DIFFICILEMENT CIRCONSCRIPTIBLE PAR LE LECTEUR. CE QUI FAIT LIVRE DANS LE NUMÉRIQUE EST UNE FORME AUTOPORTÉE, CIRCONSCRITE, QUOIQUE DYNAMIQUE ET PARFOIS NON LINÉAIRE, ET DONT L’ESSENCE N’EST PAS NÉCESSAIREMENT LITTÉRAIRE NI TEXTUELLE. L’ÉVENTUEL PARADOXE DU «LIVRE» NUMÉRIQUE SE RÉSOUT DANS UNE ADÉQUATION TOTALE ENTRE LES PARTICULARITÉS DU SUPPORT AU SERVICE D’UN CONTENU PENSÉ NATIVEMENT POUR CELUI-CI.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Le livre-application
+
+===
+
+Livre qui dépend de l'installation & compatiblité d'un outil, souvent une appli. Problème de pérennité, entretien de l'appli & du code. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/theboat_mGD18RhL.mp4" data-background-size="contain"-->
 
 
@@ -600,8 +864,9 @@ sous-titres.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/74614087?h=7c1905966a" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+Le "récit pour IPad"
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/74614087?h=7c1905966a" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
 ===
 + parler du livre-appli, du problème de flash en particulier
@@ -609,18 +874,20 @@ sous-titres.
 Conduit d'aération : d'abor "roman pour IPad", puis développement en epub3.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/LieuxPerec1.png" data-background-size="contain"-->
 
+
+L'édition Web
+
+![](img/LieuxPerec1.png)
 
 ===
+
+On est ici sur du livre-web. 
 
 Lieux de Perec : une véritable édition numérique. 2022
 
 Pas toujours besoin de choses très spectaculaires. 
 Les opérations les plus réussies sont celles qui vont vers du low-tech.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/LieuxPerec2.png" data-background-size="contain"-->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -630,7 +897,8 @@ Les opérations les plus réussies sont celles qui vont vers du low-tech.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/LieuxPerec4.png" data-background-size="contain"-->
 
-
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/LieuxPerec2.png" data-background-size="contain"-->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -666,21 +934,140 @@ Pérennité = assurer l'archivage, lutter contre l'obsolescence technique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### La problématique du format
+### De l'imprimé au numérique, du texte au code
+
+* Composante graphique
+* Composante computationnelle
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+### Une énonciation éditoriale des "écrits d'écran"
+
+
+===
+Repartons de l'origine du problème : l'écriture numérique se caractérise par sa dualité, comprenant une composante graphique, mais aussi des composantes computationnelles (comme l'a notamment théorisé Bruno Bachimont). Cette stratification de l'écriture numérique, des codes graphiques, linguistiques et informatiques, engage en vérité une stratification du sens, qui globalement échappe à l'usager.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/codeCarpenter.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Les 3 "niveaux" de l'écriture numérique (Bouchardon & Petit)
+
+>Le livre a une réalité physique ou matérielle (le papier, l’encre) et une réalité symbolique ou culturelle (la langue, les signes à interpréter). Mais pour comprendre le fonctionnement du numérique il faut comprendre l’articulation, non pas de deux, mais de trois niveaux : **il y a ce qu’écrit la machine, il y a ce qu’écrit le programmeur de cette machine, il y a ce qu’écrit l’utilisateur de cette machine. Lire un document numérique quelconque, c’est lire ces trois niveaux, quoique seul le dernier soit visible.** ([Bouchardon et Petit, 2017](http://www.costech.utc.fr/CahiersCOSTECH/spip.php?article69))
+
+
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
 ===
 
-Derrière ces stratégies éditoriales se mettent en place des questions techniques. L’une des principales questions techniques à se poser dans le cas de l’édition numérique (quelle que soit la forme du livre électronique) = celle des formats.
-Tout ce que vous écrivez sur votre ordinateur est formaté (cf cours introduction)
-Format = l’extension que vous voyez à la fin du fichier. Les formats cachent souvent des clauses cachées au contrat explicite.
-On distingue plusieurs catégories de formats :
-▪ Les « formats propriétaires » : leurs spécifications techniques sont contrôlées par une entité privée et ont en général fait l’objet d’un brevet. Leur usage est donc limité. FORMAT AZW (KINDLE) / DOCX (word) / PDF
-▪ Les « formats libres ou ouverts » : leurs spécifications techniques sont publiques et il n’y a pas de restriction d’accès ou de mise en œuvre. Chaque éditeur de logiciel peut donc librement proposer les modules permettant de lire ou d’écrire des données selon ces formats. EPUB
-On parle souvent de droits d’auteurs, aujourd’hui ce problème est aussi celui des formats : vous ne pouvez pas ouvrir certains fichiers sans posséder le logiciel. Quand vous achetez un livre électronique sur amazon, vous êtes obligés de le lire sur Kindle. Vous ne pouvez pas prêter votre livre.
+
+Illustrer ça.
+
+
+Mais ça marche aussi avec l'écriture. 
+
+Dimension multiple de l'écriture numérique : nous sommes des écrivains qui s'ignorent / voire analphabètes.
+
+Nous pratiquons une écriture dont nous sommes conscients et que nous maîtrisons complètement ou presque (écrire un courriel, éditer un profil sur les réseaux sociaux, commenter un article de presse, remplir un formulaire en ligne pour acheter un livre ou un billet de train, etc.). C'est la dimension "graphique" de l'écriture numérique. Utilisation d'éditeurs ou plutôt de logiciels de traitement de texte WYSISYG : ce que l'on voit, c'est ce que l'on obtient. Concentration vers l'effet en sortie, purement graphique. 
+
+Sauf que cette écriture n'est pas une écriture que peut comprendre la machine. Un ordinateur comprend des données structurées et encodées. Fondamentalement, une édition vraiment numérique a donc beosin d'un logiciel WYSISYM : ce que l'on voit, c'est ce que l'on signifie, ce que l'on veut dire. C'est ajouter une valeur sémantique à des données, en l'occurrence des données textuelles.  
+
+Ce qui signifie que quand on écrit sur un ordinateur, avec un logiciel d'écriture WYSISYG, qui cache derrière une couche logicielle, une couche de code sémantique. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### La nouvelle bataille éditoriale
+Expérience : révéler la composition d'un fichier Word
+
+![](img/fichier-word-avant-xml.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+
+![](img/word-zip.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Je vous propose une petite expérience : on va déconstruire ensemble un fichier produit en WYSIWYG, pour retrouver la version sémantique. Cette version sémantique est toujours, là, elle fait partie du fichier, elle est conditionnelle à son existence puisque c'est seulement cela que l'ordinateur comprend. Mais généralement c'est caché. 
+
+prenez sur votre ordi n'importe quel fichier Word (docx pour extension). 
+Changez l'extension en zip. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/fichier-zip-word.png)<!-- .element: style="width:50%;float:left;margin-left:-1em;" -->
+
+![](img/word-zip-ligne-commande.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+Ouvrez ensuite le fichier zip, vous allez voir apparaître l'architecture de votre document.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/xml-docx-texte.png)<!-- .element: style="width:45%;float:left;margin-left:-1em;" -->
+
+
+![](img/xml-word-icoon.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+===
+
+Si je rentre dans le dossier Word : je peux ouvrir par exemple document.xml, où je vais avoir l'archi du texte. 
+
+L'Extensible Markup Language, généralement appelé XML, « langage de balisage extensible » en français, est un métalangage informatique de balisage générique
+
+
+Si je rentre dans le dossier media, j'ai cette fois toute l'iconographie : mes logos. 
+
+Vous vous dites sans doute : heureusement que je ne dois pas faire ça, écrire comme ça, et vous avez raison. 
+Cependant, ça ce n'est pas de l'édition numérique : cette architecture est alourdie **parce que** on utilise un éditeur de texte WYSIWYG. L'interface graphique ajoute toute cette couche extrêment lourde de code, cette complexité architecturale. Pas de logique informatique ici. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+WYSIWYG *vs* WYSIWYM
+
+![](img/fichier-word-avant-xml.png)<!-- .element: style="width:45%;float:left;margin-left:-1em;" -->
+
+
+![](img/xml-docx-texte.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### "Bonjour" dans Word
+
+![](img/traitement-de-texte-rouge.png)
+
+===
+
+Les outils grand public, produits par des multinationales, se sont développées grâce à la construction d'interfaces d'écriture et de publication qui effacent la technique informatique. En conséquence : des documents souvent mal structurés, qui seront difficilement interprétables par la machine sur le long terme, donc non interopérables et non pérennes. 
+
+L'histoire de l'informatique est ainsi l'histoire d'un éloignement, d'une rupture progressive entre nos actions sur l'interface et la machine. 
+
+L'histoire de l'informatique, c'est aussi l'histoire de guerres industrielles, qui se poursuivent aujourd'hui. Et qui finissent par imposer des usages.
+
+Word : au début, développé avec son propre langage. Sauf que c'était un format fermé (.doc), en binaire, quand on ouvrait on n'y voyait rien. 
+
+
+Par soucis d'interropérabilité, ils ont créé le docx basé sur du langage XML, ce qui fait que l'on peut ouvrir un docx à peu près partout. Le XML de Word est cependant arrimé à un format très abscons. 
+
+Les formats ouverts correspondent à des fichiers encodés de façon transparente, leur recette de fabrication fait partie du domaine public. Ils sont interopérables, c’est à dire qu’ils peuvent être créés, lus et modifiés par tous les logiciels destinés à traiter le type du fichier (image, texte, audio, etc.).
+
+Les formats ouverts sont souvent des standards ouverts, comme le format .html qui sert à construire des pages Web. Les formats ouverts sont à privilégier pour la préservation et le partage des données.
+
+Les formats fermés correspondent souvent à des formats propriétaires. Dans l’exemple ci-dessus, Photoshop appartient à Adobe. Le logiciel est payant, ce qui explique son format fermé. Cependant, tous les formats propriétaires ne sont pas fermés. Pour reprendre le cas d’Adobe, son format .pdf est devenu un standard (norme ISO). Tout le monde peut ouvrir un fichier PDF.
+
+Microsoft a tenté d’ouvrir les formats de sa suite Microsoft Office. Toutes ses extensions terminant par un “x” (.docx, .pptx, .xlsx) sont des formats sortis dans un but d’interopérabilité. Toutefois leur aspect ouvert fait encore débat.
+
+
+Pour résumer : Docx est un format propriétaire gérer par un logiciel payant, mais format reste en théorie ouvert. En théorie, car en pratique on voit bien qu'on y comprend rien, trop complexe à lire par un humain. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Les formats : une guerre d'édition à l'époque numérique
 * Les GAFAM (logique commerciale, construction de formats fermés)
 * Les consortiums de type W3C (logique éditoriale, de gratuité et d'accessibilité)
 
@@ -688,6 +1075,8 @@ On parle souvent de droits d’auteurs, aujourd’hui ce problème est aussi cel
 
 
 ===
+
+
 
 À l’heure actuelle, il existe un peu une « bataille » pour la propriété du web.
 
@@ -1072,7 +1461,7 @@ Source : *Étant donnée*, Cécile Portier
 <!-- .slide: data-background-image="img/rondepierre.png" data-background-size="contain"-->
 
 ## Conclusion
-Concept clé de la théorie des _media_ depuis 30 ans, la remédiation s'avère être une stratégie fondamentale des nouveaux media numériques. Du point de vue des usages (design), elle permet aux utilisateurs d'assurer une continuité formelle et pratique, facilitant la prise en main des nouveaux outils, plateformes, des oeuvres elles-mêmes. Du point de vue esthétique, elle ouvre aussi à des hybridations inattendues. Cependant, à l'heure actuelle, les enjeux techniques de la remédiation demeurent dans les mains des grandes firmes technologiques, qui développent autant qu'elles verrouillent les outils de développement, d'écriture et de lecture.
+Après avoir un temps fait courir la rumeur d'un remplacement médiatique, et de la disparition du papier, le livre numérique apparaît plutôt comme une nouvelle offre, qui n'est pas nécessairement à prendre comme une offre concurrente, mais comme une offre supplémentaire. Concept clé de la théorie des _media_ depuis 30 ans, la remédiation s'avère être une stratégie fondamentale des nouveaux media numériques. Du point de vue des usages (design), elle permet aux utilisateurs d'assurer une continuité formelle et pratique, facilitant la prise en main des nouveaux outils, plateformes, des oeuvres elles-mêmes. Du point de vue esthétique, elle ouvre aussi à des hybridations inattendues. Cependant, à l'heure actuelle, les enjeux techniques de la remédiation demeurent dans les mains des grandes firmes technologiques, qui développent autant qu'elles verrouillent les outils de développement, d'écriture et de lecture.
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 

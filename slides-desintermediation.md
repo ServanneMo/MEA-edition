@@ -452,7 +452,7 @@ Nous naviguons de faire à l'heure actuelle dans un double système de validatio
 
 Évidemment, cette crise de l'autorité des instances de légitimation traditionnelle beaucoup inquiété les acteurs historiques de ces institutions, d'autant plus qu'elle s'est accompagnée d'une remise en question parfois violente de la pertinence de certains métiers.
 
-À l'origine de la désintermédiation, un concept dont on discute depuis les années 196, on retrouve en effet le développement de dispositifs techniques (en particulier l'informatique), ayant conduit à l'automatisation de certaines tâches jusque-là assurées par des être humains. Cette automatisation a donc rendue obsolète certains emplois, voire certains corps de métier dans leur ensemble.
+À l'origine de la désintermédiation, un concept dont on discute depuis les années 1960, on retrouve en effet le développement de dispositifs techniques (en particulier l'informatique), ayant conduit à l'automatisation de certaines tâches jusque-là assurées par des être humains. Cette automatisation a donc rendue obsolète certains emplois, voire certains corps de métier dans leur ensemble.
 
 La désintermédiation a souvent été mal vécue par des individus dont le métier a dû être entièrement réinventé, en même temps que le développement technique entraînait l'obsolescence de leur tâche. Les institution et industries ont ainsi été nombreuses à de voir se repositionner par rapport à leur public, en proposant de nouveaux services -- et donc une nouvelle manière de concevoir leur métier / le service ou l'objet qu'ils vendaient.
 
