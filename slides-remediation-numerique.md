@@ -665,9 +665,11 @@ EPUB
 
 ===
 
-Epub = j'y reviendrai tt à l'heure, format créé par le W3C, donc ouvert & libre. 
+L’ePub a pour ancêtre le format Open eBook, créé par SoftBook Press, société fondée en 1996.
+Openbooks = justement « ouverture »
 
-EPUB = aussi un standard
+
+Epub est un format ouvert - on peut tous le lire gratuitement, il est compatible avec bcp de liseuses (y compris des kindle). Epub sert principalement pour des oeuvres homothétiques, ou bien le publication de livres natifs numériques. Avec epub, on reste dans une logique du livre - de la forme livre, avec un texte divisé en pages, chapitres, etc.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -902,6 +904,30 @@ Les opérations les plus réussies sont celles qui vont vers du low-tech.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+
+Le *Web to print*
+
+* Un format structuré (HTML/XML) lisible sur un navigateur pour la création du fichier d'impression
+* Souveraineté technologique (HTML & XML = standards W3C) et une émancipation des logiciels propriétaires
+* Des ouvrages modulaires et multisupports depuis un seul format pivot
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
+
+
+![](img/Louvre-web-to-print.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+===
+
+Web to print avec HTML structuré.
+
+Fond Gallimard aujourd’hui en XML depuis plus d’une 10aine d’année afin de pouvoir automatiser la mise en forme des textes.
+
+depuis le navigateur web, des fichiers destinés à l’impression.
+
+Pourquoi faire du web to print : souveraineté technologique. Prolétarisation des designers graphiques : locateurs ou usagers d’un service Adobe, mais pas des artisans comme l’étaient les graphistes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ## Enjeux techniques et éditoriaux du livre numérique
 * Interopérabilité
 * Manipulabilité
@@ -1058,7 +1084,7 @@ Les formats ouverts correspondent à des fichiers encodés de façon transparent
 
 Les formats ouverts sont souvent des standards ouverts, comme le format .html qui sert à construire des pages Web. Les formats ouverts sont à privilégier pour la préservation et le partage des données.
 
-Les formats fermés correspondent souvent à des formats propriétaires. Dans l’exemple ci-dessus, Photoshop appartient à Adobe. Le logiciel est payant, ce qui explique son format fermé. Cependant, tous les formats propriétaires ne sont pas fermés. Pour reprendre le cas d’Adobe, son format .pdf est devenu un standard (norme ISO). Tout le monde peut ouvrir un fichier PDF.
+Les formats fermés correspondent souvent à des formats propriétaires.Par exemple InDesign appartient à Adobe. Le logiciel est payant, ce qui explique son format fermé. Cependant, tous les formats propriétaires ne sont pas fermés. Pour reprendre le cas d’Adobe, son format .pdf est devenu un standard (norme ISO). Tout le monde peut ouvrir un fichier PDF.
 
 Microsoft a tenté d’ouvrir les formats de sa suite Microsoft Office. Toutes ses extensions terminant par un “x” (.docx, .pptx, .xlsx) sont des formats sortis dans un but d’interopérabilité. Toutefois leur aspect ouvert fait encore débat.
 
@@ -1080,10 +1106,10 @@ Pour résumer : Docx est un format propriétaire gérer par un logiciel payant, 
 
 À l’heure actuelle, il existe un peu une « bataille » pour la propriété du web.
 
-    • Édition GAFAM, qui bénéficient d’une grande visibilité car bcp d’argent mis dans la publicité. Aussi, une certaine simplicité d’accès. Ces groupes décident de leurs formats, ils en sont les propriétaires. LOGIQUE COMMERCIALE
+Les Éditions GAFAM, qui bénéficient d’une grande visibilité car bcp d’argent mis dans la publicité. Aussi, une certaine simplicité d’accès. Ces groupes décident de leurs formats, ils en sont les propriétaires. LOGIQUE COMMERCIALE
 
 
-    • Communautés / consortiums (ex. le W3C) qui discutent ensemble pour construire des formats strandards basés sur un principe de gratuité et d’accessibilité - associée à une réflexion d’ouverture (toujours faire en sorte d’assurer une accessibilité et une pérénité dans le temps). LOGIQUE ÉDITORIALE (au sens de l’organisation/structuration/transmission/pérénisation des documents).
+Les Communautés / consortiums (ex. le W3C) qui discutent ensemble pour construire des formats strandards basés sur un principe de gratuité et d’accessibilité - associée à une réflexion d’ouverture (toujours faire en sorte d’assurer une accessibilité et une pérénité dans le temps). LOGIQUE ÉDITORIALE (au sens de l’organisation/structuration/transmission/pérénisation des documents).
 
 
 Ce qui se joue ici, c’est une réflexion sur la propriété intellectuelle des outils avec lesquels nous allons construire les livres numériques.
@@ -1094,34 +1120,12 @@ Tout le monde a un ordinateur, mais tout le monde n’a pas acheté les logiciel
 Pb d’un nouveau modèle économique à trouver.
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le format epub : la meilleure pratique ?
-* Une création d'OpenBooks (1996)
-* Format ouvert, compatible
-* Édition homothétique (avec intégration de media dans les dernières versions)
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-
-L’ePub a pour ancêtre le format Open eBook, créé par SoftBook Press, société fondée en 1996.
-Openbooks = justement « ouverture »
-
-
-Epub est un format ouvert - on peut tous le lire gratuitement, il est compatible avec bcp de liseuses (y compris des kindle). Epub sert principalement pour des oeuvres homothétiques, ou bien le publication de livres natifs numériques. Avec epub, on reste dans une logique du livre - de la forme livre, avec un texte divisé en pages, chapitres, etc.
-
-Parce qu’il essaie peut-être justement trop de « respecter » la forme du livre, paradoxalement Epub a été critiqué - notamment parcequ’il donne un certain effet dématérialisation.
-
-Autant avoir un livre imprimé - avec l’odeur du papier - que sa « photographie ».
-Donc encore toute une réflexion à mener sur ce que peut-être et peut donner un livre numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Le livre numérique, un objet de design 
+### La lecture à l'écran va-t-elle transformer nos gestes de lecture ?
 
-Quelques réflexions sur nos gestes de lecture, et leur possible réinvention en contexte numérique.
+Quelques réflexions sur nos gestes de lecture, et leur possible réinvention en contexte numérique (UX Design, *game play*, design du livre, tactilité).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/lndlr.jpg" data-background-size="contain"-->
@@ -1152,7 +1156,7 @@ Dans son roman *Le Nom de la rose*, Umberto Eco met en scène l'une des armes du
 <!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-## Eco et le geste de lecture
+### Eco et le geste de lecture
 * Le texte importe parfois moins que le livre qui le contient (le médium, c'est le message...)
 * Le livre, en tant que média, s'est fait transparent (sécularisation)
 * Le livre engage une sensorialité forte (matérialité)
@@ -1168,16 +1172,10 @@ le texte importe parfois moins que « l’acte » de lecture d’abord conçu
 <!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-## Livre et tablette tactile
+### Livre et tablette tactile : vers l'ux design
 * Comment les éditeurs, écrivains, designers, exploitent-ils le potentiel de la tablette tactile, en réinvestissant la dimension kinésique du livre - dimension à la fois pratique et imaginaire ?
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-## Le livre "homothétique" : un "incunable" numérique
 
 
 ===
@@ -1190,7 +1188,15 @@ Attention : design peut sembler loin de nos préoccupations, on peut se dire que
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/kindle-paperwhite-2018-wifi_dcc6d79033e1f191__450_400.jpg" data-background-size="contain"-->
+
+>Le design d’expérience peut se définir brièvement comme la conception orientée vers l’expérience de l’utilisateur. Pour comprendre ce concept, le mieux est d’expliquer ce qu’est l’expérience utilisateur.
+
+>Ce terme a commencé à être utilisé notamment dans les années 2000, avec l’essor du web 2.0 et du marketing digital. L’objectif est de concevoir un site, une plateforme ou une application web en tenant compte des attentes des utilisateurs, voire en anticipant la manière dont les consommateurs vont naviguer sur le site, interagir ou réagir à ses fonctionnalités et à son apparence.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
+
+
+![](img/kindle-paperwhite-2018-wifi_dcc6d79033e1f191__450_400.jpg)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -1232,8 +1238,7 @@ Source : Google Earth
 
 ## Un pastiche inutile ?
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/skeuomorphism.png" data-background-size="contain"-->
+![](img/skeuomorphism.png)
 
 ===
 
@@ -1260,7 +1265,7 @@ En dépit de son étymologie, qui le fait passer pour un simple « ornement »
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Les affordances du livre
+### Les affordances du livre
 
 >"The affordances of the environment are what it offers the animal, what it provides or furnishes, either for good or ill." (GIBSON, 1986)
 
@@ -1281,7 +1286,7 @@ Pour Gibson, l'affordance est l'ensemble de toutes les possibilités d'action d'
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Lire : un savoir "naturellement" produit par le médium ?
+### Lire : un savoir "naturellement" produit par le médium ?
 * Affordances = potentiel d'action d'un environnement tel qu'il est perçu par l'usager
 * Affordances "réelles" ou "apprises" ?
 * Mais ne confond-t-on pas la matérialité performative avec un savoir-agir culturel (cf. Eco) ?
