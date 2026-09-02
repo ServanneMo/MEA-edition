@@ -218,7 +218,12 @@ Tendance journalistique. Enquête.
 
 ## Des autrices et une écriture féministe dynamique
 
-![](img/ViserJuste.png)
+![](img/lectures_feministes.jpg)
+
+source : photo de Victoire Tuaillon (renverser la table)
+
+<!-- .element: class="source" -->
+
 
 ===
 
