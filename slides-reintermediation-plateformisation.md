@@ -170,7 +170,7 @@ Vincent Bullich, La « plateformisation » comme déploiement d’une logique or
 
 ### Réintermédiation numérique : le risque de la plateformisation
 
-Uniformisation des productions s'intégrant dans un format de publication préconstruit et partagé par une communauté d'utilisateurs, avec les dérives potentielles en termes de censure, de formatage, d'appauvrissement des contenus etc.
+Plateformisation : Uniformisation des productions s'intégrant dans un format de publication préconstruit et partagé par une communauté d'utilisateurs, avec les dérives potentielles en termes de censure, de formatage, d'appauvrissement des contenus etc.
 
 <!-- .element: style="font-size:1.4rem" -->
 

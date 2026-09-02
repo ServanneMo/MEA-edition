@@ -1,6 +1,6 @@
-## Que veut dire "Éditer" ?
+# Que veut dire "Éditer" ?
 
-### *Les trois piliers de la fonction éditoriale*
+## *Les trois piliers de la fonction éditoriale*
 
 ![](img/Fleurs_du_mal.jpg)<!-- .element: style="width:200px" -->
 
@@ -16,9 +16,12 @@ Les maisons d'édition sont une invention assez récente (18e, 19e), liées à l
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Production
-#### Diffusion
-#### Légitimation
+## *Les trois piliers de la fonction éditoriale*
+
+
+### Production
+### Diffusion
+### Légitimation
 
 ===
 
@@ -28,17 +31,6 @@ Si on déconstruit les objectifs de l'édition, on aboutit à 3 fonctions édito
 #### Diffusion
 #### Légitimation
 
-Je vais en donner ici un très bref descriptif, puis nous les envisagerons une par une à la lumière des développements historiques de cette fonction mais également des problématiques contemporaines qui leur sont associées.
-
-
-
-La production renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus livresques. Si la paternité des oeuvres revient bien évidemment à l’auteur, il ne faut pas sous-estimer le rôle des éditeurs (*editor* et *publisher*), à qui revient la responsabilité d’opérer un choix parmi de nombreux manuscrits reçus et de décider ce qui doit être publié... ou pas. Leur rôle d’autorité dans la chaine éditoriale traditionnelle est donc essentiel.
-Attention, l’éditeur n’est pas pour autant un prescripteur. À l’origine, il cherche surtout à garantir la transmission d’un savoir, ou d’une culture.
-La fonction éditoriale doit aussi, de manière plus pratique, assurer la bonne mise en forme des contenus en vue de leur publication. Ce qui signifie concrètement : garantir la qualité linguistique et syntaxique du texte, mais aussi prendre en charge ou superviser le processus technique de fabrication du livre, depuis le design de la mise en page jusqu’à l’impression du livre.
-
-Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et la mise en marché du livre. Cette mission de diffusion se mène sur plusieurs fronts à la fois. Évidemment, l’éditeur doit avoir choisi et déterminé le public des lecteurs et analysé les besoins de ce lectorat précis : dans quel contexte le livre sera-t-il lu ? Le lecteur voudra-t-il le conserver dans sa bibliothèque ? Voudra-t-il le prêter ? L’annoter ? La diffusion comprend ainsi une part de réflexion sur le livre lui-même en tant qu’objet.
-
-Enfin, la fonction éditoriale vient garantir les contenus publiés en s’assurant (et surtout en assurant le lecteur) de leur fiabilité et de leur qualité. Il s'agira bien souvent de mettre en place des processus de validation, plus ou moins transparent d'ailleurs, afin de garantir la qualité, la valeur des contenus. L’éditeur devient de fait un gage de légitimité : traditionnellement, un écrivain gagne son autorité en étant publié par un éditeur, alors que l’auto-publication est mal vue. À l’époque numérique, cette idée est de plus en plus mise à mal.
 
 Analyser ces trois fonctions permet de comprendre à quoi sert fondamentalement l'édition, qui s'est professionnalisée au cours du temps et en particulier à partir du 18e, pour s'interroger ensuite sur la façon dont les technologies numériques réagencent le processus en le transformant.
 
@@ -49,30 +41,20 @@ nécessaire que l'instance éditoriale soit systématiquement identifiée avec c
 
 ## 1. La fonction de production
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+La production renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus livresques. Si la paternité des oeuvres revient bien évidemment à l’auteur, il ne faut pas sous-estimer le rôle de l'éditeur, à qui revient la responsabilité d’opérer un choix parmi de nombreux manuscrits reçus et de décider ce qui doit être publié... ou pas. 
 
-## La fonction de production
-* Choisir et produire des contenus
-* Actions de commande / de sélection / d'organisation
-* Réflexion sur la production matérielle
+
+La fonction éditoriale doit aussi, de manière plus pratique, assurer la bonne mise en forme des contenus en vue de leur publication. Ce qui signifie concrètement : garantir la qualité linguistique et syntaxique du texte, mais aussi prendre en charge ou superviser le processus technique de fabrication du livre, depuis le design de la mise en page jusqu’à l’impression du livre.
+
+
 
 ===
 
->En premier lieu, l'édition a une fonction de choix et de production des contenus.
+La production renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus livresques. Si la paternité des oeuvres revient bien évidemment à l’auteur, il ne faut pas sous-estimer le rôle des éditeurs (*editor* et *publisher*), à qui revient la responsabilité d’opérer un choix parmi de nombreux manuscrits reçus et de décider ce qui doit être publié... ou pas. Leur rôle d’autorité dans la chaine éditoriale traditionnelle est donc essentiel.
 
->C'est la différence la plus évidente entre un contenu édité et un contenu non édité. Entre le manuscrit dans le tiroir de l'auteur et le livre sur l'étagère d'une librairie ou d'une bibliothèque, il y a eu un processus de choix et de mise en forme qui distingue radicalement les deux objets.
+Attention, l’éditeur n’est pas pour autant un prescripteur. À l’origine, il cherche surtout à garantir la transmission d’un savoir, ou d’une culture.
 
->En quoi consiste exactement ce processus ? Il s'agit d'une sélection parmi plusieurs contenus existants : une sélection basée sur (1) la qualité ou sur (2) des exigences de marché ou encore -- plus souvent -- sur un mélange des deux.
-
-Éditer signifie décider quel contenu est "digne" d'être rendu accessible à un public. À questionner : qu'est-ce qui est "digne", et qu'est-ce qu'on range sous ce terme de "dignité" ? On voit qu'on déborde ici déjà sur la fonction de légitimation, mais puisqu'il est question du choix préalable à tout travail éditorial, creusons cette question :
-- ce qui est digne = ce qui est intéressant ? Ce qui a un intérêt pour le public : des contenus pratiques (parmi les premiers textes édités, on retrouve des manuels de philosophie), des contenus esthétiques (qualité littéraire et poétiques), des contenus sacrés (bible, etc)
-- ce qui est digne = ce qui va de fait trouver un public -- des premiers enjeux de diffusion entre les érudits de l'Antiquité et du Moyen-Âge, on va se diriger aujourd'hui vers ce qui va vendre. Best-sellers etc. On a jamais autant peu publiés de jeunes/nouveaux auteurs. Éditer, c'est pourtant aussi produire des nouvelles idées, des nouveaux textes. Publier ce qui n'a jamais été déjà publié.
-
->Depuis plusieurs siècles - ou, plus précisément, depuis le XV siècle -, cette sélection a été le plus souvent garantie par des maisons d'édition : les auteurs leur proposent des manuscrits parmi lesquels elles choisissent ceux qui leur semblent valoir la peine d'être publiés. Mais ce mécanisme de sélection peut être différent : par exemple, une maison d'édition peut demander à des auteurs de produire un texte qui n'existe pas, commanditer un livre sur un sujet qu'elle considère comme important ou potentiellement lucratif.
-
-Et avant l'apparition des maisons d'édition, ce choix était réservé à des instances complètement différentes : par exemple un mécène qui décidait de financer un auteur pour qu'il produise des textes.
-
-Parmi les plus grandes et plus célèbres oeuvres de la littérature, notamment celles qui précèdent l'avènement de l'édition moderne au XIXe, on retrouve de nombreuses commandes : Virgile a par exemple composé l'*Enéide* à la demande de l'empereur Auguste, qui souhaitait construire une épopée à la gloire de ses ancêtres pour asseoir son pouvoir politique et son statut d'imperator.
+La fonction éditoriale doit aussi, de manière plus pratique, assurer la bonne mise en forme des contenus en vue de leur publication. Ce qui signifie concrètement : garantir la qualité linguistique et syntaxique du texte, mais aussi prendre en charge ou superviser le processus technique de fabrication du livre, depuis le design de la mise en page jusqu’à l’impression du livre.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -84,6 +66,8 @@ Parmi les plus grandes et plus célèbres oeuvres de la littérature, notamment 
 
 ===
 
+Je voudrais m'attarder sur la première phrase de la diapo précédente : "La production renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus livresques."
+
 Cette dimension de production n'est donc pas du tout l'apanage des éditeurs modernes. Elle est même certainement la définition fondamentale de l'éditeur historique -- un éditeur qui se distingue totalement du commerçant, voire de l'homme d'affaire, qu'il a pu devenir de nos jours.
 
 Si je lis encore aujourd'hui la définition d'éditeur dans le dictionnaire, la toute première définition est la suivante : « Personne qui fait paraître un texte après l’avoir établi »
@@ -91,7 +75,14 @@ Si je lis encore aujourd'hui la définition d'éditeur dans le dictionnaire, la 
 Définition Éditer est alors synonyme d’ « établir » un texte en vue de sa publication. Au sens strict, établir un texte = travailler à partir de ses différentes versions existantes, afin de reconstituer - ou de constituer tout court - la version la plus optimale possible. L’édition vient aussi désigner, dans ce cas, le travail de présentation, d’annotation, de commentaire du texte.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Porphyry.jpg" data-background-size="contain" -->
+
+![](img/Porphyry.jpg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+
+Au 3è siècle, Porphyre décide d'éditer les *Catégories* d'Aristote pour les rendre plus lisible par un public contemporain, et pour mettre de l'ordre dans la diversité des versions. Afin de faciliter cette lisibilité, il va donc ajouter une introduction, un commentaire, mais également une modélisation graphique des fameuses catégories présentées par Aristote.
+
+<!-- .element: style="width:50%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
 
 ===
 
@@ -99,15 +90,21 @@ Exemple de cet éditeur ancien : Porphyre.
 
 Ce philosophe grec, qui a vécu au IIIe siècle après J-C, fût en effet l'un des premiers et des plus importants éditeurs d’Aristote. Son travail éditorial le plus connu porte sur les *Catégories* d'Aristote, un traité d'ontologie (qu'est-ce que le monde, le réel, la nature des choses).
 
-Problème des textes d'Aristote : ce n'étaient pas des livres au sens où on l'entend nous aujourd'hui. DÉjà, ce n'était pas du codex, mais plutôt du volumen, ces rouleaux en papyrus (le payrus étant friable, on de pouvait pas le plier, simplement le rouler). C'est plus tard, à partir du IIe siècle après JC, avec le développement d'autres techniques telles que le parchemin, que le codex, ce livre au format que l'on connait, va émerger. On parle souvent de révolution du livre avec le numérique, mais il n'en est pas à sa première révolution : l'invention du codex, puis de l'imprimerie, marquent également des changement de paradigme très fort.
+Problème des textes d'Aristote : ce n'étaient pas des livres au sens où on l'entend nous aujourd'hui. DÉjà, ce n'était pas du codex, mais plutôt du volumen, ces rouleaux en papyrus (le papyrus étant friable, on de pouvait pas le plier, simplement le rouler). C'est plus tard, à partir du IIe siècle après JC, avec le développement d'autres techniques telles que le parchemin, que le codex, ce livre au format que l'on connait, va émerger. On parle souvent de révolution du livre avec le numérique, mais il n'en est pas à sa première révolution : l'invention du codex, puis de l'imprimerie, marquent également des changement de paradigme très fort.
 
 Autre problème : le texte, déjà à l'époque de Porphyre, est parvenu en morceaux, en plusieurs morceaux (copies de copies) présentant des différences.
 
 Au 3è siècle, Porphyre décide donc d'éditer les Catégories pour les rendre plus lisible par un public contemporain (Aristote = 4e avant JC, Porphyre est 3e siècle après JC), et pour mettre de l'ordre dans la diversité des versions. Pour faciliter cette lisibilité, il va donc ajouter une introduction, un commentaire, mais également une modélisation graphique des fameuses catégories présentées par Aristote.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/porphyre.JPEG" data-background-size="contain" -->
 
+En faisant l’effort de synthétiser le texte d'Aristote pour en révéler l’organisation et le diffuser auprès d’un public plus large dans un objectif de transmission et de réappropriation, l’arbre de Porphyre a participé à la construction du concept encyclopédique. L'histoire de Porphyre démontre à merveille combien le texte n'est rien sans un travail d'édition, au sens premier : l'établissement du texte. Cet établissement comprend toute une part du travail qui existe encore aujourd'hui : la relecture destinée à vérifier la cohérence du texte (pas de répétition, d'erreur, de contradiction), vérifier sa correction orthographique et syntaxique, réaliser un travail de mise en page, etc. Il s'agit donc d'un travail de fond, mais également de forme.
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/porphyre.JPEG)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -142,28 +139,15 @@ Quelques éléments de réflexion -- et de provocation -- que je laisse ici en s
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain" -->
-
-===
-Wattpad
-
-Certes, uniquement publi en ligne, mais relation directe écrivain - lecteur
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/kindleDirectPublishing.png" data-background-size="contain" -->
 
 ===
-Amazon
+Amazon KDP
 Instance de production d'un objet livresque numérique.
+L'éditeur est entièrement remplacé par un protocole technique + une plateforme qui formalise le texte. 
+On est ici sur une forme d'auto-édition. 
+
 Avec option POD.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/espressoBookMachine.mp4" data-background-size="contain" -->
-
-===
-Expresso book machine
-
-POD (print on demand)
 
 De manière générale, l'auteur reprend en charge la fonction éditoriale : c'est le cas avec le principe d'autoproduction / autopublication des textes.
 
@@ -174,53 +158,24 @@ Cela fait écho à une certaine lassitude de nombreux auteurs, qu'ils soient dé
 
 ## 2. La fonction de diffusion
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et la mise en marché du livre. Cette mission de diffusion se mène sur plusieurs fronts à la fois. Évidemment, l’éditeur doit avoir choisi et déterminé le public des lecteurs et analysé les besoins de ce lectorat précis : dans quel contexte le livre sera-t-il lu ? Le lecteur voudra-t-il le conserver dans sa bibliothèque ? Voudra-t-il le prêter ? L’annoter ? La diffusion comprend ainsi une part de réflexion sur le livre lui-même en tant qu’objet.
 
-## La fonction de diffusion
+
 * Rendre visible les contenus
 * Adresser un texte, un contenu à quelqu'un
-* Médier les contenus, via leur publicisation
-* Créer un texte second (discours d'escorte) au texte premier (ex : l'oeuvre littéraire)
-
 
 ===
 
+Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et la mise en marché du livre. Cette mission de diffusion se mène sur plusieurs fronts à la fois. Évidemment, l’éditeur doit avoir choisi et déterminé le public des lecteurs et analysé les besoins de ce lectorat précis : dans quel contexte le livre sera-t-il lu ? Le lecteur voudra-t-il le conserver dans sa bibliothèque ? Voudra-t-il le prêter ? L’annoter ? La diffusion comprend ainsi une part de réflexion sur le livre lui-même en tant qu’objet.
 
-Reprenons l'exemple du manuscrit dans le tiroir de l'auteur pour identifier une dernière fonction de l'édition, une fonction qui semble évidente : celle de la diffusion des contenus. Le manuscrit dans le tiroir n'est pas diffusé : voilà pourquoi on renvoie à l'image du tiroir. Le manuscrit est donc invisible.
+Concrètement, la diffusion recoupe deux grands enjeux : 
 
-Mais l'invisibilité n'est pas la seule caractéristique qui distingue le manuscrit du livre : justement parce qu'il est
-dans le tiroir, le manuscrit ne s'adresse à personne, n'est pour personne.
+* Rendre visible les contenus
+* Adresser un texte, un contenu à quelqu'un
 
-La fonction de diffusion confère donc d'une part de la visibilité et de l'autre une adresse : elle accomplit un travail de médiation entre le producteur du contenu et le destinataire, le lecteur. La fonction éditoriale a pour mission de créer une relation entre le producteur du contenu et son lecteur.
+Reprenons l'exemple du manuscrit dans le tiroir de l'auteur pour identifier une dernière fonction de l'édition, une fonction qui semble évidente : celle de la diffusion des contenus. Le manuscrit dans le tiroir n'est pas diffusé : voilà pourquoi on renvoie à l'image du tiroir. Le manuscrit est donc invisible. Mais l'invisibilité n'est pas la seule caractéristique qui distingue le manuscrit du livre : justement parce qu'il est dans le tiroir, le manuscrit ne s'adresse à personne, n'est pour personne.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/kwakkek.jpg" data-background-size="contain" -->
-
-===
-
-Je commencerai peut-être par le principe de visibilité, qui touche à l'édition commme réalisation médiatique et matérielle.
-
-Dans l'histoire de l'édition, ou de la fonction éditoriale, avant le sacre  de l'éditeur moderne, donc, cette relation entre l'éditeur (compris comme le producteur du livre) et le lecteur, a parfois été directe et exclusive, sans intermédiaire. Je parle ici d'une époque où la figure de l'éditeur correspondait au copiste : avant l'imprimerie, lorsque l'on copiait à la main les textes.
-
-Chaque exemplaire était alors une version unique, conçue pour les besoins particuliers d'un lecteur.
-L'historien du livre Erik Kwakkel en fait mention dans ces travaux, assimilant la tâche du copiste à celui d'un architecte, qui agencerait le texte dans le livre pour correspondre à des usages singuliers.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->Readers, in turn, preferred their books – and the pages in them – to be formatted in certain ways because they planned to use them for performing particular tasks: to educate or be educated (teachers and students), to entertain or to be entertained (minstrels and courtiers), or to gather a body of information and consult it (scholars, preachers, physicians, lawyers). How and where words were placed on the page – their size and script, and their location – were important considerations in this process of turning the book into a tool that was up to the task. Indeed, it can be argued that a page’s design was (and is) key to a book’s success.
-
-<!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-Erik Kwakkel, "THE ARCHITECTURE OF THE MEDIEVAL PAGE", 2018.
-<!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-===
-
-Selon Kwakkel, "les lecteurs qui passaient commande au scribe / copiste demandaient à ce que la page soit organisée en fonction de l'utilisation qu'ils allaient faire du livre : - éduquer ou être éduqués (enseignants et étudiants), - divertir ou divertir (ménestrels et courtisans), - ou rassembler un corpus d’informations et le consulter (universitaires, prédicateurs, médecins, avocats).
-Ces usages du livre déterminaient le design de la page : Comment et où les mots ont été placés sur la page - leur taille et leur emplacement - étaient des considérations importantes dans ce processus de transformation du livre en un outil à la hauteur de la tâche. En fait, on peut affirmer que le design d’une page est essentiel au succès d’un livre."
-
-Votre livre était donc conçu non pas selon un modèle éditorial faisant autorité (ce qui a été mis en place avec l'imprimé et la production mécanique -- reproductibilité non seulement du texte et de la mise en page), mais selon l'usage que l'acheteur, le lecteur, ferait de son livre. Conception qui, étonnament, peut en partie revenir aujourd'hui avec des options de POD ou de livre numérique.
+La fonction de diffusion confère donc d'une part de la visibilité et de l'autre une adresse : elle accomplit un travail de médiation entre le producteur du contenu et le destinataire, le lecteur. La fonction éditoriale a pour mission de créer une relation entre le producteur du contenu et son lecteur. Cette relation relève d'un travail de médiation, qui s'incarne souvent dans ce que l'on va qualifier de "discours d'escorte" du livre. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -231,9 +186,9 @@ Votre livre était donc conçu non pas selon un modèle éditorial faisant autor
 
 ===
 
-Cela étant dit, on ne doit pas réduire la fonction de diffusion au fait de rendre matériellement disponible un contenu - il n'est pas seulement question de distribution (dans les librairies, notamment) et de publicisation (dans les journaux, dans le métro).
+La question de l'adresse est cruciale, car elle renvoie à une question majeure : pour qui éditons-nous ? Qui n'est pas nécessairement la même chose que : pour qui l'auteur a-t-il écrit ? 
 
-Le fait de diffuser ne se limite pas à cette action matérielle. Il s'agit également d'identifier un lectorat, d'analyser ses besoins, ses compétences, ses désirs, ses pratiques et de faire en sorte que le contenu lui soit **adressé**.
+Il s'agit également d'identifier un lectorat, d'analyser ses besoins, ses compétences, ses désirs, ses pratiques et de faire en sorte que le contenu lui soit **adressé**.
 
 Un contenu est édité quand il est édité **pour** quelqu'un. En ce sens, la fonction de diffusion empiète en partie sur la fonction de production : le choix d'un titre d'un livre, par exemple, de son format, de sa mise en forme, mais aussi de son langage relève d'une fonction de diffusion.
 
@@ -260,9 +215,7 @@ Mais nous avons besoin de comprendre les attentes des lecteurs et leurs comporte
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Les études de marché
-
-Études annuelles de la Sofia-SGDL-SNE
+#### Les études de marché : études annuelles Sofia-SGDL-SNE
 
 - édition imprimée
 - édition numérique (pas de précision sur les formats)
@@ -286,7 +239,13 @@ L'intérêt de cette étude, c'est qu'elle pointe de suite les trois grandes for
 Je ne rentrerai pas dans le détail de l'étude, mais je pointe votre attention sur quelques points de l'étude comparative.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2401.png" data-background-size="contain" -->
+
+![](img/sofia-sgdl-lecteurs-stat.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+![](img/sgdl-sofia-lecteurs-stats.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+
+
 
 source : Baromètre La Sofia-SNE-SGDL
 
@@ -296,19 +255,28 @@ source : Baromètre La Sofia-SNE-SGDL
 
 Pas d'apocalypse : des lecteurs toujours plus nombreux (vs idée de la crise et de la décadence).
 
+Comportement de lecture vis-à-vis des médias ou supports médiatiques :
+La concurrence entre les médias n'en est pas une.
+Phénomène relativement récent : le livre audio devient un phénomène de plus en plus fort.
 
->Si le nombre de lecteurs reste globalement stable
-tous supports de lecture confondus, le livre audio
-numérique connaît une progression significative
-avec 800 000 nouveaux utilisateurs sur la période.
-Sur l’ensemble de la population, 25% des Français de 15 ans et plus ont déjà lu un livre numérique, 15%
-d’entre eux ont déjà écouté un livre audio physique
-et 12% un livre audio numérique. À noter que les livres
-audio, physiques et numériques, attirent de plus en
-plus le lectorat masculin
+>La diversification des formats se poursuit
+
+>8 Français sur 10, âgés de 6 ans et plus, ont lu ou écouté au moins un livre en 2025, soit 47 millions de lecteurs. Parmi eux, 44 millions ont lu au moins un livre imprimé. Leur moyenne d'âge est de 41 ans et ce sont à 54% des femmes.
+Ils sont 14 millions (1 Français sur 4) à avoir lu au moins un livre numérique: des lecteurs au profil plus jeune (36 ans en moyenne), et plus nombreux au sein des CSP+ et des familles avec enfants, mais aussi parmi les étudiants.
+Enfin, 10 millions de Français (près d'l sur 5) ont écouté au moins un livre audio numérique au cours des 12 derniers mois: une population encore plus jeune (31 ans en moyenne) mais aussi plus masculine.
+
+
+À périmètre constant, la lecture gagne du terrain auprès des 15-80 ans, avec un taux de lecteurs en hausse de cinq points passant de 74% en 2023 à 79% en 2025.
+
+Cette progression du lectorat est soutenue par l'essor des petits lecteurs (moins de 5 livres par an), dont la présence se renforce nettement en imprimé, passant de 31% à 42%, et connaît une montée en puissance marquée pour le livre numérique (de 36% à 50%) comme pour l'audio numérique (de 49% à 59%) sur la même période.
+
+À l'inverse, le nombre de grands lecteurs (plus de 20 livres par an) continue de diminuer fortement, tous supports de lecture confondus (de 22% à 15% pour le livre imprimé, de 20% à 11% pour le numérique et de 14% à 7% pour l'audio numérique).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2404.png" data-background-size="contain" -->
+
+![](img/sgdl-sofia-lecteurs-support.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/sgdl-sofia-acces.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 source : Baromètre La Sofia-SNE-SGDL
 
@@ -316,64 +284,38 @@ source : Baromètre La Sofia-SNE-SGDL
 
 ===
 
-Pas de crise :
 
->Le nombre de livres achetés a connu une augmentation, tous supports confondus. Le budget consacré à la
-pratique de la lecture a lui aussi progressé : les lecteurs sont 37% à déclarer dépenser plus de 100 euros par an
-pour les livres imprimés, 18% pour les livres numériques, 13% pour les livres audio physiques et 19% pour les livres
-audio numériques. Enfin, cette année encore, le nombre de lecteurs achetant plus de 5 livres par an est en hausse.
+Lecture = Une pratique régulière, de plus en plus multisupport
 
-Le livre reste une valeur sûre, objet souvent offert.
-Pdt la pandémie, le marché du livre s'est particulièrement bien porté, avec cependant des conséquences perverses : les valeurs sûres l'ont emporté avec l'achat en ligne. Le fait d'avoir des librairies fermées, notamment lors des deux premiers confinements, a empêché une pratique du flanage et donc la vente de nouveaux auteurs ou d'auteurs peu connus.
+Pour l'ensemble des répondants de 6 à 80 ans, la lecture de livres imprimés reste une pratique assidue (41% des lecteurs de livres imprimés en lisent plus d'une fois par semaine) ou régulière (28% au moins une fois par mois).
 
-S'est ainsi accentuée une tendance à ne publier que des auteurs déjà confirmée. De quoi alimenter la question : à qui s'adresse-t-on ? À un lectorat de fidèles. Ou alors à celui qui se fie à la critique, aux prix.
+À noter que les lecteurs de livres utilisent désormais souvent plusieurs supports de lecture : en 2025, 11% d'entre eux ont ainsi utilisé les trois supports au cours de l'année. C'est particulièrement le cas pour les audio-lecteurs qui, à 63%, cumulent les trois formats pour leurs lectures. En revanche, les lecteurs de livres imprimés restent très fidèles au papier : 65% d'entre eux n'ont lu que sur ce support, et seulement 15% se sont essayé aux trois formats.
+
+Le smartphone reste l'équipement de lecture privilégié pour les lecteurs de livres numériques (48%) et les audio-lecteurs numériques (58%), devant la tablette (33% et 30%) et la liseuse (34% et 17%).
+
+L'abonnement aux plateformes de lecture et d'écoute: une pratique massive et diversifiée 
+En 2025, 44% des lecteurs de livres numériques et 48% des auditeurs de livres audio numériques sont abonnés à au moins une plateforme permettant la lecture et/ou l'écoute de livres.
+Si certaines semblent dominer le marché, plus d'une vingtaine de plateformes sont citées par au moins 10% des abonnés.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2408.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/sofia-sgdl-type-lecture.png" data-background-size="contain" -->
 
 
 ===
 
 Qu'est-ce qu'on lit ?
->La littérature reste la catégorie la plus lue pour 91%
-des lecteurs de livres imprimés et 83% des lecteurs
-de livres numériques, 73% des auditeurs de livres
-audio physiques et 83% des auditeurs de livres audio
-numériques. La jeunesse et l’éveil sont particulièrement
-écoutés sur les livres audio physiques.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/equipements-2021.png" data-background-size="contain" -->
+Les catégories éditoriales les plus citées
 
-source : Baromètre La Sofia-SNE-SGDL
+Quel que soit le support de lecture, la Littérature reste la catégorie la plus lue par le plus grand nombre (86%, citée en premier par 52% des répondants), suivie par la catégorie Documents, actualités et essais (mémoires et biographies en particulier) et la Bande dessinée (albums pour l'imprimé, mangas pour le numérique). Celle-ci est citée comme leur première catégorie de lectures par 13% des lecteurs.
+Les catégories Jeunesse et Sciences humaines sont également largement citées, avec une acuité plus importante pour les livres numériques et les livres audio numériques.
+Au sein de la catégorie Littérature, les romans policiers dominent largement le classement, devant les romans classiques, les romans contemporains et les romans historiques.
 
-<!-- .element: class="source" -->
 
-===
-
-Comportement de lecture vis-à-vis des médias ou supports médiatiques :
-La concurrence entre les médias n'en est pas une.
-Phénomène relativement récent : le livre audio devient un phénomène de plus en plus fort.
-
->La diversification des formats se poursuit : 3,7 millions de lecteurs, soit 7% de la population ont utilisé les quatre supports pour lire ou écouter un livre.
-
->La lecture est toujours très majoritairement considérée avant tout comme une activité de plaisir
-(plus de 80% des personnes interrogées, tous supports
-confondus), réalisée principalement au domicile.
-S’agissant du livre audio numérique, les notions de
-parentalité et de praticité sont particulièrement
-mises en avant. Les livres sont souvent écoutés avec
-les enfants et en voiture.
-
->Le fait que seuls 52% (-5 pts) des auditeurs de livres
-audio physiques en aient écouté un il y a moins d’un
-an, traduit vraisemblablement le début d’un véritable
-basculement du livre audio physique au profit du
-livre audio numérique
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/lieux-achat-2021.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/sofia-sgdl-lieuachat.png" data-background-size="contain" -->
 
 source : Baromètre La Sofia-SNE-SGDL
 
@@ -399,21 +341,6 @@ empruntent en bibliothèque (plus de 20 par an pour
 1 emprunteur sur 5) ;
 - 49% des auditeurs de livres audio physiques en
 empruntent également en bibliothèque (+ 8 pts)
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2409.png" data-background-size="contain" -->
-
-source : Baromètre La Sofia-SNE-SGDL
-
-<!-- .element: class="source" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometre_sgdl_sofia_23-2410.png" data-background-size="contain" -->
-
-source : Baromètre La Sofia-SNE-SGDL
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -442,61 +369,37 @@ Cette situation engendre une remise en question profonde de ce qu'est le livre e
 Bcp d'oeuvres dans le domaine public font par exemple l'objet d'une diffusion en libre accès -- sans coût d'achat (mais avec évidemment des coûts de production). Les modèles économique du libre accès sont encore à trouver.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRM.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/abonnement-audible.png" data-background-size="contain" -->
 
 
 ===
 
-Sur la plateforme ebookgratuits.com, on retrouve par exemple un appel aux dons, et ce logo qui aura peut-être retenu votre attention "lecteurs contre les DRM".
-
-DRM = digital rights management.
-
-Les DRM renvoient aux dispositifs pouvant s'appliquer à tous types de supports numériques physiques (disques, DVD, PDF, logiciels…) ou de transmission (télédiffusion, services Internet…) grâce à un système d'accès conditionnel.
-
-* Ces dispositifs techniques ou logiciels peuvent viser à :
-
-- restreindre la lecture du support à une zone géographique prévue (par exemple les zones des DVD, mais aussi certaines émissions de TV en streaming lorsque vous êtes à l'étranger) ;
-- restreindre la lecture du support à du matériel spécifique (par exemple les versions smartphone ou tablette : Apple est passé maître là-dedans, avec des ebook que l'on ne peut lire que sur Ipad) ;
-- restreindre la lecture du support à un constructeur ou vendeur (afin de bloquer la concurrence : c'est le cas du Kindle d'Amazon) ;
-- restreindre ou empêcher la copie privée du support (transfert vers un appareil externe - idem pour Kindle) ;
-- restreindre ou verrouiller certaines fonctions de lecture du support (désactivation de l'avance rapide sur certains passages d'un DVD). Très utile pour obliger l'exposition aux annonces publicitaires ;
-- identifier et tatouer numériquement toute œuvre et tout équipement de lecture ou enregistrement (pour faciliter le pistage des copies non autorisées, mais surtout empêcher la personnalisation et donc le contrôle d'une technologie, par exemple empêcher l'installation d'un autre système d'exploitation sur un ordinateur).
+Parallèlement, le marché du livre se plateformise et voit des modèles émerger, sur abonnement. Modèle du catalogue, comme Netflix, Amazon, Deezer... mais pour le livre, notamment le livre numérique sous ttes ses formes (écrit, mais aussi audio). 
 
 Chez certains vendeurs, comme Amazon et son système Kindle, nous ne sommes donc pas propriétaire d'un objet, de l'objet-livre. Nous avons payé un accès. Impossible de prêter le livre, par exemple. Et difficile de le lire hors de l'application dédiée.
 
-Je m'arrête là temporairement, mais je résume : dans le cas des publications en libre accès, la fonction éditoriale se trouve donc grandement transformée, et surtout de plus en plus floue. Les nouvelles possibilités, offertes par le web, rendent les frontières de la fonction éditoriale floues: la désintermédiation ainsi que le déplacement et l'éclatement de ces fonctions font qu’aujourd’hui, une reconstruction de ces procédés est à faire. Le glissement de ces fonctions s’est fait des éditeurs vers les auteurs et les lecteurs.
+Je m'arrête là temporairement, mais je résume : avec le développement des supports numériques, la fonction éditoriale de diffusion se trouve donc grandement transformée, et surtout de plus en plus floue. Les nouvelles possibilités, offertes par le web, rendent les frontières de la fonction éditoriale floues: la désintermédiation ainsi que le déplacement et l'éclatement de ces fonctions font qu’aujourd’hui, une reconstruction de ces procédés est à faire. Le glissement de ces fonctions s’est fait des éditeurs vers les auteurs et les lecteurs.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## 3. La fonction de validation / légitimation
 
+Enfin, la fonction éditoriale vient garantir les contenus publiés en s’assurant (et surtout en assurant le lecteur) de leur fiabilité et de leur qualité. Il s'agira bien souvent de mettre en place des processus de validation, plus ou moins transparent d'ailleurs, afin de garantir la qualité, la valeur des contenus. L’éditeur devient de fait un gage de légitimité : traditionnellement, un écrivain gagne son autorité en étant publié par un éditeur, alors que l’auto-publication est mal vue. À l’époque numérique, cette idée est de plus en plus mise à mal.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## La fonction de validation / légitimation
 * Conférer une valeur symbolique (qualitative ?) au texte transformé en livre
 * Transformer l'écrivain en auteur
 * Donner des gages de garantie au lectorat
 
 ===
 
->Le dernier aspect qui distingue de façon évidente le manuscrit dans le tiroir de
-l'auteur du livre publié est la valeur symbolique que nous attribuons à ce dernier. Un
-livre a une valeur symbolique plus importante qu'un manuscrit. Pourquoi ?
-Justement à cause de la médiation effectuée par la fonction éditoriale : celle-ci
-garantit la qualité du contenu édité et le différencie par ce biais du contenu non
-édité. C'est ce que nous appelons une fonction de légitimation. Cette légitimation est
-rendue possible grâce au travail de sélection et de production du contenu qui a donc
-été révisé, formaté et retravaillé par une instance ayant le pouvoir symbolique d'en
-garantir la qualité.
+>Le dernier aspect qui distingue de façon évidente le manuscrit dans le tiroir de l'auteur du livre publié est la valeur symbolique que nous attribuons à ce dernier. Un livre a une valeur symbolique plus importante qu'un manuscrit. Pourquoi ? Justement à cause de la médiation effectuée par la fonction éditoriale : celle-ci
+garantit la qualité du contenu édité et le différencie par ce biais du contenu non édité. C'est ce que nous appelons une fonction de légitimation. Cette légitimation est rendue possible grâce au travail de sélection et de production du contenu qui a donc
+été révisé, formaté et retravaillé par une instance ayant le pouvoir symbolique d'en garantir la qualité.
 
 >Dépendamment de l'instance éditoriale, cette légitimation aura
-un poids et une forme différents, mais dans tous les cas la fonction de légitimation
-donne au contenu une fiabilité qui est une garantie pour son lectorat. Par exemple,
-dans le cas d'un roman, le fait qu'il soit publié par une maison d'édition est une
-garantie de qualité littéraire; dépendamment de la maison d'édition, cette garantie
-sera de forme différente : la signature de la maison d'édition nous donnera des
-indices sur le type de littérature dont il s'agit et sur la qualité littéraire que l’on peut
-attendre.
+un poids et une forme différents, mais dans tous les cas la fonction de légitimation donne au contenu une fiabilité qui est une garantie pour son lectorat. Par exemple, dans le cas d'un roman, le fait qu'il soit publié par une maison d'édition est une garantie de qualité littéraire; dépendamment de la maison d'édition, cette garantie sera de forme différente : la signature de la maison d'édition nous donnera des indices sur le type de littérature dont il s'agit et sur la qualité littéraire que l’on peut attendre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -527,14 +430,21 @@ Après l’invention de Gutemberg, l’imprimerie est métier neuf, qui ne s’i
     • enlumineurs,
     • libraires
 qui passèrent tous progressivement de la fabrication et du trafic des manuscrits au commerce du livre imprimé.
+
 L'imprimerie à sa naissance se caractérise par l'alliance des humanistes et des hommes d'affaires. Les imprimeurs du xve siècle ne sont plus simplement des « publieurs », mais des proto-éditeurs, qui prennent la responsabilité de la production et la diffusion des textes en marge d’une activité artisanale ou marchande bien plus rémunératrice : l’imprimerie ou la librairie. C’est-à-dire que, finalement, l’édition est une activité connexe, un peu obligée en marge de l’activité rémunératrice qui consiste à imprimer des livres et les vendre.
+
 On ne peut pas vivre de l’édition : on vit de l’imprimerie ou, à la rigueur, de la vente (pour les libraires - quoique, dans la plupart des villes de province, le libraire est aussi le papetier voire le mercier, qui consacre une partie de sa boutique aux livres).
+
 C’était par ailleurs une logique économique de la demande : on lançait des souscriptions avant de lancer le processus de production d’un livre (le livre était déjà vendu avant son impression).
 Au début, la distinction n’était pas nette entre imprimeurs et libraires. Si certains libraires faisaient travailler pour eux des imprimeurs, les imprimeurs vendaient eux-mêmes les livres qu’ils fabriquaient et, en échange de ceux qu’ils livraient à leurs collègues, ils recevaient souvent, non pas de l’argent, mais d’autres livres qu’ils écoulaient dans leur boutique.
+
 Bref, pas de distinction très nette entre tous ces corps de métier, ce qui a vite conduit, à la fin du premier siècle de l’imprimerie, à une situation anarchique :
 Contrefaçon Quand un éditeur publiait un ouvrage, rien n’empêchait ses collègues de faire réimprimer le même texte s’ils l’estimaient d’un débit assuré. C’est ce que l’on appelle la contrefaçon. Ce procédé paralysait les initiatives ; les éditions que les imprimeurs réalisaient s’écoulaient mal, car elles étaient contrefaites par des confrères qui pouvaient vendre meilleur marché, n’ayant pas eu à supporter les frais de la préparation des éditions et de la correction des textes. Aussi les éditeurs qui entreprenaient une publication furent-ils amenés à solliciter les Pouvoirs publics pour arbitrer les querelles entre les imprimeurs-libraires. Principale revendication : interdire à qui que ce soit de publier le même ouvrage pendant un laps de temps déterminé.
+
 Donc, En tant que denrée commerciale, le livre imprimé fut vite soumis à la concurrence, et le manque d’institutionnalisation du métier poussa les pouvoirs publics (comprendre : la monarchie) à enfermer le livre dans un système des privilèges pour se prémunir de la contrefaçon.
-Système des privilèges S'érigeant en arbitre au milieu des querelles entre corporations d’imprimeurs, corporations de libraires, qui s’affrontent autour des confrontations, l’État impose, en France, pour toute publication nouvelle, le système du privilège : = la permission d'imprimer est accordée à la suite de l'examen d'un texte par le censeur est assortie d'un monopole concédé pour une durée dépendant du bon vouloir du chancelier.
+
+Système des privilèges 
+S'érigeant en arbitre au milieu des querelles entre corporations d’imprimeurs, corporations de libraires, qui s’affrontent autour des confrontations, l’État impose, en France, pour toute publication nouvelle, le système du privilège : = la permission d'imprimer est accordée à la suite de l'examen d'un texte par le censeur est assortie d'un monopole concédé pour une durée dépendant du bon vouloir du chancelier.
 Censure Cette situation a une conséquence très forte en termes de censure : les libraires et imprimeurs n'avaient plus, en pareil climat, qu'à montrer patte blanche, d'autant plus que l'État était encore à la fois un fournisseur de textes et un client non négligeable depuis qu'il avait pris l'habitude de faire imprimer et diffuser les décisions officielles (système des imprimeurs du Roi). Tous les textes étaient systématiquement relus par l’état qui épurait les passages jugés « problématiques »…
 Ainsi, de la protection commerciale au contrôle des idées, toute une législation complexe entrava l’édition pour trois siècles.
 
@@ -576,7 +486,8 @@ Des histoires tout de même assez différentes : l'un s'est publié à compte d'
 1912 :  Marcel Proust dépose le manuscrit de Du côté de chez Swann à la NRF, maison fondée un an plus tôt par Gaston Gallimard. André Gide le consulte, le trouve nul, le renvoie à l’auteur. Proust se publie à compte d’auteur chez Grasset - c’est-à-dire qu’il a un éditeur sans en avoir, puisqu’il paie lui-même tout le travail d’édition. Gaston Gallimard se rendra vite compte de sa « bourde » et republiera par la suite Du côté de chez Swann après s’être confondu en excuses… il publiera l’ensemble de La Recherche du temps perdu.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/keepCalmAndWriteFanfiction.png" data-background-size="contain" -->
+
+![](img/keepCalmAndWriteFanfiction.png)
 
 ===
 
@@ -629,7 +540,7 @@ Système de recommandation qui a évolué : les lecteurs se parlent entre eux, g
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-#### Conclusion : de la fonction éditoriale aux éditeurs... à la fonction éditoriale
+#### Conclusion : vers une redistribution des fonctions éditoriales
 
 La fonction éditoriale, qui a été prise en charge en grande partie par des maisons d'édition dans les derniers siècles, ne leur est pas réservée par définition.
 
@@ -668,17 +579,5 @@ et de légitimation, en bouleversant le panorama éditorial qui s'était stabili
 cours des derniers siècles.
 
 Les débats qui agitent l'écosystème éditorial contemporain, sous l'effet notamment des mutations technologiques et culturelles liées au développement du fait numérique, nous donnent l'occasion de réinventer les métiers de l'édition à la lumière d'une fonction éditoriale qui excède l'émergence du modèle éditorial moderne. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-#### Conclusion 
-
-Les débats qui agitent l'écosystème éditorial contemporain, sous l'effet notamment des mutations technologiques et culturelles liées au développement du fait numérique, nous donnent l'occasion de réinventer les métiers de l'édition à la lumière d'une fonction éditoriale qui excède l'émergence du modèle éditorial moderne. Cette fonction éditoriale comprend trois piliers interdépendant. Tout d'abord, une fonction de production qui renvoie à l’ensemble des dispositifs dans leurs aspects humains, institutionnels et techniques qui concourent à la création des contenus (livresques ou non). Le second aspect de la fonction éditoriale consiste à assurer la distribution matérielle et, bien souvent, la mise en marché des contenus. La troisième fonction, dite de légitimation, concerne la valeur symbolique des contenus conférée par l'instance éditorial : c'est elle qui donne les garanties au public. 
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-===
-
 
 

@@ -873,7 +873,7 @@ Le "récit pour IPad"
 ===
 + parler du livre-appli, du problème de flash en particulier
 
-Conduit d'aération : d'abor "roman pour IPad", puis développement en epub3.
+Conduit d'aération : d'abord "roman pour IPad", puis développement en epub3.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
