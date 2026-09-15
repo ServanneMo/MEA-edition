@@ -229,7 +229,7 @@ source : photo de Victoire Tuaillon (renverser la table)
 
 Autrices très présentes, avec des textes sur l'emprise, le féminisme, l'inceste
 
-La star de cette rentrée est sans doute Adèle Haenel.
+La star de cette rentrée est sans doute Adèle Haenel, avec laquelle nous assistons peut-être à l'une des premières polémiques de la rentrée.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -332,6 +332,19 @@ Je commence par l'actu économique. Chiffre d'affaires des éditeurs en 2025 : 2
 * Librairies rurales : maillage culturel important mais rentabilité faible, logistique fragile, rémunérations sacrifiées (étude Fill/CNL)
 
 * Seul segment en croissance nette : le thriller/poche, porté notamment par le phénomène Freida McFadden
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Makassar : la distribution indépendante dans la tourmente
+
+>Au-delà de notre survie, c'est toute la chaîne du livre indépendant qui est en jeu et les milliers de personnes qu'elle fait vivre : éditeurs et éditrices, auteurs et autrices, traducteurs et traductrices, graphistes, correcteurs et correctrices, imprimeurs et imprimeuses, diffuseurs et diffuseuses et travailleurs et travailleuses de la distribution, dont le travail ne pourra pas être rémunéré. À l'heure où nous écrivons ces mots, nous n'avons pas touché les recettes des ventes de nos livres en librairies depuis six mois, voire davantage, à cause des retards de paiement de factures qui risque de n’être jamais honorées. Pour les petites structures indépendantes à la trésorerie fragile que nous sommes, ce serait un coup de grâce.
+
+Lettre ouverte des éditeurs distribués par Makassar
+
+===
+
+Fondé en 1995 et historiquement positionné sur la bande dessinée et les sciences sociales, Makassar s'est imposé en trois décennies en un acteur incontournable pour de nombreux éditeurs indépendants, diffusant ou distribuant environ 200 d'entre eux. Fragilisé par la baisse du marché du livre, la hausse des coûts mais aussi par des impayés ou encore par les placements en redressement judiciaire de grands libraires français, Makassar avait aussi dû faire face aux conséquences d'une cyberattaque en 2024.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 

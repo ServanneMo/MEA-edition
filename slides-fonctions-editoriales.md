@@ -380,6 +380,18 @@ Chez certains vendeurs, comme Amazon et son système Kindle, nous ne sommes donc
 
 Je m'arrête là temporairement, mais je résume : avec le développement des supports numériques, la fonction éditoriale de diffusion se trouve donc grandement transformée, et surtout de plus en plus floue. Les nouvelles possibilités, offertes par le web, rendent les frontières de la fonction éditoriale floues: la désintermédiation ainsi que le déplacement et l'éclatement de ces fonctions font qu’aujourd’hui, une reconstruction de ces procédés est à faire. Le glissement de ces fonctions s’est fait des éditeurs vers les auteurs et les lecteurs.
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/makassar.png)
+
+
+=== 
+
+On en reparlera, mais la diffusion/distribution est aussi une histoire d'indépendance. 
+
+En grandes difficultés financières, le diffuseur-distributeur Makassar risque d'entraîner dans sa chute les nombreux petits éditeurs indépendants francophones dont il est le relais. 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ## 3. La fonction de validation / légitimation
