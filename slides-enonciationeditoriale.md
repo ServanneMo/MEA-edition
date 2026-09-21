@@ -1,6 +1,6 @@
-## Comment fonctionne la "chaîne du livre" ?
+## Que signifie la "chaîne du livre" ?
 
-### *L'énonciation éditoriale*
+### *Protocoles, outils, standards et énonciation éditoriale*
 
 ![](img/dosto-dosto.png)<!-- .element: style="width:300px" -->
 
@@ -11,18 +11,18 @@ Nous avons la semaine passée évoquer le concept de fonction éditoriale, dont 
 - une fonction de diffusion
 - une fonction de légitimation
 
-Ces fonctions sont fort utiles pour comprendre la philosophie qui doit animer tout éditeur. Elles restent cependant assez abstraites, et j'aimerais aujourd'hui que l'on aborde ensemble l'édition sous un pan plus concret, à travers la notion de chaîne éditoriale ou de chaîne du livre. 
+Ces fonctions sont fort utiles pour comprendre la philosophie qui doit animer tout éditeur. Elles restent cependant assez abstraites, et j'aimerais aujourd'hui que l'on aborde ensemble l'édition sous un pan plus concret, à travers la notion de **chaîne éditoriale ou de chaîne du livre**. 
 
 Pour autant, je me montrerai également critique le sens sur cette expression, qui repose sur une modélisation parfois trop rigide, et finalement peu en phase avec la réalité du terrain des maisons d'édition, surtout dans des structures un peu petites. 
 
-Ce que je voudrais par ailleurs souligner à travers cette étude de la chaîne éditoriale, c'est l'autorité de l'éditeur, à travers un concept d'énonciation éditoriale.
+Ce que je voudrais par ailleurs souligner à travers cette étude de la chaîne éditoriale, c'est l'**autorité de l'éditeur, à travers un concept d'énonciation éditoriale**.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 #### De la fonction éditoriale à la professionnalisation des éditeurs
 
 - Une institutionnalisation de la fonction
-- Le développement de _process_ de travail (normalisation, standards, protocoles)
+- Le développement de _process_ de travail (normalisation, standards, protocoles), parfois rassemblés sous l'expression de "chaîne du livre"
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
@@ -66,16 +66,6 @@ Je ne vais pas tant critiquer cette chaîne éditoriale, car je crois déjà qu'
 
 Plutôt que de chaîne éditoriale, je préfère parler de protocoles éditoriaux : c'est-à-dire de l'ensemble des consignes aux auteurs, mais également de l'environnement de travail, des étapes du travail qui sont définis par des équipes d'éditeur afin que toute cette équipe travaille efficacement. 
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/editionsducommuns.png)
-
-===
-
-Ne pas oublier que l'on édite des livres, et qu'en fonction des livres édités, il y aura parfois des préférences pour telle ou telle manière de faire. Personnellement j'ai travaillé pour 3 éditeurs, et j'ai eu à chaque fois 3 des protocoles et chaînes différentes. 
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### ... mais également de la standardisation du livre
@@ -110,10 +100,128 @@ Je vous donne un exemple de cette standardisation, avec la seconde chaîne du ma
 
 Outil pas neutre. Il conditionne la fabrique, mais aussi les contenus. 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/editionsducommuns.png)<!-- .element: style="width:400px" -->
+
+===
+
+Ne pas oublier que l'on édite des livres, et qu'en fonction des livres édités, il y aura parfois des préférences pour telle ou telle manière de faire. Personnellement j'ai travaillé pour 3 structures éditoriales, et j'ai eu à chaque fois 3 chaînes différentes, impliquant des protocoles propres, des standards disctincts ainsi que des outils différents.
+
+Ces différences 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### ...le développement d'une "énonciation éditoriale"
+### Le protocole éditorial 
+Un protocole éditorial désigne un ensemble de règles _explicites_ et d'usages en vigueur au sein d'une structure éditoriale. Destiné à guider le processus de conception d'une publication, le protocole se matérialise souvent sous la forme d'une série d'instructions précises et détaillées mentionnant toutes les opérations à effectuer dans un certain ordre ainsi que les principes fondamentaux à respecter pour assurer le travail de publication. L'ensemble des acteurs de la chaîne éditoriale sont soumis au respect du protocole éditorial (auteurs, éditeurs, préparateurs de copie, designer, directeurs artistiques, imprimeurs...). 
+
+<!-- .element: style="width:40%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/protocole-hn.png)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
+
+===
+
+Repartons du début.
+
+Un protocole éditorial désigne un ensemble de règles et d'usages en vigueur au sein d'une structure éditoriale, destiné à guider le processus de conception d'une publication. Le protocole se matérialise souvent sous la forme d'une série d'instructions précises et détaillées mentionnant toutes les opérations à effectuer dans un certain ordre ainsi que les principes fondamentaux à respecter pour assurer le travail de publication. L'ensemble des acteurs de la chaîne éditoriale sont soumis au respect du protocole éditorial (auteurs, éditeurs, préparateurs de copie, designer, directeurs artistiques, imprimeurs...). 
+
+Il existe autant de protocoles éditoriaux que de structures éditoriales. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Un protocole négocié entre les acteurs et les outils de l'édition
+
+![](img/protocole-hn-auteurs.png)<!-- .element: style="width:400px" -->
+
+
+===
+
+La particularité d'un protocole éditorial, c'est qu'il détermine les relations entre les différents acteurs de la chaîne (en particulier les auteurs et les éditeurs), mais également l'ensemble du processus de travail, ce qui implique également les outils de l'édition.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Standards d'édition 
+
+Un standard désigne l'ensemble des règles, conventions et normes qui encadrent la fabrication d'un contenu édité (texte, mise en forme, présentation) afin d'en garantir la cohérence, la qualité et la reconnaissance au sein d'un secteur professionnel donné. Normalement, un standard est une convention partagée et reconnue par une communauté professionnelle, qui dépasse les choix d'un individu ou d'un outil isolé.
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:right" -->
+
+Normes rédactionnelles et typographiques : règles de ponctuation, de citation, d'orthotypographie propres à une maison d'édition ou à un domaine.
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.4rem; text-align:left" -->
+
+
+Formats matériels du livre : gabarits de collection (format broché, poche), grammage du papier, format d'impression... 
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.4rem; text-align:left" -->
+
+===
+
+Un standard désigne l'ensemble des règles, conventions et normes qui encadrent la fabrication d'un contenu édité (texte, mise en forme, présentation) afin d'en garantir la cohérence, la qualité et la reconnaissance au sein d'un secteur professionnel donné.
+
+Normes rédactionnelles et typographiques : règles de ponctuation, de citation, d'orthotypographie propres à une maison d'édition ou à un domaine.
+
+Formats matériels du livre : gabarits de collection (format broché, poche), grammage du papier, format d'impression... 
+
+Tous ces standards définissent une identité éditoriale reconnaissable.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Outils d'édition
+
+Dispositif logiciel (ou, historiquement, matériel) qui permet de mettre en œuvre concrètement les standards éditoriaux d'un secteur, c'est-à-dire de produire, structurer, corriger, mettre en forme et diffuser un contenu conformément aux règles et conventions reconnues par la profession.
+
+===
+
+Dispositif logiciel (ou, historiquement, matériel) qui permet de mettre en œuvre concrètement les standards éditoriaux d'un secteur, c'est-à-dire de produire, structurer, corriger, mettre en forme et diffuser un contenu conformément aux règles et conventions reconnues par la profession.
+
+
+Le standard et le protocole définissent ce qui doit être respecté (règles typographiques, gabarits, processus, formats de sortie) ; l'outil est ce qui permet de le faire, en le traduisant en fonctionnalités concrètes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Différents outils... et une dépendance accrue à certain.es logiciels & marques
+
+* Outil de rédaction/correction (traitement de texte, correcteurs, comme LibreOffice ou Word) : accompagne l'écriture et la relecture, souvent en amont de la maquette.
+
+* Outil de composition/mise en page (InDesign, QuarkXPress, LaTeX) : applique des gabarits, gère la typographie fine, prépare les fichiers d'impression ou d'export numérique.
+
+* Outil de gestion de production (systèmes de workflow éditorial, ERP éditoriaux) : orchestrent les étapes du processus (manuscrit → BAT) et la coordination entre les intervenants (auteur, éditeur, correcteur, maquettiste).
+
+* Outil de structuration/balisage (éditeurs XML, environnements XML-first) : encodent le contenu selon une logique de standard indépendant de la présentation finale.
+
+===
+
+* Outil de composition/mise en page (InDesign, QuarkXPress, LaTeX) : applique des gabarits, gère la typographie fine, prépare les fichiers d'impression ou d'export numérique.
+* Outil de rédaction/correction (traitement de texte, correcteurs, outils collaboratifs comme Word ou Google Docs) : accompagne l'écriture et la relecture, souvent en amont de la maquette.
+* Outil de gestion de production (systèmes de workflow éditorial, PIM, ERP éditoriaux) : orchestrent les étapes du processus (manuscrit → BAT) et la coordination entre les intervenants (auteur, éditeur, correcteur, maquettiste).
+* Outil de structuration/balisage (éditeurs XML, environnements XML-first) : encodent le contenu selon une logique de standard indépendant de la présentation finale.
+
+Le protocole et les standards déterminent un _choix d'outillage_ et donc des choix technologiques (quels formats, quelles typos, quels logiciels) mais ces choix technologiques vont, en retour, influencer le protocole (certaines revue obligent une soumission dans un format précis [docx...], vont interdire les images, etc.). 
+
+Problème: développement d'outils métier par des grandes entreprises dont on est devenus dépendants. Crée une dépendance à l'outil davantage qu'au standard technique. C'est le cas par exemple de Word. 
+
+L'outil peut soit respecter et faciliter un standard existant (un export EPUB conforme, un gabarit qui applique les normes de la collection), soit imposer ses propres contraintes, qui s'écartent parfois du standard visé — ce qui rejoint la distinction qu'on a faite juste avant entre format-outil et standard indépendant. C'est souvent là que se situent les tensions concrètes du métier : l'outil disponible ne permet pas toujours d'atteindre exactement le standard souhaité, et les professionnels doivent composer avec cet écart.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+Les protocoles, les standards, les outils ne sont jamais purement fonctionnels et neutres : ils incorporent des choix techniques, économiques et culturels qui orientent en retour ce qu'il est possible de produire, de penser et de diffuser.
+
+La technique n'est jamais un simple moyen, mais participe activement à la construction de ce qu'elle sert à produire.
+
+===
+
+Bref, un protocole, un standard, un outil n'est jamais neutre, tout comme les technologies éditoriales utilisées. 
+
+Loin d'être de simples supports neutres, les outils, protocoles et standards sont porteurs de présupposés — techniques, économiques, culturels — qui structurent en retour les pratiques et les contenus qu'ils rendent possibles.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### De la chaîne du livre à l'"énonciation éditoriale"
 
 
 De la réception du manuscrit à la commercialisation d'un ouvrage, la fabrique du livre nécessite la mobilisation d'une équipe de professionnels (qui ont une certaine "idée" du livre, du lectorat/client), l'utilisation d'outils spécifiques, dans un cadre institutionnel et juridique. Cet écosystème socio-technique a un impact sur le livre. C'est ce que l'on peut appeler l'énonciation éditoriale.
@@ -244,6 +352,12 @@ Le texte que j'ai déposé sur moodle est le suivant. Je vais en faire une expli
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+
+
+Emmanuël Souchier, "L'image du texte pour une théorie de l'énonciation éditoriale", *Les cahiers de médiologie* 1998/2 (N° 6)
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.1rem; text-align:right" -->
+
 ===
 
 Dans ce texte, Souchier revient sur le concept qu'il propose, et qui repose sur un paradoxe : énonciation éditoriale, ce sont deux termes qui ne devraient pas s'adjoindre. 
@@ -276,6 +390,11 @@ L'énonciation éditoriale est ainsi différente pour nos deux versions de Crime
 >Qu’on y songe seulement : auteur, editor, éditeur, directeur de collection, secrétaire d’édition, correcteur, illustrateur, maquettiste, graphiste, typographe, claviste, imprimeur, partenaires officiels ou mécènes… auxquels il conviendrait d’ajouter le fabricant de papier, le façonneur, le relieur, sans parler du libraire ou du diffuseur qui interviennent parfois en amont de la chaîne de production.
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+Emmanuël Souchier, "L'image du texte pour une théorie de l'énonciation éditoriale", *Les cahiers de médiologie* 1998/2 (N° 6)
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.1rem; text-align:right" -->
+
 
 ===
 [j’appelle editor le critique qui établit la genèse d’un texte, l’annote et le présente]
@@ -336,6 +455,11 @@ Exemple Federman
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
+Emmanuël Souchier, "L'image du texte pour une théorie de l'énonciation éditoriale", *Les cahiers de médiologie* 1998/2 (N° 6)
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.1rem; text-align:right" -->
+
+
 ===
 
 Ainsi, j'insiste avec Emmanuel Souchier sur la nécessité de désessentialiser le texte, pour le repenser dans son écosystème éditorial, et comme le résultat de cette production éditoriale impliquant des conditions matérielles + des compétences et corps de métiers variés.
@@ -353,6 +477,11 @@ De cette ultime définition, on retiendra la suivante : le texte est aussi bien 
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
+Emmanuël Souchier, "L'image du texte pour une théorie de l'énonciation éditoriale", *Les cahiers de médiologie* 1998/2 (N° 6)
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.1rem; text-align:right" -->
+
+
 ===
 
 En proposant donc un déplacement de notre attention du contenu vers le support, ou plus exactement de l'environnement support du contenu (= le contenant),le concept d'énonciation éditoriale nous encourage à considérer la forme et la matérialité du livre comme des énoncés, et donc à en lire le sens.
@@ -363,11 +492,11 @@ L'énoncé, je le répète mais c'est important, ce n'est donc plus seulement ic
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ### Texte premier, texte second
->La fonction du « texte second » consiste à donner à lire le « texte premier », sa signification (la connotation) nous renvoie à l’idéologie littéraire et textuelle d’une époque donnée. Les signifiés de connotation sont les effets de légitimité textuelle liés aux usages qui se sont constitués au fil de l’histoire.
+>La fonction du «&nbsp;texte second&nbsp;» consiste à donner à lire le «&nbsp;texte premier&nbsp;», sa signification (la connotation) nous renvoie à l’idéologie littéraire et textuelle d’une époque donnée. Les signifiés de connotation sont les effets de légitimité textuelle liés aux usages qui se sont constitués au fil de l’histoire.
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
-#### Éditer, c'est travailler à l'élaboration de ce texte second.
+### Éditer, c'est travailler à l'élaboration du texte second
 
 
 ===
@@ -393,9 +522,14 @@ Que s'est-il passé avec Dostoïevsky ? D'une édition à l'autre, le texte prem
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
+Emmanuël Souchier, "L'image du texte pour une théorie de l'énonciation éditoriale", *Les cahiers de médiologie* 1998/2 (N° 6)
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.1rem; text-align:right" -->
+
+
 ===
 
-Évidemment, ce concept d'énonciation éditoriale appelle au développement de notre culture visuelle, médiatique, grpahique ou typographique, et même marketing.
+Évidemment, ce concept d'énonciation éditoriale appelle au développement de notre culture visuelle, médiatique, graphique ou typographique, et même marketing.
 
 >Mais prendre en compte la dimension graphique, visuelle de l’écriture, et plus généralement de l’information écrite, implique un autre regard, une attention autre que celle dévolue d’ordinaire au texte. Ce regard fait du lecteur habituel un sémiologue attentif, car le texte ainsi considéré présente une résistance physique, matérielle, une présence sociale et idéologique qui s’expriment à travers l’histoire et la culture. C’est toute cette épaisseur de l’écrit que convoque la notion d’énonciation éditoriale.
 
@@ -406,7 +540,7 @@ Que s'est-il passé avec Dostoïevsky ? D'une édition à l'autre, le texte prem
 * La couverture (Joël Dicker)
 * La typographie (Mallarmé, "Jamais un coup de dé n'abolira le hasard)
 * L'énonciation éditoriale dans le processus de révision ortho-typographique
-* Les outils
+* Les outils d'édition
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
