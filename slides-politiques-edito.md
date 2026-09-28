@@ -19,6 +19,133 @@ La question que je veux donc poser avec vous, c'est celle de l'indépendance de 
 La bibliodiversité = c'est l'équivalent culturel du concept de biodiversité pour la nature. On y reviendra, la bibliodiversité, c'est la garantie d'une pluralité et d'un pluralisme de contenus, de formes, de voix, d'auteurs, d'éditeurs... la garantie d'une culture hétérogène, et non pas standardisée (sur le plan des idées, évidemment, mais également sur le plan des formes esthétiques). 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Arte_journal_Grasset.mp4" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/nora_renvoi_LH.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/bollore-grasset-jdd.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+
+
+===
+
+Séisme de forte magnitude dans l'édition française : le 14 avril 2026, le renvoi ou "limogeage" de l'éditeur Olivier Nora de Grasset, après 26 ans à la tête de la maison. 
+Qui est à l'origine de ce limogeage ? Bolloré, qui est le propriétaire d'Hachette, Hachette elle-même un oligipole qui possède Grasset. 
+
+Quelques semaines plus tôt, Grasset avait annoncé l'arrivée de Boualem Sansal. Selon une source proche du dossier citée par l'AFP, le départ de Nora est lié à un désaccord sur la date de sortie du prochain livre de Sansal, consacré à sa détention en Algérie. 
+
+Vincent Bolloré a donné sa version dans le JDD (qu'il possède) le 19 avril :  
+
+>Le dirigeant de Grasset voulait le sortir à la fin de l’année – ce qui était contraire à la volonté de la direction Hachette, qui est le réel propriétaire de Grasset. En entreprise comme en démocratie, la majorité décide in fine…
+
+>Ce différend a eu lieu sur fond de performances économiques de la Maison Grasset très décevantes : le chiffre d’affaires, qui était de 16,5 millions d’euros en 2024, est descendu à 12 millions en 2025 et le résultat opérationnel, qui était de 1,2 million d’euros en 2024, a diminué de moitié pour ne représenter plus que 0,6 million en 2025. Pendant ce même temps, la rémunération annuelle d’Olivier Nora est passée de 830 000 euros à 1,017 million d’euros
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>N’ayons pas peur ! Grasset continuera et ceux qui partent vont permettre à de nouveaux auteurs d’être publiés, promus, reconnus et appréciés. J’aime depuis mon enfance et grâce à ma famille profondément la littérature et suis attaché à aider ses auteurs à pouvoir être diffusés. Quant aux attaques concernant mon « idéologie », je le rappelle une fois de plus : je suis chrétien démocrate et les dirigeants de Hachette continueront à publier tous les auteurs qui le souhaitent. 
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Vincent Bolloré, 19/04/26, dans le JDD
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
+
+===
+
+Dans le JDD, Bolloré s'exprime (après avoir attaqué les ) : 
+
+>N’ayons pas peur ! Grasset continuera et ceux qui partent vont permettre à de nouveaux auteurs d’être publiés, promus, reconnus et appréciés. J’aime depuis mon enfance et grâce à ma famille profondément la littérature et suis attaché à aider ses auteurs à pouvoir être diffusés. Quant aux attaques concernant mon « idéologie », je le rappelle une fois de plus : je suis chrétien démocrate et les dirigeants de Hachette continueront à publier tous les auteurs qui le souhaitent.
+
+Le conflit se lit donc de deux façons : pour le patron de Hachette, Bolloré, c'est un simple arbitrage de calendrier pour l'actionnaire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/lettre-depart-grasset.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/grande_evasion.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+===
+
+Mais pour ses opposants, il s'agit d'une atteinte à l'indépendance éditoriale.
+
+Immédiatement, des auteurs décident de partir. Ils s'organisent en collectif. En cette rentrée littéraire paraît *La grande évasion*, un collectif qui parle d'indépendance etc. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/discepolo-bollore-grasset.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+>À l’aube des années 2020, la conjugaison d’une concentration éditoriale galopante et d’une malheureuse transmission d’héritage entre Jean-Luc et Arnaud Lagardère livrait la maison Hachette aux mains de Vincent Bolloré. En mars 2021, un désaccord entre le milliardaire breton et Arnaud Nourry, le PDG du groupe, débouche sur son licenciement. Nora ne bouge pas, ses auteurs non plus.
+>Un an plus tard, un tollé accompagne l’accueil par Vincent Bolloré de Rubempré, maison fondée par Éric Zemmour pour lancer sa campagne avec son dernier livre, La France n’a pas dit son dernier mot. Nora ne bouge pas, ses auteurs non plus. </br>Thierry Discepolo, dans *Agone*.
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:right" -->
+
+
+
+
+
+===
+
+Du côté de l'édition indé et engagée, on s'amuse un peu de ce réveil tardif. 
+La figure ambigüe de Nora est d'ailleurs moquée par certains, comme  Thierry Discepolo, fondateur de la revue Agone et des éditions du même nom, auteur de *La Trahison des éditeurs*.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/clause_conscience.png)<!-- .element: style="width:400px" -->
+
+
+Les droits sur le catalogue sont la propriété des éditeurs jusqu’à soixante-dix ans après la mort des auteurs et peuvent en conséquence avoir une valeur marchande substantielle. Combien valent ainsi les droits sur l’œuvre de Leïla Slimani ou d’Emmanuel Carrère ? Difficile à dire. Transférer les droits sur un catalogue d’œuvres impliquerait ainsi une transaction dont le prix est subjectif, ce qui ne semble pas conciliable avec l’idée d’une cession imposée par la loi. [...] Une clause de cession au bénéfice des auteurs pourrait en revanche être prévue sur les contrats d’édition pour lesquels une publication n’est pas encore intervenue. En cas de cession de la maison d’édition, l’auteur serait ainsi en mesure d’exiger la résolution du contrat d’édition en cours : l’auteur devrait rembourser son à-valoir ; et l’éditeur, renoncer à tout droit sur l’ouvrage.
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+
+Benoit Huet, dans *Le Monde*.
+
+
+<!-- .element: style="font-size:1.3rem; text-align:right" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/salaries_hachette.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+>Nous encourageons le monde politique à s’emparer du sujet le plus rapidement possible car la situation est alarmante et concerne l’ensemble du secteur culturel et au-delà. La concentration de maisons d’édition et de médias est un enjeu démocratique de premier plan et un véritable danger. Nous souhaitons être au service des auteurs et des lecteurs et non d’un agenda politique.
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+===
+
+>Mais, au-delà des auteurs, qu’en est-il des salariés des maisons d’édition, qui sont les vrais « prisonniers » de la prise de contrôle hostile de l’éditeur par un actionnaire idéologue ? En l’état actuel de la loi, les salariés des maisons d’édition, dont beaucoup font un travail qui suppose une implication intellectuelle très personnelle, sont condamnés à travailler avec le repreneur, ou à démissionner sans compensation.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Des questions en bataille... 
+Comment en sommes-nous arrivés là ? </br>
+Que devient la bibliodiversité quand le premier éditeur français est aussi lié à un empire médiatique ?</br>
+La propriété d'une maison implique-t-elle le contrôle du calendrier et du catalogue ? </br>
+Les départs d'auteurs sont-ils un contre-pouvoir réel, quand les contrats et le droit de préférence les lient ? </br>
+Le phénomène de concentration comprend-t-il réellement un risque idéologique, et donc démocratique ?
+
+===
+
+Comment en sommes-nous arrivés là ? Via un phénomène de concentration qui n'a cessé de s'aggraver, au détriment surtout de l'édition "intermédiaire". Création d'un phénomène de polarisation entre très grosses et très petites structures.
+
+La propriété d'une maison implique-t-elle le contrôle du calendrier et du catalogue ? 
+Cette deux question renvoie à un problème marketing : le contenu littéraire, les dates de publi etc. (ce qui est l'argument de Bolloré)
+
+Que devient la bibliodiversité quand le premier éditeur français est aussi lié à un empire médiatique ?
+Cette question renvoie à la fabrique du livre, et à une maîtrise de la chaîne industrielle du livre. On en reparlera avec le cas des distributeurs. 
+
+Les départs d'auteurs sont-ils un contre-pouvoir réel, quand les contrats et le droit de préférence les lient ?
+Le phénomène de concentration comprend-t-il réellement un risque idéologique, et donc démocratique ?
+Ces questions envoie à la notion d'indépendance politique... 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ##### Le planisphère de l'édition 2025 (LivreHebdo)
 
@@ -134,14 +261,6 @@ REYNAUD-CRESCENT Bénédicte, L’Évolution de la branche d’édition de livre
 économiques, dir. J. Parent, université Paris I, 1982. )
 
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-L’édition française n’a jamais été aussi concentrée qu’aujourd’hui. En effet, les indépendants totalisent 10% à 12% du chiffre d’affaires global. Quant à eux deux, Hachette et Editis représentent 55% du marché. 
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ![](img/planiphereEdition2025-26.1.jpg)<!-- .element: style="width:400px" -->
@@ -161,20 +280,146 @@ Hachette = propriété du groupe Lagardère, lui-même propriété du groupe Viv
 Pour bien illustrer cette notion d'oligopole à Frange, les poupées russes se déroulent aussi dans l'autre sens : Certaines structures éditoriales d'Hachette renferment elles-mêmes plusieurs maisons, ce sont donc des groupes dans le groupe. Par exemple Fayard (cas sur lequel je vais revenir) est proprio de Pluriel, 1001 nuits, Pauvert, Mazarine !
 
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+#### La concentration éditoriale au XXIe siècle : une double croissance horizontale et verticale
 
->Il y a un lien direct entre concentration, exigence de forte rentabilité et développement du livre-marketing. Quand une maison est rachetée par un groupe multinational, elle ne dispose d’une certaine marge d’autonomie que si ses résultats financiers sont conformes aux objectifs fixés par le groupe. Si cet objectif n’est pas tenu, la maison d’édition voit son budget sévèrement contrôlé et se trouve rapidement dépendante des autorisations de budget pour toute décision éditoriale.
+>[La concentration éditoriale] s’est considérablement renforcée après 1945 et elle a véritablement changé de nature après 1980. En effet, pendant plus d’une centaine d’années, les achats d’entreprises s’effectuaient à l’intérieur de ce qu’il est convenu d’appeler une croissance horizontale et verticale du capital. La Librairie Hachette, par ses acquisitions permanentes de maisons d’édition concurrentes, illustre parfaitement les effets de cette croissance horizontale et, par ses rachats de papeteries,
+d’imprimeries et de messageries, ceux de la croissance verticale destinée à lui permettre de
+dominer toute la filière du livre.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.3rem; text-align:justify" -->
+
+JY Mollier, Brève histoire de la concentration éditoriale dans le monde du livre, 2024
+
+<!-- .element: style="font-size:1rem; text-align:right" -->
 
 
->Jeanine Brémond, *L'édition sous influence*, 2003.
+![](img/planisphere_hachette-distribution.png)<!-- .element: style="width:300px" -->
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+===
+
+Toutefois, elle
+s’est considérablement renforcée après 1945 et elle a véritablement changé de nature après 1980.
+En effet, pendant plus d’une centaine d’années, les achats d’entreprises s’effectuaient à l’intérieur
+de ce qu’il est convenu d’appeler une croissance horizontale et verticale du capital. La Librairie
+Hachette, par ses acquisitions permanentes de maisons d’édition concurrentes, illustre
+parfaitement les effets de cette croissance horizontale et, par ses rachats de papeteries,
+d’imprimeries et de messageries, ceux de la croissance verticale destinée à lui permettre de
+dominer toute la filière du livre.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Jamais la concentration éditoriale n’a été aussi forte qu’au milieu des années 2020. [...] Rendue possible par la multiplication des opérations capitalistiques (fusions, acquisitions), **cette concentration est d’abord horizontale**, à travers la détention d’un grand nombre de maisons d’édition et de marques éditoriales. Elle est aussi **verticale**, par la maîtrise des principales sociétés de diffusion et de distribution, qui assurent la prise en charge des catalogues des éditeurs appartenant au groupe en même temps que ceux de nombreux éditeurs indépendants. Enfin, elle revêt une **dimension conglomérale**, en raison de l’intégration de certains de ces groupes éditoriaux au sein de conglomérats qui rassemblent des entreprises ayant des activités diversifiées, appartenant à des secteurs complètement différents.
+
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
+
+
+![](img/Louis_Wiart_AOC.png)<!-- .element: style="width:49%;float:right;margin-right:-1em;" -->
+
+===
+
+À partir des années 2000, le phénomène de concentration va connaître une forte accélération. L’édition française n’a jamais été aussi concentrée qu’aujourd’hui. 
+
+Les cinq principaux groupes éditoriaux représentaient 56 % du chiffre d’affaires de l’édition française en 2000, contre près de 80 % en 2023. 
+
+Aujourd'hui, les indépendants totalisent 10% à 12% du chiffre d’affaires global. Quant à eux deux, Hachette et Editis représentent 55% du marché. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2022, la menace de la fusion Éditis Hachette : le stade ultime de la concentration éditoriale ?
+
+>La diversité, c’est la substance même de l’édition ; et c’est bien en son nom que la loi instituant un prix unique du livre a été votée à l’unanimité de la Chambre en 1981. [Antoine Gallimard]
+
+>Sur le marché du livre, ce mélange des genres peut agir comme un cyclone. Avec son pouvoir d’attraction, le groupe de Vincent Bolloré pourrait assécher les terres de l’édition, en s’accaparant des droits à des prix d’acquisition hors marché. C’est un des piliers de notre culture du livre qui pourrait alors être atteint : la péréquation économique entre des livres de fonds et des livres d’exploitation rapide, laquelle permet le financement de la création dans toute sa diversité. [Antoine Gallimard]
+
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
+
+
+![](img/gallimard-fusion-editis-hachette.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
+
+===
+
+Aujourd'hui, en France, La concentration éditoriale donne lieu à une tension croissante entre les deux grands groupes éditoriaux français, ou les deux oligopoles à franges : Editis & Hachette. 
+
+Ces deux plus gros acteurs de la concentration éditoriale sont des groupes qui relevaient jusqu'en 2023 de deux entités distinctes : 
+- Editis était sous la houlette de Vivendi, propriété de Bolloré
+- Hachette était détenu par Lagardère.
+
+Inutile d'expliquer pourquoi, lorsque Vincent Bolloré a annoncé sa volonté de racheter Hachette, le secteur de l'édition tout entier s'est ému de la nouvelle, à l'image d'ANtoine Gallimard.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### 2023-24 : le numéro un et le numéro deux de l'édition français changent de mains
+
+![](img/echecFusionEditisHachette.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/kretinskyEditis.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 ===
+
+Les éditeurs français se sont bcp mobilisés, et finalement la commission européenne, qui effectue tout de même un contrôle des rachats de médias, a autorisé Bolloré à racheter Hachette à condition de céder Editis. 
+
+Depuis 2023, Hachette est la propriété de Bolloré (d'où les tensions avec Saporta) et Editis est donc désormais sous la houlette de Daniel Kretinsky,  avocat, homme d'affaires et milliardaire tchèque : propriétaire des magazines Elle, Télé 7 Jours, Marianne, France Dimanche, Ici Paris, Usbek & Rica et Franc-Tireur. Par ailleurs entre octobre 2018 et septembre 2023, il est un actionnaire majeur du groupe Le Monde...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### L'édition "intermédiaire", grande perdante de la concentration
+
+L’industrie du livre est devenue de plus en plus polarisée, avec à la fois un phénomène de concentration extrême autour des grands groupes et un allongement de la « traîne » de l’édition par la multiplication des petits éditeurs indépendants. Cette double tendance s’accompagne d’un affaiblissement progressif de l’édition intermédiaire, dont la place sur le marché du livre tend à se réduire. Ce bouleversement des équilibres se retrouve jusque dans l’évolution des ventes. 
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Louis Wiart, "L’édition recomposée : concentration, polarisation et idéologisation", AOC, 2026
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Les risques de la concentration
+
+* Contrôle des contenus littéraires à des fins marketing
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+* Contrôle de la chaîne éditoriale à des fins d'exclusions des structures indépendantes
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+* Contrôle des idées à des fins d'influence des foules (idéologie)
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+</br>
+
+#### Un risque avéré pour la bibliodiversité
+
+===
+
+Cela étant dit, ce qui caractérise notre époque, c'est l'influence politique des groupes éditoriaux. Bien qu'habituelles, ces convergences médiatiques font aujourd'hui débat, notamment concernant les intentions et poids politiques que ces groupes peuvent avoir. Cette dimmension politique est ce qui inquiète fortement les professionnels du secteurs éditorial dès lors qu'il est question de Vincent Bolloré dont le nom est associé de plus en plus à des courants de pensée d'extrême droite.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+### La concentration et les logiques marketing
+
+>Il y a un lien direct entre concentration, exigence de forte rentabilité et développement du livre-marketing. Quand une maison est rachetée par un groupe multinational, elle ne dispose d’une certaine marge d’autonomie que si ses résultats financiers sont conformes aux objectifs fixés par le groupe. Si cet objectif n’est pas tenu, la maison d’édition voit son budget sévèrement contrôlé et se trouve rapidement dépendante des autorisations de budget pour toute décision éditoriale.</br>Jeanine Brémond, *L'édition sous influence*, 2003.
+
+
+<!-- .element: style="width:55%;float:left;margin-left:-1em; font-size:1.2rem; text-align:right" -->
+
+
+
+
+![](img/causette-illusions-perdues-plon.png)<!-- .element: style="width:30%;float:right;margin-right:-1em;" -->
+
+===
+
+Le premier aspect de la concentration, c'est la question du catalogue et de la diversité des formes : diversité littéraire, notamment. 
+
+L'argument de Bolloré dans le JDD, c'est la question économique, et en particulier marketing : un désaccord sur la date de sortie d'un livre. DIvergence de pt de vue sur le meilleur moment pour sortir un ouvrage. 
 
 Et alors ? Vous pourriez me dire qu'il y a là rien de mal, c'est la règle du marché, l'édition a vocation à vendre.
 
@@ -188,37 +433,156 @@ De ce point de vue, Les effets de la concentration sont connus et dénoncés dep
 https://www.acrimed.org/La-concentration-dans-l-edition-et-ses-effets
 
 
-À l'époque, 2003, Brémond dénonçait surtout la fabrique de livres Marketin, notamment "Cosette ou le temps des illusions perdues" paru chez Plon (à l’époque Vivendi): À l’origine de ce roman, il y a une idée marketing qui repose sur deux éléments, la fascination qu’exerce le livre de Victor Hugo Les Misérables et un sujet de débat médiatisable : en effet, c'était plutôt audacieux de donner une suite au texte de Hugo. Et ça ne va pas louper, avec un procès au retentissement médiatique très fort, ce qui dispense l'éditeur de faire de la com. Ce qui pose problème dans cette logique marketing, c’est que les ventes d’un livre dépendent principalement, non de ses qualités intrinsèques (qui peuvent d’ailleurs être réelles), mais des modalités et de la puissance de la promotion du livre.
+À l'époque, 2003, Brémond dénonçait surtout la fabrique de livres Marketing, notamment "Cosette ou le temps des illusions perdues" paru chez Plon (à l’époque Vivendi): À l’origine de ce roman, il y a une idée marketing qui repose sur deux éléments, la fascination qu’exerce le livre de Victor Hugo Les Misérables et un sujet de débat médiatisable : en effet, c'était plutôt audacieux de donner une suite au texte de Hugo. Et ça ne va pas louper, avec un procès au retentissement médiatique très fort, ce qui dispense l'éditeur de faire de la com. Ce qui pose problème dans cette logique marketing, c’est que les ventes d’un livre dépendent principalement, non de ses qualités intrinsèques (qui peuvent d’ailleurs être réelles), mais des modalités et de la puissance de la promotion du livre.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Les risques de la concentration
-* Contrôle des contenus littéraires à des fins marketing
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
-* Contrôle des idées à des fins d'influence des foules
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+#### La stratégie de main-mise sur la chaîne éditoriale
 
-* Contrôle de la chaîne éditoriale à des fins d'exclusions des structures indépendantes
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+![](img/hachette-distribution.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
 
+**Diffusion & distribution : la nouvelle concentration éditoriale**
+</br>La concentration des activités de diffusion et de distribution constituent un risque majeur pour les éditeurs indépendants, manaçant la bibliodiversité.
 
-</br>
+<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
 
-#### Un risque avéré pour la bibliodiversité
 
 ===
 
-Cela étant dit, ce qui caractérise notre époque, c'est l'influence politique des groupes éditoriaux. Bien qu'habituelles, ces convergences médiatiques font aujourd'hui débat, notamment concernant les intentions et poids politiques que ces groupes peuvent avoir. Cette dimmension politique est ce qui inquiète fortement les professionnels du secteurs éditorial dès lors qu'il est question de Vincent Bolloré dont le nom est associé de plus en plus à des courants de pensée d'extrême droite.
+Le second aspect de la concentration = main mise sur les parties de la chaîne éditoriale qui maîtrisent le travail logistique et technique du livre, et qui met en place un contrôle de la chaîne éditoriale à des fins d'exclusions des structures indépendantes
+
+
+Ce qui m'intéresse ici, ce sont ces petits camions dessinés sur la carte de l'asso pour l'écologie du livre, ou encore les gros points de distribution sur le planisphère. 
+
+Le travail des distributeurs et diffuseur est souvent mal connu et mal compris, on les confond même d'ailleurs. Je vais y revenir rapidement, et on va enchaîner ensuite sur l'importance de ces deux piliers de l'édition dans le phénomène de concentration. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Les distributeurs
+* Fonctions : référencer, stocker, expédier, retourner, facturer
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+* Sociétés : Volumen (Seuil), Sodis (Gallimard), Union (Flammation), Hachette (Hachette), Interforum (Editis)
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>« la distribution assume les tâches liées à la circulation physique du livre (stockage, transport) et à la gestion des flux financiers qui en sont la contrepartie (…) Entre 8 et 15 % du prix de vente du livre revient au distributeur. » (définition SNE)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Pour bien comprendre, il faut revenir en amont de la chaîne de production d’un livre. Lorsque vous terminez la direction d’ouvrage avec votre éditeur, votre livre est prêt à être commercialisé. Vous signez alors un B.A.T. (bon à tirer), qui marque le top départ de votre publication et donc la fin du travail consacré à la création. Votre éditeur peut imprimer un certain nombre d’exemplaires au lancement. Votre livre est prêt à être distribuer et c’est là qu’intervient le distributeur.
+
+
+Les métiers de la distributions sont principalement tournés vers la logistique et peut se résumer en quatre verbes : référencer, stocker, expédier, retourner, facturer.
+
+En France, ils se nomment Volumen, Sodis, Union, Hachette, Interforum. Ils sont les principaux distributeurs français. La plupart de ces grands noms de la distribution ne vous disent rien, et pourtant ils sont tous des filiales de grandes maisons d’édition – respectivement Seuil, Gallimard, Flammarion, Hachette et Editis. 
+
+La structure leader en France est représentée par Hachette Livre Distribution, qui appartient au groupe éponyme, lui-même propriété de Lagardère (donc Vivendi & Bolloré). 
+
+
+En ayant acquis ou créé leurs structures de distribution, les grands groupes s'épargnent donc un gros travail logistique. Mais il vont aussi enfoncer un peu plus les indépendants, qui ne bénéficient pas de la même puissance de distribution, ou alors doivent en assumer les coûts.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Les diffuseurs
+* Fonctions : commercial et marketing
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+* Sociétés : Hachette, Sodis, Dilisco, Interforum
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>« la diffusion désigne l’ensemble des opérations commerciales et marketing mises en œuvre par les éditeurs dans les différents réseaux de vente (…) entre 4 et 7 % du prix de vente du livre revient au diffuseur ». (définition SNE)
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+===
+
+Le métier du diffuseur est principalement commercial et marketing. Il favorise la présence des livres dans les librairies physiques et sur les salons littéraires.
+Si le distributeur permet à votre livre de pouvoir être acheté partout, le diffuseur fait en sorte qu’il soit vu partout, quel que soit le point de vente : librairies indépendantes, chaines, grandes surfaces, marchands de journaux, centrales d’achat, etc.
+
+* Définition avec l'éditeur des objectifs de vente (combien d'exemplaires insérer sur le marché ?)
+* Démarchage des points de vente pour faire connaître le catalogue de l'éditeur
+* Produire et distribuer des supports de promotion
+* Assurer le réassort des livres pour éviter les ruptures de stock
+
+Aujourd'hui, les grands diffuseurs sont les sociétés qui gèrent également la distribution. On a donc les mêmes boites : effet de concentration, ces deux corps de métier qui étaient indépendants se sont rejoint dans des grosses boîtes. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Le graal de la diffusion et de la distribution
+
+>La maîtrise des circuits de diffusion et de distribution constitue un enjeu central pour les éditeurs dans la mesure où elle conditionne la possibilité d’atteindre le consommateur final et de vendre les volumes nécessaires à la réalisation d’économies d’échelle. Or, ces circuits exigent des investissements colossaux, que seuls quelques acteurs majeurs sont en mesure d’assumer. Les économies d’échelle confèrent ainsi un avantage structurel pour les acteurs les plus puissants et favorisent une concentration du marché. 
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Louis Wiart, "L’édition recomposée : concentration, polarisation et idéologisation", AOC, 2026
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+===
+
+Si j'ai insisté aussi longtemps sur la distribution et la diffusion, ce n'est pas pour faire de vous des experts du stockage, mais pour comprendre que se joue ici un aspect logistique assez peu médiatisé de la concentration éditoriale, et pourtant aux très lourdres conséquences sur la bibliodiversité et l'indépendance.
+
+Une enquête de l'asso des éditeurs indépendants montre que l'écrasante majorité des petites maisons indé 67 % (moins de 25.000 € de CA) assurent eux-mêmes leur diffusion, tandis que les maisons au CA supérieur à 250.000 € ont systématiquement recours à un diffuseur et un distributeur. Effet de précarisation. 
+
+Comme nous l’avons vu, la diffusion et la distribution peuvent parfois être assurées par la même société. Mais la sélection à l’entrée est souvent un frein pour de nombreux éditeurs qui ne peuvent compter sur aucun distributeur, ni aucun diffuseur. Ils entretiennent alors du mieux possible leur réseau de libraires pour vendre vos livres. C’est un travail de titan qu’ils assure souvent uniquement dans leur secteur. Le stockage, l’expédition et la facturation des commandes leur incombent aussi. Ces éditeurs-là sont des héros, mais leur efficacité est bien moindre que celle d’éditeurs entourés d’un distributeur et d’un diffuseur.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+![](img/makassar-1.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
+
+![](img/makassar.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 #### Concentration et contrôle des contenus et des idées 
 
-##### L'Affaire Fayard : symptôle de la droitisation de l'édition ?
 
-![](img/liseboell.png)<!-- .element: style="width:300px" -->
+>si l’aval de la chaîne du livre (diffusion et distribution) impose une logique industrielle qui favorise la concentration des moyens, en revanche l’activité éditoriale en amont, créative et intellectuelle, obéit par essence à une logique « artisanale » qui ne peut être standardisée. C’est pourquoi les maisons d’édition abritées dans les grands groupes jouissent d’une autonomie de leur politique éditoriale. En effet, l’intérêt économique des groupes d’édition est de ne pas confondre le rôle de l’éditeur avec celui de l’actionnaire.
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Serge Eyrolles, *Les 100 mots de l’édition* (PUF, 2009)
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+===
+
+Comme Louis Wiart le questionne lui-même : La domination des grands groupes ne marque-t-elle pas le triomphe de la rationalité gestionnaire aux dépens des exigences de la création ?
+
+>si l’aval de la chaîne du livre (diffusion et distribution) impose une logique industrielle qui favorise la concentration des moyens, en revanche l’activité éditoriale en amont, créative et intellectuelle, obéit par essence à une logique « artisanale » qui ne peut être standardisée. C’est pourquoi les maisons d’édition abritées dans les grands groupes jouissent d’une autonomie de leur politique éditoriale. En effet, l’intérêt économique des groupes d’édition est de ne pas confondre le rôle de l’éditeur avec celui de l’actionnaire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Sauf que la logique économique n’est plus la seule présente dans ces mouvements industriels : la récente prise de contrôle d’Hachette par le milliardaire néoconservateur Vincent Bolloré a consolidé le positionnement de son conglomérat dans le livre et les médias, dans une perspective d’influence idéologique. Au sein d’Hachette, la maison d’édition Fayard a ainsi été réorganisée afin de multiplier la publication de livres de personnalités de droite et d’extrême droite, au premier rang desquelles Nicolas Sarkozy, Sonia Mabrouk, Marion Maréchal Le Pen, Jordan Bardella, Éric Zemmour et Philippe de Villiers.
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Louis Wiart, "L’édition recomposée : concentration, polarisation et idéologisation", AOC, 2026
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+===
+
+>Sauf que la logique économique n’est plus la seule présente dans ces mouvements industriels : la récente prise de contrôle d’Hachette par le milliardaire néoconservateur Vincent Bolloré a consolidé le positionnement de son conglomérat dans le livre et les médias, dans une perspective d’influence idéologique. Au sein d’Hachette, la maison d’édition Fayard a ainsi été réorganisée afin de multiplier la publication de livres de personnalités de droite et d’extrême droite, au premier rang desquelles Nicolas Sarkozy, Sonia Mabrouk, Marion Maréchal Le Pen, Jordan Bardella, Éric Zemmour et Philippe de Villiers.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+##### L'Affaire Fayard : les prémices d'une droitisation de l'édition ?
+
+![](img/liseboell.png)<!-- .element: style="width:500px" -->
 
 
 ===
@@ -272,298 +636,11 @@ Cependant voilà : Hachette Livre est passé à la fin de 2023 sous le contrôle
 
 Difficile de ne pas des influences politiques dans ces décisions managériales mais également éditoriales.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### 2022, la menace de la fusion Éditis Hachette : le stade ultime de la concentration éditoriale ?
-
->La diversité, c’est la substance même de l’édition ; et c’est bien en son nom que la loi instituant un prix unique du livre a été votée à l’unanimité de la Chambre en 1981. [Antoine Gallimard]
-
->Sur le marché du livre, ce mélange des genres peut agir comme un cyclone. Avec son pouvoir d’attraction, le groupe de Vincent Bolloré pourrait assécher les terres de l’édition, en s’accaparant des droits à des prix d’acquisition hors marché. C’est un des piliers de notre culture du livre qui pourrait alors être atteint : la péréquation économique entre des livres de fonds et des livres d’exploitation rapide, laquelle permet le financement de la création dans toute sa diversité. [Antoine Gallimard]
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
-
-
-![](img/gallimard-fusion-editis-hachette.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-===
-
-Aujourd'hui, en France, La concentration éditoriale donne lieu à une tension croissante entre les deux grands groupes éditoriaux français, ou les deux oligopoles à franges : Editis & Hachette. 
-
-Ces deux plus gros acteurs de la concentration éditoriale sont des groupes qui relevaient jusqu'en 2023 de deux entités distinctes : 
-- Editis était sous la houlette de Vivendi, propriété de Bolloré
-- Hachette était détenu par Lagardère.
-
-Inutile d'expliquer pourquoi, lorsque Vincent Bolloré a annoncé sa volonté de racheter Hachette, le secteur de l'édition tout entier s'est ému de la nouvelle, à l'image d'ANtoine Gallimard.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### 2023-24 : le numéro un et le numéro deux de l'édition français changent de mains
-
-![](img/echecFusionEditisHachette.png)<!-- .element: style="width:45%;float:left;margin-right:-1em;" -->
-
-![](img/kretinskyEditis.png)<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-
-===
-
-Les éditeurs français se sont bcp mobilisés, et finalement la commission européenne, qui effectue tout de même un contrôle des rachats de médias, a autorisé Bolloré à racheter Hachette à condition de céder Editis. 
-
-Depuis l'année dernière, 2023, Hachette est la propriété de Bolloré (d'où les tensions avec Saporta) et Editis est donc désormais sous la houlette de Daniel Kretinsky,  avocat, homme d'affaires et milliardaire tchèque : propriétaire des magazines Elle, Télé 7 Jours, Marianne, France Dimanche, Ici Paris, Usbek & Rica et Franc-Tireur. Par ailleurs entre octobre 2018 et septembre 2023, il est un actionnaire majeur du groupe Le Monde...
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://geo.dailymotion.com/player.html?video=x8txosg"
-    style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
-    allowfullscreen
-    title="Dailymotion Video Player"
-    allow="web-share">
-  </iframe>
-</div>
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-#### La stratégie de main-mise sur la chaîne éditoriale
-
-![](img/hachette-distribution.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
-
-**Diffusion & distribution : la nouvelle concentration éditoriale**
-</br>La concentration des activités de diffusion et de distribution constituent un risque majeur pour les éditeurs indépendants, manaçant la bibliodiversité.
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.3rem; text-align:justify" -->
-
-
-===
-
-Un second aspect de la concentration éditoriale ne repose pas sur un seul plan idéologique mais tout simplement logistique et technique. 
-C'est ce que l'on peut appeler la main mise sur la chaîne éditoriale.
-
-Ce qui m'intéresse ici, ce sont ces petits camions dessinés sur la carte de l'asso pour l'écologie du livre, ou encore les gros points de distribution sur le planisphère. 
-
-
-Quelle est la différence entre distribution de livre et diffusion de livre ?
-Cette question peut vous paraître simple mais, pour le grand public, la réponse reste floue. 
-
-La distribution et la diffusion de livres sont deux métiers à part entière, complètement différents. Leur point commun : ils s’inscrivent chacun dans la chaîne de commercialisation des ouvrages. Alors comment les différencier ?
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Les distributeurs
-* Fonctions : référencer, stocker, expédier, retourner, facturer
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
-* Sociétés : Volumen (Seuil), Sodis (Gallimard), Union (Flammation), Hachette (Hachette), Interforum (Editis)
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
->« la distribution assume les tâches liées à la circulation physique du livre (stockage, transport) et à la gestion des flux financiers qui en sont la contrepartie (…) Entre 8 et 15 % du prix de vente du livre revient au distributeur. » (définition SNE)
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
-
-Les métiers de la distributions sont principalement tournés vers la logistique et peut se résumer en quatre verbes : référencer, stocker, expédier, retourner, facturer.
-
-Pour bien comprendre, il faut revenir en amont de la chaîne de production d’un livre. Lorsque vous terminez la direction d’ouvrage avec votre éditeur, votre livre est prêt à être commercialisé. Vous signez alors un B.A.T. (bon à tirer), qui marque le top départ de votre publication et donc la fin du travail consacré à la création. Votre éditeur peut imprimer un certain nombre d’exemplaires au lancement, ou assurer uniquement l’impression à la demande. Dans tous les cas, votre livre est prêt à être distribuer et c’est là qu’intervient le distributeur.
-
-En France, ils se nomment Volumen, Sodis, Union, Hachette, Interforum. Ils sont les principaux distributeurs français. La plupart de ces grands noms de la distribution ne vous disent rien, et pourtant ils sont tous des filiales de grandes maisons d’édition – respectivement Seuil, Gallimard, Flammarion, Hachette et Editis. 
-
-
-La structure leader en France est représentée par Hachette Livre Distribution, qui appartient au groupe éponyme, lui-même propriété de Lagardère (donc Vivendi & Bolloré). 
-
-En ayant acquis ou créé leurs structures de distribution, les grands groupes s'épargnent donc un gros travail logistique. Mais il vont aussi enfoncer un peu plus les indépendants, qui ne bénéficient pas de la même puissance de distribution, ou alors doivent en assumer les coûts.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Que font les distributeurs ? 
-
-#### Du référencement
-* catalogues de libraires (Dilicom, Electre...)
-* mise au point de fiches descriptives à destination des libraires
-* moteur de recherche pour les commandes
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/2 bis voyage message edi.jpg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
-
-
-===
-
-Les livres sont référencés dans le catalogue des libraires via des entités comme Dilicom ou Electre. Ainsi, les libraires ont accès à une fiche de votre livre sur leur logiciel, ce qui leur permet de commander des exemplaires de votre livre à la demande des clients ou pour le placer en rayon.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Que font les distributeurs ? 
-
-
-#### Du stockage
-* gestion des stocks de livres imprimés (entreposage, inventaire)
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
->Le système incite donc financièrement les éditeurs à privilégier les ouvrages à rotation rapide ou à assurer eux-mêmes le stockage de leurs fonds dans des conditions moins coûteuses pour ne maintenir que des quantités minimales chez le distributeur. La question des stocks se pose aussi de manière particulièrement sensible pour les petits éditeurs qui ont confié leurs tirages à des structures de distribution fragiles ; les faillites successives de Distique et d’Alterdis ont ainsi privé certains d’entre eux à la fois des recettes des en-cours, mais aussi de leurs propres stocks. ( Bertrand Legendre, « Les enjeux de la distribution », Bulletin des bibliothèques de France (BBF), 2004, n° 3, p. 5-9.)
-
-<!-- .element: style="width:45%;float:right;margin-left:-1em; font-size:1.2rem; text-align:justify" -->
-
-
-===
-
-Dans un premier temps, le distributeur gère le stock de livres imprimés. C’est toujours utile si le premier tirage de votre ouvrage s’élève à plusieurs milliers d’exemplaires, l’éditeur ne pouvant stocker des dizaines de cartons pesant une tonne dans son bureau...
-
-Le stockage est aujourd'hui devenu un enjeu majeur face à la masse des ouvrages publiés, dans un contexte de concentration.
-
-Selon Bertrand Legendre : 
-
->>Le système incite financièrement les éditeurs à privilégier les ouvrages à rotation rapide ou à assurer eux-mêmes le stockage de leurs fonds dans des conditions moins coûteuses pour ne maintenir que des quantités minimales chez le distributeur. La question des stocks se pose aussi de manière particulièrement sensible pour les petits éditeurs qui ont confié leurs tirages à des structures de distribution fragiles ; les faillites successives de Distique et d’Alterdis ont ainsi privé certains d’entre eux à la fois des recettes des en-cours, mais aussi de leurs propres stocks. 
-
-La rotation correspond au nombre de fois où l’on vend le stock dans l’année. Plus la rotation moyenne d’une librairie est élevée, plus le stock se vend souvent, et donc la rentabilité de ce stock est bonne.
-
-On voit ici comment la chaîne du livre entretient un cercle vicieux : la rentabilité d'un livre se calcule aussi selon la vitesse de "rotation" en librairie : tout l'enjeux est d'avoir donc des stocks qui s'écoulent vite, tant chez le libraire que, par conséquent, chez le distributeur qui s'occupe d'approvisionner les libraires. C
-
-
-Pour un petit éditeur qui aurait une vingtaine de titres à son catalogue, tirés à 4 000 exemplaires chacun, la location de locaux représenterait ainsi des frais voisins de 5 000 euros par an.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Que font les distributeurs ? 
-
-
-#### La gestion des expéditions et des retours & La facturation
-* Envoi des commandes
-* Gestion des retours
-* Mise au pilon...
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
-
-
-![](img/pilon2024.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
-
-
-===
-
-Lorsqu’un exemplaire de votre livre trouve preneur, le distributeur assure l’expédition, c’est-à-dire qu’il conditionne le colis et l’envoie par voie postale aux librairies, aux clients finaux ou à toute autre adresse renseignée par l’acquéreur. Concrètement, lorsqu’un lecteur commande votre livre sur Amazon ou dans une librairie de quartier, ils se passe trois choses : Amazon et la librairie encaissent l’argent puis transmettent la commande au distributeur qui expédie le livre sous 48h, la plupart du temps.
-
-Selon les éditeurs, une politique de retour des livres invendus est mise en place, ainsi que la mise au pilon (destruction). Cette étape, qui permet aux éditeurs et aux auteurs de minimiser les risques financiers est, paradoxalement, facturée très cher par les distributeurs, ce qui explique que certains éditeurs ne gèrent pas cet aspect.
-
-c’est le distributeur qui se charge de la facturation pour la simple et bonne raison qu’il est en contact direct avec les centrales d’achat et les librairies (physiques et en ligne) qui commandent les livres. Il comptabilise donc les exemplaires vendus (expédiés puis facturés par tous les intermédiaires) et transmet ponctuellement un rapport de vente aux éditeurs, ces derniers vous le transmettant à leur tour.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Les diffuseurs
-* Fonctions : commercial et marketing
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
-* Sociétés : Hachette, Sodis, Dilisco, Interforum
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
->« la diffusion désigne l’ensemble des opérations commerciales et marketing mises en œuvre par les éditeurs dans les différents réseaux de vente (…) entre 4 et 7 % du prix de vente du livre revient au diffuseur ». (définition SNE)
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
-Le métier du diffuseur est principalement commercial et marketing. Il favorise la présence des livres dans les librairies physiques et sur les salons littéraires.
-
-Si le distributeur permet à votre livre de pouvoir être acheté partout, le diffuseur fait en sorte qu’il soit vu partout, quel que soit le point de vente : librairies indépendantes, chaines, grandes surfaces, marchands de journaux, centrales d’achat, etc.
-
-Aujourd'hui, les grands diffuseurs sont les sociétés qui gèrent également la distribution.
-
-
-Pour réussir, le diffuseur s’appuie sur une équipe de commerciaux, nommés « représentants », qui se consacre entièrement à la vente des livres, selon les étapes suivantes :
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-#### Quelques exemples de tâches pour le diffuseur
-* Définition avec l'éditeur des objectifs de vente (combien d'exemplaires insérer sur le marché ?)
-* Démarchage des points de vente pour faire connaître le catalogue de l'éditeur
-* Produire et distribuer des supports de promotion
-* Assurer le réassort des livres pour éviter les ruptures de stock
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
-
-Définir avec votre éditeur un objectif de nombre d’exemplaires de livres à insérer sur le marché.
-Démarcher les points de vente pour leur faire connaitre le catalogue de votre éditeur et les convaincre de commander des exemplaires.
-Fournir aux points de vente des supports de promotion pour mieux vendre : kakémonos, présentoirs, affiches, etc.
-Prendre les commandes réceptionnées par les points de vente et les fournir à votre éditeur (qui les fournit ensuite au distributeur).
-Assurer le réassort des livres dans les points de vente pour éviter les ruptures de stock.
-Sensibiliser les points de vente sur les nouveautés littéraires de votre éditeur, puis reprendre au point 3., et ainsi de suite.
-
-Bref, les diffuseurs font du porte-à-porte dans l’espoir de placer en rayon les livres de votre éditeur. Ça peut paraître normal, mais ça reste une exception dans le monde de l’édition. Peu d’éditeurs peuvent recourir aux services d’un diffuseur car ça coûte très cher et c’est un milieu élitiste. Les diffuseurs ne travaillent qu’avec des grands noms de l’édition, les éditeurs indépendants ne les intéressant guère.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le graal de la diffusion et de la distribution
-* Un service coûteux réservé aux grands éditeurs
-* Un déséquilibre entre groupes et éditeurs indépendants
-* Des éditeurs indépendants forcés de s'auto-distribuer et s'auto-diffuser
-
-===
-
-Si j'ai insisté aussi longtemps sur la distribution et la diffusion, ce n'est pas pour faire de vous des experts du stockage, mais pour comprendre que se joue ici un aspect logistique assez peu médiatisé de la concentration éditoriale, et pourtant aux très lourdres conséquences sur la bibliodiversité et l'indépendance.
-
-Une enquête de l'asso des éditeurs indépendants montre que l'écrasante majorité des petites maisons indé 67 % (moins de 25.000 € de CA) assurent eux-mêmes leur diffusion, tandis que les maisons au CA supérieur à 250.000 € ont systématiquement recours à un diffuseur et un distributeur. Effet de précarisation. 
-
-Comme nous l’avons vu, la diffusion et la distribution peuvent parfois être assurées par la même société. Mais la sélection à l’entrée est souvent un frein pour de nombreux éditeurs qui ne peuvent compter sur aucun distributeur, ni aucun diffuseur. Ils entretiennent alors du mieux possible leur réseau de libraires pour vendre vos livres. C’est un travail de titan qu’ils assure souvent uniquement dans leur secteur. Le stockage, l’expédition et la facturation des commandes leur incombent aussi. Ces éditeurs-là sont des héros, mais leur efficacité est bien moindre que celle d’éditeurs entourés d’un distributeur et d’un diffuseur.
-
-Si une bonne diffusion profite aux auteurs reconnus pour vendre des centaines de milliers d’exemplaires de leur livre, une bonne distribution vous permettra au moins de trouver vos lecteurs et d’être vendu partout dans le monde. Finalement, si la diffusion est LE graal quasi inaccessible pour espérer faire de votre ouvrage un bestseller, la distribution est un minimum pour que vos livres soient visibles et disponibles.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/la-dispute-campagne-ulule.png)
-
-===
-
-C'est ce qui explique qu'un groupe, aujourd'hui, est toujours formé de maisons + de distributeurs. Et c'est le cas aussi pour les maisons historiques : Loin d’être demeurées de simples maisons d’édition, avant tout soucieuses de création littéraire et de renforcement des collections qui en sont la carte d’identité, elles ont toutes investi considérablement dans le secteur de la diffusion et celui de la distribution. 
-
-Récemment, en 2019, le CDE (Centre de diffusion de l’édition), la société appartenant à Madrigall, a demandé à une quarantaine d’éditeurs jusque-là diffusés, de partir et de trouver un autre prestataire de services avant le 31 décembre. 
-
-Les seuls diffuseurs disponibles, c’est-à-dire n’appartenant pas aux grands groupes, Harmonia Mundi, les Belles Lettres, Pollen, Paon Diffusion, Dod et Cie, DG Diffusion, Hobo, Serendip et quelques autres, étaient en effet assaillis de demandes et ne pouvaient reprendre la totalité des éditeurs jetés sur le pavé. 
-
-Exemple de prise en charge de l'indépendance : une campagne ULULE. ON aura l'occasion d'y revenir.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### La concentration éditoriale au XXIe siècle : une double croissance horizontale et verticale
-
->[La concentration éditoriale] s’est considérablement renforcée après 1945 et elle a véritablement changé de nature après 1980. En effet, pendant plus d’une centaine d’années, les achats d’entreprises s’effectuaient à l’intérieur de ce qu’il est convenu d’appeler une croissance horizontale et verticale du capital. La Librairie Hachette, par ses acquisitions permanentes de maisons d’édition concurrentes, illustre parfaitement les effets de cette croissance horizontale et, par ses rachats de papeteries,
-d’imprimeries et de messageries, ceux de la croissance verticale destinée à lui permettre de
-dominer toute la filière du livre.
-
-<!-- .element: style="font-size:1.3rem; text-align:justify" -->
-
-JY Mollier, Brève histoire de la concentration éditoriale dans le monde du livre, 2024
-
-<!-- .element: style="font-size:1.3rem; text-align:right" -->
-
-
-===
-
-Toutefois, elle
-s’est considérablement renforcée après 1945 et elle a véritablement changé de nature après 1980.
-En effet, pendant plus d’une centaine d’années, les achats d’entreprises s’effectuaient à l’intérieur
-de ce qu’il est convenu d’appeler une croissance horizontale et verticale du capital. La Librairie
-Hachette, par ses acquisitions permanentes de maisons d’édition concurrentes, illustre
-parfaitement les effets de cette croissance horizontale et, par ses rachats de papeteries,
-d’imprimeries et de messageries, ceux de la croissance verticale destinée à lui permettre de
-dominer toute la filière du livre.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-### Comment penser l'indépendance éditoriale ? 
+### Comment penser </br> l'indépendance éditoriale ? 
 
 ![](img/AssisesEditionInde2025.png)<!-- .element: style="width:500px" -->
 

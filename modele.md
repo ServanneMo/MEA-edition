@@ -6,4 +6,12 @@
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .element: style="font-size:1.7rem; text-align:center" -->
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
+
+Louis Wiart, "L’édition recomposée : concentration, polarisation et idéologisation", AOC, 2026
+
+<!-- .element: style="font-size:1.3rem; text-align:center" -->
