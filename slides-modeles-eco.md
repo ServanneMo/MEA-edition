@@ -26,7 +26,7 @@ N'étant pas économiste, je ne me lancerai pas dans un cours de gestion, mais j
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-![](img/evolution-CA-editeurs-2024.png)
+![](img/evolution-CA-editeurs-2025.png)
 
 chiffres SNE
 <!-- .element: style="font-size:1.7rem" -->
@@ -36,27 +36,29 @@ chiffres SNE
 
 Pour répondre à la question soulevée dans le titre de ce cours, on peut commencer par s'en référer aux chiffres officiels, qui sont donnés chaque année par le SNE.
 
-Le chiffre d’affaires des éditeurs est passé de 2 944,7 millions d’euros en 2023 à 2 901,6 millions d’euros en 2024, soit une baisse de 1,5%. Le nombre d’exemplaires vendus est, lui, passé de 439,7 millions en 2023 à 426 millions en 2024, soit une baisse de 3,1%.
+Le chiffre d’affaires des éditeurs est passé de 2 901,6 millions d’euros en 2024 à 2883,3 millions d’euros en 2025, soit une baisse de 0,63%. Le nombre d’exemplaires vendus est, lui, passé de 426 millions en 2024 à 419,6 millions en 2025, soit une baisse de 1,49%.
 
-Si l’on compare 2024 à 2019, année de « référence » prépandémie, le marché du livre est en croissance de 3,4% en valeur mais en baisse de 2,1% en volume.
+Si l’on compare 2025 à 2019, année de « référence » prépandémie, le marché du livre est en croissance de 2,8% en valeur mais en baisse de 3,6% en volume.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/evolution-CA-segment-editorial-2024.png)
+![](img/evolution-CA-segment-editorial-2025.png)
 
 ===
 
-Un rapide coup d'oeil aux segments éditoriaux montre que la littérature conserve la plus grande part du marché, et reste une valeur sûre : c'est la seule qui progresse l'an passé dans un contexte de baisse généralisée.
+Un rapide coup d'oeil aux segments éditoriaux montre que la littérature confirme sa résistance avec un chiffre d'affaires de 694,6 millions d'euros, en hausse de 4,7 %, portée par les romans noirs et le phénomène Freida McFadden (rayon dont le chiffre d'affaires bondit de 37 % entre 2024 et 2025). L'enseignement scolaire affiche la plus belle progression du panel, à +8,2 %, poussé par les réformes de programmes du primaire qui « ne traduit pas une hausse durable du secteur », selon le SNE.
+
+À l'opposé, la bande dessinée poursuit sa correction après l'euphorie post-Covid, avec un recul de 5 % à 419 millions d'euros. Le manga, pilier du segment, perd 10,5 % en valeur, pénalisé par la fin de grandes séries locomotives. Les sciences humaines et sociales cèdent 5,1 %, les arts et beaux livres 5,4 %.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### CA des grands groupes/maisons (2024)
-* Hachette : 2 873 millions d'euros
-* Editis : 773 millions d'euros
-* Madrigall : 630,6 millions d'euros
-* Actes Sud : 69,1 millions d'euros
-* Classiques Garnier : 2,4 millions d'euros
+#### CA des grands groupes/maisons (2025)
+* Hachette : 3 001 millions d'euros	(+4,5 %)
+* Editis : 773 millions d'euros (stable)
+* Madrigall : 684 millions d'euros (+8,5 %)
+* Actes Sud : 58,45 millions d'euros
+* Classiques Garnier : 2,5 millions d'euros
 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
@@ -690,6 +692,19 @@ Dépendance aux financements publics
 ===
 
 macula-economie.png
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## La bataille de l'occasion
+
+![](img/livre_occasion_SNE.png)
+
+===
+
+Le livre d'occasion pèse désormais 21 % des achats en exemplaires de livres imprimés, contre 13 % en 2011 — un bond de huit points en 14 ans qui cristallise les inquiétudes de la profession. Après avoir longtemps coexisté pacifiquement avec le neuf, il est devenu, sous l'effet de l'essor des plateformes en ligne, « un puissant mécanisme de cannibalisation » selon le rapport d'activité du SNE. Le Syndicat, avec le Conseil permanent des écrivains, réclame l'instauration d'un droit de revente, sur le modèle de la gestion collective mise en place pour la photocopie ou le prêt en bibliothèque.
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 

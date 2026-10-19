@@ -8,6 +8,10 @@
 
 J'ai parlé dans le cours précédent de "services" à l'édition, qui sont aujourd'hui des acteurs majeur de l'auto-édition.
 
+
+Netflix : nouveau prescripteur littéraire ?
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 >Depuis longtemps, les débats à propos du Web  2.0 se sont concentrés sur la question de la désintermédiation. Avec l'accès immédiat et spontané des auteurs aux outils de publication sur des plateformes de partage de contenus en ligne, ceux qui font profession d'assurer la publication d'une œuvre, c'est-à-dire de la porter pour l'auteur vers son public, ont pu se croire neutralisés par une mise en relation directe de l'auteur au lecteur. À l'heure du « tous auteurs », « tous journalistes », la capacité des entreprises d'édition à faire accéder l'écrivant au statut d'auteur et le monopole qu'elles détiennent jusqu'alors sur cette capacité semblent s'effondrer.
