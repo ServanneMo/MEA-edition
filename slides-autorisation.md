@@ -378,36 +378,71 @@ La grogne de nombreux auteurs vient sans doute d'une décorrélation grandissant
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Vivre de sa plume ? 
-* Entre professionnalisation et précarisation (Gisèle Sapiro)
-* 33% n'exercent "que" la profession d'écrivain
-* 49% signent en même temps un contrat d'adaptation audiovisuelle
-* Des droits d'auteurs non versés
-* Un problème de communication
-* Source : [9e baromètre des relations auteurs/éditeurs, 2022](https://www.sgdl.org/phocadownload/Barom%C3%A8tre_auteurs-editeurs/9e_Barometre_VDEF_13_03-2023_pageApage.pdf)
+
+* Un statut plus largement féminin (57%) et "senior" (45 % ont entre 51 et 70 ans)
+* 62 % des autrices et auteurs exercent un autre métier
+* 49 % des autrices et auteurs affirment vivre une dégradation de leur situation financière
+* Pour la majorité des répondants (60 %), les revenus liés à leur activité d’auteur représentent moins d’un quart de leurs revenus annuels.
+* 53% signent en même temps un contrat d'adaptation audiovisuelle
+* Source : [10e baromètre des relations auteurs/éditeurs, 2025](https://www.sgdl.org/phocadownload/Barom%C3%A8tre_auteurs-editeurs/9e_Barometre_VDEF_13_03-2023_pageApage.pdf)
 
 <!-- .element: style="width:45%;float:left;margin-left:-1em; font-size:1.4rem; text-align:justify" -->
 
 
-![](img/BarometreSCAM_SGDL.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+![](img/barometre-2025.png)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
 
 
 ===
 
-Étude conjointe SCAM (soc. civile des auteurs multimédia) & SGDL (soc. gens de lettres) lancée en 2022 mais publiée en 2023.
+Peut-on vivre de sa plume ? Globalement, c'est très difficile. 
 
-Cette étude passe pour le "baromètre" de la relation entre éditeurs et auteur. Et le moins que l'on puisse dire c'est qu'il n'est pas très bon cette année.
+Je vous présente qq chiffres parus dans l'Étude conjointe SCAM (soc. civile des auteurs multimédia) & SGDL (soc. gens de lettres) publiée en avril 2025. Il s'agit d'une étude régulière, réalisée tous les 3-4 ans (la dernière datait de 22).
+
+>L’enquête a été réalisée via un questionnaire accessible sur Internet du
+10 au 24 février 2025 auprès de 14 500 autrices et auteurs de l’écrit.
+1 768 personnes ont répondu soit un très bon taux de réponse de 12 %.
+
+Cette étude permet de dresser le profil sociologique et socio-professionnel des auteurs. 
+
+57 % sont des femmes, 42 % des hommes, 1 % ne se prononce pas.
+2 % ont moins de 30 ans. 28 % ont entre 30 et 50 ans.
+45 % ont entre 51 et 70 ans. 25 % ont plus de 70 ans.
+
+62 % des autrices et auteurs exercent un autre métier. Parmi ceux-ci, 57 % précisent que ce n’est pas un choix, mais une nécessité. D’ailleurs, près de la moitié (49 %) affirme souffrir d’une dégradation de leur situation financière. Bien peu vivent des revenus de leurs écrits : pour seulement 20 % d’entre eux, cette activité représente trois-quarts de leurs revenus annuels. Pour la grande majorité (60 %) cela ne correspond qu’à moins d’un quart de leurs revenus.
+
 
 Ils sont ainsi 33 %, selon ce baromètre SCAM/SGDL, à ne pas exercer d’autre métier – et, faute d’être tous rentiers, comme on l’imagine, par simplification, pour les écrivains du XIXe siècle, à devoir ainsi combiner hautes ambitions artistiques et basses considérations matérielles. « On assiste à un double mouvement de professionnalisation du métier d’écrivain et de précarisation » (sapiro)
 
-Autre fait notable, que je relève ici, mais sur lequel je reviendrai plus tard : la signature conjointe du contrat d'édition + contrat d'adaptation audiovisuelle. 49%, cela peut sembler bcp, mais en fait c'est un chiffre en baisse. On reviendra là-dessus.
+Cette étude passe pour le "baromètre" de la relation entre éditeurs et auteur. Et le moins que l'on puisse dire c'est qu'il n'est pas très bon.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/barometreSGDl.png" data-background-size="contain" -->
+
+![](img/barometre-25-a-valoir.png)
 
 ===
 
-À retenir : mécontentement des auteurs, la tonalité de l'étude en témoigne : "c'est la honte !" "relation avec l'éditeur à la peine" "manque de clarté persistant".
+Tous genres confondus, le taux de rémunération médian est de 8 % pour le livre papier et de 7 % pour l’exploitation numérique. La précarisation demeure, 19 % des autrices et auteurs touchent moins de 5 % de
+droits pour le livre papier, autant qu’en 2009. Ces chiffres dissimulent de fortes disparités selon les genres : cela ne concerne « que » 8 % des auteurs de littérature générale, mais 47 % des auteurs d’albums jeunesse.
+Un quart (25%) des autrices et auteurs ne perçoivent toujours aucun à-valoir. On note cependant une amélioration, ils et elles étaient 34% en 2009. Pour 68% des autrices et auteurs, le montant proposé dans leur dernier contrat est inférieur à 3 000 €, sans changement depuis 2009.
 
+L’À-VALOIR (MINIMUM GARANTI)
+En 2025, 26 % des autrices et auteurs ne perçoivent aucun à-valoir. Ce chiffre est en baisse : en 2020, cela
+concernait 34 % d’autrices et auteurs, en 2023, plus que 30 %.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/barometre-2026-relations-editeur.png" data-background-size="contain" -->
+
+===
+
+À retenir : mécontentement des auteurs.
+
+Les autrices et auteurs sont 31 % à estimer que la relation avec leurs éditeurs s’est dégradée au cours des trois dernières années, et 52 % envisagent de faire appel à une commission de médiation pour le règlement
+amiable des litiges entre auteurs et éditeurs. Le taux de satisfaction (6/10 en moyenne) reste toujours plus important en amont de la collaboration (travail de création, contrats), qu’en aval (reddition des comptes, paiement des droits, promotion et diffusion).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/amael.png)<!-- .element: style="width:600px" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DroitsDerives.png" data-background-size="contain" -->
@@ -415,9 +450,53 @@ Autre fait notable, que je relève ici, mais sur lequel je reviendrai plus tard 
 
 ===
 
+Aspiration à davantage de transparence : La question de la compréhension des contrats signés avec les éditeurs reste épineuse : 42 % des auteurs font appel à un avis extérieur pour décrypter ces documents. L’obligation faite aux éditeurs d’envoyer aux auteurs une reddition des comptes au moins une fois par an reste encore une « trop négligée », souligne l’étude, puisque seuls 60 % des auteurs la reçoivent. Près d’un quart d’entre eux se plaint du caractère incompréhensible ou non complet de ces documents. Enfin, tous aspirent à davantage de transparence : 90 % d’entre eux n’ont pas accès à une information en temps réel de ventes de leurs livres, alors que 92 % le souhaitent.
+
+
 Un problème de communication, sans doute, entre écrivains et éditeurs. Avec les résultats affligeants du questionnaire sur les "droits dérivés" : traduction, réédition numérique.
 
 Jusqu'à la mise au pilon : seuls un quart des auteurs sont informés de la mise au pilon de leur livre...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La problématique du statut d'auteur
+
+Être auteur, c'est avoir un statut entre professionnalisation et précarisation.
+[Gisèle Sapiro]
+
+<!-- .element: style="font-size:1.7rem; text-align:right" -->
+
+
+===
+
+Pour Sapiro, l’écrivain n’est pas un professionnel au sens strict (médecin, avocat), faute de monopole d’exercice, de diplôme ou d’ordre régulant l’accès. C’est une « profession » au sens faible. Elle a connu une professionnalisation historique réelle, mais celle-ci n’a jamais garanti à la majorité des auteurs un revenu ni une protection stables. D’où la tension du titre : un statut reconnu, avec des droits, sans les sécurités d’une profession établie.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+**Professionnalisation** : statut juridique, puis économique (droit d'auteur, propriété intellectuelle), régime social (AGESSA, puis Urssaf), statut symbolique ("figure" de l'écrivain). 
+
+<!-- .element: style="width:45%;float:left;margin-right:-1em; font-size:1.5.1rem; text-align:right" -->
+
+**Précarisation** : répartition inégale des revenus (avec, en plus une inégalité de genre), développement de la pluriactivité, statut hybride : ni salarié ni vraiment indépendant. 
+
+<!-- .element: style="width:45%;float:right;margin-right:-1em; font-size:1.5.1rem; text-align:right" -->
+
+===
+
+* versant « professionnalisation »
+- Dimension juridique et économique : la construction du droit d’auteur, de la propriété littéraire au XIXᵉ siècle, a fait de la création une activité rémunérable. Les sociétés d’auteurs (Société des gens de lettres, fondée en 1838) ont joué un grnad rôle dans cette construction collective.
+* Dimension sociale : l’écrivain est affilié à un régime de sécurité sociale spécifique (Agessa/Maison des artistes, puis le rattachement à l’Urssaf depuis la réforme de 2019 après la catastrophe de l'AGESSA).
+* Dimension symbolique : la figure de l’écrivain, la vocation, la consécration par le champ (prix, critique, institutions) fonctionnent comme des principes de légitimité, dans le cadre bourdieusien du champ littéraire.
+
+* Le versant « précarisation »
+Mais on voit bien avec le baromètre et le cours de la semaine dernière que les revenus sont en vérité très inégalement répartis. Quelques auteurs captent l’essentiel des revenus, dans un contexte de péréquation et best-sellerisation, tandis que la majorité des écrivaines et écrivains tire un revenu d’appoint de l’écriture. 
+
+Les enquêtes menées avec Cécile Rabot (notamment « Profession ? Écrivain », 2017) documentent cette réalité.
+
+* ON notre également un phénomène de Pluriactivité : la plupart des écrivains exercent un autre métier (enseignement, journalisme, traduction, ateliers, résidences). L’écriture est une activité parmi d’autres. On rapproche souvent ce constat de La Condition littéraire de Bernard Lahire (2006), sur la « double vie » des écrivains.
+* Statut hybride : ni salarié ni vraiment indépendant. Le contrat d’édition place l’auteur dans une relation de dépendance à l’égard de l’éditeur (avances, taux de droits faibles, reddition des comptes opaque), sans les protections du salariat.
+Contexte contemporain : concentration éditoriale, surproduction, érosion des à-valoir et des droits, ce qui rejoint la question de la bibliodiversité que tu traites par ailleurs.
+Inégalités de genre : l’écart entre auteures et auteurs, visible dans les revenus comme dans la consécration, fait partie des résultats récurrents.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -511,6 +590,7 @@ Marie-Pierre Vaslet évoque ainsi un "glissement du régime « vocationnel » de
 
 
 ===
+
 
 Dans ce contexte, on peut comprendre que les sirènes de l'auto-édition, et en particulier de l'auto-édition numérique, soient suivies par de plus en plus d'auteurs.
 
