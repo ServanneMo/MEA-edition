@@ -340,18 +340,6 @@ Editions L
 
 Cette combinaison de facteurs -- précarisation des écrivains + tensions avec les grands éditeurs + mise à disposition d'outils d'auto-édition/publication de plus en plus "faciles" à prendre en main -- questionne la place de l'éditeur au sein de l'écosystème éditorial. 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-
->"Alors que l'on définit la publication comme un processus de mise en forme d’un contenu préalablement sélectionné (collecté, agrégé, synthétisé…), en vue de sa diffusion collective, pour l’autopublication, il faut ajouter : “sans intermédiaire”. C'est effectivement cette notion de désintermédiation qui est en jeu. Le producteur de documents est aussi le diffuseur. Une autre notion essentielle concerne la sélection/validation. Elle permet de réaliser la distinction entre publication et édition. L'autopublication dans ce cadre associe la production à la diffusion directe reléguant la sélection à l'édition, à un tiers. <font color = red>La désintermédiation s'accompagne parfois d'une réintermédiation souvent fondée sur un service non-marchand.</font>"
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
->Gallezot Gabriel et Ertzscheid Olivier, « Swaper la publication »
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
 
 Le concept sur lequel je voudrais à présent proposer quelques définitions = désintermédiation, dont on a eu l'occasion de parler à plusieurs reprises, sans pour autant creuser la définition et les implications.
 
@@ -466,9 +454,6 @@ Dans le secteur de l'industrie documentaire, par exemple (je pense ici aux bibli
 
 Je voudrais donc d'abord vous montrer quelques minutes d'un film documentaire d'Alain Resnais, "Toute la mémoire du monde", qui présente le système de catalogage à la BNF avant l'arrivée de l'informatique.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/Resnais_extrait.mp4" data-background-size="contain" -->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -492,25 +477,18 @@ Gain d'autonomie énorme pour le lecteur, qui devient maître de ses recherches.
 
 Mais est-ce que cela signifie pour autant la disparition des documentalistes ? Non ! Mais une redéfinition profonde de leur métier.
 
-À suivre : reportage france 2 puis présentation du catalogue général
+À suivre : reportage france 2 sur la robotisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/1765195014.mp4" data-background-size="contain" -->
 
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/ccfr_presentation.mp4" data-background-size="contain" -->
-
-===
-
-
-https://www.bnf.fr/fr/mediatheque/le-catalogue-collectif-de-france-quest-ce-que-cest
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mallarme_vollard2.png" data-background-size="contain" -->
 
 ===
+
+Aujourd'hui, accès à de plus en plus de ressources en ligne. 
 
 Liée à cette crainte de la désintermédiation causée par les machines, on voit apparaître la crainte de la dématérialisation : est-ce qu'on ne perd pas une partie de l'expérience de prendre dans ses mains un livre ancien lorsqu'on en consulte une image en ligne ?
 
@@ -518,6 +496,14 @@ La dématérialisation est un faux problème : on parlera plutôt de délocalisa
 
 Ce paradigme du déplacement, de l'évolution des objets et des métiers est essentiel.
 
+À suivre : Exemple Jaenada
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/jaenada-gallica.mp4" data-background-size="contain" -->
+
+===
+
+Exemple de Jaenada
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
